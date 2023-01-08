@@ -1,0 +1,292 @@
+[
+  {
+    "category": "Men's Pound-for-Pound Top Rank",
+    "champion": "Alexander Volkanovski",
+    "fighters": [
+      "Alexander Volkanovski",
+      "Islam Makhachev",
+      "Leon Edwards",
+      "Kamaru Usman",
+      "Francis Ngannou",
+      "Israel Adesanya",
+      "Charles Oliveira",
+      "Alex Pereira",
+      "Aljamain Sterling",
+      "Jiří Procházka",
+      "Dustin Poirier",
+      "Deiveson Figueiredo",
+      "Jon Jones",
+      "Max Holloway",
+      "Brandon Moreno"
+    ]
+  },
+  {
+    "category": "Flyweight",
+    "champion": "Deiveson Figueiredo",
+    "fighters": [
+      "Deiveson Figueiredo",
+      "Brandon Moreno",
+      "Alexandre Pantoja",
+      "Kai Kara-France",
+      "Brandon Royval",
+      "Matheus Nicolau",
+      "Alex Perez",
+      "Amir Albazi",
+      "Matt Schnell",
+      "Manel Kape",
+      "David Dvorak",
+      "Tim Elliott",
+      "Sumudaerji",
+      "Jeffrey Molina",
+      "Muhammad Mokaev",
+      "Tagir Ulanbekov"
+    ]
+  },
+  {
+    "category": "Bantamweight",
+    "champion": "Aljamain Sterling",
+    "fighters": [
+      "Aljamain Sterling",
+      "Sean O'Malley",
+      "Petr Yan",
+      "Merab Dvalishvili",
+      "Marlon Vera",
+      "Cory Sandhagen",
+      "Rob Font",
+      "Dominick Cruz",
+      "Yadong Song",
+      "Pedro Munhoz",
+      "Ricky Simon",
+      "Umar Nurmagomedov",
+      "Chris Gutierrez",
+      "Adrian Yanez",
+      "Jack Shore",
+      "Said Nurmagomedov"
+    ]
+  },
+  {
+    "category": "Featherweight",
+    "champion": "Alexander Volkanovski",
+    "fighters": [
+      "Alexander Volkanovski",
+      "Max Holloway",
+      "Yair Rodriguez",
+      "Brian Ortega",
+      "Arnold Allen",
+      "Josh Emmett",
+      "Chan Sung Jung",
+      "Calvin Kattar",
+      "Giga Chikadze",
+      "Ilia Topuria",
+      "Movsar Evloev",
+      "Bryce Mitchell",
+      "Sodiq Yusuff",
+      "Dan Ige",
+      "Edson Barboza",
+      "Alex Caceres"
+    ]
+  },
+  {
+    "category": "Lightweight",
+    "champion": "Islam Makhachev",
+    "fighters": [
+      "Islam Makhachev",
+      "Charles Oliveira",
+      "Dustin Poirier",
+      "Justin Gaethje",
+      "Beneil Dariush",
+      "Michael Chandler",
+      "Rafael Fiziev",
+      "Mateusz Gamrot",
+      "Rafael Dos Anjos",
+      "Arman Tsarukyan",
+      "Jalin Turner",
+      "Dan Hooker",
+      "Damir Ismagulov",
+      "Renato Moicano",
+      "Drew Dober",
+      "Grant Dawson"
+    ]
+  },
+  {
+    "category": "Welterweight",
+    "champion": "Leon Edwards",
+    "fighters": [
+      "Leon Edwards",
+      "Kamaru Usman",
+      "Colby Covington",
+      "Khamzat Chimaev",
+      "Belal Muhammad",
+      "Gilbert Burns",
+      "Stephen Thompson",
+      "Geoff Neal",
+      "Sean Brady",
+      "Vicente Luque",
+      "Shavkat Rakhmonov",
+      "Jorge Masvidal",
+      "Neil Magny",
+      "Michael Chiesa",
+      "Michel Pereira",
+      "Li Jingliang"
+    ]
+  },
+  {
+    "category": "Middleweight",
+    "champion": "Alex Pereira",
+    "fighters": [
+      "Alex Pereira",
+      "Israel Adesanya",
+      "Robert Whittaker",
+      "Jared Cannonier",
+      "Marvin Vettori",
+      "Derek Brunson",
+      "Paulo Costa",
+      "Sean Strickland",
+      "Roman Dolidze",
+      "Jack Hermansson",
+      "Dricus Du Plessis",
+      "Andre Muniz",
+      "Nassourdine Imavov",
+      "Kelvin Gastelum",
+      "Chris Curtis",
+      "Darren Till"
+    ]
+  },
+  {
+    "category": "Light Heavyweight",
+    "champion": "",
+    "fighters": [
+      "Jiří Procházka",
+      "Glover Teixeira",
+      "Magomed Ankalaev",
+      "Jan Błachowicz",
+      "Aleksandar Rakić",
+      "Anthony Smith",
+      "Jamahal Hill",
+      "Nikita Krylov",
+      "Paul Craig",
+      "Volkan Oezdemir",
+      "Ryan Spann",
+      "Johnny Walker",
+      "Dominick Reyes",
+      "Jimmy Crute",
+      "Khalil Rountree Jr."
+    ]
+  },
+  {
+    "category": "Heavyweight",
+    "champion": "Francis Ngannou",
+    "fighters": [
+      "Francis Ngannou",
+      "Ciryl Gane",
+      "Stipe Miocic",
+      "Sergei Pavlovich",
+      "Curtis Blaydes",
+      "Tai Tuivasa",
+      "Tom Aspinall",
+      "Derrick Lewis",
+      "Alexander Volkov",
+      "Jairzinho Rozenstruik",
+      "Marcin Tybura",
+      "Chris Daukaus",
+      "Serghei Spivac",
+      "Alexandr Romanov",
+      "Shamil Abdurakhimov",
+      "Blagoy Ivanov"
+    ]
+  },
+  {
+    "category": "Women's Pound-for-Pound Top Rank",
+    "champion": "Amanda Nunes",
+    "fighters": [
+      "Amanda Nunes",
+      "Valentina Shevchenko",
+      "Zhang Weili",
+      "Julianna Peña",
+      "Rose Namajunas",
+      "Carla Esparza",
+      "Jessica Andrade",
+      "Marina Rodriguez",
+      "Amanda Lemos",
+      "Holly Holm",
+      "Ketlen Vieira",
+      "Taila Santos",
+      "Manon Fiorot",
+      "Katlyn Chookagian",
+      "Xiaonan Yan"
+    ]
+  },
+  {
+    "category": "Women's Strawweight",
+    "champion": "Zhang Weili",
+    "fighters": [
+      "Zhang Weili",
+      "Carla Esparza",
+      "Rose Namajunas",
+      "Amanda Lemos",
+      "Jessica Andrade",
+      "Marina Rodriguez",
+      "Xiaonan Yan",
+      "Mackenzie Dern",
+      "Tecia Torres",
+      "Amanda Ribas",
+      "Virna Jandiroba",
+      "Michelle Waterson-Gomez",
+      "Angela Hill",
+      "Luana Pinheiro",
+      "Emily Ducote",
+      "Polyana Viana"
+    ]
+  },
+  {
+    "category": "Women's Flyweight",
+    "champion": "Valentina Shevchenko",
+    "fighters": [
+      "Valentina Shevchenko",
+      "Manon Fiorot",
+      "Taila Santos",
+      "Katlyn Chookagian",
+      "Lauren Murphy",
+      "Alexa Grasso",
+      "Jessica Andrade",
+      "Viviane Araújo",
+      "Jennifer Maia",
+      "Andrea Lee",
+      "Erin Blanchfield",
+      "Casey O'Neill",
+      "Maycee Barber",
+      "Tracy Cortez",
+      "Cynthia Calvillo",
+      "Amanda Ribas"
+    ]
+  },
+  {
+    "category": "Women's Bantamweight",
+    "champion": "Amanda Nunes",
+    "fighters": [
+      "Amanda Nunes",
+      "Julianna Peña",
+      "Ketlen Vieira",
+      "Holly Holm",
+      "Irene Aldana",
+      "Raquel Pennington",
+      "Yana Kunitskaya",
+      "Pannie Kianzad",
+      "Macy Chiasson",
+      "Karol Rosa",
+      "Miesha Tate",
+      "Julia Avila",
+      "Lina Lansberg",
+      "Norma Dumont",
+      "Mayra Bueno Silva",
+      "Josiane Nunes"
+    ]
+  },
+  {
+    "category": "Women's Featherweight",
+    "champion": "Amanda Nunes",
+    "fighters": [
+      "Amanda Nunes"
+    ]
+  }
+]
