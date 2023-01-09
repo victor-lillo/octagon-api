@@ -1,24 +1,18 @@
-import { parse } from 'node-html-parser'
+import saveImage from './lib/saveImage.js'
+import scrape from './lib/scrape.js'
 
-const BASE_FIGHTER_URL = 'https://www.ufc.com/athlete/'
+const BASE_FIGHTER_URL = 'https://www.ufc.com/athlete'
 const FIGHTER = 'islam-makhachev'
+const FIGHTERS_IMAGE_FOLDER = 'fighters'
 
-const SELECTORS = {}
+const SELECTORS = {
+  image: '.hero-profile__image',
+}
 
 async function getFighterImage() {
-  const res = await fetch(`${BASE_FIGHTER_URL}/${FIGHTER}`)
-  const html = await res.text()
-  const $ = parse(html)
-
-  /* TODO
-  - Sacar imagen del peleador
-  - Usar sharp para optimizar la imagen (formato recomendado: webp)
-  - Guardar la imagen en la carpeta /public/img (TIP: usar FIGHTER como nombre de imagen)
-  */
+  const $ = await scrape(`${BASE_FIGHTER_URL}/${FIGHTER}`)
+  const imgSrc = $.querySelector(SELECTORS.image).getAttribute('src')
+  await saveImage({ url: imgSrc, folder: FIGHTERS_IMAGE_FOLDER, fileName: FIGHTER })
 }
 
-const run = async () => {
-  await getFighterImage()
-}
-
-run()
+await getFighterImage()
