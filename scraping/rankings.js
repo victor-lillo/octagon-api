@@ -12,7 +12,7 @@ const SELECTORS = {
   rankeds: '.views-row',
 }
 
-const cleanString = text => {
+const cleanString = (text) => {
   return text.replace(/\t|\n|\s:/g, '').trim()
 }
 
@@ -26,7 +26,7 @@ async function getRankings() {
   const data = []
 
   // Recorremos el nodeElement tables (que son todos los que coinciden con nuestra búsqueda)
-  $tables.forEach($el => {
+  $tables.forEach(($el) => {
     const obj = {}
 
     const category = $el.querySelector(SELECTORS.category).textContent
@@ -35,7 +35,7 @@ async function getRankings() {
       : ''
 
     const rankedsNodeElements = $el.querySelectorAll(SELECTORS.rankeds)
-    const rankeds = rankedsNodeElements.map(element => cleanString(element.textContent))
+    const rankeds = rankedsNodeElements.map((element) => cleanString(element.textContent))
 
     obj.category = category
     obj.champion = champion
@@ -47,8 +47,4 @@ async function getRankings() {
   await writeDBFile('rankings', data)
 }
 
-const run = async () => {
-  await getRankings()
-}
-
-run()
+await getRankings()
