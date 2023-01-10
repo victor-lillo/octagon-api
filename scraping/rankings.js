@@ -1,50 +1,39 @@
-import { parse } from 'node-html-parser'
+import cleanString from './lib/cleanString.js'
 import { writeDBFile } from './lib/db.js'
+import { logInfo } from './lib/log.js'
+import scrape from './lib/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 
 const RANKINGS_URL = 'https://www.ufc.com/rankings'
+const RANKINGS_DB_NAME = 'rankings'
 
 const SELECTORS = {
   table: '.views-table',
   category: '.rankings--athlete--champion h4',
   champion: '.rankings--athlete--champion .views-row a',
-  rankeds: '.views-row',
-}
-
-const cleanString = (text) => {
-  return text.replace(/\t|\n|\s:/g, '').trim()
+  fighterRows: '.views-row',
 }
 
 async function getRankings() {
-  const res = await fetch(RANKINGS_URL)
-  const html = await res.text()
-  const $ = parse(html)
-
+  const $ = await scrape(RANKINGS_URL)
   const $tables = $.querySelectorAll(SELECTORS.table)
 
-  const data = []
-
   // Recorremos el nodeElement tables (que son todos los que coinciden con nuestra búsqueda)
-  $tables.forEach(($el) => {
-    const obj = {}
-
+  const data = $tables.map(($el) => {
     const category = $el.querySelector(SELECTORS.category).textContent
     const champion = $el.querySelector(SELECTORS.champion)
       ? $el.querySelector(SELECTORS.champion).textContent
       : ''
 
-    const rankedsNodeElements = $el.querySelectorAll(SELECTORS.rankeds)
-    const rankeds = rankedsNodeElements.map((element) => cleanString(element.textContent))
+    const rankedsNodeElements = $el.querySelectorAll(SELECTORS.fighterRows)
+    const fighters = rankedsNodeElements.map((element) => cleanString(element.textContent))
 
-    obj.category = category
-    obj.champion = champion
-    obj.fighters = rankeds
-
-    data.push(obj)
+    return { category, champion, fighters }
   })
 
-  await writeDBFile('rankings', data)
+  await writeDBFile(RANKINGS_DB_NAME, data)
+  logInfo(`Rankings guardados en ${RANKINGS_DB_NAME}.json`)
 }
 
 await getRankings()
