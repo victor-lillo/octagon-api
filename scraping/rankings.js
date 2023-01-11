@@ -5,6 +5,7 @@ import scrape from './lib/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 
+const BASE_URL = 'https://www.ufc.com'
 const RANKINGS_URL = 'https://www.ufc.com/rankings'
 const RANKINGS_DB_NAME = 'rankings'
 
@@ -27,7 +28,13 @@ async function getRankings() {
       : ''
 
     const rankedsNodeElements = $el.querySelectorAll(SELECTORS.fighterRows)
-    const fighters = rankedsNodeElements.map((element) => cleanString(element.textContent))
+    const fighters = rankedsNodeElements.map(($element) => {
+      const relativeFighterUrl = $element.querySelector('a').getAttribute('href')
+      const id = relativeFighterUrl.split('/').at(-1)
+      const url = BASE_URL + relativeFighterUrl
+      const name = cleanString($element.textContent)
+      return { id, name, url }
+    })
 
     return { category, champion, fighters }
   })
