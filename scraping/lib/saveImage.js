@@ -1,16 +1,15 @@
 import path from 'node:path'
 import sharp from 'sharp'
+import { logSuccess } from './log.js'
 
-const IMAGE_FOLDER = 'public'
-
-const saveImage = async ({ url, folder, fileName }) => {
+const saveImage = async ({ baseFolder, fileName, folder, url }) => {
   const responseImage = await fetch(url)
   const arrayBuffer = await responseImage.arrayBuffer()
   const buffer = Buffer.from(arrayBuffer)
   const imageFileName = `${fileName}.webp`
-  const imageFilePath = path.join(IMAGE_FOLDER, folder, imageFileName)
+  const imageFilePath = path.join(baseFolder, folder, imageFileName)
   await sharp(buffer).webp().toFile(imageFilePath)
-  console.log('Imagen guardada correctamente')
+  logSuccess('Image succesfully saved')
   return imageFileName
 }
 

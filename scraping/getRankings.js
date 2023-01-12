@@ -1,6 +1,6 @@
-import cleanString from './lib/cleanString.js'
+import { logSuccess } from './lib/log.js'
 import { writeDBFile } from './lib/db.js'
-import { logInfo } from './lib/log.js'
+import cleanString from './lib/cleanString.js'
 import scrape from './lib/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
@@ -40,7 +40,7 @@ async function getRankings() {
   })
 
   await writeDBFile(RANKINGS_DB_NAME, data)
-  logInfo(`Rankings guardados en ${RANKINGS_DB_NAME}.json`)
+  logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json`)
 }
 
 await getRankings()

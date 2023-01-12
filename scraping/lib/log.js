@@ -1,6 +1,6 @@
 import pc from 'picocolors'
 
-const symbol = {
+const SYMBOL = {
   info: pc.blue('ℹ'),
   success: pc.green('✔'),
   warning: pc.yellow('⚠'),
@@ -8,17 +8,17 @@ const symbol = {
 }
 
 export const logInfo = (...args) => {
-  console.log(`${symbol.info} ${pc.blue(...args)}`)
+  console.log(`${SYMBOL.info} ${pc.blue(...args)}`)
 }
 
 export const logError = (...args) => {
-  console.log(`${symbol.error} ${pc.red(...args)}`)
+  console.log(`${SYMBOL.error} ${pc.red(...args)}`)
 }
 
 export const logSuccess = (...args) => {
-  console.log(`${symbol.success} ${pc.green(...args)}`)
+  console.log(`${SYMBOL.success} ${pc.green(...args)}`)
 }
 
 export const logWarning = (...args) => {
-  console.log(`${symbol.warning} ${pc.yellow(...args)}`)
+  console.log(`${SYMBOL.warning} ${pc.yellow(...args)}`)
 }
