@@ -12,6 +12,7 @@
   },
   "dependencies": {
     "astro": "^1.9.0",
+    "axios": "^1.2.2",
     "node-html-parser": "^6.1.4",
     "picocolors": "^1.0.0",
     "sharp": "^0.31.3"
