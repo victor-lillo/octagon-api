@@ -1,0 +1,1394 @@
+{
+  "alexander-volkanovski": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/0984640e-8ef9-4283-afc3-d64ac0a0240a%252FVOLKANOVSKI_ALEXANDER_L_BELT_04-09.png?itok=2jQs8w9O",
+    "wins": "25",
+    "losses": "1",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "33"
+  },
+  "islam-makhachev": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-10/MAKHACHEV_ISLAM_L_BELTMOCK.png?itok=SzxPwIGS",
+    "wins": "23",
+    "losses": "1",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "31"
+  },
+  "leon-edwards": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/EDWARDS_LEON_L_BELTMOCK.png?itok=WzY_0axM",
+    "wins": "20",
+    "losses": "3",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "31"
+  },
+  "kamaru-usman": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/image/ufc-fighter-container/68441/profile-galery/fullbodyleft-picture/USMAN_KAMARU_L.png?itok=fS6S_og_",
+    "wins": "20",
+    "losses": "2",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "35"
+  },
+  "francis-ngannou": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-01/3d75a594-27a1-4c19-875a-8d7d4dc17b42%252FNGANNOU_FRANCIS_L_BELT_01-22.png?itok=EcfIjUew",
+    "wins": "17",
+    "losses": "3",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "35"
+  },
+  "israel-adesanya": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/ADESANYA_ISRAEL_L_11_15.png?itok=xLBhFZCL",
+    "wins": "23",
+    "losses": "2",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "33"
+  },
+  "charles-oliveira": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-10/OLIVEIRA_CHARLES_L_10-22.png?itok=8VRbBx4i",
+    "wins": "33",
+    "losses": "9",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "33"
+  },
+  "alex-pereira": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/PEREIRA_ALEX_L_BELTMOCK.png?itok=MKN5FGuV",
+    "wins": "7",
+    "losses": "1",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "35"
+  },
+  "aljamain-sterling": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-10/STERLING_ALJAMAIN_L_BELT_10-22.png?itok=xP5RlV4C",
+    "wins": "22",
+    "losses": "3",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "33"
+  },
+  "jiri-prochazka": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/68263%252Fprofile-galery%252Ffullbodyleft-picture%252FPROCHAZKA_JIRI_L_05-01.png?VersionId=null&itok=q9khMCuN",
+    "wins": "29",
+    "losses": "3",
+    "draws": "1",
+    "category": "Light Heavyweight Division",
+    "age": "30"
+  },
+  "dustin-poirier": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/POIRIER_DUSTIN_L_11-12.png?itok=hVjkh-VD",
+    "wins": "29",
+    "losses": "7",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "33"
+  },
+  "deiveson-figueiredo": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/d5066cd6-12ca-4c1b-8d78-c721a67a585d%252FFIGUEIREDO_DEIVESON_L_06-12.png?itok=KWfi3hzT",
+    "wins": "21",
+    "losses": "2",
+    "draws": "1",
+    "category": "Flyweight Division",
+    "age": "34"
+  },
+  "jon-jones": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-09/JONES_JON_L_12-29.png?VersionId=_V_SgUOaxjt7ja7ddhcJB4m9ALbyeMJz&itok=kMklO45v",
+    "wins": "26",
+    "losses": "1",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "35"
+  },
+  "max-holloway": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/49b91c96-87a8-43ce-af9b-f9cac2c394d0%252FHOLLOWAY_MAX_L_07-02.png?itok=Kzzm6QwA",
+    "wins": "23",
+    "losses": "7",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "30"
+  },
+  "brandon-moreno": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-01/MORENO_BRANDON_L_BELT_01-22.png?itok=njar4_OX",
+    "wins": "20",
+    "losses": "6",
+    "draws": "2",
+    "category": "Flyweight Division",
+    "age": "28"
+  },
+  "alexandre-pantoja": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67251%252Fprofile-galery%252Ffullbodyleft-picture%252FPANTOJA_ALEXANDRE_L_08-21.png?itok=n7c5S4fF",
+    "wins": "25",
+    "losses": "5",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "32"
+  },
+  "kai-kara-france": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/b50842b9-4daf-4430-b5b9-873506c2501c%252FKARA-FRANCE_KAI_L_12-11.png?itok=OCqPaYms",
+    "wins": "24",
+    "losses": "10",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "29"
+  },
+  "brandon-royval": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/71607%252Fprofile-galery%252Ffullbodyleft-picture%252FROYVAL_BRANDON_L_08-21.png?itok=HnwiqTrZ",
+    "wins": "14",
+    "losses": "6",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "30"
+  },
+  "matheus-nicolau": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/NICOLAU_MATHEUS_L_12-03.png?itok=CHHsAOgb",
+    "wins": "19",
+    "losses": "3",
+    "draws": "1",
+    "category": "Flyweight Division",
+    "age": "29"
+  },
+  "alex-perez": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-12/ddba18e7-dbe8-4d2b-85d0-72f18c6efc3b%252FPEREZ_ALEX_L_12-11.png?itok=ZLpqrynU",
+    "wins": "24",
+    "losses": "7",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "30"
+  },
+  "amir-albazi": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/ALBAZI_AMIR_L_08-20.png?itok=23N3t8Iv",
+    "wins": "16",
+    "losses": "1",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "29"
+  },
+  "matt-schnell": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/55dbfdbf-c5c1-479e-b681-44dbcae3e494%252FSCHNELL_MATT_L_02-12.png?itok=qrZx7i5_",
+    "wins": "16",
+    "losses": "7",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "32"
+  },
+  "manel-kape": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/3db4f260-1bc8-4496-b77f-51e6a5c30329%252FKAPE_MANEL_L_06-11.png?itok=_8ezdy0K",
+    "wins": "18",
+    "losses": "6",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "28"
+  },
+  "david-dvorak": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/DVORAK_DAVID_L_12-17.png?itok=OMew-EzH",
+    "wins": "20",
+    "losses": "5",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "30"
+  },
+  "tim-elliott": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/69388%252Fprofile-galery%252Ffullbodyleft-picture%252FELLIOTT_TIM_L_10-09.png?itok=dUPOS4eZ",
+    "wins": "19",
+    "losses": "12",
+    "draws": "1",
+    "category": "Flyweight Division",
+    "age": "35"
+  },
+  "su-mudaerji": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/SUMUDAERJI_L_04-23.png?itok=cE7gc2J5",
+    "wins": "16",
+    "losses": "5",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "26"
+  },
+  "jeffrey-molina": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/71609%252Fprofile-galery%252Ffullbodyleft-picture%252FMOLINA_JEFF_L_04-24.png?itok=b8rGAbaH",
+    "wins": "11",
+    "losses": "2",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "25"
+  },
+  "muhammad-mokaev": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/911ce7a0-a97f-497c-9a2d-b3bbfa3e50d8%252FMOKAEV_MUHAMMAD_L_03-19.png?itok=4J_mStsT",
+    "wins": "9",
+    "losses": "0",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "21"
+  },
+  "tagir-ulanbekov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/ULANBEKOV_TAGIR_L_11-05.png?itok=5ApkEUyI",
+    "wins": "15",
+    "losses": "2",
+    "draws": "0",
+    "category": "Flyweight Division",
+    "age": "31"
+  },
+  "sean-omalley": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/093cd532-5efa-4ac5-afdc-54e1004291b1%252FO%2527MALLEY_SEAN_L_07-02.png?itok=0P0t6KR-",
+    "wins": "16",
+    "losses": "1",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "27"
+  },
+  "petr-yan": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-10/YAN_PETR_L_10-22.png?itok=CJITv22A",
+    "wins": "16",
+    "losses": "4",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "29"
+  },
+  "merab-dvalishvili": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/DVALISHVILI_MERAB_L_08-20.png?itok=whlXJp48",
+    "wins": "15",
+    "losses": "4",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "31"
+  },
+  "marlon-vera": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/e4995e09-5df4-428a-8d77-62468730d5f3%252FVERA_MARLON_L_04-30.png?itok=lYJNAhL4",
+    "wins": "20",
+    "losses": "7",
+    "draws": "1",
+    "category": "Bantamweight Division",
+    "age": "29"
+  },
+  "cory-sandhagen": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/SANDHAGEN_CORY_L_09-17.png?itok=-v03MCCN",
+    "wins": "15",
+    "losses": "4",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "30"
+  },
+  "rob-font": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/96838c46-0a5d-403d-b53d-46178b380f21%252FFONT_ROB_L_04-30.png?itok=hx0krZJK",
+    "wins": "19",
+    "losses": "6",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "34"
+  },
+  "dominick-cruz": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/7a064993-dfca-4c8e-aca4-8268fc6e711b%252FCRUZ_DOMINICK_L_12-11.png?itok=hesZixtu",
+    "wins": "24",
+    "losses": "4",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "37"
+  },
+  "yadong-song": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/69674%252Fprofile-galery%252Ffullbodyleft-picture%252FSONG_YADONG_L_08-07.png?itok=ZFXeOlib",
+    "wins": "19",
+    "losses": "7",
+    "draws": "1",
+    "category": "Bantamweight Division",
+    "age": "24"
+  },
+  "pedro-munhoz": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/e4a08b07-c67d-41ae-9540-bfb0a1180c05%252FMUNHOZ_PEDRO_L_07-02.png?itok=tnxwO4PK",
+    "wins": "19",
+    "losses": "7",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "35"
+  },
+  "ricky-simon": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/SIMON_RICKY_L_07-16.png?itok=OKBjjIvC",
+    "wins": "20",
+    "losses": "3",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "29"
+  },
+  "umar-nurmagomedov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/d57195df-5f24-4d29-a65d-84d4f4bf3d37%252FNURMAGOMEDOV_UMAR_L_03-05.png?itok=erMJibXF",
+    "wins": "15",
+    "losses": "0",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "27"
+  },
+  "chris-gutierrez": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/71441%252Fprofile-galery%252Ffullbodyleft-picture%252FGUTIERREZ_CHRIS_L_10-09.png?itok=wvqaqbLC",
+    "wins": "18",
+    "losses": "3",
+    "draws": "2",
+    "category": "Bantamweight Division",
+    "age": "31"
+  },
+  "adrian-yanez": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/71640%252Fprofile-galery%252Ffullbodyleft-picture%252FYANEZ_ADRIAN_L_07-24.png?itok=9paOsDRy",
+    "wins": "16",
+    "losses": "3",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "28"
+  },
+  "jack-shore": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/2b830d04-ea6c-42e5-94c9-6dfa4a5dcbeb%252FSHORE_JACK_L_03-19.png?itok=iDmLG6-j",
+    "wins": "16",
+    "losses": "1",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "27"
+  },
+  "said-nurmagomedov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/52ad3de3-1a39-4d05-8831-f70765ce8baf%252FNURMAGOMEDOV_SAID_L_07-09.png?itok=kOcd9tKN",
+    "wins": "17",
+    "losses": "2",
+    "draws": "0",
+    "category": "Bantamweight Division",
+    "age": "30"
+  },
+  "yair-rodriguez": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/RODRIGUEZ_YAIR_L_07-16.png?itok=AfuhNqA7",
+    "wins": "15",
+    "losses": "3",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "29"
+  },
+  "brian-ortega": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/ORTEGA_BRIAN_L_07-16.png?itok=80gsz5W1",
+    "wins": "15",
+    "losses": "3",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "31"
+  },
+  "arnold-allen": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/ALLEN_ARNOLD_L_10-29.png?itok=ikJBEURv",
+    "wins": "19",
+    "losses": "1",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "28"
+  },
+  "josh-emmett": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/32ce974a-9405-44e8-b735-3218d586ba82%252FEMMETT_JOSH_L_06-18.png?itok=WPd2kcEe",
+    "wins": "18",
+    "losses": "2",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "37"
+  },
+  "chan-sung-jung": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/a23c5ddc-0bb5-492d-a81d-6c25f207859c%252FJUNG_CHAN_SUNG_L_04-09.png?itok=LS4-IDmG",
+    "wins": "17",
+    "losses": "7",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "35"
+  },
+  "calvin-kattar": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/ac42f8ef-be39-4cec-9e97-79e5d3ecd610%252FKATTAR_CALVIN_L_06-18.png?itok=okBwWJXf",
+    "wins": "23",
+    "losses": "7",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "34"
+  },
+  "giga-chikadze": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-04/69723%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIKADZE_GIGA_L_05-01.png?VersionId=null&itok=MaDZ0T0W",
+    "wins": "14",
+    "losses": "3",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "33"
+  },
+  "ilia-topuria": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TOPURIA_ILIA_L_07-10.png?itok=cxAHen_5",
+    "wins": "13",
+    "losses": "0",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "25"
+  },
+  "movsar-evloev": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/8caa3842-6eaf-45ba-a9e6-62e5912bc305%252FEVLOEV_MOVSAR_L_06-04.png?itok=OpzBG_w1",
+    "wins": "16",
+    "losses": "0",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "28"
+  },
+  "bryce-mitchell": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/MITCHELL_BRYCE_L_12-10.png?itok=HeZo2PVE",
+    "wins": "15",
+    "losses": "2",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "28"
+  },
+  "sodiq-yusuff": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/YUSUFF_SODIQ_L_10-01.png?itok=WeaF0eXi",
+    "wins": "13",
+    "losses": "2",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "29"
+  },
+  "dan-ige": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/0559c91a-ae57-4404-9233-b3e32e704770%252FIGE_DAN_L_06-04.png?itok=yGsbT9JU",
+    "wins": "15",
+    "losses": "6",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "31"
+  },
+  "edson-barboza": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/BARBOZA_EDSON_L_05-15.png?VersionId=null&itok=QXXSVXOn",
+    "wins": "22",
+    "losses": "11",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "36"
+  },
+  "alex-caceres": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/CACERES_ALEX_L_12-17.png?itok=-r3PyxFX",
+    "wins": "20",
+    "losses": "13",
+    "draws": "0",
+    "category": "Featherweight Division",
+    "age": "34"
+  },
+  "justin-gaethje": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/GAETHJE_JUSTIN_L_05-07.png?itok=QJG2-nUx",
+    "wins": "23",
+    "losses": "4",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "33"
+  },
+  "beneil-dariush": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/DARIUSH_BENEIL_L_05-15.png?VersionId=null&itok=YyqV8QhP",
+    "wins": "22",
+    "losses": "4",
+    "draws": "1",
+    "category": "Lightweight Division",
+    "age": "33"
+  },
+  "michael-chandler": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/1dd9466e-5d52-4a1d-8af9-201e9af35e6a%252FCHANDLER_MICHAEL_L_05-07.png?itok=SGvqtEC7",
+    "wins": "23",
+    "losses": "8",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "36"
+  },
+  "rafael-fiziev": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/b3773873-9374-4236-8551-183b96c9498c%252FFIZIEV_RAFAEL_L_07-09.png?itok=rtiMC1XZ",
+    "wins": "12",
+    "losses": "1",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "29"
+  },
+  "mateusz-gamrot": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/71373277-e845-4f33-8229-849d0838ed2b%252FGAMROT_MATEUSZ_L_06-25.png?itok=EQG8I-Sj",
+    "wins": "21",
+    "losses": "2",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "31"
+  },
+  "rafael-dos-anjos": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/DOS_ANJOS_RAFAEL_L_07_09.png?itok=pTZyTzQj",
+    "wins": "32",
+    "losses": "14",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "38"
+  },
+  "arman-tsarukyan": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/7b15cc81-3b65-488e-8237-3991bc19710a%252FTSARUKYAN_ARMAN_L_06-25.png?itok=nJLauOnB",
+    "wins": "19",
+    "losses": "3",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "26"
+  },
+  "jalin-turner": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/e22c890b-633a-4f3a-87a6-24fbf20f6d44%252FTURNER_JALIN_L_07-02.png?itok=G7oSUQh-",
+    "wins": "14",
+    "losses": "5",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "27"
+  },
+  "dan-hooker": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/HOOKER_DAN_L_11-12.png?itok=FpPcLeKp",
+    "wins": "22",
+    "losses": "12",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "32"
+  },
+  "damir-ismagulov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/f9d426dd-8ac6-495f-99e3-ee0f234ba507%252FISMAGULOV_DAMIR_L_06-18.png?itok=70joOiF5",
+    "wins": "24",
+    "losses": "2",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "31"
+  },
+  "renato-moicano": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/984198d1-4d34-4681-b99d-b9e9449b0405%252FMOICANO_RENATO_L_03-05.png?itok=9e6FPnSL",
+    "wins": "17",
+    "losses": "5",
+    "draws": "1",
+    "category": "Lightweight Division",
+    "age": "33"
+  },
+  "drew-dober": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/DOBER_DREW_L_07-30.png?itok=jeYmuGZa",
+    "wins": "26",
+    "losses": "11",
+    "draws": "0",
+    "category": "Lightweight Division",
+    "age": "34"
+  },
+  "grant-dawson": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/DAWSON_GRANT_L_11-05.png?itok=Woy6T3r9",
+    "wins": "19",
+    "losses": "1",
+    "draws": "1",
+    "category": "Lightweight Division",
+    "age": "28"
+  },
+  "colby-covington": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/0b2f6b55-7a5d-49f1-9bc3-7076406d904f%252FCOVINGTON_COLBY_L_11-06.png?itok=9qVDWt-k",
+    "wins": "17",
+    "losses": "3",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "34"
+  },
+  "khamzat-chimaev": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/71660%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIMAEV_KHAMZAT_L_10-30.png?itok=V9OsChbC",
+    "wins": "12",
+    "losses": "0",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "28"
+  },
+  "belal-muhammad": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/622471ec-9987-47a7-bb7c-7dee406e5cb5%252FMUHAMMAD_BELAL_L_04-16.png?itok=o5OUH_cM",
+    "wins": "22",
+    "losses": "3",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "34"
+  },
+  "gilbert-burns": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/68020%252Fprofile-galery%252Ffullbodyleft-picture%252FBURNS_GILBERT_L_07-10.png?itok=M6BlAm5G",
+    "wins": "20",
+    "losses": "5",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "35"
+  },
+  "stephen-thompson": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/THOMPSON_STEPHEN_L_12-03.png?itok=Ix8SmbJQ",
+    "wins": "17",
+    "losses": "6",
+    "draws": "1",
+    "category": "Welterweight Division",
+    "age": "39"
+  },
+  "geoff-neal": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/NEAL_GEOFF_L_08-06.png?itok=LBKHER0B",
+    "wins": "15",
+    "losses": "4",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "31"
+  },
+  "sean-brady": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/69577%252Fprofile-galery%252Ffullbodyleft-picture%252FBRADY_SEAN_L_11-20.png?itok=DRPjhf3T",
+    "wins": "15",
+    "losses": "1",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "29"
+  },
+  "vicente-luque": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/71353a42-1d5e-4983-a651-75cc91218919%252FLUQUE_VICENTE_L_04-16.png?itok=30wpAf25",
+    "wins": "21",
+    "losses": "9",
+    "draws": "1",
+    "category": "Welterweight Division",
+    "age": "30"
+  },
+  "shavkat-rakhmonov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/ec3d59eb-2f08-4a5c-ba06-164d05bb478f%252FRAKHMONOV_SHAVKHAT_L_06-25.png?itok=EpEszo7w",
+    "wins": "16",
+    "losses": "0",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "27"
+  },
+  "jorge-masvidal": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/MASVIDAL_JORGE_L_04-24.png?itok=xClc4NJc",
+    "wins": "35",
+    "losses": "16",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "37"
+  },
+  "neil-magny": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/cd04a6f0-b291-4b34-84a7-ab332940ca0b%252FMAGNY_NEIL_L_06-25.png?itok=lbbY9EAN",
+    "wins": "27",
+    "losses": "10",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "35"
+  },
+  "michael-chiesa": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/68797%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIESA_MICHAEL_L_08-07.png?itok=MWF2Rk9h",
+    "wins": "18",
+    "losses": "6",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "34"
+  },
+  "michel-pereira": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/PEREIRA_MICHEL_L_07-10.png?itok=NgqUUYNu",
+    "wins": "27",
+    "losses": "11",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "28"
+  },
+  "li-jingliang": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/JINGLIANG_LI_L_09-10.png?itok=gQI9vwTA",
+    "wins": "19",
+    "losses": "8",
+    "draws": "0",
+    "category": "Welterweight Division",
+    "age": "34"
+  },
+  "robert-whittaker": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/WHITTAKER_ROBERT_L_09-03.png?itok=CzGz9WWQ",
+    "wins": "25",
+    "losses": "6",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "31"
+  },
+  "jared-cannonier": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/c94750b2-8c3a-4dd7-840c-7bfa0293c244%252FCANNONIER_JARED_L_07-02.png?itok=wWRjRMav",
+    "wins": "16",
+    "losses": "6",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "38"
+  },
+  "marvin-vettori": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/VETTORI_MARVIN_L_09-03.png?itok=7lDKr8RH",
+    "wins": "18",
+    "losses": "6",
+    "draws": "1",
+    "category": "Middleweight Division",
+    "age": "28"
+  },
+  "derek-brunson": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-09/67807%252Fprofile-galery%252Ffullbodyleft-picture%252FBRUNSON_DEREK_L_09-04.png?itok=WWFC2D7b",
+    "wins": "23",
+    "losses": "8",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "38"
+  },
+  "paulo-costa": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/COSTA_PAULO_L_08-20.png?itok=OX5M7ZUU",
+    "wins": "14",
+    "losses": "2",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "31"
+  },
+  "sean-strickland": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-01/STRICKLAND_SEAN_L_12-17.png?itok=I8R680yL",
+    "wins": "25",
+    "losses": "5",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "31"
+  },
+  "roman-dolidze": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/4deb3994-f399-4ed8-8373-c30ec9ecae6f%252FDOLIDZE_ROMAN_L_06-18.png?itok=teNxLpDV",
+    "wins": "11",
+    "losses": "1",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "34"
+  },
+  "jack-hermansson": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/fef3a1eb-edb2-4f3b-be6b-92998eb16134%252FHERMANSSON_JACK_L_02-05.png?itok=QxrSWqlv",
+    "wins": "23",
+    "losses": "8",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "34"
+  },
+  "dricus-du-plessis": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/DU_PLESSUS_DRICUS_L_07-10.png?itok=QK0-grkj",
+    "wins": "18",
+    "losses": "2",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "28"
+  },
+  "andre-muniz": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/6656baa5-7df3-4c23-9508-fed6d682be6d%252FMUNIZ_ANDRE_L_07-02.png?itok=GtJnXSPo",
+    "wins": "23",
+    "losses": "4",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "32"
+  },
+  "nassourdine-imavov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/71679%252Fprofile-galery%252Ffullbodyleft-picture%252FIMAVOV_NASSOURDINE_L_07-24.png?itok=tx9_29V1",
+    "wins": "12",
+    "losses": "3",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "27"
+  },
+  "kelvin-gastelum": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/GASTELUM_KELVIN_L_04-17.png?itok=NACbbv1V",
+    "wins": "17",
+    "losses": "8",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "31"
+  },
+  "chris-curtis": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/f78dd9ae-c44e-46fb-a9d2-beef3be4b5ff%252FCURTIS_CHRIS_L_06-25.png?itok=45_snrxO",
+    "wins": "30",
+    "losses": "9",
+    "draws": "0",
+    "category": "Middleweight Division",
+    "age": "35"
+  },
+  "darren-till": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-12/TILL_DARREN_L_12-10.png?itok=pCJkF50A",
+    "wins": "18",
+    "losses": "5",
+    "draws": "1",
+    "category": "Middleweight Division",
+    "age": "29"
+  },
+  "glover-teixeira": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/68036%252Fprofile-galery%252Ffullbodyleft-picture%252FTEIXEIRA_GLOVER_L_10-30.png?itok=w8Jrh1f4",
+    "wins": "33",
+    "losses": "8",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "42"
+  },
+  "magomed-ankalaev": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/8d73a67c-93a8-47bb-a433-6b752739b666%252FANKALAEV_MAGOMED_L_03-12.png?itok=hJWQCnh4",
+    "wins": "18",
+    "losses": "1",
+    "draws": "1",
+    "category": "Light Heavyweight Division",
+    "age": "30"
+  },
+  "jan-blachowicz": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/812dc71b-2116-4b24-bd64-78e8b42447f7%252FBLACHOWICZ_JAN_L_05-14.png?itok=NA_McbC9",
+    "wins": "29",
+    "losses": "9",
+    "draws": "1",
+    "category": "Light Heavyweight Division",
+    "age": "39"
+  },
+  "aleksandar-rakic": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/RAKIC_ALEKSANDAR_L_05-14.png?itok=7hzDVZpj",
+    "wins": "14",
+    "losses": "3",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "30"
+  },
+  "anthony-smith": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/SMITH_ANTHONY_L_07-30.png?itok=91VPCJmx",
+    "wins": "36",
+    "losses": "17",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "34"
+  },
+  "jamahal-hill": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/HILL_JAMAHAL_L_08-06.png?itok=xSG8hecb",
+    "wins": "11",
+    "losses": "1",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "31"
+  },
+  "nikita-krylov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/ce1213ea-c2b7-43bf-ad4e-c3f45c37f8c3%252FKRYLOV_NIKITA_L_03-19.png?itok=QzVjMsrV",
+    "wins": "29",
+    "losses": "9",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "30"
+  },
+  "paul-craig": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/CRAIG_PAUL_L_07-23.png?itok=MSzxZQCO",
+    "wins": "16",
+    "losses": "5",
+    "draws": "1",
+    "category": "Light Heavyweight Division",
+    "age": "34"
+  },
+  "volkan-oezdemir": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/OEZDEMIR_VOLKAN_L_07-23.png?itok=f09v5J2c",
+    "wins": "18",
+    "losses": "7",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "33"
+  },
+  "ryan-spann": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/SPANN_RYAN_L_09-18.png?itok=qgkO4yqE",
+    "wins": "23",
+    "losses": "7",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "31"
+  },
+  "johnny-walker": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/601d454c-9816-4660-8f47-c92f3a3738f3%252FWALKER_JOHNNY_L_02-19.png?itok=-Oj2FjNg",
+    "wins": "19",
+    "losses": "7",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "30"
+  },
+  "dominick-reyes": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/REYES_DOMINICK_L_11-12.png?itok=FVzb0yst",
+    "wins": "12",
+    "losses": "4",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "32"
+  },
+  "jim-crute": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/CRUTE_JIMMY_L_04-24.png?VersionId=null&itok=bclnaDbU",
+    "wins": "12",
+    "losses": "3",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "26"
+  },
+  "khalil-rountree-jr": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/ROUNTREE_KHALIL_L_10-29.png?itok=yqBDdTN4",
+    "wins": "12",
+    "losses": "5",
+    "draws": "0",
+    "category": "Light Heavyweight Division",
+    "age": "32"
+  },
+  "ciryl-gane": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/GANE_CYRIL_L_09-03.png?itok=Gt5pcNnr",
+    "wins": "11",
+    "losses": "1",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "32"
+  },
+  "stipe-miocic": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2020-03/MIOCIC_STIPE_L.png?VersionId=AvpdfeJOw_RIVkLQfyNsDDCkr7v26RtH&itok=tBa8SpCC",
+    "wins": "20",
+    "losses": "4",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "40"
+  },
+  "sergei-pavlovich": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/PAVLOVICH_SERGEI_L_03-19.png?itok=2jGAAbg2",
+    "wins": "17",
+    "losses": "1",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "30"
+  },
+  "curtis-blaydes": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/228e06d2-8a86-42c0-a743-1929f8126eb7%252FBLAYDES_CURTIS_L_03-26.png?itok=TY0Rw6V7",
+    "wins": "17",
+    "losses": "3",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "31"
+  },
+  "tai-tuivasa": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/TUIVASA_TAI_L_09-03.png?itok=s1xlUFMJ",
+    "wins": "15",
+    "losses": "5",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "29"
+  },
+  "tom-aspinall": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/1f5bd29d-50af-436e-b4ce-996c75742c02%252FASPINALL_TOM_L_03-19.png?itok=pOyw3Gy8",
+    "wins": "12",
+    "losses": "3",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "29"
+  },
+  "derrick-lewis": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/LEWIS_DERRICK_L_07-30.png?itok=E3H-vpT-",
+    "wins": "26",
+    "losses": "10",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "37"
+  },
+  "alexander-volkov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/9e4d4db5-d9dc-475b-893c-f2298d8a0920%252FVOLKOV_ALEXANDER_L_06-04.png?itok=D1ngUh-k",
+    "wins": "35",
+    "losses": "10",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "33"
+  },
+  "jairzinho-rozenstruik": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/1eb95f06-585c-4565-ad55-8a0ca3d84ac8%252FROZENSTRUIK_JAIRZINHO_L_06-04.png?itok=IJW2dU39",
+    "wins": "12",
+    "losses": "4",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "34"
+  },
+  "marcin-tybura": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/0967dceb-67a8-4695-a633-0598ab20fd58%252FTYBURA_MARCIN_L_04-09.png?itok=KK2t5AHI",
+    "wins": "23",
+    "losses": "7",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "36"
+  },
+  "chris-daukaus": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/DAUKAUS_CHRIS_L_09-25.png?itok=34hCc54A",
+    "wins": "12",
+    "losses": "6",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "33"
+  },
+  "serghei-spivac": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/7976d658-43f8-4c33-9ae0-4ec3b8a2403d%252FSPIVAC_SERGHEI_L_03-05.png?itok=EsTn-tdo",
+    "wins": "15",
+    "losses": "3",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "27"
+  },
+  "alexandr-romanov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/318f6bdb-ab1d-4e95-8328-37d1e0d4072f%252FROMANOV_ALEXANDR_L_04-23.png?itok=wikEmFdJ",
+    "wins": "16",
+    "losses": "1",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "31"
+  },
+  "shamil-abdurakhimov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-09/69243%252Fprofile-galery%252Ffullbodyleft-picture%252FABDURAKHIMOV_SHAMIL_L_09-25.png?itok=RUWHBFwO",
+    "wins": "20",
+    "losses": "7",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "41"
+  },
+  "blagoy-ivanov": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/2960e352-bec7-41a0-803f-3a3336fed367%252FIVANOV_BLAGOY_L_05-07.png?itok=rYiwdvgx",
+    "wins": "19",
+    "losses": "4",
+    "draws": "0",
+    "category": "Heavyweight Division",
+    "age": "35"
+  },
+  "amanda-nunes": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-12/0bc89f79-fead-4048-98a4-daa3e10d1d04%252FNUNES_AMANDA_L_BELT_12-11.png?itok=n_Qiatj-",
+    "wins": "22",
+    "losses": "5",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "34"
+  },
+  "valentina-shevchenko": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/%5Bdate%3Acustom%3AY%5D-%5Bdate%3Acustom%3Am%5D/SHEVCHENKO_VALENTINA_L_BELT_04-24.png?VersionId=null&itok=KpjlJhRW",
+    "wins": "23",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "34"
+  },
+  "weili-zhang": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/WEILI_ZHANG_L_BELT_04-24.png?itok=0uk4920t",
+    "wins": "23",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "33"
+  },
+  "julianna-pena": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/PENA_JULIANNA_L_12-11.png?itok=c8sJBl6M",
+    "wins": "12",
+    "losses": "5",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "32"
+  },
+  "rose-namajunas": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/69149%252Fprofile-galery%252Ffullbodyleft-picture%252FNAMAJUNAS_ROSE_L_04-24.png?itok=kpkn1178",
+    "wins": "12",
+    "losses": "5",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "30"
+  },
+  "carla-esparza": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/ESPARZA_CARLA_L_05-07.png?itok=xPLhERYN",
+    "wins": "20",
+    "losses": "7",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "35"
+  },
+  "jessica-andrade": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/9e1322ed-8b10-40f2-b0fc-575fb206c20c%252FANDRADE_JESSICA_L_04-23.png?itok=3jTE7pkP",
+    "wins": "23",
+    "losses": "9",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "31"
+  },
+  "marina-rodriguez": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/RODRIGUEZ_MARINA_L_11-05.png?itok=uLi00BWC",
+    "wins": "16",
+    "losses": "2",
+    "draws": "2",
+    "category": "Women's Strawweight Division",
+    "age": "35"
+  },
+  "amanda-lemos": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/8d2e2ccd-45be-44c4-a29f-14f59d6c5ed2%252FLEMOS_AMANDA_L_04-23.png?itok=lMJKWFYy",
+    "wins": "13",
+    "losses": "2",
+    "draws": "1",
+    "category": "Women's Strawweight Division",
+    "age": "35"
+  },
+  "holly-holm": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/eb047275-366a-4dc9-9996-2e019a719775%252FHOLM_HOLLY_L_05-21.png?itok=EoChOkYK",
+    "wins": "14",
+    "losses": "6",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "40"
+  },
+  "ketlen-vieira": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/68489%252Fprofile-galery%252Ffullbodyleft-picture%252FVIEIRA_KETLEN_L_11-20.png?itok=uZmfVJTf",
+    "wins": "13",
+    "losses": "2",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "31"
+  },
+  "taila-santos": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/8eb303a9-d887-4541-905b-e3e7461ed95e%252FSANTOS_TAILA_L_06-11.png?itok=UuRKEMr9",
+    "wins": "19",
+    "losses": "2",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "29"
+  },
+  "manon-fiorot": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/71739%252Fprofile-galery%252Ffullbodyleft-picture%252FFIOROT_MANON_L_06-05.png?VersionId=null&itok=plHyzQtk",
+    "wins": "10",
+    "losses": "1",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "32"
+  },
+  "katlyn-chookagian": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/fd6b4555-64bc-4a5f-8bb2-11a10b3eb5bb%252FCHOOKAGIAN_KATLYN_L_05-14.png?itok=tyYVBiDU",
+    "wins": "18",
+    "losses": "5",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "33"
+  },
+  "xiaonan-yan": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/69520%252Fprofile-galery%252Ffullbodyleft-picture%252FXIAONAN_YAN_L_05-22.png?VersionId=null&itok=BJK1MMcm",
+    "wins": "16",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "33"
+  },
+  "mackenzie-dern": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/DERN_MACKENZIE_L_04-10.png?itok=rr3aWMaE",
+    "wins": "12",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "29"
+  },
+  "tecia-torres": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/69341%252Fprofile-galery%252Ffullbodyleft-picture%252FTORRES_TECIA_L_08-07.png?itok=c6kfUByt",
+    "wins": "13",
+    "losses": "6",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "32"
+  },
+  "amanda-ribas": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/7b0e0ab3-5969-4d1f-b537-a07b1a9bc4a4%252FRIBAS_AMANDA_L_05-14.png?itok=EGYxYfmE",
+    "wins": "11",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "29"
+  },
+  "virna-jandiroba": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/69468%252Fprofile-galery%252Ffullbodyleft-picture%252FJANDIROBA_VIRNA_L_06-19.png?VersionId=null&itok=kF8AeAaP",
+    "wins": "17",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "33"
+  },
+  "michelle-waterson": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/WATERSON-GOMEZ_MICHELLE_L_07-16.png?itok=vlltUuJ4",
+    "wins": "18",
+    "losses": "10",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "36"
+  },
+  "angela-hill": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/67345%252Fprofile-galery%252Ffullbodyleft-picture%252FHILL_ANGELA_L_08-07.png?itok=1t_qO60X",
+    "wins": "15",
+    "losses": "12",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "37"
+  },
+  "luana-pinheiro": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/71666%252Fprofile-galery%252Ffullbodyleft-picture%252FPINHEIRO_LUANA_L_05-01.png?VersionId=null&itok=HemyO-83",
+    "wins": "10",
+    "losses": "1",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "29"
+  },
+  "emily-ducote": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/DUCOTE_EMILY_L_07-16.png?itok=H2DILtKc",
+    "wins": "12",
+    "losses": "7",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "28"
+  },
+  "polyana-viana": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/4d4a8964-7b90-4e4d-9c1f-579894ceb631%252FVIANA_POLYANA_L_05-21.png?itok=jAsQC1tE",
+    "wins": "13",
+    "losses": "5",
+    "draws": "0",
+    "category": "Women's Strawweight Division",
+    "age": "30"
+  },
+  "lauren-murphy": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68552%252Fprofile-galery%252Ffullbodyleft-picture%252FMURPHY_LAUREN_L_06-12.png?VersionId=null&itok=6PwmmIr2",
+    "wins": "16",
+    "losses": "5",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "38"
+  },
+  "alexa-grasso": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-10/GRASSO_ALEXA_L_10-15.png?itok=RyIWekm_",
+    "wins": "15",
+    "losses": "3",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "29"
+  },
+  "viviane-araujo": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/ARAUJO_VIVIANE_L_05-15.png?VersionId=null&itok=4W9qlukR",
+    "wins": "11",
+    "losses": "4",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "35"
+  },
+  "jennifer-maia": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/MAIA_JENNIFER_L_11_19.png?itok=SSpXN88-",
+    "wins": "20",
+    "losses": "9",
+    "draws": "1",
+    "category": "Women's Flyweight Division",
+    "age": "34"
+  },
+  "andrea-lee": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-05/69617%252Fprofile-galery%252Ffullbodyleft-picture%252FLEE_ANDREA_L_05-15.png?VersionId=null&itok=2AEe7a5K",
+    "wins": "13",
+    "losses": "6",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "33"
+  },
+  "erin-blanchfield": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/BLANCHFIELD_ERIN_L_11-12.png?itok=BfgMB_iF",
+    "wins": "10",
+    "losses": "1",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "23"
+  },
+  "casey-oneill": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/71718%252Fprofile-galery%252Ffullbodyleft-picture%252FONEILL_CASEY_L_06-19.png?VersionId=null&itok=7ocyMu5k",
+    "wins": "9",
+    "losses": "0",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "24"
+  },
+  "maycee-barber": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/4aa54ee5-e1f0-4915-98a6-7ecc571c1b7c%252FBARBER_MAYCEE_L_07-02.png?itok=1hOIFacz",
+    "wins": "11",
+    "losses": "2",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "24"
+  },
+  "tracy-cortez": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-05/bc4fa7a0-48a8-4e41-a781-7017b65b8695%252FCORTEZ_TRACY_L_05-07.png?itok=iIMSCAYH",
+    "wins": "10",
+    "losses": "1",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "28"
+  },
+  "cynthia-calvillo": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/CALVILLO_CYNTHIA_L_09-25.png?itok=xi4jMSHp",
+    "wins": "9",
+    "losses": "5",
+    "draws": "1",
+    "category": "Women's Flyweight Division",
+    "age": "35"
+  },
+  "irene-aldana": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/ALDANA_IRENE_L_09-10.png?itok=hJ7TdHt7",
+    "wins": "14",
+    "losses": "6",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "34"
+  },
+  "raquel-pennington": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/PENNINGTON_RAQUEL_L_09-18.png?itok=035fsF-h",
+    "wins": "14",
+    "losses": "9",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "34"
+  },
+  "yana-kunitskaya": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/KUNITSKAYA_YANA_L_07-10.png?itok=kvBLp0qZ",
+    "wins": "14",
+    "losses": "6",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "32"
+  },
+  "pannie-kianzad": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68970%252Fprofile-galery%252Ffullbodyleft-picture%252FKIANZAD_PANNIE_L_06-12.png?VersionId=null&itok=EGDHwo3x",
+    "wins": "17",
+    "losses": "6",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "30"
+  },
+  "macy-chiasson": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/71431%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIASSON_MACY_L_07-24.png?itok=66bvrHjS",
+    "wins": "9",
+    "losses": "2",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "31"
+  },
+  "karol-rosa": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-10/68454%252Fprofile-galery%252Ffullbodyleft-picture%252FROSA_KAROL_L_10-02.png?itok=D8BnZuS9",
+    "wins": "16",
+    "losses": "4",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "27"
+  },
+  "miesha-tate": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TATE_MIESHA_L_07-17.png?itok=l3ajmGkB",
+    "wins": "19",
+    "losses": "9",
+    "draws": "0",
+    "category": "Women's Flyweight Division",
+    "age": "35"
+  },
+  "julia-avila": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-06/68397%252Fprofile-galery%252Ffullbodyleft-picture%252FAVILA_JULIA_L_06-26.png?itok=mith1taf",
+    "wins": "9",
+    "losses": "2",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "33"
+  },
+  "lina-lansberg": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-04/LANSBERG_LINA_L_04-16.png?itok=S0Xar2Bg",
+    "wins": "10",
+    "losses": "7",
+    "draws": "0",
+    "category": "Women's Bantamweight Division",
+    "age": "40"
+  },
+  "norma-dumont": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-09/DUMONT_NORMA_L_09-10.png?itok=cVlAKMN9",
+    "wins": "7",
+    "losses": "2",
+    "draws": "0",
+    "category": "Women's Featherweight Division",
+    "age": "31"
+  },
+  "mayra-bueno-silva": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-01/BUENO_MAYRA_L_10-16.png?itok=YwRktIb_",
+    "wins": "9",
+    "losses": "2",
+    "draws": "1",
+    "category": "Women's Bantamweight Division",
+    "age": "30"
+  },
+  "josiane-nunes": {
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-08/71742%252Fprofile-galery%252Ffullbodyleft-picture%252FNUNES_JOSIANE_L_04-17.png?itok=xKzOO1zf",
+    "wins": "9",
+    "losses": "1",
+    "draws": "0",
+    "category": "Women's Featherweight Division",
+    "age": "28"
+  }
+}
