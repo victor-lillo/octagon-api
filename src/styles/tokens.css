@@ -1,0 +1,38 @@
+/* Sizes */
+:root {
+  --section-width: 90%;
+}
+
+@media only screen and (min-width: 768px) {
+  :root {
+    --section-width: 75%;
+  }
+}
+
+@media only screen and (min-width: 1440px) {
+  :root {
+    --section-width: 75%;
+  }
+}
+
+/* Colors */
+:root {
+  color-scheme: light;
+  --color-dark-1: #222222;
+  --color-dark-2: #444444;
+  --color-dark-3: #666666;
+  --color-light-1: #ffff;
+  --color-light-2: rgb(222, 222, 222);
+  --color-text-1: #1d1d1d;
+  --color-main-1: white;
+  --color-main-2: #f5e9fd;
+  --color-main-3: #deb9f9;
+}
+
+:root .theme-dark {
+  color-scheme: dark;
+  --color-text-1: #e4e4e4;
+  --color-main-1: #5d28c8;
+  --color-main-2: #4e216e;
+  --color-main-3: #1d052f;
+}
