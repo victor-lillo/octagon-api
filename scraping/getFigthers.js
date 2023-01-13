@@ -12,7 +12,7 @@ const sleep = (miliseconds) => {
 const BASE_IMAGE_FOLDER = 'public'
 const FIGHTERS_IMAGE_FOLDER = 'fighters'
 const FIGHTERS_DB_NAME = FIGHTERS_IMAGE_FOLDER
-const REQUEST_DELAY = 3000
+const REQUEST_DELAY = 1000 * 3
 const SELECTORS = {
   image: '.hero-profile__image',
   record: '.hero-profile__division-body',
@@ -22,11 +22,11 @@ const SELECTORS = {
 
 async function getFigthers() {
   const start = performance.now()
-  const FIGHTERS_RAW = await readDBFile('rankings')
+  const fighters_raw = await readDBFile('rankings')
 
   const fighterData = {}
 
-  for (const { fighters } of FIGHTERS_RAW) {
+  for (const { fighters } of fighters_raw) {
     for (const { id, url } of fighters) {
       logInfo(`Checking ${id} image...`)
 
@@ -54,7 +54,7 @@ async function getFigthers() {
 
       fighterData[id] = { ...dataObj }
 
-      console.log(`Waiting ${REQUEST_DELAY / 1000} s...\n`)
+      console.log(`Waiting ${timeFormatter(REQUEST_DELAY)}\n`)
       await sleep(REQUEST_DELAY)
     }
 
@@ -64,7 +64,7 @@ async function getFigthers() {
 
   const end = performance.now()
   const time = timeFormatter(end - start)
-  logSuccess(`Task finished in ${time} ms`)
+  logSuccess(`Task finished in ${time}`)
 }
 
 await getFigthers()
