@@ -22,11 +22,10 @@ const SELECTORS = {
 
 async function getFigthers() {
   const start = performance.now()
-  const fighters_raw = await readDBFile('rankings')
+  const ranking_data = await readDBFile('rankings')
+  const fighter_data = await readDBFile('fighters')
 
-  const fighterData = {}
-
-  for (const { fighters } of fighters_raw) {
+  for (const { fighters } of ranking_data) {
     for (const { id, url } of fighters) {
       logInfo(`Checking ${id} image...`)
 
@@ -43,7 +42,7 @@ async function getFigthers() {
         id + '.webp'
       )
 
-      if (await checkFileExists(img_path)) console.log('This image already exists, skipping\n')
+      if (await checkFileExists(img_path)) logSuccess('This image already exists, skipping')
       else
         await saveImage({
           baseFolder: BASE_IMAGE_FOLDER,
@@ -52,14 +51,13 @@ async function getFigthers() {
           url: imgUrl,
         })
 
-      fighterData[id] = { ...dataObj }
+      fighter_data[id] = { ...dataObj }
 
+      await writeDBFile(FIGHTERS_DB_NAME, fighter_data)
+      logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
       console.log(`Waiting ${timeFormatter(REQUEST_DELAY)}\n`)
       await sleep(REQUEST_DELAY)
     }
-
-    logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
-    await writeDBFile(FIGHTERS_DB_NAME, fighterData)
   }
 
   const end = performance.now()
