@@ -14,10 +14,12 @@ const FIGHTERS_IMAGE_FOLDER = 'fighters'
 const FIGHTERS_DB_NAME = FIGHTERS_IMAGE_FOLDER
 const REQUEST_DELAY = 1000 * 3
 const SELECTORS = {
-  image: '.hero-profile__image',
-  record: '.hero-profile__division-body',
+  bio_field: '.c-bio__label',
   category: '.hero-profile__division-title',
+  image: '.hero-profile__image',
+  nickname: '.hero-profile__nickname',
   age: '.field--name-age',
+  record: '.hero-profile__division-body',
 }
 
 async function getFigthers() {

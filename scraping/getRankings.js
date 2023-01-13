@@ -1,6 +1,6 @@
 import { logSuccess } from './lib/log.js'
 import { writeDBFile } from './lib/db.js'
-import cleanString from './lib/cleanString.js'
+import { cleanString } from './lib/string_modifiers.js'
 import scrape from './lib/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
