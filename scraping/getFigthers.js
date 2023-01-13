@@ -16,8 +16,8 @@ const REQUEST_DELAY = 1000 * 3
 const SELECTORS = {
   image: '.hero-profile__image',
   record: '.hero-profile__division-body',
-  categoryS: '.hero-profile__division-title',
-  ageS: '.field--name-age',
+  category: '.hero-profile__division-title',
+  age: '.field--name-age',
 }
 
 async function getFigthers() {
