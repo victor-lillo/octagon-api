@@ -1,0 +1,67 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import data from '../../../db/rankings.json'
+
+interface Props {
+  division: string
+}
+
+export function getStaticPaths() {
+  const params = data.map((division) => {
+    const { id, categoryName, champion, fighters } = division
+    const { id: championId, championName } = champion
+    return { params: { division: id }, props: { categoryName, championId, championName, fighters } }
+  })
+
+  return params
+}
+
+const { division } = Astro.params
+const { categoryName, championId, championName, fighters } = Astro.props
+---
+
+<Layout title={`${categoryName} | UFC API`}>
+  <main>
+    <a href='/'>Return to home</a>
+    <a href='/division'>Return to division index</a>
+    <h1>Division: {division}</h1>
+    <div>{categoryName}</div>
+    <h3>
+      Current champion:
+      <a href={`/athlete/${championId}`}>{championName}</a>
+    </h3>
+
+    <h2>List of fighters</h2>
+    {
+      fighters.map(({ id, name }, index) => (
+        <div class='card'>
+          {index === 0 ? '👑' : index} <a href={`/athlete/${id}`}>{name}</a>
+        </div>
+      ))
+    }
+  </main>
+</Layout>
+
+<style>
+  main {
+    display: flex;
+    flex-direction: column;
+    gap: -var(--size-spacing-2);
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  a {
+    font-weight: 600;
+    width: fit-content;
+  }
+  .image-container {
+    height: 300px;
+  }
+  img {
+    aspect-ratio: 460 / 700;
+  }
+  .card {
+    background-color: aliceblue;
+  }
+</style>
