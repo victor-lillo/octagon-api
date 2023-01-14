@@ -1,6 +1,7 @@
 [
   {
-    "category": "Men's Pound-for-Pound Top Rank",
+    "id": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
     "champion": {
       "id": "alexander-volkanovski",
       "championName": "Alexander Volkanovski"
@@ -84,7 +85,8 @@
     ]
   },
   {
-    "category": "Flyweight",
+    "id": "flyweight",
+    "categoryName": "Flyweight",
     "champion": {
       "id": "deiveson-figueiredo",
       "championName": "Deiveson Figueiredo"
@@ -173,7 +175,8 @@
     ]
   },
   {
-    "category": "Bantamweight",
+    "id": "bantamweight",
+    "categoryName": "Bantamweight",
     "champion": {
       "id": "aljamain-sterling",
       "championName": "Aljamain Sterling"
@@ -262,7 +265,8 @@
     ]
   },
   {
-    "category": "Featherweight",
+    "id": "featherweight",
+    "categoryName": "Featherweight",
     "champion": {
       "id": "alexander-volkanovski",
       "championName": "Alexander Volkanovski"
@@ -351,7 +355,8 @@
     ]
   },
   {
-    "category": "Lightweight",
+    "id": "lightweight",
+    "categoryName": "Lightweight",
     "champion": {
       "id": "islam-makhachev",
       "championName": "Islam Makhachev"
@@ -440,7 +445,8 @@
     ]
   },
   {
-    "category": "Welterweight",
+    "id": "welterweight",
+    "categoryName": "Welterweight",
     "champion": {
       "id": "leon-edwards",
       "championName": "Leon Edwards"
@@ -529,7 +535,8 @@
     ]
   },
   {
-    "category": "Middleweight",
+    "id": "middleweight",
+    "categoryName": "Middleweight",
     "champion": {
       "id": "alex-pereira",
       "championName": "Alex Pereira"
@@ -618,7 +625,8 @@
     ]
   },
   {
-    "category": "Light Heavyweight",
+    "id": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
     "champion": {
       "id": "",
       "championName": ""
@@ -702,7 +710,8 @@
     ]
   },
   {
-    "category": "Heavyweight",
+    "id": "heavyweight",
+    "categoryName": "Heavyweight",
     "champion": {
       "id": "francis-ngannou",
       "championName": "Francis Ngannou"
@@ -791,7 +800,8 @@
     ]
   },
   {
-    "category": "Women's Pound-for-Pound Top Rank",
+    "id": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
     "champion": {
       "id": "amanda-nunes",
       "championName": "Amanda Nunes"
@@ -875,7 +885,8 @@
     ]
   },
   {
-    "category": "Women's Strawweight",
+    "id": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "champion": {
       "id": "weili-zhang",
       "championName": "Zhang Weili"
@@ -964,7 +975,8 @@
     ]
   },
   {
-    "category": "Women's Flyweight",
+    "id": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "champion": {
       "id": "valentina-shevchenko",
       "championName": "Valentina Shevchenko"
@@ -1053,7 +1065,8 @@
     ]
   },
   {
-    "category": "Women's Bantamweight",
+    "id": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "champion": {
       "id": "amanda-nunes",
       "championName": "Amanda Nunes"
@@ -1142,7 +1155,8 @@
     ]
   },
   {
-    "category": "Women's Featherweight",
+    "id": "womens-featherweight",
+    "categoryName": "Women's Featherweight",
     "champion": {
       "id": "amanda-nunes",
       "championName": "Amanda Nunes"

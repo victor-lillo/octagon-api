@@ -1,6 +1,6 @@
+import { cleanString, standarizeString } from './lib/string_modifiers.js'
 import { logSuccess } from './lib/log.js'
 import { writeDBFile } from './lib/db.js'
-import { cleanString } from './lib/string_modifiers.js'
 import scrape from './lib/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
@@ -25,7 +25,8 @@ async function getRankings() {
 
   // Recorremos el nodeElement tables (que son todos los que coinciden con nuestra búsqueda)
   const data = $tables.map(($el) => {
-    const category = $el.querySelector(SELECTORS.category).textContent
+    const categoryName = $el.querySelector(SELECTORS.category).textContent
+    const categoryId = standarizeString(categoryName)
     const championNode = $el.querySelector(SELECTORS.champion)
       ? $el.querySelector(SELECTORS.champion)
       : ''
@@ -43,7 +44,7 @@ async function getRankings() {
 
     const champion = { id: championId, championName }
 
-    return { category, champion, fighters }
+    return { id: categoryId, categoryName, champion, fighters }
   })
 
   await writeDBFile(RANKINGS_DB_NAME, data)
