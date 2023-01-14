@@ -11,6 +11,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/image": "^0.12.1",
     "astro": "^1.9.0",
     "axios": "^1.2.2",
     "node-html-parser": "^6.1.4",
