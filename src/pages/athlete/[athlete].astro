@@ -1,0 +1,85 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import data from '../../../db/fighters.json'
+
+interface Props {
+  athlete: string
+}
+
+export function getStaticPaths() {
+  const params = Object.keys(data).map((fighterId) => {
+    const athleteInfo = data[fighterId]
+    return { params: { athlete: fighterId }, props: { ...athleteInfo } }
+  })
+
+  return params
+}
+
+const { athlete } = Astro.params
+const {
+  age,
+  category,
+  draws,
+  fightingStyle,
+  height,
+  hometown,
+  legReach,
+  losses,
+  nickname,
+  octagonDebut,
+  reach,
+  trainsAt,
+  weight,
+  wins,
+} = Astro.props
+---
+
+<Layout title={`${athlete} | UFC API`}>
+  <main>
+    <a href='/'>Return to home</a>
+    <a href='/athlete'>Return to athlete index</a>
+    <h1>Athlete: {athlete}</h1>
+    <h2>Age: {age}</h2>
+    <div>{age}</div>
+    <div>{category}</div>
+    <div>{draws}</div>
+    <div>{fightingStyle}</div>
+    <div>{height}</div>
+    <div>{hometown}</div>
+    <div>{legReach}</div>
+    <div>{losses}</div>
+    <div>{nickname}</div>
+    <div>{octagonDebut}</div>
+    <div>{reach}</div>
+    <div>{trainsAt}</div>
+    <div>{weight}</div>
+    <div>{wins}</div>
+    <div class='image-container'>
+      <img
+        src={`/fighters/${athlete}.webp`}
+        alt='Peleador'
+      />
+    </div>
+  </main>
+</Layout>
+
+<style>
+  main {
+    display: flex;
+    flex-direction: column;
+    gap: -var(--size-spacing-2);
+  }
+  h1 {
+    font-size: 3rem;
+  }
+  a {
+    font-weight: 600;
+    width: fit-content;
+  }
+  .image-container {
+    height: 300px;
+  }
+  img {
+    aspect-ratio: 460 / 700;
+  }
+</style>

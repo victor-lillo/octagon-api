@@ -1,0 +1,34 @@
+---
+import Layout from '../../layouts/Layout.astro'
+import data from '../../../db/fighters.json'
+
+interface Props {
+  athlete: string
+}
+
+const navigationLinks = Object.keys(data).map((fighterId) => {
+  return { route: `athlete/${fighterId}`, label: fighterId }
+})
+---
+
+<Layout title='Athlete index | UFC API'>
+  <main>
+    <a href='/'>Return to home</a>
+    <h1>Athlete list</h1>
+    <ul>
+      {
+        navigationLinks.map(({ route, label }) => (
+          <li>
+            <a href={route}>{label}</a>
+          </li>
+        ))
+      }
+    </ul>
+  </main>
+</Layout>
+
+<style>
+  h1 {
+    font-size: 3rem;
+  }
+</style>

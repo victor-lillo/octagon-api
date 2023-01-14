@@ -11,6 +11,7 @@ const getFighterInfo = async ({ id, selectors, url }) => {
     nickname: nickname_,
   } = selectors
 
+  // TODO get the fighter name
   console.log(`Scraping ${id} web page`)
   const $ = await scrape(url)
   const imgUrl = $.querySelector(image).getAttribute('src')
