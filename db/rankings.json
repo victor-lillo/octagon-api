@@ -1,7 +1,10 @@
 [
   {
     "category": "Men's Pound-for-Pound Top Rank",
-    "champion": "Alexander Volkanovski",
+    "champion": {
+      "id": "alexander-volkanovski",
+      "championName": "Alexander Volkanovski"
+    },
     "fighters": [
       {
         "id": "alexander-volkanovski",
@@ -82,7 +85,10 @@
   },
   {
     "category": "Flyweight",
-    "champion": "Deiveson Figueiredo",
+    "champion": {
+      "id": "deiveson-figueiredo",
+      "championName": "Deiveson Figueiredo"
+    },
     "fighters": [
       {
         "id": "deiveson-figueiredo",
@@ -155,9 +161,9 @@
         "url": "https://www.ufc.com/athlete/jeffrey-molina"
       },
       {
-        "id": "muhammad-mokaev",
+        "id": "liana-dzhodzhua-0",
         "name": "Muhammad Mokaev",
-        "url": "https://www.ufc.com/athlete/muhammad-mokaev"
+        "url": "https://www.ufc.com/athlete/liana-dzhodzhua-0"
       },
       {
         "id": "tagir-ulanbekov",
@@ -168,7 +174,10 @@
   },
   {
     "category": "Bantamweight",
-    "champion": "Aljamain Sterling",
+    "champion": {
+      "id": "aljamain-sterling",
+      "championName": "Aljamain Sterling"
+    },
     "fighters": [
       {
         "id": "aljamain-sterling",
@@ -254,7 +263,10 @@
   },
   {
     "category": "Featherweight",
-    "champion": "Alexander Volkanovski",
+    "champion": {
+      "id": "alexander-volkanovski",
+      "championName": "Alexander Volkanovski"
+    },
     "fighters": [
       {
         "id": "alexander-volkanovski",
@@ -340,7 +352,10 @@
   },
   {
     "category": "Lightweight",
-    "champion": "Islam Makhachev",
+    "champion": {
+      "id": "islam-makhachev",
+      "championName": "Islam Makhachev"
+    },
     "fighters": [
       {
         "id": "islam-makhachev",
@@ -426,7 +441,10 @@
   },
   {
     "category": "Welterweight",
-    "champion": "Leon Edwards",
+    "champion": {
+      "id": "leon-edwards",
+      "championName": "Leon Edwards"
+    },
     "fighters": [
       {
         "id": "leon-edwards",
@@ -512,7 +530,10 @@
   },
   {
     "category": "Middleweight",
-    "champion": "Alex Pereira",
+    "champion": {
+      "id": "alex-pereira",
+      "championName": "Alex Pereira"
+    },
     "fighters": [
       {
         "id": "alex-pereira",
@@ -598,7 +619,10 @@
   },
   {
     "category": "Light Heavyweight",
-    "champion": "",
+    "champion": {
+      "id": "",
+      "championName": ""
+    },
     "fighters": [
       {
         "id": "jiri-prochazka",
@@ -679,7 +703,10 @@
   },
   {
     "category": "Heavyweight",
-    "champion": "Francis Ngannou",
+    "champion": {
+      "id": "francis-ngannou",
+      "championName": "Francis Ngannou"
+    },
     "fighters": [
       {
         "id": "francis-ngannou",
@@ -765,7 +792,10 @@
   },
   {
     "category": "Women's Pound-for-Pound Top Rank",
-    "champion": "Amanda Nunes",
+    "champion": {
+      "id": "amanda-nunes",
+      "championName": "Amanda Nunes"
+    },
     "fighters": [
       {
         "id": "amanda-nunes",
@@ -846,7 +876,10 @@
   },
   {
     "category": "Women's Strawweight",
-    "champion": "Zhang Weili",
+    "champion": {
+      "id": "weili-zhang",
+      "championName": "Zhang Weili"
+    },
     "fighters": [
       {
         "id": "weili-zhang",
@@ -932,7 +965,10 @@
   },
   {
     "category": "Women's Flyweight",
-    "champion": "Valentina Shevchenko",
+    "champion": {
+      "id": "valentina-shevchenko",
+      "championName": "Valentina Shevchenko"
+    },
     "fighters": [
       {
         "id": "valentina-shevchenko",
@@ -1018,7 +1054,10 @@
   },
   {
     "category": "Women's Bantamweight",
-    "champion": "Amanda Nunes",
+    "champion": {
+      "id": "amanda-nunes",
+      "championName": "Amanda Nunes"
+    },
     "fighters": [
       {
         "id": "amanda-nunes",
@@ -1104,7 +1143,10 @@
   },
   {
     "category": "Women's Featherweight",
-    "champion": "Amanda Nunes",
+    "champion": {
+      "id": "amanda-nunes",
+      "championName": "Amanda Nunes"
+    },
     "fighters": [
       {
         "id": "amanda-nunes",

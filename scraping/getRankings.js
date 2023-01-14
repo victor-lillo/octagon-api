@@ -15,6 +15,9 @@ const SELECTORS = {
   champion: '.rankings--athlete--champion .views-row a',
   fighterRows: '.views-row',
 }
+const getSlugFromUrl = (url) => {
+  return url.split('/').at(-1)
+}
 
 async function getRankings() {
   const $ = await scrape(RANKINGS_URL)
@@ -23,18 +26,22 @@ async function getRankings() {
   // Recorremos el nodeElement tables (que son todos los que coinciden con nuestra búsqueda)
   const data = $tables.map(($el) => {
     const category = $el.querySelector(SELECTORS.category).textContent
-    const champion = $el.querySelector(SELECTORS.champion)
-      ? $el.querySelector(SELECTORS.champion).textContent
+    const championNode = $el.querySelector(SELECTORS.champion)
+      ? $el.querySelector(SELECTORS.champion)
       : ''
+    const championName = championNode ? championNode.textContent : ''
+    const championId = championNode ? getSlugFromUrl(championNode.getAttribute('href')) : ''
 
     const rankedsNodeElements = $el.querySelectorAll(SELECTORS.fighterRows)
     const fighters = rankedsNodeElements.map(($element) => {
       const relativeFighterUrl = $element.querySelector('a').getAttribute('href')
-      const id = relativeFighterUrl.split('/').at(-1)
+      const id = getSlugFromUrl(relativeFighterUrl)
       const url = BASE_URL + relativeFighterUrl
       const name = cleanString($element.textContent)
       return { id, name, url }
     })
+
+    const champion = { id: championId, championName }
 
     return { category, champion, fighters }
   })
