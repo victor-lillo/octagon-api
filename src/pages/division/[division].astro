@@ -22,23 +22,23 @@ const { categoryName, championId, championName, fighters } = Astro.props
 
 <Layout title={`${categoryName} | UFC API`}>
   <main>
-    <a href='/'>Return to home</a>
-    <a href='/division'>Return to division index</a>
-    <h1>Division: {division}</h1>
-    <div>{categoryName}</div>
+    <h1>Division: {categoryName}</h1>
+
     <h3>
       Current champion:
       <a href={`/athlete/${championId}`}>{championName}</a>
     </h3>
 
     <h2>List of fighters</h2>
-    {
-      fighters.map(({ id, name }, index) => (
-        <div class='card'>
-          {index === 0 ? '👑' : index} <a href={`/athlete/${id}`}>{name}</a>
-        </div>
-      ))
-    }
+    <ul>
+      {
+        fighters.map(({ id, name }, index) => (
+          <li class='card'>
+            <span>{index === 0 ? '👑' : index}</span> <a href={`/athlete/${id}`}>{name}</a>
+          </li>
+        ))
+      }
+    </ul>
   </main>
 </Layout>
 
@@ -61,7 +61,19 @@ const { categoryName, championId, championName, fighters } = Astro.props
   img {
     aspect-ratio: 460 / 700;
   }
-  .card {
-    background-color: aliceblue;
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    list-style: none;
+  }
+  li {
+    font-size: 1.4rem;
+  }
+  li span {
+    display: inline-block;
+    text-align: center;
+    width: 4ch;
+    color: rgb(33, 0, 132);
   }
 </style>

@@ -13,7 +13,6 @@ const navigationLinks = data.map(({ id, categoryName }) => {
 
 <Layout title='Divisions index | UFC API'>
   <main>
-    <a href='/'>Return to home</a>
     <h1>Divisions list</h1>
     <ul>
       {
@@ -30,5 +29,15 @@ const navigationLinks = data.map(({ id, categoryName }) => {
 <style>
   h1 {
     font-size: 3rem;
+  }
+
+  ul {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    list-style: none;
+  }
+  li {
+    font-size: 1.4rem;
   }
 </style>

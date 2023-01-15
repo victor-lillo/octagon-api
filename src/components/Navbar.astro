@@ -1,0 +1,64 @@
+---
+const navigationLinks = [
+  {
+    label: 'Athletes',
+    route: '/athlete',
+  },
+  {
+    label: 'Divisions',
+    route: '/division',
+  },
+  {
+    label: 'About',
+    route: '/about',
+  },
+]
+---
+
+<header class='navbar'>
+  <nav class='navbar__container'>
+    <a href='/'>
+      <img
+        class='logo'
+        src='/favicon.svg'
+        alt='logo'
+      />
+    </a>
+    {
+      navigationLinks.map(({ label, route }) => (
+        <a
+          class='navbar__anchor'
+          href={route}
+        >
+          {label}
+        </a>
+      ))
+    }
+  </nav>
+</header>
+<style>
+  .navbar {
+    padding: 1rem 0;
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+    position: sticky;
+    transform: scaleZ(1);
+    top: 0;
+    backdrop-filter: blur(10px);
+  }
+  .navbar__container {
+    width: var(--section-width);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  }
+  .navbar__anchor {
+    font-size: 1.4rem;
+  }
+
+  .logo {
+    height: 3rem;
+    width: auto;
+  }
+</style>
