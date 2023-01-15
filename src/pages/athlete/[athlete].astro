@@ -36,22 +36,28 @@ const {
 
 <Layout title={`${athlete} | UFC API`}>
   <main>
-    <h1>Athlete: {athlete}</h1>
-    <h2>Age: {age}</h2>
-    <div>{age}</div>
-    <div>{category}</div>
-    <div>{draws}</div>
-    <div>{fightingStyle}</div>
-    <div>{height}</div>
-    <div>{hometown}</div>
-    <div>{legReach}</div>
-    <div>{losses}</div>
-    <div>{nickname}</div>
-    <div>{octagonDebut}</div>
-    <div>{reach}</div>
-    <div>{trainsAt}</div>
-    <div>{weight}</div>
-    <div>{wins}</div>
+    <h1>{athlete}</h1>
+    {nickname ? <h2>"{nickname}"</h2> : null}
+    <section>
+      <div class='data-container'><span>Age:</span> {age}</div>
+      <div class='data-container'><span>Category:</span> {category}</div>
+      <div class='data-container'><span>Fighting style:</span> {fightingStyle}</div>
+      <div class='data-container'><span>Height:</span> {height}</div>
+      <div class='data-container'><span>Hometown:</span> {hometown}</div>
+      <div class='data-container'>
+        <span>Record:</span>
+        <div>
+          <span class='record-wins'>{wins}</span> - <span class='record-losses'>{losses}</span> - <span
+            class='record-draws'>{draws}</span
+          >
+        </div>
+      </div>
+      <div class='data-container'><span>Debut:</span> {octagonDebut}</div>
+      <div class='data-container'><span>Reach:</span> {reach}</div>
+      <div class='data-container'><span>Leg reach:</span> {legReach}</div>
+      <div class='data-container'><span>Gym:</span> {trainsAt}</div>
+      <div class='data-container'><span>Weight:</span> {weight}</div>
+    </section>
     <div class='image-container'>
       <img
         src={`/fighters/${athlete}.webp`}
@@ -65,14 +71,32 @@ const {
   main {
     display: flex;
     flex-direction: column;
-    gap: -var(--size-spacing-2);
   }
   h1 {
     font-size: 3rem;
   }
+  h2 {
+    font-size: 2rem;
+    color: #333;
+  }
   a {
     font-weight: 600;
     width: fit-content;
+  }
+  section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
+  .data-container {
+    font-size: 1.3rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+  }
+  .data-container span {
+    color: #222;
+    font-weight: 600;
   }
   .image-container {
     height: 300px;
