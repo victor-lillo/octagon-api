@@ -8,14 +8,22 @@
     "start": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "api:dev": "wrangler dev api/index.js",
+    "api:publish": "wrangler publish api/index.js"
   },
   "dependencies": {
-    "@astrojs/image": "^0.12.1",
-    "astro": "^1.9.0",
-    "axios": "^1.2.2",
-    "node-html-parser": "^6.1.4",
-    "picocolors": "^1.0.0",
-    "sharp": "^0.31.3"
+    "@astrojs/image": "0.12.1",
+    "astro": "1.9.0",
+    "axios": "1.2.2",
+    "hono": "2.7.2",
+    "node-html-parser": "6.1.4",
+    "picocolors": "1.0.0",
+    "sharp": "0.31.3"
+  },
+  "devDependencies": {
+    "@cloudflare/workers-types": "4.20221111.1",
+    "vitest": "0.27.1",
+    "wrangler": "2.7.1"
   }
 }
