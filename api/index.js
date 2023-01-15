@@ -1,7 +1,7 @@
 import { Hono } from 'hono'
 
-import fighters from '../db/fighters.json'
-import rankings from '../db/rankings.json'
+import fighters from '@db/fighters.json'
+import rankings from '@db/rankings.json'
 
 const app = new Hono()
 app.get('/', (context) => context.text('Welcome to the unofficial UFC API'))
