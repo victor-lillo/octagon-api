@@ -24,11 +24,6 @@ const { categoryName, championId, championName, fighters } = Astro.props
   <main>
     <h1>Division: {categoryName}</h1>
 
-    <h3>
-      Current champion:
-      <a href={`/athlete/${championId}`}>{championName}</a>
-    </h3>
-
     <h2>List of fighters</h2>
     <ul>
       {
