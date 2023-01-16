@@ -14,11 +14,12 @@ const FIGHTERS_IMAGE_FOLDER = 'fighters'
 const FIGHTERS_DB_NAME = FIGHTERS_IMAGE_FOLDER
 const REQUEST_DELAY = 1000 * 3
 const SELECTORS = {
+  age: '.field--name-age',
   bio_field: '.c-bio__label',
   category: '.hero-profile__division-title',
   image: '.hero-profile__image',
+  name: '.hero-profile__name',
   nickname: '.hero-profile__nickname',
-  age: '.field--name-age',
   record: '.hero-profile__division-body',
 }
 
@@ -31,7 +32,7 @@ async function getFigthers() {
     for (const { id, url } of fighters) {
       logInfo(`Checking ${id} image...`)
 
-      const dataObj = await getFighterInfo({
+      const fighterData = await getFighterInfo({
         id,
         url,
         selectors: SELECTORS,
@@ -50,10 +51,10 @@ async function getFigthers() {
           baseFolder: BASE_IMAGE_FOLDER,
           fileName: id,
           folder: FIGHTERS_IMAGE_FOLDER,
-          url: imgUrl,
+          url: fighterData.imgUrl,
         })
 
-      fighter_data[id] = { ...dataObj }
+      fighter_data[id] = { ...fighterData }
 
       await writeDBFile(FIGHTERS_DB_NAME, fighter_data)
       logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
