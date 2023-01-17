@@ -14,7 +14,6 @@ const FIGHTERS_IMAGE_FOLDER = 'fighters'
 const FIGHTERS_DB_NAME = FIGHTERS_IMAGE_FOLDER
 const REQUEST_DELAY = 1000 * 3
 const SELECTORS = {
-  age: '.field--name-age',
   bio_field: '.c-bio__label',
   category: '.hero-profile__division-title',
   image: '.hero-profile__image',

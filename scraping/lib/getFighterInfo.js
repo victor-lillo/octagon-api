@@ -3,7 +3,6 @@ import scrape from './scrape.js'
 
 const getFighterInfo = async ({ id, selectors, url }) => {
   const {
-    age: age_,
     bio_field,
     category: category_,
     image,
@@ -22,7 +21,6 @@ const getFighterInfo = async ({ id, selectors, url }) => {
   const raw_record = $.querySelector(record).textContent
   const [wins, losses, draws] = raw_record.split(' ')[0].split('-')
   const category = $.querySelector(category_).textContent
-  const age = cleanString($.querySelector(age_).textContent)
 
   const obj = {}
   const bio_fields = $.querySelectorAll(bio_field)
