@@ -1,5 +1,6 @@
 ---
 import Layout from '@layouts/Layout.astro'
+import ScoreChart from '@components/ScoreChart.astro'
 import data from '@db/fighters.json'
 
 interface Props {
@@ -39,36 +40,48 @@ const {
   <main>
     <h1>{name}</h1>
     {nickname ? <h2>"{nickname}"</h2> : null}
-    <section>
-      <div class='data-container'><span>Age:</span> {age}</div>
-      <div class='data-container'><span>Category:</span> {category}</div>
-      <div class='data-container'><span>Fighting style:</span> {fightingStyle}</div>
-      <div class='data-container'><span>Height:</span> {height}</div>
-      <div class='data-container'><span>Hometown:</span> {hometown}</div>
-      <div class='data-container'>
-        <span>Record:</span>
-        <div>
-          <span class='record-wins'>{wins}</span> - <span class='record-losses'>{losses}</span> - <span
-            class='record-draws'>{draws}</span
-          >
-        </div>
-      </div>
-      <div class='data-container'><span>Debut:</span> {octagonDebut}</div>
-      <div class='data-container'><span>Reach:</span> {reach}</div>
-      <div class='data-container'><span>Leg reach:</span> {legReach}</div>
-      <div class='data-container'><span>Gym:</span> {trainsAt}</div>
-      <div class='data-container'><span>Weight:</span> {weight}</div>
-    </section>
-    <div class='image-container'>
+    <section class='record-board-container'>
       <img
         src={`/fighters/${athlete}.webp`}
         alt='Peleador'
       />
-    </div>
+      <ScoreChart
+        wins={wins}
+        losses={losses}
+        draws={draws}
+      />
+    </section>
+    <div class='data-container'><span>Age:</span> {age}</div>
+    <div class='data-container'><span>Category:</span> {category}</div>
+    <div class='data-container'><span>Fighting style:</span> {fightingStyle}</div>
+    <div class='data-container'><span>Height:</span> {height}</div>
+    <div class='data-container'><span>Hometown:</span> {hometown}</div>
+    <div class='data-container'><span>Debut:</span> {octagonDebut}</div>
+    <div class='data-container'><span>Reach:</span> {reach}</div>
+    <div class='data-container'><span>Leg reach:</span> {legReach}</div>
+    <div class='data-container'><span>Gym:</span> {trainsAt}</div>
+    <div class='data-container'><span>Weight:</span> {weight}</div>
   </main>
 </Layout>
 
 <style>
+  .record-board-container {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.7rem;
+    flex-direction: row;
+
+    padding: 1rem;
+    padding-bottom: 0;
+    border-radius: 5px;
+    background: #1c0674;
+    background: linear-gradient(45deg, #1c0674 0%, #de2da2 100%);
+  }
+  section {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+  }
   main {
     display: flex;
     flex-direction: column;
@@ -84,11 +97,7 @@ const {
     font-weight: 600;
     width: fit-content;
   }
-  section {
-    display: flex;
-    flex-direction: column;
-    gap: 0.7rem;
-  }
+
   .data-container {
     font-size: 1.3rem;
     display: flex;
@@ -99,10 +108,15 @@ const {
     color: #222;
     font-weight: 600;
   }
-  .image-container {
-    height: 300px;
-  }
+
   img {
     aspect-ratio: 460 / 700;
+    width: 150px;
+  }
+
+  @media only screen and (min-width: 768px) {
+    img {
+      width: 270px;
+    }
   }
 </style>
