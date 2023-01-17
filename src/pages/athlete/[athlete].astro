@@ -53,7 +53,13 @@ const {
     </section>
     <div class='data-container'><span>Age:</span> {age}</div>
     <div class='data-container'><span>Category:</span> {category}</div>
-    <div class='data-container'><span>Fighting style:</span> {fightingStyle}</div>
+    {
+      fightingStyle ? (
+        <div class='data-container'>
+          <span>Fighting style:</span> {fightingStyle}
+        </div>
+      ) : null
+    }
     <div class='data-container'><span>Height:</span> {height}</div>
     <div class='data-container'><span>Hometown:</span> {hometown}</div>
     <div class='data-container'><span>Debut:</span> {octagonDebut}</div>
