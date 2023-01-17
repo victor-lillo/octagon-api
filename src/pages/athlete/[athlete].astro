@@ -25,6 +25,7 @@ const {
   hometown,
   legReach,
   losses,
+  name,
   nickname,
   octagonDebut,
   reach,
@@ -36,7 +37,7 @@ const {
 
 <Layout title={`${athlete} | UFC API`}>
   <main>
-    <h1>{athlete}</h1>
+    <h1>{name}</h1>
     {nickname ? <h2>"{nickname}"</h2> : null}
     <section>
       <div class='data-container'><span>Age:</span> {age}</div>
