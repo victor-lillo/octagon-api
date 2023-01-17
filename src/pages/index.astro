@@ -7,7 +7,6 @@ import data from '@db/rankings.json'
 <Layout title='UFC API'>
   <main>
     <h1>Welcome to <span class='text-gradient'>UFC API</span></h1>
-
     <h2>Categories</h2>
     <section>
       {
@@ -20,13 +19,11 @@ import data from '@db/rankings.json'
               <a href={`/division/${id}`}>
                 <h1 class='card__title'>{categoryName}</h1>
                 <h2 class='card__subtitle'>👑 {championName}</h2>
-                <div class='image-container'>
-                  <img
-                    src={`/fighters/${imgPath}`}
-                    alt='Peleador'
-                    loading='lazy'
-                  />
-                </div>
+                <img
+                  src={`/fighters/${imgPath}`}
+                  alt='Peleador'
+                  loading='lazy'
+                />
               </a>
             </div>
           )
@@ -37,40 +34,35 @@ import data from '@db/rankings.json'
 </Layout>
 
 <style>
-  ul {
-    list-style: none;
-  }
-  .link {
-    color: purple;
-    font-weight: 600;
-    font-size: 1.3rem;
-  }
   section {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
   }
+
   .card {
-    padding: 1rem;
+    padding: 1rem 1rem 0 1rem;
     background-color: rgb(211, 233, 241);
-    width: fit-content;
     border-radius: 8px;
   }
 
   .card a {
     display: flex;
     flex-direction: column;
+    align-items: center;
     gap: 1rem;
   }
 
   .card__title {
     color: black;
   }
+
   .card__subtitle {
     color: rgb(126, 126, 126);
   }
+
   img {
-    width: 400px;
+    width: 200px;
   }
 </style>
 <script is:inline>
