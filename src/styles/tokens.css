@@ -18,6 +18,7 @@
 /* Colors */
 :root {
   color-scheme: light;
+  --color-gradient-1: linear-gradient(45deg, #001219 0%, #005668 100%);
   --color-dark-1: #222222;
   --color-dark-2: #444444;
   --color-dark-3: #666666;
