@@ -1,0 +1,43 @@
+---
+import ScoreChart from './ScoreChart.astro'
+
+const { athlete, losses, draws, wins } = Astro.props
+---
+
+<section>
+  <img
+    src={`/fighters/${athlete}.webp`}
+    alt='Peleador'
+  />
+  <ScoreChart
+    wins={wins}
+    losses={losses}
+    draws={draws}
+  />
+</section>
+
+<style>
+  section {
+    display: flex;
+    justify-content: space-between;
+    gap: 0.7rem;
+    flex-direction: row;
+
+    padding: 1rem;
+    padding-bottom: 0;
+    border-radius: 5px;
+    background: #001219;
+    background: linear-gradient(45deg, #001219 0%, #005668 100%);
+  }
+
+  img {
+    aspect-ratio: 460 / 700;
+    width: 150px;
+  }
+
+  @media only screen and (min-width: 768px) {
+    img {
+      width: 270px;
+    }
+  }
+</style>

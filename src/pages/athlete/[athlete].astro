@@ -1,6 +1,7 @@
 ---
 import Layout from '@layouts/Layout.astro'
 import ScoreChart from '@components/ScoreChart.astro'
+import FighterScoreCard from '@components/FighterScoreCard.astro'
 import data from '@db/fighters.json'
 
 interface Props {
@@ -40,17 +41,14 @@ const {
   <main>
     <h1>{name}</h1>
     {nickname ? <h2>"{nickname}"</h2> : null}
-    <section class='record-board-container'>
-      <img
-        src={`/fighters/${athlete}.webp`}
-        alt='Peleador'
-      />
-      <ScoreChart
-        wins={wins}
-        losses={losses}
-        draws={draws}
-      />
-    </section>
+
+    <FighterScoreCard
+      athlete={athlete}
+      wins={wins}
+      losses={losses}
+      draws={draws}
+    />
+
     <div class='data-container'><span>Age:</span> {age}</div>
     <div class='data-container'><span>Category:</span> {category}</div>
     {
@@ -71,18 +69,6 @@ const {
 </Layout>
 
 <style>
-  .record-board-container {
-    display: flex;
-    justify-content: space-between;
-    gap: 0.7rem;
-    flex-direction: row;
-
-    padding: 1rem;
-    padding-bottom: 0;
-    border-radius: 5px;
-    background: #001219;
-    background: linear-gradient(45deg, #001219 0%, #005668 100%);
-  }
   section {
     display: flex;
     flex-direction: column;
@@ -113,16 +99,5 @@ const {
   .data-container span {
     color: #222;
     font-weight: 600;
-  }
-
-  img {
-    aspect-ratio: 460 / 700;
-    width: 150px;
-  }
-
-  @media only screen and (min-width: 768px) {
-    img {
-      width: 270px;
-    }
   }
 </style>
