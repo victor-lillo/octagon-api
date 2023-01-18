@@ -1,44 +1,17 @@
 ---
 import Layout from '@layouts/Layout.astro'
-import data from '@db/rankings.json'
-
-interface Props {
-  athlete: string
-}
-
-const navigationLinks = data.map(({ id, categoryName }) => {
-  return { route: `division/${id}`, label: categoryName }
-})
+import LinkGrid from '@components/LinkGrid.astro'
 ---
 
 <Layout title='Divisions | UFC API'>
   <main>
     <h1>Divisions list</h1>
-    <ul>
-      {
-        navigationLinks.map(({ route, label }) => (
-          <li>
-            <a href={route}>{label}</a>
-          </li>
-        ))
-      }
-    </ul>
+    <LinkGrid />
   </main>
 </Layout>
 
 <style>
   h1 {
     font-size: 3rem;
-  }
-
-  ul {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    list-style: none;
-  }
-
-  li {
-    font-size: 1.4rem;
   }
 </style>
