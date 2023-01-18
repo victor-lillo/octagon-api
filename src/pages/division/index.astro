@@ -5,13 +5,23 @@ import LinkGrid from '@components/LinkGrid.astro'
 
 <Layout title='Divisions | UFC API'>
   <main>
-    <h1>Divisions list</h1>
+    <section>
+      <h1>Divisions</h1>
+      <h2>Men's and women's rankings</h2>
+    </section>
     <LinkGrid />
   </main>
 </Layout>
 
 <style>
+  section {
+    text-align: center;
+  }
   h1 {
     font-size: 3rem;
+    color: #001c22;
+  }
+  h2 {
+    color: #00303a;
   }
 </style>
