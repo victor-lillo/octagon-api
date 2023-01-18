@@ -1,4 +1,6 @@
 ---
+import Logo from './Logo.astro'
+
 const navigationLinks = [
   {
     label: 'Athletes',
@@ -18,11 +20,7 @@ const navigationLinks = [
 <header class='navbar'>
   <nav class='navbar__container'>
     <a href='/'>
-      <img
-        class='logo'
-        src='/favicon.svg'
-        alt='logo'
-      />
+      <Logo />
     </a>
     {
       navigationLinks.map(({ label, route }) => (
