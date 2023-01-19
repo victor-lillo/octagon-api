@@ -1,3 +1,3 @@
-name = "ufc-project"
+name = "octogon-api"
 main = "api/index.js"
 compatibility_date = "2023-01-14"
