@@ -67,4 +67,4 @@ async function getFigthers() {
   logSuccess(`Task finished in ${time}`)
 }
 
-await getFigthers()
+export default getFigthers

@@ -10,7 +10,8 @@
     "preview": "astro preview",
     "astro": "astro",
     "api:dev": "wrangler dev api/index.js",
-    "api:publish": "wrangler publish api/index.js"
+    "api:publish": "wrangler publish api/index.js",
+    "scrape": "node scraping"
   },
   "dependencies": {
     "@astrojs/image": "0.12.1",

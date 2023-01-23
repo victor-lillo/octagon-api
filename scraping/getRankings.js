@@ -51,4 +51,4 @@ async function getRankings() {
   logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json`)
 }
 
-await getRankings()
+export default getRankings
