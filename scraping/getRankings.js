@@ -48,7 +48,7 @@ async function getRankings() {
   })
 
   await writeDBFile(RANKINGS_DB_NAME, data)
-  logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json`)
+  logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
 }
 
 export default getRankings
