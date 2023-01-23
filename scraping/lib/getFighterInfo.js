@@ -33,7 +33,6 @@ const getFighterInfo = async ({ id, selectors, url }) => {
   return {
     name,
     nickname,
-    age,
     category,
     wins,
     draws,
