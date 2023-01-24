@@ -11,7 +11,9 @@
     "astro": "astro",
     "api:dev": "wrangler dev api/index.js",
     "api:publish": "wrangler publish api/index.js",
-    "scrape": "node scraping"
+    "scrape": "node scraping",
+    "scrape:fighter": "node scraping/services/getOneFighter.js",
+    "scrape:rankings": "node scraping/services/getOnlyRankings.js"
   },
   "dependencies": {
     "@astrojs/image": "0.12.1",

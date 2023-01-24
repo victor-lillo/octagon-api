@@ -1,0 +1,32 @@
+import scrapeFighterInfo from '../lib/scrapeFighterInfo.js'
+import { readDBFile } from '../lib/db.js'
+import { logError, logSuccess } from '../lib/log.js'
+import timeFormatter from '../lib/timeFormatter.js'
+
+const run = async () => {
+  const start = performance.now()
+  const ARG_SELECTOR = '--'
+  const firstArg = process.argv.find((el) => el.startsWith(ARG_SELECTOR))
+
+  // Guard clause 1
+  if (!firstArg) {
+    logError('Introduce un argumento correcto, crack')
+    return
+  }
+  const fighterId = firstArg.replace(ARG_SELECTOR, '')
+  const FIGHTER_DATA = await readDBFile('fighters')
+
+  // Guard clause 2
+  if (!FIGHTER_DATA[fighterId]) {
+    logError(`El peleador '${fighterId}' no existe`)
+    return
+  }
+  const end = performance.now()
+  const time = timeFormatter(end - start)
+
+  await scrapeFighterInfo(fighterId)
+  console.log('')
+  logSuccess(`Task finished in ${time}`)
+}
+
+run()

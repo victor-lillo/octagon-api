@@ -9,78 +9,63 @@
     "fighters": [
       {
         "id": "alexander-volkanovski",
-        "name": "Alexander Volkanovski",
-        "url": "https://www.ufc.com/athlete/alexander-volkanovski"
+        "name": "Alexander Volkanovski"
       },
       {
         "id": "islam-makhachev",
-        "name": "Islam Makhachev",
-        "url": "https://www.ufc.com/athlete/islam-makhachev"
+        "name": "Islam Makhachev"
       },
       {
         "id": "leon-edwards",
-        "name": "Leon Edwards",
-        "url": "https://www.ufc.com/athlete/leon-edwards"
+        "name": "Leon Edwards"
       },
       {
         "id": "kamaru-usman",
-        "name": "Kamaru Usman",
-        "url": "https://www.ufc.com/athlete/kamaru-usman"
+        "name": "Kamaru Usman"
       },
       {
         "id": "israel-adesanya",
-        "name": "Israel Adesanya",
-        "url": "https://www.ufc.com/athlete/israel-adesanya"
+        "name": "Israel Adesanya"
       },
       {
         "id": "alex-pereira",
-        "name": "Alex Pereira",
-        "url": "https://www.ufc.com/athlete/alex-pereira"
+        "name": "Alex Pereira"
       },
       {
         "id": "charles-oliveira",
-        "name": "Charles Oliveira",
-        "url": "https://www.ufc.com/athlete/charles-oliveira"
+        "name": "Charles Oliveira"
       },
       {
         "id": "aljamain-sterling",
-        "name": "Aljamain Sterling",
-        "url": "https://www.ufc.com/athlete/aljamain-sterling"
-      },
-      {
-        "id": "jiri-prochazka",
-        "name": "Jiří Procházka",
-        "url": "https://www.ufc.com/athlete/jiri-prochazka"
-      },
-      {
-        "id": "deiveson-figueiredo",
-        "name": "Deiveson Figueiredo",
-        "url": "https://www.ufc.com/athlete/deiveson-figueiredo"
-      },
-      {
-        "id": "dustin-poirier",
-        "name": "Dustin Poirier",
-        "url": "https://www.ufc.com/athlete/dustin-poirier"
-      },
-      {
-        "id": "jon-jones",
-        "name": "Jon Jones",
-        "url": "https://www.ufc.com/athlete/jon-jones"
-      },
-      {
-        "id": "robert-whittaker",
-        "name": "Robert Whittaker",
-        "url": "https://www.ufc.com/athlete/robert-whittaker"
-      },
-      {
-        "id": "max-holloway",
-        "name": "Max Holloway",
-        "url": "https://www.ufc.com/athlete/max-holloway"
+        "name": "Aljamain Sterling"
       },
       {
         "id": "brandon-moreno",
-        "name": "Brandon Moreno",
-        "url": "https://www.ufc.com/athlete/brandon-moreno"
+        "name": "Brandon Moreno"
+      },
+      {
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
+      },
+      {
+        "id": "jon-jones",
+        "name": "Jon Jones"
+      },
+      {
+        "id": "dustin-poirier",
+        "name": "Dustin Poirier"
+      },
+      {
+        "id": "jamahal-hill",
+        "name": "Jamahal Hill"
+      },
+      {
+        "id": "robert-whittaker",
+        "name": "Robert Whittaker"
+      },
+      {
+        "id": "deiveson-figueiredo",
+        "name": "Deiveson Figueiredo"
       }
     ]
   },
@@ -88,89 +73,73 @@
     "id": "flyweight",
     "categoryName": "Flyweight",
     "champion": {
-      "id": "deiveson-figueiredo",
-      "championName": "Deiveson Figueiredo"
+      "id": "brandon-moreno",
+      "championName": "Brandon Moreno"
     },
     "fighters": [
       {
-        "id": "deiveson-figueiredo",
-        "name": "Deiveson Figueiredo",
-        "url": "https://www.ufc.com/athlete/deiveson-figueiredo"
+        "id": "brandon-moreno",
+        "name": "Brandon Moreno"
       },
       {
-        "id": "brandon-moreno",
-        "name": "Brandon Moreno",
-        "url": "https://www.ufc.com/athlete/brandon-moreno"
+        "id": "deiveson-figueiredo",
+        "name": "Deiveson Figueiredo"
       },
       {
         "id": "alexandre-pantoja",
-        "name": "Alexandre Pantoja",
-        "url": "https://www.ufc.com/athlete/alexandre-pantoja"
+        "name": "Alexandre Pantoja"
       },
       {
         "id": "kai-kara-france",
-        "name": "Kai Kara-France",
-        "url": "https://www.ufc.com/athlete/kai-kara-france"
+        "name": "Kai Kara-France"
       },
       {
         "id": "brandon-royval",
-        "name": "Brandon Royval",
-        "url": "https://www.ufc.com/athlete/brandon-royval"
+        "name": "Brandon Royval"
       },
       {
         "id": "matheus-nicolau",
-        "name": "Matheus Nicolau",
-        "url": "https://www.ufc.com/athlete/matheus-nicolau"
+        "name": "Matheus Nicolau"
       },
       {
         "id": "alex-perez",
-        "name": "Alex Perez",
-        "url": "https://www.ufc.com/athlete/alex-perez"
+        "name": "Alex Perez"
       },
       {
         "id": "amir-albazi",
-        "name": "Amir Albazi",
-        "url": "https://www.ufc.com/athlete/amir-albazi"
+        "name": "Amir Albazi"
       },
       {
         "id": "matt-schnell",
-        "name": "Matt Schnell",
-        "url": "https://www.ufc.com/athlete/matt-schnell"
+        "name": "Matt Schnell"
       },
       {
         "id": "manel-kape",
-        "name": "Manel Kape",
-        "url": "https://www.ufc.com/athlete/manel-kape"
+        "name": "Manel Kape"
       },
       {
         "id": "david-dvorak",
-        "name": "David Dvorak",
-        "url": "https://www.ufc.com/athlete/david-dvorak"
+        "name": "David Dvorak"
       },
       {
         "id": "tim-elliott",
-        "name": "Tim Elliott",
-        "url": "https://www.ufc.com/athlete/tim-elliott"
+        "name": "Tim Elliott"
+      },
+      {
+        "id": "muhammad-mokaev",
+        "name": "Muhammad Mokaev"
       },
       {
         "id": "su-mudaerji",
-        "name": "Sumudaerji",
-        "url": "https://www.ufc.com/athlete/su-mudaerji"
-      },
-      {
-        "id": "liana-dzhodzhua-0",
-        "name": "Muhammad Mokaev",
-        "url": "https://www.ufc.com/athlete/liana-dzhodzhua-0"
-      },
-      {
-        "id": "jeffrey-molina",
-        "name": "Jeffrey Molina",
-        "url": "https://www.ufc.com/athlete/jeffrey-molina"
+        "name": "Sumudaerji"
       },
       {
         "id": "tagir-ulanbekov",
-        "name": "Tagir Ulanbekov",
-        "url": "https://www.ufc.com/athlete/tagir-ulanbekov"
+        "name": "Tagir Ulanbekov"
+      },
+      {
+        "id": "tyson-nam",
+        "name": "Tyson Nam"
       }
     ]
   },
@@ -184,83 +153,67 @@
     "fighters": [
       {
         "id": "aljamain-sterling",
-        "name": "Aljamain Sterling",
-        "url": "https://www.ufc.com/athlete/aljamain-sterling"
+        "name": "Aljamain Sterling"
       },
       {
         "id": "sean-omalley",
-        "name": "Sean O'Malley",
-        "url": "https://www.ufc.com/athlete/sean-omalley"
+        "name": "Sean O'Malley"
       },
       {
         "id": "petr-yan",
-        "name": "Petr Yan",
-        "url": "https://www.ufc.com/athlete/petr-yan"
+        "name": "Petr Yan"
       },
       {
         "id": "merab-dvalishvili",
-        "name": "Merab Dvalishvili",
-        "url": "https://www.ufc.com/athlete/merab-dvalishvili"
+        "name": "Merab Dvalishvili"
       },
       {
         "id": "marlon-vera",
-        "name": "Marlon Vera",
-        "url": "https://www.ufc.com/athlete/marlon-vera"
+        "name": "Marlon Vera"
       },
       {
         "id": "cory-sandhagen",
-        "name": "Cory Sandhagen",
-        "url": "https://www.ufc.com/athlete/cory-sandhagen"
+        "name": "Cory Sandhagen"
       },
       {
         "id": "rob-font",
-        "name": "Rob Font",
-        "url": "https://www.ufc.com/athlete/rob-font"
+        "name": "Rob Font"
       },
       {
         "id": "dominick-cruz",
-        "name": "Dominick Cruz",
-        "url": "https://www.ufc.com/athlete/dominick-cruz"
+        "name": "Dominick Cruz"
       },
       {
         "id": "yadong-song",
-        "name": "Yadong Song",
-        "url": "https://www.ufc.com/athlete/yadong-song"
+        "name": "Yadong Song"
       },
       {
         "id": "pedro-munhoz",
-        "name": "Pedro Munhoz",
-        "url": "https://www.ufc.com/athlete/pedro-munhoz"
+        "name": "Pedro Munhoz"
       },
       {
         "id": "ricky-simon",
-        "name": "Ricky Simon",
-        "url": "https://www.ufc.com/athlete/ricky-simon"
+        "name": "Ricky Simon"
       },
       {
         "id": "umar-nurmagomedov",
-        "name": "Umar Nurmagomedov",
-        "url": "https://www.ufc.com/athlete/umar-nurmagomedov"
+        "name": "Umar Nurmagomedov"
       },
       {
         "id": "chris-gutierrez",
-        "name": "Chris Gutierrez",
-        "url": "https://www.ufc.com/athlete/chris-gutierrez"
+        "name": "Chris Gutierrez"
       },
       {
         "id": "adrian-yanez",
-        "name": "Adrian Yanez",
-        "url": "https://www.ufc.com/athlete/adrian-yanez"
+        "name": "Adrian Yanez"
       },
       {
         "id": "said-nurmagomedov",
-        "name": "Said Nurmagomedov",
-        "url": "https://www.ufc.com/athlete/said-nurmagomedov"
+        "name": "Said Nurmagomedov"
       },
       {
         "id": "jack-shore",
-        "name": "Jack Shore",
-        "url": "https://www.ufc.com/athlete/jack-shore"
+        "name": "Jack Shore"
       }
     ]
   },
@@ -274,83 +227,67 @@
     "fighters": [
       {
         "id": "alexander-volkanovski",
-        "name": "Alexander Volkanovski",
-        "url": "https://www.ufc.com/athlete/alexander-volkanovski"
+        "name": "Alexander Volkanovski"
       },
       {
         "id": "max-holloway",
-        "name": "Max Holloway",
-        "url": "https://www.ufc.com/athlete/max-holloway"
+        "name": "Max Holloway"
       },
       {
         "id": "yair-rodriguez",
-        "name": "Yair Rodriguez",
-        "url": "https://www.ufc.com/athlete/yair-rodriguez"
+        "name": "Yair Rodriguez"
       },
       {
         "id": "brian-ortega",
-        "name": "Brian Ortega",
-        "url": "https://www.ufc.com/athlete/brian-ortega"
+        "name": "Brian Ortega"
       },
       {
         "id": "arnold-allen",
-        "name": "Arnold Allen",
-        "url": "https://www.ufc.com/athlete/arnold-allen"
+        "name": "Arnold Allen"
       },
       {
         "id": "josh-emmett",
-        "name": "Josh Emmett",
-        "url": "https://www.ufc.com/athlete/josh-emmett"
+        "name": "Josh Emmett"
       },
       {
         "id": "chan-sung-jung",
-        "name": "Chan Sung Jung",
-        "url": "https://www.ufc.com/athlete/chan-sung-jung"
+        "name": "Chan Sung Jung"
       },
       {
         "id": "calvin-kattar",
-        "name": "Calvin Kattar",
-        "url": "https://www.ufc.com/athlete/calvin-kattar"
+        "name": "Calvin Kattar"
       },
       {
         "id": "giga-chikadze",
-        "name": "Giga Chikadze",
-        "url": "https://www.ufc.com/athlete/giga-chikadze"
+        "name": "Giga Chikadze"
       },
       {
         "id": "ilia-topuria",
-        "name": "Ilia Topuria",
-        "url": "https://www.ufc.com/athlete/ilia-topuria"
+        "name": "Ilia Topuria"
       },
       {
         "id": "movsar-evloev",
-        "name": "Movsar Evloev",
-        "url": "https://www.ufc.com/athlete/movsar-evloev"
+        "name": "Movsar Evloev"
       },
       {
         "id": "bryce-mitchell",
-        "name": "Bryce Mitchell",
-        "url": "https://www.ufc.com/athlete/bryce-mitchell"
+        "name": "Bryce Mitchell"
       },
       {
         "id": "sodiq-yusuff",
-        "name": "Sodiq Yusuff",
-        "url": "https://www.ufc.com/athlete/sodiq-yusuff"
+        "name": "Sodiq Yusuff"
       },
       {
         "id": "dan-ige",
-        "name": "Dan Ige",
-        "url": "https://www.ufc.com/athlete/dan-ige"
+        "name": "Dan Ige"
       },
       {
         "id": "edson-barboza",
-        "name": "Edson Barboza",
-        "url": "https://www.ufc.com/athlete/edson-barboza"
+        "name": "Edson Barboza"
       },
       {
         "id": "alex-caceres",
-        "name": "Alex Caceres",
-        "url": "https://www.ufc.com/athlete/alex-caceres"
+        "name": "Alex Caceres"
       }
     ]
   },
@@ -364,83 +301,67 @@
     "fighters": [
       {
         "id": "islam-makhachev",
-        "name": "Islam Makhachev",
-        "url": "https://www.ufc.com/athlete/islam-makhachev"
+        "name": "Islam Makhachev"
       },
       {
         "id": "charles-oliveira",
-        "name": "Charles Oliveira",
-        "url": "https://www.ufc.com/athlete/charles-oliveira"
+        "name": "Charles Oliveira"
       },
       {
         "id": "dustin-poirier",
-        "name": "Dustin Poirier",
-        "url": "https://www.ufc.com/athlete/dustin-poirier"
+        "name": "Dustin Poirier"
       },
       {
         "id": "justin-gaethje",
-        "name": "Justin Gaethje",
-        "url": "https://www.ufc.com/athlete/justin-gaethje"
+        "name": "Justin Gaethje"
       },
       {
         "id": "beneil-dariush",
-        "name": "Beneil Dariush",
-        "url": "https://www.ufc.com/athlete/beneil-dariush"
+        "name": "Beneil Dariush"
       },
       {
         "id": "michael-chandler",
-        "name": "Michael Chandler",
-        "url": "https://www.ufc.com/athlete/michael-chandler"
+        "name": "Michael Chandler"
       },
       {
         "id": "rafael-fiziev",
-        "name": "Rafael Fiziev",
-        "url": "https://www.ufc.com/athlete/rafael-fiziev"
+        "name": "Rafael Fiziev"
       },
       {
         "id": "mateusz-gamrot",
-        "name": "Mateusz Gamrot",
-        "url": "https://www.ufc.com/athlete/mateusz-gamrot"
+        "name": "Mateusz Gamrot"
       },
       {
         "id": "arman-tsarukyan",
-        "name": "Arman Tsarukyan",
-        "url": "https://www.ufc.com/athlete/arman-tsarukyan"
+        "name": "Arman Tsarukyan"
       },
       {
         "id": "rafael-dos-anjos",
-        "name": "Rafael Dos Anjos",
-        "url": "https://www.ufc.com/athlete/rafael-dos-anjos"
+        "name": "Rafael Dos Anjos"
       },
       {
         "id": "jalin-turner",
-        "name": "Jalin Turner",
-        "url": "https://www.ufc.com/athlete/jalin-turner"
+        "name": "Jalin Turner"
       },
       {
         "id": "dan-hooker",
-        "name": "Dan Hooker",
-        "url": "https://www.ufc.com/athlete/dan-hooker"
+        "name": "Dan Hooker"
       },
       {
         "id": "damir-ismagulov",
-        "name": "Damir Ismagulov",
-        "url": "https://www.ufc.com/athlete/damir-ismagulov"
+        "name": "Damir Ismagulov"
       },
       {
         "id": "renato-moicano",
-        "name": "Renato Moicano",
-        "url": "https://www.ufc.com/athlete/renato-moicano"
+        "name": "Renato Moicano"
       },
       {
         "id": "drew-dober",
-        "name": "Drew Dober",
-        "url": "https://www.ufc.com/athlete/drew-dober"
+        "name": "Drew Dober"
       },
       {
         "id": "grant-dawson",
-        "name": "Grant Dawson",
-        "url": "https://www.ufc.com/athlete/grant-dawson"
+        "name": "Grant Dawson"
       }
     ]
   },
@@ -454,83 +375,67 @@
     "fighters": [
       {
         "id": "leon-edwards",
-        "name": "Leon Edwards",
-        "url": "https://www.ufc.com/athlete/leon-edwards"
+        "name": "Leon Edwards"
       },
       {
         "id": "kamaru-usman",
-        "name": "Kamaru Usman",
-        "url": "https://www.ufc.com/athlete/kamaru-usman"
+        "name": "Kamaru Usman"
       },
       {
         "id": "colby-covington",
-        "name": "Colby Covington",
-        "url": "https://www.ufc.com/athlete/colby-covington"
+        "name": "Colby Covington"
       },
       {
         "id": "khamzat-chimaev",
-        "name": "Khamzat Chimaev",
-        "url": "https://www.ufc.com/athlete/khamzat-chimaev"
+        "name": "Khamzat Chimaev"
       },
       {
         "id": "belal-muhammad",
-        "name": "Belal Muhammad",
-        "url": "https://www.ufc.com/athlete/belal-muhammad"
+        "name": "Belal Muhammad"
       },
       {
         "id": "gilbert-burns",
-        "name": "Gilbert Burns",
-        "url": "https://www.ufc.com/athlete/gilbert-burns"
+        "name": "Gilbert Burns"
       },
       {
         "id": "stephen-thompson",
-        "name": "Stephen Thompson",
-        "url": "https://www.ufc.com/athlete/stephen-thompson"
+        "name": "Stephen Thompson"
       },
       {
         "id": "geoff-neal",
-        "name": "Geoff Neal",
-        "url": "https://www.ufc.com/athlete/geoff-neal"
+        "name": "Geoff Neal"
       },
       {
         "id": "sean-brady",
-        "name": "Sean Brady",
-        "url": "https://www.ufc.com/athlete/sean-brady"
+        "name": "Sean Brady"
       },
       {
         "id": "vicente-luque",
-        "name": "Vicente Luque",
-        "url": "https://www.ufc.com/athlete/vicente-luque"
+        "name": "Vicente Luque"
       },
       {
         "id": "shavkat-rakhmonov",
-        "name": "Shavkat Rakhmonov",
-        "url": "https://www.ufc.com/athlete/shavkat-rakhmonov"
+        "name": "Shavkat Rakhmonov"
       },
       {
         "id": "jorge-masvidal",
-        "name": "Jorge Masvidal",
-        "url": "https://www.ufc.com/athlete/jorge-masvidal"
-      },
-      {
-        "id": "neil-magny",
-        "name": "Neil Magny",
-        "url": "https://www.ufc.com/athlete/neil-magny"
+        "name": "Jorge Masvidal"
       },
       {
         "id": "michael-chiesa",
-        "name": "Michael Chiesa",
-        "url": "https://www.ufc.com/athlete/michael-chiesa"
+        "name": "Michael Chiesa"
+      },
+      {
+        "id": "neil-magny",
+        "name": "Neil Magny"
       },
       {
         "id": "michel-pereira",
-        "name": "Michel Pereira",
-        "url": "https://www.ufc.com/athlete/michel-pereira"
+        "name": "Michel Pereira"
       },
       {
         "id": "li-jingliang",
-        "name": "Li Jingliang",
-        "url": "https://www.ufc.com/athlete/li-jingliang"
+        "name": "Li Jingliang"
       }
     ]
   },
@@ -544,83 +449,67 @@
     "fighters": [
       {
         "id": "alex-pereira",
-        "name": "Alex Pereira",
-        "url": "https://www.ufc.com/athlete/alex-pereira"
+        "name": "Alex Pereira"
       },
       {
         "id": "israel-adesanya",
-        "name": "Israel Adesanya",
-        "url": "https://www.ufc.com/athlete/israel-adesanya"
+        "name": "Israel Adesanya"
       },
       {
         "id": "robert-whittaker",
-        "name": "Robert Whittaker",
-        "url": "https://www.ufc.com/athlete/robert-whittaker"
+        "name": "Robert Whittaker"
       },
       {
         "id": "jared-cannonier",
-        "name": "Jared Cannonier",
-        "url": "https://www.ufc.com/athlete/jared-cannonier"
+        "name": "Jared Cannonier"
       },
       {
         "id": "marvin-vettori",
-        "name": "Marvin Vettori",
-        "url": "https://www.ufc.com/athlete/marvin-vettori"
+        "name": "Marvin Vettori"
       },
       {
         "id": "derek-brunson",
-        "name": "Derek Brunson",
-        "url": "https://www.ufc.com/athlete/derek-brunson"
+        "name": "Derek Brunson"
       },
       {
         "id": "paulo-costa",
-        "name": "Paulo Costa",
-        "url": "https://www.ufc.com/athlete/paulo-costa"
+        "name": "Paulo Costa"
       },
       {
         "id": "sean-strickland",
-        "name": "Sean Strickland",
-        "url": "https://www.ufc.com/athlete/sean-strickland"
+        "name": "Sean Strickland"
       },
       {
         "id": "roman-dolidze",
-        "name": "Roman Dolidze",
-        "url": "https://www.ufc.com/athlete/roman-dolidze"
+        "name": "Roman Dolidze"
       },
       {
         "id": "jack-hermansson",
-        "name": "Jack Hermansson",
-        "url": "https://www.ufc.com/athlete/jack-hermansson"
+        "name": "Jack Hermansson"
       },
       {
         "id": "dricus-du-plessis",
-        "name": "Dricus Du Plessis",
-        "url": "https://www.ufc.com/athlete/dricus-du-plessis"
+        "name": "Dricus Du Plessis"
       },
       {
         "id": "andre-muniz",
-        "name": "Andre Muniz",
-        "url": "https://www.ufc.com/athlete/andre-muniz"
+        "name": "Andre Muniz"
       },
       {
         "id": "nassourdine-imavov",
-        "name": "Nassourdine Imavov",
-        "url": "https://www.ufc.com/athlete/nassourdine-imavov"
+        "name": "Nassourdine Imavov"
       },
       {
         "id": "kelvin-gastelum",
-        "name": "Kelvin Gastelum",
-        "url": "https://www.ufc.com/athlete/kelvin-gastelum"
+        "name": "Kelvin Gastelum"
       },
       {
         "id": "chris-curtis",
-        "name": "Chris Curtis",
-        "url": "https://www.ufc.com/athlete/chris-curtis"
+        "name": "Chris Curtis"
       },
       {
         "id": "darren-till",
-        "name": "Darren Till",
-        "url": "https://www.ufc.com/athlete/darren-till"
+        "name": "Darren Till"
       }
     ]
   },
@@ -628,84 +517,73 @@
     "id": "light-heavyweight",
     "categoryName": "Light Heavyweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "jamahal-hill",
+      "championName": "Jamahal Hill"
     },
     "fighters": [
       {
-        "id": "jiri-prochazka",
-        "name": "Jiří Procházka",
-        "url": "https://www.ufc.com/athlete/jiri-prochazka"
+        "id": "jamahal-hill",
+        "name": "Jamahal Hill"
       },
       {
-        "id": "glover-teixeira",
-        "name": "Glover Teixeira",
-        "url": "https://www.ufc.com/athlete/glover-teixeira"
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
       },
       {
         "id": "magomed-ankalaev",
-        "name": "Magomed Ankalaev",
-        "url": "https://www.ufc.com/athlete/magomed-ankalaev"
+        "name": "Magomed Ankalaev"
       },
       {
         "id": "jan-blachowicz",
-        "name": "Jan Błachowicz",
-        "url": "https://www.ufc.com/athlete/jan-blachowicz"
+        "name": "Jan Błachowicz"
       },
       {
         "id": "aleksandar-rakic",
-        "name": "Aleksandar Rakić",
-        "url": "https://www.ufc.com/athlete/aleksandar-rakic"
+        "name": "Aleksandar Rakić"
+      },
+      {
+        "id": "glover-teixeira",
+        "name": "Glover Teixeira"
       },
       {
         "id": "anthony-smith",
-        "name": "Anthony Smith",
-        "url": "https://www.ufc.com/athlete/anthony-smith"
-      },
-      {
-        "id": "jamahal-hill",
-        "name": "Jamahal Hill",
-        "url": "https://www.ufc.com/athlete/jamahal-hill"
+        "name": "Anthony Smith"
       },
       {
         "id": "nikita-krylov",
-        "name": "Nikita Krylov",
-        "url": "https://www.ufc.com/athlete/nikita-krylov"
-      },
-      {
-        "id": "paul-craig",
-        "name": "Paul Craig",
-        "url": "https://www.ufc.com/athlete/paul-craig"
-      },
-      {
-        "id": "volkan-oezdemir",
-        "name": "Volkan Oezdemir",
-        "url": "https://www.ufc.com/athlete/volkan-oezdemir"
-      },
-      {
-        "id": "ryan-spann",
-        "name": "Ryan Spann",
-        "url": "https://www.ufc.com/athlete/ryan-spann"
+        "name": "Nikita Krylov"
       },
       {
         "id": "johnny-walker",
-        "name": "Johnny Walker",
-        "url": "https://www.ufc.com/athlete/johnny-walker"
+        "name": "Johnny Walker"
+      },
+      {
+        "id": "volkan-oezdemir",
+        "name": "Volkan Oezdemir"
+      },
+      {
+        "id": "ryan-spann",
+        "name": "Ryan Spann"
+      },
+      {
+        "id": "paul-craig",
+        "name": "Paul Craig"
       },
       {
         "id": "dominick-reyes",
-        "name": "Dominick Reyes",
-        "url": "https://www.ufc.com/athlete/dominick-reyes"
+        "name": "Dominick Reyes"
       },
       {
         "id": "jim-crute",
-        "name": "Jimmy Crute",
-        "url": "https://www.ufc.com/athlete/jim-crute"
+        "name": "Jimmy Crute"
       },
       {
         "id": "khalil-rountree-jr",
-        "name": "Khalil Rountree Jr.",
-        "url": "https://www.ufc.com/athlete/khalil-rountree-jr"
+        "name": "Khalil Rountree Jr."
+      },
+      {
+        "id": "dustin-jacoby",
+        "name": "Dustin Jacoby"
       }
     ]
   },
@@ -719,78 +597,63 @@
     "fighters": [
       {
         "id": "ciryl-gane",
-        "name": "Ciryl Gane",
-        "url": "https://www.ufc.com/athlete/ciryl-gane"
+        "name": "Ciryl Gane"
       },
       {
         "id": "stipe-miocic",
-        "name": "Stipe Miocic",
-        "url": "https://www.ufc.com/athlete/stipe-miocic"
+        "name": "Stipe Miocic"
       },
       {
         "id": "sergei-pavlovich",
-        "name": "Sergei Pavlovich",
-        "url": "https://www.ufc.com/athlete/sergei-pavlovich"
+        "name": "Sergei Pavlovich"
       },
       {
         "id": "curtis-blaydes",
-        "name": "Curtis Blaydes",
-        "url": "https://www.ufc.com/athlete/curtis-blaydes"
+        "name": "Curtis Blaydes"
       },
       {
         "id": "tai-tuivasa",
-        "name": "Tai Tuivasa",
-        "url": "https://www.ufc.com/athlete/tai-tuivasa"
+        "name": "Tai Tuivasa"
       },
       {
         "id": "tom-aspinall",
-        "name": "Tom Aspinall",
-        "url": "https://www.ufc.com/athlete/tom-aspinall"
+        "name": "Tom Aspinall"
       },
       {
         "id": "derrick-lewis",
-        "name": "Derrick Lewis",
-        "url": "https://www.ufc.com/athlete/derrick-lewis"
+        "name": "Derrick Lewis"
       },
       {
         "id": "alexander-volkov",
-        "name": "Alexander Volkov",
-        "url": "https://www.ufc.com/athlete/alexander-volkov"
+        "name": "Alexander Volkov"
       },
       {
         "id": "jairzinho-rozenstruik",
-        "name": "Jairzinho Rozenstruik",
-        "url": "https://www.ufc.com/athlete/jairzinho-rozenstruik"
+        "name": "Jairzinho Rozenstruik"
       },
       {
         "id": "marcin-tybura",
-        "name": "Marcin Tybura",
-        "url": "https://www.ufc.com/athlete/marcin-tybura"
+        "name": "Marcin Tybura"
       },
       {
         "id": "chris-daukaus",
-        "name": "Chris Daukaus",
-        "url": "https://www.ufc.com/athlete/chris-daukaus"
+        "name": "Chris Daukaus"
       },
       {
-        "id": "sergey-spivak-0",
-        "name": "Serghei Spivac",
-        "url": "https://www.ufc.com/athlete/sergey-spivak-0"
+        "id": "serghei-spivac",
+        "name": "Serghei Spivac"
       },
       {
         "id": "alexandr-romanov",
-        "name": "Alexandr Romanov",
-        "url": "https://www.ufc.com/athlete/alexandr-romanov"
+        "name": "Alexandr Romanov"
+      },
+      {
+        "id": "kori-makkenna-10",
+        "name": "Jailton Almeida"
       },
       {
         "id": "blagoy-ivanov",
-        "name": "Blagoy Ivanov",
-        "url": "https://www.ufc.com/athlete/blagoy-ivanov"
-      },
-      {
-        "id": "shamil-abdurakhimov",
-        "name": "Shamil Abdurakhimov",
-        "url": "https://www.ufc.com/athlete/shamil-abdurakhimov"
+        "name": "Blagoy Ivanov"
       }
     ]
   },
@@ -804,78 +667,63 @@
     "fighters": [
       {
         "id": "amanda-nunes",
-        "name": "Amanda Nunes",
-        "url": "https://www.ufc.com/athlete/amanda-nunes"
+        "name": "Amanda Nunes"
       },
       {
         "id": "valentina-shevchenko",
-        "name": "Valentina Shevchenko",
-        "url": "https://www.ufc.com/athlete/valentina-shevchenko"
+        "name": "Valentina Shevchenko"
       },
       {
         "id": "weili-zhang",
-        "name": "Zhang Weili",
-        "url": "https://www.ufc.com/athlete/weili-zhang"
+        "name": "Zhang Weili"
       },
       {
         "id": "julianna-pena",
-        "name": "Julianna Peña",
-        "url": "https://www.ufc.com/athlete/julianna-pena"
+        "name": "Julianna Peña"
       },
       {
         "id": "rose-namajunas",
-        "name": "Rose Namajunas",
-        "url": "https://www.ufc.com/athlete/rose-namajunas"
+        "name": "Rose Namajunas"
       },
       {
         "id": "carla-esparza",
-        "name": "Carla Esparza",
-        "url": "https://www.ufc.com/athlete/carla-esparza"
+        "name": "Carla Esparza"
       },
       {
         "id": "jessica-andrade",
-        "name": "Jessica Andrade",
-        "url": "https://www.ufc.com/athlete/jessica-andrade"
+        "name": "Jessica Andrade"
       },
       {
         "id": "marina-rodriguez",
-        "name": "Marina Rodriguez",
-        "url": "https://www.ufc.com/athlete/marina-rodriguez"
+        "name": "Marina Rodriguez"
       },
       {
         "id": "amanda-lemos",
-        "name": "Amanda Lemos",
-        "url": "https://www.ufc.com/athlete/amanda-lemos"
+        "name": "Amanda Lemos"
       },
       {
         "id": "taila-santos",
-        "name": "Taila Santos",
-        "url": "https://www.ufc.com/athlete/taila-santos"
-      },
-      {
-        "id": "holly-holm",
-        "name": "Holly Holm",
-        "url": "https://www.ufc.com/athlete/holly-holm"
+        "name": "Taila Santos"
       },
       {
         "id": "manon-fiorot",
-        "name": "Manon Fiorot",
-        "url": "https://www.ufc.com/athlete/manon-fiorot"
+        "name": "Manon Fiorot"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
       },
       {
         "id": "raquel-pennington",
-        "name": "Raquel Pennington",
-        "url": "https://www.ufc.com/athlete/raquel-pennington"
+        "name": "Raquel Pennington"
       },
       {
         "id": "katlyn-chookagian",
-        "name": "Katlyn Chookagian",
-        "url": "https://www.ufc.com/athlete/katlyn-chookagian"
+        "name": "Katlyn Chookagian"
       },
       {
         "id": "ketlen-vieira",
-        "name": "Ketlen Vieira",
-        "url": "https://www.ufc.com/athlete/ketlen-vieira"
+        "name": "Ketlen Vieira"
       }
     ]
   },
@@ -889,83 +737,67 @@
     "fighters": [
       {
         "id": "weili-zhang",
-        "name": "Zhang Weili",
-        "url": "https://www.ufc.com/athlete/weili-zhang"
+        "name": "Zhang Weili"
       },
       {
         "id": "carla-esparza",
-        "name": "Carla Esparza",
-        "url": "https://www.ufc.com/athlete/carla-esparza"
+        "name": "Carla Esparza"
       },
       {
         "id": "rose-namajunas",
-        "name": "Rose Namajunas",
-        "url": "https://www.ufc.com/athlete/rose-namajunas"
+        "name": "Rose Namajunas"
       },
       {
         "id": "amanda-lemos",
-        "name": "Amanda Lemos",
-        "url": "https://www.ufc.com/athlete/amanda-lemos"
-      },
-      {
-        "id": "jessica-andrade",
-        "name": "Jessica Andrade",
-        "url": "https://www.ufc.com/athlete/jessica-andrade"
+        "name": "Amanda Lemos"
       },
       {
         "id": "marina-rodriguez",
-        "name": "Marina Rodriguez",
-        "url": "https://www.ufc.com/athlete/marina-rodriguez"
+        "name": "Marina Rodriguez"
       },
       {
         "id": "xiaonan-yan",
-        "name": "Xiaonan Yan",
-        "url": "https://www.ufc.com/athlete/xiaonan-yan"
+        "name": "Xiaonan Yan"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jessica Andrade"
       },
       {
         "id": "mackenzie-dern",
-        "name": "Mackenzie Dern",
-        "url": "https://www.ufc.com/athlete/mackenzie-dern"
+        "name": "Mackenzie Dern"
       },
       {
         "id": "tecia-torres",
-        "name": "Tecia Torres",
-        "url": "https://www.ufc.com/athlete/tecia-torres"
+        "name": "Tecia Torres"
       },
       {
         "id": "amanda-ribas",
-        "name": "Amanda Ribas",
-        "url": "https://www.ufc.com/athlete/amanda-ribas"
+        "name": "Amanda Ribas"
       },
       {
         "id": "virna-jandiroba",
-        "name": "Virna Jandiroba",
-        "url": "https://www.ufc.com/athlete/virna-jandiroba"
+        "name": "Virna Jandiroba"
       },
       {
         "id": "michelle-waterson",
-        "name": "Michelle Waterson-Gomez",
-        "url": "https://www.ufc.com/athlete/michelle-waterson"
+        "name": "Michelle Waterson-Gomez"
       },
       {
         "id": "angela-hill",
-        "name": "Angela Hill",
-        "url": "https://www.ufc.com/athlete/angela-hill"
+        "name": "Angela Hill"
       },
       {
         "id": "luana-pinheiro",
-        "name": "Luana Pinheiro",
-        "url": "https://www.ufc.com/athlete/luana-pinheiro"
+        "name": "Luana Pinheiro"
       },
       {
         "id": "emily-ducote",
-        "name": "Emily Ducote",
-        "url": "https://www.ufc.com/athlete/emily-ducote"
+        "name": "Emily Ducote"
       },
       {
         "id": "polyana-viana",
-        "name": "Polyana Viana",
-        "url": "https://www.ufc.com/athlete/polyana-viana"
+        "name": "Polyana Viana"
       }
     ]
   },
@@ -979,83 +811,67 @@
     "fighters": [
       {
         "id": "valentina-shevchenko",
-        "name": "Valentina Shevchenko",
-        "url": "https://www.ufc.com/athlete/valentina-shevchenko"
+        "name": "Valentina Shevchenko"
       },
       {
         "id": "manon-fiorot",
-        "name": "Manon Fiorot",
-        "url": "https://www.ufc.com/athlete/manon-fiorot"
+        "name": "Manon Fiorot"
       },
       {
         "id": "taila-santos",
-        "name": "Taila Santos",
-        "url": "https://www.ufc.com/athlete/taila-santos"
-      },
-      {
-        "id": "katlyn-chookagian",
-        "name": "Katlyn Chookagian",
-        "url": "https://www.ufc.com/athlete/katlyn-chookagian"
-      },
-      {
-        "id": "alexa-grasso",
-        "name": "Alexa Grasso",
-        "url": "https://www.ufc.com/athlete/alexa-grasso"
-      },
-      {
-        "id": "lauren-murphy",
-        "name": "Lauren Murphy",
-        "url": "https://www.ufc.com/athlete/lauren-murphy"
+        "name": "Taila Santos"
       },
       {
         "id": "jessica-andrade",
-        "name": "Jessica Andrade",
-        "url": "https://www.ufc.com/athlete/jessica-andrade"
+        "name": "Jessica Andrade"
+      },
+      {
+        "id": "katlyn-chookagian",
+        "name": "Katlyn Chookagian"
+      },
+      {
+        "id": "alexa-grasso",
+        "name": "Alexa Grasso"
+      },
+      {
+        "id": "lauren-murphy",
+        "name": "Lauren Murphy"
       },
       {
         "id": "viviane-araujo",
-        "name": "Viviane Araújo",
-        "url": "https://www.ufc.com/athlete/viviane-araujo"
+        "name": "Viviane Araújo"
       },
       {
         "id": "jennifer-maia",
-        "name": "Jennifer Maia",
-        "url": "https://www.ufc.com/athlete/jennifer-maia"
+        "name": "Jennifer Maia"
       },
       {
         "id": "andrea-lee",
-        "name": "Andrea Lee",
-        "url": "https://www.ufc.com/athlete/andrea-lee"
+        "name": "Andrea Lee"
       },
       {
         "id": "erin-blanchfield",
-        "name": "Erin Blanchfield",
-        "url": "https://www.ufc.com/athlete/erin-blanchfield"
+        "name": "Erin Blanchfield"
       },
       {
         "id": "casey-oneill",
-        "name": "Casey O'Neill",
-        "url": "https://www.ufc.com/athlete/casey-oneill"
+        "name": "Casey O'Neill"
       },
       {
         "id": "maycee-barber",
-        "name": "Maycee Barber",
-        "url": "https://www.ufc.com/athlete/maycee-barber"
+        "name": "Maycee Barber"
       },
       {
         "id": "tracy-cortez",
-        "name": "Tracy Cortez",
-        "url": "https://www.ufc.com/athlete/tracy-cortez"
+        "name": "Tracy Cortez"
       },
       {
         "id": "cynthia-calvillo",
-        "name": "Cynthia Calvillo",
-        "url": "https://www.ufc.com/athlete/cynthia-calvillo"
+        "name": "Cynthia Calvillo"
       },
       {
         "id": "amanda-ribas",
-        "name": "Amanda Ribas",
-        "url": "https://www.ufc.com/athlete/amanda-ribas"
+        "name": "Amanda Ribas"
       }
     ]
   },
@@ -1069,83 +885,67 @@
     "fighters": [
       {
         "id": "amanda-nunes",
-        "name": "Amanda Nunes",
-        "url": "https://www.ufc.com/athlete/amanda-nunes"
+        "name": "Amanda Nunes"
       },
       {
         "id": "julianna-pena",
-        "name": "Julianna Peña",
-        "url": "https://www.ufc.com/athlete/julianna-pena"
+        "name": "Julianna Peña"
       },
       {
         "id": "raquel-pennington",
-        "name": "Raquel Pennington",
-        "url": "https://www.ufc.com/athlete/raquel-pennington"
+        "name": "Raquel Pennington"
       },
       {
         "id": "holly-holm",
-        "name": "Holly Holm",
-        "url": "https://www.ufc.com/athlete/holly-holm"
+        "name": "Holly Holm"
       },
       {
         "id": "ketlen-vieira",
-        "name": "Ketlen Vieira",
-        "url": "https://www.ufc.com/athlete/ketlen-vieira"
+        "name": "Ketlen Vieira"
       },
       {
         "id": "irene-aldana",
-        "name": "Irene Aldana",
-        "url": "https://www.ufc.com/athlete/irene-aldana"
+        "name": "Irene Aldana"
       },
       {
         "id": "yana-kunitskaya",
-        "name": "Yana Kunitskaya",
-        "url": "https://www.ufc.com/athlete/yana-kunitskaya"
+        "name": "Yana Santos"
       },
       {
         "id": "pannie-kianzad",
-        "name": "Pannie Kianzad",
-        "url": "https://www.ufc.com/athlete/pannie-kianzad"
+        "name": "Pannie Kianzad"
       },
       {
         "id": "macy-chiasson",
-        "name": "Macy Chiasson",
-        "url": "https://www.ufc.com/athlete/macy-chiasson"
+        "name": "Macy Chiasson"
       },
       {
         "id": "karol-rosa",
-        "name": "Karol Rosa",
-        "url": "https://www.ufc.com/athlete/karol-rosa"
+        "name": "Karol Rosa"
       },
       {
         "id": "miesha-tate",
-        "name": "Miesha Tate",
-        "url": "https://www.ufc.com/athlete/miesha-tate"
+        "name": "Miesha Tate"
       },
       {
         "id": "julia-avila",
-        "name": "Julia Avila",
-        "url": "https://www.ufc.com/athlete/julia-avila"
+        "name": "Julia Avila"
       },
       {
         "id": "lina-lansberg",
-        "name": "Lina Lansberg",
-        "url": "https://www.ufc.com/athlete/lina-lansberg"
+        "name": "Lina Lansberg"
       },
       {
         "id": "norma-dumont",
-        "name": "Norma Dumont",
-        "url": "https://www.ufc.com/athlete/norma-dumont"
+        "name": "Norma Dumont"
       },
       {
         "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva",
-        "url": "https://www.ufc.com/athlete/mayra-bueno-silva"
+        "name": "Mayra Bueno Silva"
       },
       {
         "id": "josiane-nunes",
-        "name": "Josiane Nunes",
-        "url": "https://www.ufc.com/athlete/josiane-nunes"
+        "name": "Josiane Nunes"
       }
     ]
   },
@@ -1159,8 +959,7 @@
     "fighters": [
       {
         "id": "amanda-nunes",
-        "name": "Amanda Nunes",
-        "url": "https://www.ufc.com/athlete/amanda-nunes"
+        "name": "Amanda Nunes"
       }
     ]
   }
