@@ -1,13 +1,12 @@
 import { logSuccess } from './lib/log.js'
 import { readDBFile } from './lib/db.js'
-
+import { REQUEST_DELAY } from '../octogon-api.config.js'
 import scrapeFighterInfo from './lib/scrapeFighterInfo.js'
 import timeFormatter from './lib/timeFormatter.js'
+
 const sleep = (miliseconds) => {
   return new Promise((resolve) => setTimeout(resolve, miliseconds))
 }
-
-const REQUEST_DELAY = 1000 * 3
 
 async function getFigthers() {
   const start = performance.now()
