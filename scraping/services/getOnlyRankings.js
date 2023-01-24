@@ -1,11 +1,10 @@
-import { logInfo, logSuccess } from '../lib/log.js'
+import { logSuccess } from '../lib/log.js'
 import timeFormatter from '../lib/timeFormatter.js'
 import scrapeRankingsInfo from '../lib/scrapeRankingsInfo.js'
 
 const run = async () => {
   const start = performance.now()
 
-  logInfo(`Running ranking scraper`)
   await scrapeRankingsInfo()
 
   const end = performance.now()
