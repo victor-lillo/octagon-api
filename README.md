@@ -5,8 +5,6 @@
 
 - **API URL:** https://octogon-api.fentos.workers.dev/
 
-- TODO: Refactorizar para permitir la búsqueda de un sólo peleador.
-
 ## Available scripts
 
 |      Script       |     Params      |                                               Function                                                |
