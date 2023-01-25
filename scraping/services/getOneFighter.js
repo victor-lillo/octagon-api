@@ -10,7 +10,7 @@ const run = async () => {
 
   // Guard clause 1
   if (!firstArg) {
-    logError('Introduce un argumento correcto, crack')
+    logError('Introduce a correct argument. It musts start with "--"')
     return
   }
   const fighterId = firstArg.replace(ARG_SELECTOR, '')
@@ -18,13 +18,13 @@ const run = async () => {
 
   // Guard clause 2
   if (!FIGHTER_DATA[fighterId]) {
-    logError(`El peleador '${fighterId}' no existe`)
+    logError(`Fighter with id '${fighterId}' doesn't exist`)
     return
   }
-  const end = performance.now()
-  const time = timeFormatter(end - start)
 
   await scrapeFighterInfo(fighterId)
+  const end = performance.now()
+  const time = timeFormatter(end - start)
   console.log('')
   logSuccess(`Task finished in ${time}`)
 }
