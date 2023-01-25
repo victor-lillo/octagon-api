@@ -16,17 +16,17 @@
     "scrape:rankings": "node scraping/services/getOnlyRankings.js"
   },
   "dependencies": {
-    "@astrojs/image": "0.12.1",
-    "astro": "1.9.0",
-    "axios": "1.2.2",
-    "hono": "2.7.2",
+    "@astrojs/image": "0.13.0",
+    "astro": "2.0.1",
+    "axios": "1.2.4",
+    "hono": "2.7.5",
     "node-html-parser": "6.1.4",
     "picocolors": "1.0.0",
     "sharp": "0.31.3"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20221111.1",
-    "vitest": "0.27.1",
-    "wrangler": "2.7.1"
+    "vitest": "0.28.2",
+    "wrangler": "2.8.1"
   }
 }
