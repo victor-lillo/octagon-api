@@ -21,8 +21,9 @@
 
   --color-title: var(--color-primary-dark-7);
   --color-subtitle: var(--color-primary-dark-5);
-
+  --background-gradient: linear-gradient(0deg, #fdf5e6 0%, #fae1b3 100%);
   --color-gradient-1: linear-gradient(45deg, #001c22 0%, #005668 100%);
+
   --color-primary-base: #005f73;
   --color-primary-dark-1: #005668;
   --color-primary-dark-2: #004c5c;
@@ -44,10 +45,19 @@
   --color-primary-light-9: #e6eff1;
 }
 
-:root .theme-dark {
+.theme-dark {
   color-scheme: dark;
   --color-text-1: #e4e4e4;
   --color-main-1: #5d28c8;
   --color-main-2: #4e216e;
   --color-main-3: #1d052f;
+
+  --color-title: var(--color-primary-light-7);
+  --color-subtitle: var(--color-primary-light-5);
+
+  --background-gradient: linear-gradient(
+    0deg,
+    var(--color-primary-dark-3) 0%,
+    var(--color-primary-dark-7) 100%
+  );
 }
