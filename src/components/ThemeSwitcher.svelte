@@ -4,7 +4,6 @@
   let isDark = false
 
   function handleClick() {
-    console.log(isDark)
     isDark = !isDark
 
     const root = document.documentElement
