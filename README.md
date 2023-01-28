@@ -5,6 +5,12 @@
 
 - **API URL:** https://octogon-api.fentos.workers.dev/
 
+## Internal values
+
+- **Breakpoints**
+  - **Tablet:** 768px (48rem)
+  - **Desktop:** 1024px (64rem)
+
 ## Available scripts
 
 |      Script       |     Params      |                                               Function                                                |

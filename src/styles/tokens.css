@@ -3,13 +3,13 @@
   --section-width: 90%;
 }
 
-@media only screen and (min-width: 768px) {
+@media only screen and (min-width: 48rem) {
   :root {
     --section-width: 75%;
   }
 }
 
-@media only screen and (min-width: 1440px) {
+@media only screen and (min-width: 64rem) {
   :root {
     --section-width: 65%;
   }
