@@ -13,10 +13,10 @@
 
 ## Available scripts
 
-|      Script       |     Params      |                                               Function                                                |
-| :---------------: | :-------------: | :---------------------------------------------------------------------------------------------------: |
-|     `api:dev`     |                 |                              Starts a local instance of the API service.                              |
-|   `api:publish`   |                 |                     Publishes the API. Requires `wrangler` installed and logged.                      |
-|     `scrape`      |                 |             Updates the `/db` the complete scraper: rankings and then fighter by fighter.             |
+|      Script       |     Params      | Function                                                                                              |
+| :---------------: | :-------------: | ----------------------------------------------------------------------------------------------------- |
+|     `api:dev`     |                 | Starts a local instance of the API service.                                                           |
+|   `api:publish`   |                 | Publishes the API. Requires `wrangler` installed and logged.                                          |
+|     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
 | `scrape:figther`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
-| `scrape:rankings` |                 |                                     Updates `/db/rankings.json`.                                      |
+| `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
