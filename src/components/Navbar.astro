@@ -1,5 +1,6 @@
 ---
 import Logo from './Logo.astro'
+import ThemeSwitcher from './ThemeSwitcher.svelte'
 
 const navigationLinks = [
   {
@@ -32,6 +33,7 @@ const navigationLinks = [
         </a>
       ))
     }
+    <ThemeSwitcher client:visible />
   </nav>
 </header>
 <style>
