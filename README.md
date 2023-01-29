@@ -24,3 +24,12 @@
 |     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
 | `scrape:figther`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
 | `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
+
+## Available API endpoints
+
+| Endpoint                    | Response                      |
+| --------------------------- | ----------------------------- |
+| GET `/rankings`             | Returns whole rankings info.  |
+| GET `/fighters`             | Returns all fighters info.    |
+| GET `/fighter/:fighterId`   | Returns single fighter info.  |
+| GET `/division/:divisionId` | Returns single division info. |
