@@ -1,45 +1,21 @@
 ---
 import Layout from '@layouts/Layout.astro'
-import data from '@db/fighters.json'
+import AthleteFilter from '@components/AthleteFilter'
 
 interface Props {
   athlete: string
 }
-
-const navigationLinks = Object.keys(data)
-  .sort()
-  .map((fighterId) => {
-    return { route: `athlete/${fighterId}`, label: data[fighterId].name }
-  })
 ---
 
 <Layout title='Athletes'>
   <main>
     <h1>Athlete list</h1>
-    <ul>
-      {
-        navigationLinks.map(({ route, label }) => (
-          <li>
-            <a href={route}>{label}</a>
-          </li>
-        ))
-      }
-    </ul>
+    <AthleteFilter client:visible />
   </main>
 </Layout>
 
 <style>
   h1 {
     font-size: 3rem;
-  }
-
-  ul {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    list-style: none;
-  }
-  li {
-    font-size: 1.4rem;
   }
 </style>
