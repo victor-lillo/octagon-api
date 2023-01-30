@@ -25,8 +25,10 @@ export default function AthleteFilter() {
     setName(value)
   }
 
-  const filteredData = fighterData.filter((data) => {
-    return data.name.toLowerCase().includes(filterName)
+  const filteredData = fighterData.filter(({ name }) => {
+    const lowerFilterName = filterName.toLocaleLowerCase()
+    const lowerName = name.toLocaleLowerCase()
+    return lowerName.includes(lowerFilterName)
   })
 
   return (
