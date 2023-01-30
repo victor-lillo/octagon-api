@@ -5,6 +5,8 @@
       "@components/*": ["./src/components/*"],
       "@db/*": ["./db/*"],
       "@layouts/*": ["./src/layouts/*"]
-    }
+    },
+    "jsx": "react-jsx",
+    "jsxImportSource": "react"
   }
 }
