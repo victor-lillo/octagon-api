@@ -542,10 +542,6 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "glover-teixeira",
-        "name": "Glover Teixeira"
-      },
-      {
         "id": "anthony-smith",
         "name": "Anthony Smith"
       },
@@ -584,6 +580,10 @@
       {
         "id": "dustin-jacoby",
         "name": "Dustin Jacoby"
+      },
+      {
+        "id": "azamat-murzakanov",
+        "name": "Azamat Murzakanov"
       }
     ]
   },
@@ -698,12 +698,12 @@
         "name": "Marina Rodriguez"
       },
       {
-        "id": "taila-santos",
-        "name": "Taila Santos"
-      },
-      {
         "id": "amanda-lemos",
         "name": "Amanda Lemos"
+      },
+      {
+        "id": "taila-santos",
+        "name": "Taila Santos"
       },
       {
         "id": "manon-fiorot",
