@@ -19,6 +19,7 @@
 :root {
   color-scheme: light;
 
+  --bg-color-menu-mobile: var(--color-primary-light-5);
   --color-title: var(--color-primary-dark-7);
   --color-subtitle: var(--color-primary-dark-5);
   --background-gradient: linear-gradient(0deg, #fdf5e6 0%, #fae1b3 100%);
@@ -52,6 +53,7 @@
   --color-main-2: #4e216e;
   --color-main-3: #1d052f;
 
+  --bg-color-menu-mobile: var(--color-primary-dark-5);
   --color-title: var(--color-primary-light-7);
   --color-subtitle: var(--color-primary-light-5);
 

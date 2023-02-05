@@ -12,6 +12,18 @@
       "options": {
         "useTabs": false
       }
+    },
+    {
+      "files": ["*.svelte"],
+      "options": {
+        "semi": true,
+        "singleAttributePerLine": false,
+        "svelteAllowShorthand": false,
+        "svelteBracketNewLine": true,
+        "svelteIndentScriptAndStyle": true,
+        "svelteSortOrder": "options-scripts-markup-styles",
+        "svelteStrictMode": false
+      }
     }
   ]
 }

@@ -3,7 +3,7 @@ import '../styles/normalize.css'
 import '../styles/reset.local.css'
 import '../styles/tokens.css'
 import '../styles/classes.css'
-import Navbar from '@components/Navbar.astro'
+import Navbar from '@components/Navbar.svelte'
 
 export interface Props {
   title?: string
@@ -33,7 +33,7 @@ const displayTitle = title ? `${title} | Octogon API` : 'Octogon API'
     <title>{displayTitle}</title>
   </head>
   <body>
-    <Navbar />
+    <Navbar client:visible />
     <slot />
   </body>
 </html>
