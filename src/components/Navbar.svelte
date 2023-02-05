@@ -90,7 +90,6 @@
 
   .navbar--open .navbar__anchor-container {
     position: absolute;
-    height: 100%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
