@@ -22,7 +22,11 @@
   --bg-color-menu-mobile: var(--color-primary-light-5);
   --color-title: var(--color-primary-dark-7);
   --color-subtitle: var(--color-primary-dark-5);
-  --background-gradient: linear-gradient(0deg, #fdf5e6 0%, #fae1b3 100%);
+  --background-gradient: linear-gradient(
+    0deg,
+    var(--color-primary-light-8) 0%,
+    var(--color-primary-light-6) 100%
+  );
   --color-gradient-1: linear-gradient(45deg, #001c22 0%, #005668 100%);
 
   --color-primary-base: #005f73;
