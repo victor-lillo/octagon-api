@@ -43,7 +43,6 @@
   .navbar {
     padding: 1rem 0;
     display: flex;
-    gap: 0.5rem;
     justify-content: center;
     position: sticky;
     top: 0;
@@ -60,6 +59,7 @@
   .navbar__container {
     width: var(--section-width);
     display: flex;
+    gap: 0.5rem;
     align-items: center;
     justify-content: space-between;
   }
@@ -82,14 +82,18 @@
   .navbar--open .navbar__anchor {
     display: block;
   }
+
+  .navbar__anchor-container {
+    display: flex;
+    gap: 1.5rem;
+  }
+
   .navbar--open .navbar__anchor-container {
     position: absolute;
     height: 100%;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    display: flex;
-    gap: 1.3rem;
     flex-direction: column;
     justify-content: center;
     align-items: center;
@@ -101,27 +105,21 @@
   }
 
   @media only screen and (min-width: 48rem) {
-    .navbar {
-      padding: 1rem 0;
-      display: flex;
-      gap: 0.5rem;
-      justify-content: center;
-      position: sticky;
-      top: 0;
-      transform: scaleZ(1);
-      backdrop-filter: blur(10px);
-      width: 100%;
-      z-index: 9;
+    .navbar__container {
+      gap: 2rem;
     }
 
-    .navbar__container {
-      width: var(--section-width);
-      display: flex;
-      align-items: center;
-      justify-content: space-between;
+    .navbar__anchor-container {
+      gap: 1rem;
     }
+
     .navbar__anchor {
+      display: initial;
       font-size: 1.4rem;
+    }
+
+    .hamburger {
+      display: none;
     }
   }
 </style>
