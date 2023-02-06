@@ -4,12 +4,12 @@
 
   let navigationLinks = [
     {
-      label: 'Athletes',
-      route: '/athlete',
-    },
-    {
       label: 'Divisions',
       route: '/division',
+    },
+    {
+      label: 'Athletes',
+      route: '/athlete',
     },
     {
       label: 'About',
