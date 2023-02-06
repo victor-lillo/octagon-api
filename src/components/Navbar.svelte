@@ -18,6 +18,10 @@
   ];
 
   let isOpen = false;
+
+  const handleChange = () => {
+    isOpen = !isOpen;
+  };
 </script>
 
 <header class="navbar" class:navbar--open={isOpen}>
@@ -35,7 +39,11 @@
     <div class="navbar__theme">
       <ThemeSwitcher />
     </div>
-    <input type="checkbox" class="hamburger" bind:checked={isOpen} />
+    <button type="checkbox" class="hamburger" on:click={handleChange}>
+      <div />
+      <div />
+      <div />
+    </button>
   </nav>
 </header>
 
@@ -100,7 +108,50 @@
   }
 
   .hamburger {
-    border: 1px solid white;
+    background: none;
+    border: none;
+  }
+  .hamburger div {
+    display: block;
+    background-color: var(--color-title);
+    height: 3px;
+    width: 25px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    position: relative;
+    left: 0;
+    opacity: 1;
+    transition: all 0.35s ease-out;
+    transform-origin: center left;
+    border-radius: 2px;
+  }
+
+  .hamburger div:nth-child(1) {
+    margin-top: 0.3em;
+  }
+
+  .hamburger div:nth-child(1) {
+    transform: translate(0%, 0%) rotate(0deg);
+  }
+
+  .hamburger div:nth-child(2) {
+    opacity: 1;
+  }
+
+  .hamburger div:nth-child(3) {
+    transform: translate(0%, 0%) rotate(0deg);
+  }
+
+  .navbar--open .hamburger div:nth-child(1) {
+    transform: translate(15%, -33%) rotate(45deg);
+  }
+
+  .navbar--open .hamburger div:nth-child(2) {
+    opacity: 0;
+  }
+
+  .navbar--open .hamburger div:nth-child(3) {
+    transform: translate(15%, 33%) rotate(-45deg);
   }
 
   @media only screen and (min-width: 48rem) {
