@@ -26,7 +26,7 @@
 
 <header class="navbar" class:navbar--open={isOpen}>
   <nav class="navbar__container">
-    <a href="/">
+    <a href="/" aria-label="Navigate to home">
       <Logo />
     </a>
     <div class="navbar__anchor-container">
