@@ -18,7 +18,7 @@
   }
 </script>
 
-<button aria-label="Theme switcher" on:click={handleClick}>
+<button aria-label="Switch web theme" on:click={handleClick}>
   {isDark ? '🌞' : '🌑'}
 </button>
 
