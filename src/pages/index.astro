@@ -1,65 +1,124 @@
 ---
 import Layout from '@layouts/Layout.astro'
-import data from '@db/rankings.json'
+import data from '@db/news.json'
+
+// Ordered by current position
+const orderedData = data.sort((a, b) => {
+  return a.currentPosition - b.currentPosition
+})
 ---
 
 <Layout>
   <main>
     <h1>Welcome to <span class='text-gradient'>Octogon API</span></h1>
-    <h2>Categories</h2>
+    <h2 class='subtitle'>News</h2>
     <section>
       {
-        data.map(({ id, categoryName, champion }) => {
-          // const { id, championName } = champion
-          const imgPath = champion.id ? `${champion.id}.webp` : 'fighter-placeholder.svg'
-          const championName = champion.championName ? champion.championName : 'Vacant'
-          return (
-            <div class='card'>
-              <a href={`/division/${id}`}>
-                <h1 class='card__title'>{categoryName}</h1>
-                <h2 class='card__subtitle'>👑 {championName}</h2>
+        orderedData.map(
+          ({ fighter, fighterName, categoryName, currentPosition, previousPosition }) => {
+            const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
+
+            return (
+              <article class={currentPosition < previousPosition ? 'up' : 'down'}>
+                <header>
+                  <h3>{fighterName}</h3>
+                  <p class='text'>
+                    Now {currentPosition}, from {previousPosition}
+                  </p>
+                  <h4>{categoryName.replace('Top Rank', '')}</h4>
+                </header>
                 <img
                   src={`/fighters/${imgPath}`}
                   alt='Peleador'
                   loading='lazy'
                 />
-              </a>
-            </div>
-          )
-        })
+              </article>
+            )
+          }
+        )
       }
     </section>
   </main>
 </Layout>
 
 <style>
+  h1 {
+    font-size: 3rem;
+    color: var(--color-title);
+  }
+  h2 {
+    color: var(--color-subtitle);
+  }
   section {
-    display: flex;
-    flex-direction: column;
-    gap: 1.5rem;
+    --text-padding: 0.5rem 0;
+    display: grid;
+    width: 100%;
+    gap: 1rem;
+    list-style: none;
+    grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
+    justify-content: center;
   }
-
-  .card {
-    padding: 1rem 1rem 0 1rem;
-    background-color: var(--color-primary-light-8);
-    border-radius: 8px;
+  article,
+  header,
+  h3 {
+    width: 100%;
   }
-
-  .card a {
+  article {
     display: flex;
     flex-direction: column;
     align-items: center;
-    gap: 1rem;
+    justify-content: space-between;
+    border-radius: var(--border-radius);
+    gap: 2rem;
+    overflow: hidden;
+  }
+  header {
+    display: flex;
+    flex-direction: column;
   }
 
-  .card__title {
-    color: black;
+  h3 {
+    text-align: center;
+    background-color: #ffffff6e;
   }
 
-  .card__subtitle {
-    color: rgb(126, 126, 126);
+  .text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 0.5rem 0;
+    background-color: #ffffffde;
+    font-weight: 600;
+  }
+  h4 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 0.9rem;
+    background-color: #ffffff23;
+    font-style: italic;
   }
 
+  h3,
+  h4,
+  .text {
+    padding: var(--text-padding);
+  }
+
+  .up .text {
+    color: #008f79;
+  }
+  .down .text {
+    color: #931c1c;
+  }
+  .up {
+    background-image: url(/waves-up.svg);
+    background-size: cover;
+  }
+  .down {
+    background-image: url(/waves-down.svg);
+    background-size: cover;
+  }
   img {
     width: 200px;
   }
