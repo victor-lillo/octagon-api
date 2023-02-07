@@ -39,7 +39,7 @@
     <div class="navbar__theme">
       <ThemeSwitcher />
     </div>
-    <button type="checkbox" class="hamburger" on:click={handleChange}>
+    <button type="checkbox" class="hamburger" on:click={handleChange} aria-label="Menu">
       <div />
       <div />
       <div />
