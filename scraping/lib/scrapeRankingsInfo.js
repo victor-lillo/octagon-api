@@ -2,6 +2,7 @@ import { cleanString, standarizeString } from './string_modifiers.js'
 import { logInfo, logSuccess } from './log.js'
 import { writeDBFile } from './db.js'
 import scrape from './scrape.js'
+import { renameFile } from './renameFile.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 
@@ -19,7 +20,9 @@ const getSlugFromUrl = (url) => {
 }
 
 async function scrapeRankingsInfo() {
+  await renameFile('rankings', 'rankings-old')
   logInfo(`Running ranking scraper`)
+
   const $ = await scrape(RANKINGS_URL)
   const $tables = $.querySelectorAll(SELECTORS.table)
 

@@ -1,5 +1,6 @@
 /* Sizes */
 :root {
+  --border-radius: 5px;
   --section-width: 90%;
 }
 

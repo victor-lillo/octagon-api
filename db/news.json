@@ -1,0 +1,83 @@
+[
+  {
+    "fighter": "manon-fiorot",
+    "fighterName": "Manon Fiorot",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 2,
+    "previousPosition": 1,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 1,
+    "previousPosition": 2,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "marina-rodriguez",
+    "fighterName": "Marina Rodriguez",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "chris-daukaus",
+    "fighterName": "Chris Daukaus",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "marcin-tybura",
+    "fighterName": "Marcin Tybura",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "derrick-lewis",
+    "fighterName": "Derrick Lewis",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 9,
+    "previousPosition": 6,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "sergey-spivak-0",
+    "fighterName": "Serghei Spivac",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": 11,
+    "date": "2023-02-07T17:40:17.722Z"
+  },
+  {
+    "fighter": "alexander-volkov",
+    "fighterName": "Alexander Volkov",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2023-02-07T17:40:17.722Z"
+  }
+]
