@@ -1,0 +1,83 @@
+[
+  {
+    "fighter": "viviane-araujo",
+    "fighterName": "Viviane Araújo",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "lauren-murphy",
+    "fighterName": "Lauren Murphy",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "amanda-lemos",
+    "fighterName": "Amanda Lemos",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "alexandre-pantoja",
+    "fighterName": "Alexandre Pantoja",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 2,
+    "previousPosition": 1,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "deiveson-figueiredo",
+    "fighterName": "Deiveson Figueiredo",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 1,
+    "previousPosition": 0,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "brandon-moreno",
+    "fighterName": "Brandon Moreno",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 0,
+    "previousPosition": 2,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "israel-adesanya",
+    "fighterName": "Israel Adesanya",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 4,
+    "previousPosition": 3,
+    "date": "2023-02-07T16:43:44.233Z"
+  },
+  {
+    "fighter": "kamaru-usman",
+    "fighterName": "Kamaru Usman",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 3,
+    "previousPosition": 2,
+    "date": "2023-02-07T16:43:44.233Z"
+  }
+]

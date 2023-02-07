@@ -16,16 +16,16 @@
         "name": "Islam Makhachev"
       },
       {
+        "id": "leon-edwards",
+        "name": "Leon Edwards"
+      },
+      {
         "id": "kamaru-usman",
         "name": "Kamaru Usman"
       },
       {
         "id": "israel-adesanya",
         "name": "Israel Adesanya"
-      },
-      {
-        "id": "leon-edwards",
-        "name": "Leon Edwards"
       },
       {
         "id": "alex-pereira",
@@ -78,16 +78,16 @@
     },
     "fighters": [
       {
+        "id": "brandon-moreno",
+        "name": "Brandon Moreno"
+      },
+      {
         "id": "deiveson-figueiredo",
         "name": "Deiveson Figueiredo"
       },
       {
         "id": "alexandre-pantoja",
         "name": "Alexandre Pantoja"
-      },
-      {
-        "id": "brandon-moreno",
-        "name": "Brandon Moreno"
       },
       {
         "id": "kai-kara-france",
@@ -698,12 +698,12 @@
         "name": "Marina Rodriguez"
       },
       {
-        "id": "amanda-lemos",
-        "name": "Amanda Lemos"
-      },
-      {
         "id": "taila-santos",
         "name": "Taila Santos"
+      },
+      {
+        "id": "amanda-lemos",
+        "name": "Amanda Lemos"
       },
       {
         "id": "manon-fiorot",
@@ -834,12 +834,12 @@
         "name": "Alexa Grasso"
       },
       {
-        "id": "viviane-araujo",
-        "name": "Viviane Araújo"
-      },
-      {
         "id": "lauren-murphy",
         "name": "Lauren Murphy"
+      },
+      {
+        "id": "viviane-araujo",
+        "name": "Viviane Araújo"
       },
       {
         "id": "jennifer-maia",
