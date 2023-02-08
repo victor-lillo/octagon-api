@@ -8,6 +8,12 @@
   "trailingComma": "es5",
   "overrides": [
     {
+      "files": ["SEO.astro"],
+      "options": {
+        "singleAttributePerLine": false
+      }
+    },
+    {
       "files": ["*.json"],
       "options": {
         "useTabs": false
