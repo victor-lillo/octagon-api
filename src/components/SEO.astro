@@ -8,7 +8,8 @@ const { description, title } = Astro.props
 const seoDescription = description ?? 'Octogon API web'
 const seoTitle = title ?? 'Octogon API web'
 
-const canonicalURL = new URL(Astro.url.pathname.replace(/([^/])$/, '$1/'), Astro.site)
+const url = new URL(Astro.url, Astro.site)
+const canonicalURL = url.href
 ---
 
 <!-- Common -->
