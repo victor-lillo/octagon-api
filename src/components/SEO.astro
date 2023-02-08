@@ -4,6 +4,11 @@ export interface Props {
   description?: string
 }
 const { description, title } = Astro.props
+
+const seoDescription = description ?? 'Octogon API web'
+const seoTitle = title ?? 'Octogon API web'
+
+const canonicalURL = new URL(Astro.url.pathname.replace(/([^/])$/, '$1/'), Astro.site)
 ---
 
 <!-- Common -->
@@ -14,22 +19,43 @@ const { description, title } = Astro.props
 />
 <meta
   name='description'
-  content={description ?? 'Octogon API web'}
+  content={seoDescription}
 />
 
 <!-- OpenGraph Tags -->
-<!-- <meta property="og:title" content={content.title} />
-<meta property="og:type" content="article" />
-<meta property="og:url" content={canonicalURL} />
-<meta property="og:locale" content={ogLocale} />
-<meta property="og:image" content={canonicalImageSrc} />
-<meta property="og:image:alt" content={imageAlt} />
 <meta
-	name="description"
-	property="og:description"
-	content={content.description}
+  property='og:title'
+  content={seoTitle}
 />
-<meta property="og:site_name" content={content.title} /> -->
+<meta
+  property='og:type'
+  content='article'
+/>
+<meta
+  property='og:url'
+  content={canonicalURL}
+/>
+<meta
+  property='og:locale'
+  content='en'
+/>
+<meta
+  property='og:image:alt'
+  content=''
+/>
+<meta
+  name='description'
+  property='og:description'
+  content={description}
+/>
+<meta
+  property='og:site_name'
+  content={seoTitle}
+/>
+<meta
+  property='og:image'
+  content={'https://www.octogon-api.com/favicon.svg'}
+/>
 
 <!-- Twitter Tags -->
 <meta
@@ -42,11 +68,11 @@ const { description, title } = Astro.props
 />
 <meta
   name='twitter:title'
-  content={title}
+  content={seoDescription}
 />
 <meta
   name='twitter:description'
-  content={description ?? 'Octogon API web'}
+  content={seoDescription}
 />
 <meta
   name='twitter:image'
