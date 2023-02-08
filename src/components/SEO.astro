@@ -20,6 +20,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site)
   name='description'
   content={seoDescription}
 />
+<link
+  rel='canonical'
+  href={canonicalURL}
+/>
 
 <!-- OpenGraph Tags -->
 <meta
