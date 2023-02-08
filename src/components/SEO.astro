@@ -7,9 +7,7 @@ const { description, title } = Astro.props
 
 const seoDescription = description ?? 'Octogon API web'
 const seoTitle = title ?? 'Octogon API web'
-
-const url = new URL(Astro.url, Astro.site)
-const canonicalURL = url.href
+const canonicalURL = new URL(Astro.url.pathname, Astro.site)
 ---
 
 <!-- Common -->
@@ -55,7 +53,7 @@ const canonicalURL = url.href
 />
 <meta
   property='og:image'
-  content={'https://www.octogon-api.com/favicon.svg'}
+  content={'https://www.octogon-api.com/seo/logo.jpg'}
 />
 
 <!-- Twitter Tags -->
@@ -77,7 +75,7 @@ const canonicalURL = url.href
 />
 <meta
   name='twitter:image'
-  content={'https://www.octogon-api.com/favicon.svg'}
+  content={'https://www.octogon-api.com/seo/logo.jpg'}
 />
 <meta
   name='twitter:image:alt'
