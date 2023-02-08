@@ -1,5 +1,9 @@
 ---
-const { description } = Astro.props
+export interface Props {
+  title?: string
+  description?: string
+}
+const { description, title } = Astro.props
 ---
 
 <!-- Common -->
@@ -10,7 +14,7 @@ const { description } = Astro.props
 />
 <meta
   name='description'
-  content={description ?? 'Fighters web'}
+  content={description ?? 'Octogon API web'}
 />
 
 <!-- OpenGraph Tags -->
@@ -28,12 +32,21 @@ const { description } = Astro.props
 <meta property="og:site_name" content={content.title} /> -->
 
 <!-- Twitter Tags -->
-<!-- <meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:site" content={OPEN_GRAPH.twitter} />
-<meta name="twitter:title" content={content.title} /> -->
+<meta
+  name='twitter:card'
+  content='summary_large_image'
+/>
+<meta
+  name='twitter:site'
+  content='Octogon API'
+/>
+<meta
+  name='twitter:title'
+  content={title}
+/>
 <meta
   name='twitter:description'
-  content={description ?? 'Fighters web'}
+  content={description ?? 'Octogon API web'}
 />
 <meta
   name='twitter:image'
