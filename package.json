@@ -17,19 +17,20 @@
   },
   "dependencies": {
     "@astrojs/image": "0.13.0",
-    "@astrojs/react": "^2.0.1",
-    "@astrojs/svelte": "^2.0.0",
-    "@types/react": "^18.0.21",
-    "@types/react-dom": "^18.0.6",
-    "astro": "^2.0.0",
+    "@astrojs/react": "2.0.1",
+    "@astrojs/sitemap": "1.0.1",
+    "@astrojs/svelte": "2.0.0",
+    "@types/react": "18.0.21",
+    "@types/react-dom": "18.0.6",
+    "astro": "2.0.0",
     "axios": "1.2.4",
     "hono": "2.7.5",
     "node-html-parser": "6.1.4",
     "picocolors": "1.0.0",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
     "sharp": "0.31.3",
-    "svelte": "^3.54.0"
+    "svelte": "3.54.0"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20221111.1",
