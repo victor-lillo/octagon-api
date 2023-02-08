@@ -11,25 +11,25 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site)
 ---
 
 <!-- Common -->
-<meta charset='UTF-8' />
-<meta name='viewport' content='width=device-width' />
-<meta name='description' content={seoDescription} />
 <link rel='canonical' href={canonicalURL} />
+<meta charset='UTF-8' />
+<meta name='description' content={seoDescription} />
+<meta name='viewport' content='width=device-width' />
 
 <!-- OpenGraph Tags -->
+<meta name='description' property='og:description' content={description} />
+<meta property='og:image:alt' content='' />
+<meta property='og:image' content='https://www.octogon-api.com/seo/logo.jpg' />
+<meta property='og:locale' content='en' />
+<meta property='og:site_name' content={seoTitle} />
 <meta property='og:title' content={seoTitle} />
 <meta property='og:type' content='article' />
 <meta property='og:url' content={canonicalURL} />
-<meta property='og:locale' content='en' />
-<meta property='og:image:alt' content='' />
-<meta name='description' property='og:description' content={description} />
-<meta property='og:site_name' content={seoTitle} />
-<meta property='og:image' content={'https://www.octogon-api.com/seo/logo.jpg'} />
 
 <!-- Twitter Tags -->
 <meta name='twitter:card' content='summary_large_image' />
+<meta name='twitter:description' content={seoDescription} />
+<meta name='twitter:image:alt' content='Octogon API logo' />
+<meta name='twitter:image' content='https://www.octogon-api.com/seo/logo.jpg' />
 <meta name='twitter:site' content='Octogon API' />
 <meta name='twitter:title' content={seoDescription} />
-<meta name='twitter:description' content={seoDescription} />
-<meta name='twitter:image' content={'https://www.octogon-api.com/seo/logo.jpg'} />
-<meta name='twitter:image:alt' content={'Octogon API logo'} />
