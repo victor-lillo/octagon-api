@@ -4,23 +4,21 @@ import '../styles/reset.local.css'
 import '../styles/tokens.css'
 import '../styles/classes.css'
 import Navbar from '@components/Navbar.svelte'
+import SEO from '@components/SEO.astro'
 
 export interface Props {
   title?: string
+  description?: string
 }
 
-const { title } = Astro.props
+const { title, description } = Astro.props
 const displayTitle = title ? `${title} | Octogon API` : 'Octogon API'
 ---
 
 <!DOCTYPE html>
 <html lang='en'>
   <head>
-    <meta charset='UTF-8' />
-    <meta
-      name='viewport'
-      content='width=device-width'
-    />
+    <SEO description={description} />
     <link
       rel='icon'
       type='image/svg+xml'
@@ -35,47 +33,46 @@ const displayTitle = title ? `${title} | Octogon API` : 'Octogon API'
   <body>
     <Navbar client:visible />
     <slot />
+    <script is:inline>
+      // Inline: not bundled, so will execute the first
+      // We need to load theme asap, so we are handling it in the layout.
+      const STORAGE_THEME_KEY = 'theme'
+      const getLocalStorageTheme = (localStorageKey) => {
+        if (localStorage && localStorage.getItem(localStorageKey))
+          return localStorage.getItem(localStorageKey)
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) return 'dark'
+        return 'light'
+      }
+
+      const theme = getLocalStorageTheme(STORAGE_THEME_KEY)
+      const isDark = theme === 'dark'
+      document.documentElement.classList.toggle('theme-dark', isDark)
+    </script>
+
+    <style>
+      html {
+        font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
+          Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+        background: var(--background-gradient);
+        background-attachment: fixed;
+      }
+      body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+      }
+    </style>
+    <style is:global>
+      main {
+        display: flex;
+        flex-grow: 1;
+        flex-direction: column;
+        align-items: center;
+        gap: 2rem;
+        padding: 1.5rem 0;
+        width: var(--section-width);
+      }
+    </style>
   </body>
 </html>
-
-<script is:inline>
-  // Inline: not bundled, so will execute the first
-  // We need to load theme asap, so we are handling it in the layout.
-  const STORAGE_THEME_KEY = 'theme'
-  const getLocalStorageTheme = (localStorageKey) => {
-    if (localStorage && localStorage.getItem(localStorageKey))
-      return localStorage.getItem(localStorageKey)
-    if (window.matchMedia('(prefers-color-scheme: dark)').matches) return 'dark'
-    return 'light'
-  }
-
-  const theme = getLocalStorageTheme(STORAGE_THEME_KEY)
-  const isDark = theme === 'dark'
-  document.documentElement.classList.toggle('theme-dark', isDark)
-</script>
-
-<style>
-  html {
-    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu,
-      Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background: var(--background-gradient);
-    background-attachment: fixed;
-  }
-  body {
-    min-height: 100vh;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-  }
-</style>
-<style is:global>
-  main {
-    display: flex;
-    flex-grow: 1;
-    flex-direction: column;
-    align-items: center;
-    gap: 2rem;
-    padding: 1.5rem 0;
-    width: var(--section-width);
-  }
-</style>
