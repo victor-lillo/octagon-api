@@ -51,7 +51,7 @@ const scrapeFighterInfo = async (id) => {
       baseFolder: BASE_IMAGE_FOLDER,
       fileName: id,
       folder: FIGHTERS_IMAGE_FOLDER,
-      url: fighterData.imgUrl,
+      url: imgUrl,
     })
 
   FIGHTER_DATA[id] = { name, nickname, category, wins, draws, losses, imgUrl, ...bio_fields_obj }
