@@ -24,7 +24,7 @@ const {
   draws,
   fightingStyle,
   height,
-  hometown,
+  placeOfBirth,
   legReach,
   losses,
   name,
@@ -39,8 +39,10 @@ const {
 
 <Layout title={athlete}>
   <main>
-    <h1>{name}</h1>
-    {nickname ? <h2>"{nickname}"</h2> : null}
+    <header>
+      <h1>{name}</h1>
+      {nickname ? <h2>"{nickname}"</h2> : null}
+    </header>
 
     <FighterScoreCard
       athlete={athlete}
@@ -49,55 +51,75 @@ const {
       draws={draws}
     />
 
-    <div class='data-container'><span>Age:</span> {age}</div>
-    <div class='data-container'><span>Category:</span> {category}</div>
-    {
-      fightingStyle ? (
-        <div class='data-container'>
-          <span>Fighting style:</span> {fightingStyle}
-        </div>
-      ) : null
-    }
-    <div class='data-container'><span>Height:</span> {height}</div>
-    <div class='data-container'><span>Hometown:</span> {hometown}</div>
-    <div class='data-container'><span>Debut:</span> {octagonDebut}</div>
-    <div class='data-container'><span>Reach:</span> {reach}</div>
-    <div class='data-container'><span>Leg reach:</span> {legReach}</div>
-    <div class='data-container'><span>Gym:</span> {trainsAt}</div>
-    <div class='data-container'><span>Weight:</span> {weight}</div>
+    <section>
+      <div class='data-item'><span>Age:</span> {age}</div>
+      <div class='data-item'><span>Category:</span> {category}</div>
+      <div class='data-item'><span>Weight:</span> {weight}</div>
+      <div class='data-item'><span>Height:</span> {height}</div>
+      {
+        fightingStyle ? (
+          <div class='data-item'>
+            <span>Fighting style:</span> {fightingStyle}
+          </div>
+        ) : null
+      }
+      <div class='data-item'><span>Place of birth:</span> {placeOfBirth}</div>
+      <div class='data-item'><span>Debut:</span> {octagonDebut}</div>
+      <div class='data-item'><span>Reach:</span> {reach}</div>
+      <div class='data-item'><span>Leg reach:</span> {legReach}</div>
+      {
+        trainsAt ? (
+          <div class='data-item'>
+            <span>Gym:</span> {trainsAt}
+          </div>
+        ) : null
+      }
+    </section>
   </main>
 </Layout>
 
 <style>
-  section {
-    display: flex;
-    flex-direction: column;
-    gap: 0.7rem;
-  }
   main {
     display: flex;
     flex-direction: column;
   }
+  header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    text-align: center;
+  }
   h1 {
     font-size: 3rem;
+    color: var(--color-title);
   }
   h2 {
     font-size: 2rem;
-    color: #333;
+    color: var(--color-subtitle);
   }
   a {
     font-weight: 600;
     width: fit-content;
   }
 
-  .data-container {
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+  }
+  .data-item {
     font-size: 1.3rem;
     display: flex;
     flex-direction: column;
     gap: 0.4rem;
+    padding: 0.7rem 1rem;
+    border-radius: var(--border-radius);
+    background-color: var(--bg-transparent);
   }
-  .data-container span {
-    color: #222;
-    font-weight: 600;
+  .data-item span {
+    color: var(--color-subtitle);
   }
 </style>

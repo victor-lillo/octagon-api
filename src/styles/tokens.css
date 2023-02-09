@@ -21,6 +21,7 @@
   color-scheme: light;
 
   --bg-color-menu-mobile: var(--color-primary-light-5);
+  --bg-transparent: #00000020;
   --color-title: var(--color-primary-dark-7);
   --color-subtitle: var(--color-primary-dark-5);
   --background-gradient: linear-gradient(
@@ -53,12 +54,9 @@
 
 .theme-dark {
   color-scheme: dark;
-  --color-text-1: #e4e4e4;
-  --color-main-1: #5d28c8;
-  --color-main-2: #4e216e;
-  --color-main-3: #1d052f;
 
   --bg-color-menu-mobile: var(--color-primary-dark-5);
+  --bg-transparent: #ffffff20;
   --color-title: var(--color-primary-light-7);
   --color-subtitle: var(--color-primary-light-5);
 
