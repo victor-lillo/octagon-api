@@ -43,10 +43,11 @@ const scrapeFighterInfo = async (id) => {
     bio_fields_obj[camelCaseString(text_label)] = text_content
   })
 
-  const img_path = path.join(process.cwd(), BASE_IMAGE_FOLDER, FIGHTERS_IMAGE_FOLDER, id + '.webp')
+  // For new fighters in our ranking, FIGHTER_DATA[id] is undef
+  // So we return a void string as imgUrl
+  const { imgUrl: oldImgUrl } = FIGHTER_DATA[id] ?? { imgUrl: '' }
 
-  if (await checkFileExists(img_path)) logSuccess('This image already exists, skipping')
-  else
+  if (imgUrl !== oldImgUrl)
     await saveImage({
       baseFolder: BASE_IMAGE_FOLDER,
       fileName: id,
@@ -54,8 +55,7 @@ const scrapeFighterInfo = async (id) => {
       url: imgUrl,
     })
 
-  FIGHTER_DATA[id] = { name, nickname, category, wins, draws, losses, imgUrl, ...bio_fields_obj }
-
+  FIGHTER_DATA[id] = { category, draws, imgUrl, losses, name, nickname, wins, ...bio_fields_obj }
   await writeDBFile(FIGHTERS_DB_NAME, FIGHTER_DATA)
   logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
 }
