@@ -22,18 +22,28 @@ const { categoryName, championId, championName, fighters } = Astro.props
 
 <Layout title={categoryName}>
   <main>
-    <h1>Division: {categoryName}</h1>
-
-    <h2>List of fighters</h2>
-    <ul>
+    <header>
+      <h1>Division</h1>
+      <h2>{categoryName}</h2>
+    </header>
+    <section>
       {
-        fighters.map(({ id, name }, index) => (
-          <li class='card'>
-            <span>{index === 0 ? '👑' : index}</span> <a href={`/athlete/${id}`}>{name}</a>
-          </li>
+        fighters.map(({ id, name, championId }, index) => (
+          <article>
+            <a href={`/athlete/${id}`}>
+              <header>
+                <h3>{name}</h3>
+                <span>{index === 0 ? '👑' : index}</span>
+              </header>
+              <img
+                src={`/fighters/${id}.webp`}
+                alt='Peleador'
+              />
+            </a>
+          </article>
         ))
       }
-    </ul>
+    </section>
   </main>
 </Layout>
 
@@ -41,34 +51,41 @@ const { categoryName, championId, championName, fighters } = Astro.props
   main {
     display: flex;
     flex-direction: column;
-    gap: -var(--size-spacing-2);
+    gap: 1.5rem;
+  }
+  header {
+    display: flex;
+    flex-direction: column;
+    gap: 0.7rem;
+    text-align: center;
   }
   h1 {
     font-size: 3rem;
+    color: var(--color-title);
+  }
+  h2 {
+    font-size: 2rem;
+    color: var(--color-subtitle);
+  }
+  section {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
   }
   a {
-    font-weight: 600;
-    width: fit-content;
-  }
-  .image-container {
-    height: 300px;
-  }
-  img {
-    aspect-ratio: 460 / 700;
-  }
-  ul {
     display: flex;
     flex-direction: column;
-    gap: 0.5rem;
-    list-style: none;
+    gap: 1rem;
+    border-radius: var(--border-radius);
+    background-color: var(--bg-transparent);
+    padding: 1rem;
+    padding-bottom: 0;
   }
-  li {
-    font-size: 1.4rem;
+  h3 {
+    white-space: nowrap;
   }
-  li span {
-    display: inline-block;
-    text-align: center;
-    width: 4ch;
-    color: rgb(33, 0, 132);
+  img {
+    width: 150px;
+    aspect-ratio: 460 / 700;
   }
 </style>
