@@ -21,6 +21,7 @@
 
   const handleChange = () => {
     isOpen = !isOpen;
+    document.body.classList.toggle('no-scroll', isOpen);
   };
 </script>
 
