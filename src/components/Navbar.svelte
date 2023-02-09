@@ -85,6 +85,7 @@
     height: 100%;
     background-color: var(--bg-color-menu-mobile);
     align-items: flex-start;
+    overflow: hidden;
   }
 
   .navbar--open .navbar__anchor {
