@@ -30,7 +30,9 @@
     padding: 0.6rem;
   }
 
-  button:hover {
-    border-color: var(--color-primary-light-3);
+  @media (hover: hover) {
+    button:hover {
+      border-color: var(--color-primary-light-3);
+    }
   }
 </style>

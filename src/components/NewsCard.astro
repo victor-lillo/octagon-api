@@ -65,6 +65,7 @@ const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
     background-color: #ffffffde;
     font-weight: 600;
   }
+
   h4 {
     text-align: center;
     font-weight: 400;
@@ -95,5 +96,13 @@ const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
   }
   img {
     height: 305px;
+    transform-origin: bottom;
+    transition: transform 0.3s;
+  }
+
+  @media (hover: hover) {
+    a:hover img {
+      transform: scale(1.05);
+    }
   }
 </style>
