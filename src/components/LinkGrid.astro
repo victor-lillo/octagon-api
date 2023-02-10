@@ -10,15 +10,13 @@ const divisionData = data.map(({ id, categoryName, champion }) => {
 <ul>
   {
     divisionData.map(({ route, championImg, categoryName }) => (
-      <>
-        <li>
-          <a href={route}>{categoryName}</a>
-          <img
-            src={`/fighters/${championImg}`}
-            alt=''
-          />
-        </li>
-      </>
+      <li>
+        <a href={route}>{categoryName}</a>
+        <img
+          src={`/fighters/${championImg}`}
+          alt=''
+        />
+      </li>
     ))
   }
 </ul>
