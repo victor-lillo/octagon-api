@@ -12,20 +12,22 @@ const { fighter, fighterName, categoryName, currentPosition, previousPosition, d
 const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
 ---
 
-<article class={currentPosition < previousPosition ? 'up' : 'down'}>
-  <header>
-    <h3>{fighterName}</h3>
-    <p class='text'>
-      Rank {currentPosition}, from {previousPosition}
-    </p>
-    <h4>{categoryName.replace('Top Rank', '')}</h4>
-  </header>
-  <img
-    src={`/fighters/${imgPath}`}
-    alt='Peleador'
-    loading='lazy'
-  />
-</article>
+<a href={`/athlete/${fighter}`}>
+  <article class={currentPosition < previousPosition ? 'up' : 'down'}>
+    <header>
+      <h3>{fighterName}</h3>
+      <p class='text'>
+        Rank {currentPosition}, from {previousPosition}
+      </p>
+      <h4>{categoryName.replace('Top Rank', '')}</h4>
+    </header>
+    <img
+      src={`/fighters/${imgPath}`}
+      alt='Peleador'
+      loading='lazy'
+    />
+  </article>
+</a>
 
 <style>
   article,
@@ -33,14 +35,16 @@ const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
   h3 {
     width: 100%;
   }
+  a {
+    border-radius: var(--border-radius);
+    overflow: hidden;
+  }
   article {
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: space-between;
-    border-radius: var(--border-radius);
     gap: 2rem;
-    overflow: hidden;
   }
   header {
     display: flex;
