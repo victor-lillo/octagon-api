@@ -52,14 +52,24 @@ const displayTitle = title ? `${title} | Octogon API` : 'Octogon API'
       html {
         font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen,
           Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-        background: var(--bg-gradient-1);
-        background-attachment: fixed;
       }
       body {
         min-height: 100vh;
         display: flex;
         flex-direction: column;
         align-items: center;
+      }
+      /* Fix bg gradient in mobile browsers. Fixed bg doesn't work well */
+      body::before {
+        content: '';
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -999;
+        background: var(--bg-gradient-1);
       }
     </style>
     <style is:global>
