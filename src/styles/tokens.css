@@ -20,16 +20,22 @@
 :root {
   color-scheme: light;
 
-  --bg-color-menu-mobile: var(--color-primary-light-5);
-  --bg-transparent: #00000020;
   --color-title: var(--color-primary-dark-7);
   --color-subtitle: var(--color-primary-dark-5);
-  --background-gradient: linear-gradient(
+
+  --bg-color-menu-mobile: var(--color-primary-light-5);
+  --bg-transparent: #00000020;
+
+  --bg-gradient-1: linear-gradient(
     0deg,
     var(--color-primary-light-8) 0%,
     var(--color-primary-light-6) 100%
   );
-  --color-gradient-1: linear-gradient(45deg, #001c22 0%, #005668 100%);
+  --bg-gradient-2: linear-gradient(
+    45deg,
+    var(--color-primary-dark-4) 0%,
+    var(--color-primary-light-2) 100%
+  );
 
   --color-primary-base: #005f73;
   --color-primary-dark-1: #005668;
@@ -54,15 +60,20 @@
 
 .theme-dark {
   color-scheme: dark;
-
-  --bg-color-menu-mobile: var(--color-primary-dark-5);
-  --bg-transparent: #ffffff20;
   --color-title: var(--color-primary-light-7);
   --color-subtitle: var(--color-primary-light-5);
 
-  --background-gradient: linear-gradient(
+  --bg-color-menu-mobile: var(--color-primary-dark-5);
+  --bg-transparent: #ffffff20;
+
+  --bg-gradient-1: linear-gradient(
     0deg,
     var(--color-primary-dark-3) 0%,
     var(--color-primary-dark-7) 100%
+  );
+  --bg-gradient-2: linear-gradient(
+    45deg,
+    var(--color-primary-dark-4) 0%,
+    var(--color-primary-light-4) 100%
   );
 }
