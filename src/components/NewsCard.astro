@@ -1,0 +1,95 @@
+---
+export interface Props {
+  fighter: string
+  fighterName: string
+  categoryName: string
+  currentPosition: number
+  previousPosition: number
+  date: string
+}
+const { fighter, fighterName, categoryName, currentPosition, previousPosition, date } = Astro.props
+
+const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
+---
+
+<article class={currentPosition < previousPosition ? 'up' : 'down'}>
+  <header>
+    <h3>{fighterName}</h3>
+    <p class='text'>
+      Rank {currentPosition}, from {previousPosition}
+    </p>
+    <h4>{categoryName.replace('Top Rank', '')}</h4>
+  </header>
+  <img
+    src={`/fighters/${imgPath}`}
+    alt='Peleador'
+    loading='lazy'
+  />
+</article>
+
+<style>
+  article,
+  header,
+  h3 {
+    width: 100%;
+  }
+  article {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-between;
+    border-radius: var(--border-radius);
+    gap: 2rem;
+    overflow: hidden;
+  }
+  header {
+    display: flex;
+    flex-direction: column;
+  }
+
+  h3 {
+    text-align: center;
+    background-color: #ffffff6e;
+  }
+
+  .text {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 1.5rem;
+    padding: 0.5rem 0;
+    background-color: #ffffffde;
+    font-weight: 600;
+  }
+  h4 {
+    text-align: center;
+    font-weight: 400;
+    font-size: 0.9rem;
+    background-color: #ffffff23;
+    font-style: italic;
+  }
+
+  h3,
+  h4,
+  .text {
+    padding: var(--text-padding);
+  }
+
+  .up .text {
+    color: #008f79;
+  }
+  .down .text {
+    color: #931c1c;
+  }
+  .up {
+    background-image: url(/waves-up.svg);
+    background-size: cover;
+  }
+  .down {
+    background-image: url(/waves-down.svg);
+    background-size: cover;
+  }
+  img {
+    height: 305px;
+  }
+</style>

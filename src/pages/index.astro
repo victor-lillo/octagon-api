@@ -1,11 +1,21 @@
 ---
 import Layout from '@layouts/Layout.astro'
-import data from '@db/news.json'
+import newsData from '@db/news.json'
+import NewsCard from '@components/NewsCard.astro'
+
+interface NewsData {
+  fighter: string
+  fighterName: string
+  categoryName: string
+  currentPosition: number
+  previousPosition: number
+  date: string
+}
 
 // Ordered by current position
-const orderedData = data.sort((a, b) => {
+const orderedData = newsData.sort((a, b) => {
   return a.currentPosition - b.currentPosition
-})
+}) as Array<NewsData>
 ---
 
 <Layout
@@ -15,30 +25,7 @@ const orderedData = data.sort((a, b) => {
     <h1>Welcome to <span class='text-gradient'>Octogon API</span></h1>
     <h2 class='subtitle'>News</h2>
     <section>
-      {
-        orderedData.map(
-          ({ fighter, fighterName, categoryName, currentPosition, previousPosition }) => {
-            const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
-
-            return (
-              <article class={currentPosition < previousPosition ? 'up' : 'down'}>
-                <header>
-                  <h3>{fighterName}</h3>
-                  <p class='text'>
-                    Now {currentPosition}, from {previousPosition}
-                  </p>
-                  <h4>{categoryName.replace('Top Rank', '')}</h4>
-                </header>
-                <img
-                  src={`/fighters/${imgPath}`}
-                  alt='Peleador'
-                  loading='lazy'
-                />
-              </article>
-            )
-          }
-        )
-      }
+      {orderedData.map((fighterData) => <NewsCard {...fighterData} />)}
     </section>
   </main>
 </Layout>
@@ -60,70 +47,6 @@ const orderedData = data.sort((a, b) => {
     list-style: none;
     grid-template-columns: repeat(auto-fill, minmax(min(100%, 13rem), 1fr));
     justify-content: center;
-  }
-  article,
-  header,
-  h3 {
-    width: 100%;
-  }
-  article {
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: space-between;
-    border-radius: var(--border-radius);
-    gap: 2rem;
-    overflow: hidden;
-  }
-  header {
-    display: flex;
-    flex-direction: column;
-  }
-
-  h3 {
-    text-align: center;
-    background-color: #ffffff6e;
-  }
-
-  .text {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 1.5rem;
-    padding: 0.5rem 0;
-    background-color: #ffffffde;
-    font-weight: 600;
-  }
-  h4 {
-    text-align: center;
-    font-weight: 400;
-    font-size: 0.9rem;
-    background-color: #ffffff23;
-    font-style: italic;
-  }
-
-  h3,
-  h4,
-  .text {
-    padding: var(--text-padding);
-  }
-
-  .up .text {
-    color: #008f79;
-  }
-  .down .text {
-    color: #931c1c;
-  }
-  .up {
-    background-image: url(/waves-up.svg);
-    background-size: cover;
-  }
-  .down {
-    background-image: url(/waves-down.svg);
-    background-size: cover;
-  }
-  img {
-    height: 305px;
   }
 </style>
 <script is:inline>
