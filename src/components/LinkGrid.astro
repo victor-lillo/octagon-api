@@ -11,7 +11,12 @@ const divisionData = data.map(({ id, categoryName, champion }) => {
   {
     divisionData.map(({ route, championImg, categoryName }) => (
       <li>
-        <a href={route}>{categoryName}</a>
+        <a
+          aria-label='Open fighter page'
+          href={route}
+        >
+          {categoryName}
+        </a>
         <img
           src={`/fighters/${championImg}`}
           alt=''
