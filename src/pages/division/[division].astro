@@ -1,6 +1,7 @@
 ---
 import Layout from '@layouts/Layout.astro'
 import data from '@db/rankings.json'
+import DivisionFighterCard from '@components/DivisionFighterCard.astro'
 
 interface Props {
   division: string
@@ -10,7 +11,10 @@ export function getStaticPaths() {
   const params = data.map((division) => {
     const { id, categoryName, champion, fighters } = division
     const { id: championId, championName } = champion
-    return { params: { division: id }, props: { categoryName, championId, championName, fighters } }
+    return {
+      params: { division: id },
+      props: { categoryName, championId, championName, fighters },
+    }
   })
 
   return params
@@ -28,19 +32,12 @@ const { categoryName, championId, championName, fighters } = Astro.props
     </header>
     <section>
       {
-        fighters.map(({ id, name, championId }, index) => (
-          <article>
-            <a href={`/athlete/${id}`}>
-              <header>
-                <h3>{name}</h3>
-                <span>{index === 0 ? '👑' : index}</span>
-              </header>
-              <img
-                src={`/fighters/${id}.webp`}
-                alt='Peleador'
-              />
-            </a>
-          </article>
+        fighters.map(({ id, name }, index) => (
+          <DivisionFighterCard
+            fighterId={id}
+            fighterName={name}
+            index={index}
+          />
         ))
       }
     </section>
@@ -71,22 +68,6 @@ const { categoryName, championId, championName, fighters } = Astro.props
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 1rem;
-  }
-  a {
-    display: flex;
-    flex-direction: column;
-    gap: 1rem;
-    border-radius: var(--border-radius);
-    background-color: var(--bg-transparent);
-    padding: 1rem;
-    padding-bottom: 0;
-  }
-  h3 {
-    white-space: nowrap;
-  }
-  img {
-    width: 150px;
-    aspect-ratio: 460 / 700;
+    gap: 1.5rem;
   }
 </style>

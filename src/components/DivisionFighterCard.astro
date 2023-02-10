@@ -1,0 +1,127 @@
+---
+export interface Props {
+  fighterId: string
+  fighterName: string
+  index: number
+}
+const { fighterId, fighterName, index } = Astro.props
+
+const rankClass = index <= 3 ? `position-${index}` : 'standard'
+
+const lastHyphen = fighterName.lastIndexOf('-')
+const lastSpace = fighterName.lastIndexOf(' ')
+
+const clampedName =
+  fighterName.length > 22
+    ? fighterName.slice(0, lastHyphen > lastSpace ? lastHyphen : lastSpace)
+    : fighterName
+---
+
+<a
+  href={`/athlete/${fighterId}`}
+  class={rankClass}
+>
+  <article title={fighterName}>
+    <img
+      src={`/fighters/${fighterId}.webp`}
+      alt='Peleador'
+    />
+    <footer>
+      <h3>
+        {clampedName}
+      </h3>
+      <span class='ranking-number'>{index === 0 ? '👑' : index}</span>
+    </footer>
+  </article>
+</a>
+
+<style>
+  article {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    align-items: center;
+    padding-top: 35px;
+    height: 100%;
+  }
+
+  footer {
+    position: relative;
+    display: flex;
+    flex-grow: 1;
+    flex-direction: column;
+    justify-content: center;
+    gap: 0.7rem;
+    text-align: center;
+    font-size: 1.7rem;
+    font-weight: 600;
+    padding: 1rem;
+    /* magic numbers <3 */
+    padding-bottom: 4.6rem;
+  }
+
+  .position-0 .ranking-number {
+    display: none;
+  }
+
+  .ranking-number {
+    position: absolute;
+    bottom: 1.5rem;
+    left: 0;
+    right: 0;
+  }
+
+  img {
+    width: 220px;
+    height: 180px;
+    object-position: top;
+    object-fit: cover;
+    transform: scale(1);
+    transform-origin: bottom;
+    transition: transform 0.3s;
+  }
+
+  .position-0,
+  .position-1,
+  .position-2,
+  .position-3,
+  .standard {
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    aspect-ratio: 489 / 787;
+    width: 250px;
+  }
+
+  .position-0 {
+    background-image: url(/bg/platinum.webp);
+    color: #fef4e7;
+    text-shadow: 0px 0px 5px black, 1px 1px 5px black, 2px 2px 5px black;
+  }
+
+  .position-1 {
+    background-image: url(/bg/gold.webp);
+    color: #807138;
+  }
+
+  .position-2 {
+    background-image: url(/bg/silver.webp);
+    color: #525252;
+  }
+
+  .position-3 {
+    background-image: url(/bg/bronze.webp);
+    color: #64482f;
+  }
+
+  .standard {
+    background-image: url(/bg/default.webp);
+    color: #dee3f5;
+  }
+
+  @media (hover: hover) {
+    article:hover img {
+      transform: scale(1.1);
+    }
+  }
+</style>
