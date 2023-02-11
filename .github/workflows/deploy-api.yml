@@ -1,11 +1,10 @@
 name: Deploy API
 
 on:
+  workflow_dispatch:
   push:
     branches: ['main']
     paths: ['db/**']
-
-  workflow_dispatch:
 
 jobs:
   deploy:
