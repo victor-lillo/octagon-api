@@ -60,8 +60,8 @@
 
 .theme-dark {
   color-scheme: dark;
-  --color-title: var(--color-primary-light-7);
-  --color-subtitle: var(--color-primary-light-5);
+  --color-title: var(--color-primary-light-8);
+  --color-subtitle: var(--color-primary-light-6);
 
   --bg-color-menu-mobile: var(--color-primary-dark-5);
   --bg-transparent: #ffffff20;
