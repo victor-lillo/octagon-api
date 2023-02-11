@@ -57,6 +57,7 @@
     top: 0;
     transform: scaleZ(1);
     backdrop-filter: blur(10px);
+    -webkit-backdrop-filter: blur(10px);
     width: 100%;
     z-index: 9;
   }
