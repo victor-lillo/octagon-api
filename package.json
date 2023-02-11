@@ -34,7 +34,17 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20221111.1",
+    "autoprefixer": "^10.4.13",
     "vitest": "0.28.2",
     "wrangler": "2.8.1"
+  },
+  "browserslist": {
+    "development": [
+      "last 1 version"
+    ],
+    "production": [
+      "defaults",
+      "> 0.1%"
+    ]
   }
 }
