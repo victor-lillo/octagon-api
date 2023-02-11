@@ -43,9 +43,8 @@
       "last 1 version"
     ],
     "production": [
-      "last 1 version",
-      "> 1%",
-      "not dead"
+      "defaults",
+      "> 0.1%"
     ]
   }
 }
