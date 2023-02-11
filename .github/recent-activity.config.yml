@@ -1,0 +1,9 @@
+settings:
+  username: 'Readme Bot'
+  commit_msg: '[Bot] Update README with the recent activity'
+  max_lines: 5
+  readme_file: './README.md'
+  date:
+    timezone: 'GMT+01:00'
+    text: 'Last Updated: {DATE}'
+    format: 'dddd, mmmm dS, yyyy, h:MM:ss TT'

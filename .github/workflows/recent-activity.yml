@@ -12,8 +12,7 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: jamesgeorge007/github-activity-readme@master
+      - uses: Readme-Workflows/recent-activity@2
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
           COMMIT_MSG: '[Bot] Update README with recent activity'
