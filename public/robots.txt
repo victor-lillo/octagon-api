@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://octogon-api.com/sitemap-index.xml
+Sitemap: https://octagon-api.com/sitemap-index.xml

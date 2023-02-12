@@ -11,6 +11,6 @@ import sitemap from '@astrojs/sitemap'
 
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://octogon-api.com/',
+  site: 'https://octagon-api.com/',
   integrations: [svelte(), react(), sitemap()],
 })

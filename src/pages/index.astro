@@ -19,10 +19,10 @@ const orderedData = newsData.sort((a, b) => {
 ---
 
 <Layout
-  description='Octogon API, the ultimate web for checking the latest MMA news, athletes, divisions ands stats'
+  description='Octagon API, the ultimate web for checking the latest MMA news, athletes, divisions ands stats'
 >
   <main>
-    <h1>Welcome to <span class='text-gradient'>Octogon API</span></h1>
+    <h1>Welcome to <span class='text-gradient'>Octagon API</span></h1>
     <h2 class='subtitle'>News</h2>
     <section>
       {orderedData.map((fighterData) => <NewsCard {...fighterData} />)}
