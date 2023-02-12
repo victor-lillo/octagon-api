@@ -1,10 +1,15 @@
 name: Generate Lighthouse Badges
+
 on:
-  deployment:
   workflow_dispatch:
+  # Commented till fixed
+  # push:
+  #   branches: ['main']
+  #   paths: ['src/**']
+
 jobs:
-  lighthouseci:
-    runs-on: ubuntu-latest
+  lighthouse-badges:
+    runs-on: ubuntu-22.04
     steps:
       - uses: actions/checkout@v3
       - uses: actions/setup-node@v3
@@ -13,12 +18,9 @@ jobs:
       - name: Generate Badges
         run: npx lighthouse-badges --urls https://octagon-api.com/ https://octagon-api.com/division/ -o test_results
       - name: Commit changes
-        uses: EndBug/add-and-commit@v7
-        with:
-          author_name: octogon-api-bot
-          author_email: bot@octagon-api.com
-          message: '[Bot] Update Lighthouse badges'
-          add: 'test_results'
-          push: true
-          branch: main
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name octagon-api
+          git add -A 
+          git commit -am "[BOT] Update Lighthouse badges"
+          git push origin main
+      - run: echo "🎉 Lighthouse Badges task finished!"
