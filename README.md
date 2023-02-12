@@ -33,9 +33,3 @@
 | GET `/fighters`             | Returns all fighters info.    |
 | GET `/fighter/:fighterId`   | Returns single fighter info.  |
 | GET `/division/:divisionId` | Returns single division info. |
-
-# <<<<<<< HEAD
-
-## ⏰ Recent activity
-
-<!--START_SECTION:activity-->
