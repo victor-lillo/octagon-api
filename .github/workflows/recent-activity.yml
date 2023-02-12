@@ -2,8 +2,8 @@ name: GitHub Activity
 
 on:
   workflow_dispatch:
-  # schedule:
-  #   - cron: '0 */4 * * *'
+  schedule:
+    - cron: '0 */4 * * *'
 
 jobs:
   build:
@@ -12,7 +12,8 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
-      - uses: Readme-Workflows/recent-activity@v2.4.1
+      - uses: jamesgeorge007/github-activity-readme@master
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.UPDATE_README_WORKFLOW_TOKEN }}
+        with:
           COMMIT_MSG: '[Bot] Update README with recent activity'

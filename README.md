@@ -36,4 +36,4 @@
 
 ## ⏰ Recent activity
 
-<!--RECENT_ACTIVITY:start-->
+<!--START_SECTION:activity-->
