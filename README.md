@@ -14,17 +14,7 @@ Also, we created a **web page** for displaying our database information.
 
 - **API URL:** https://api.octagon-api.com/
 
-## Available scripts
-
-|      Script       |     Params      | Function                                                                                              |
-| :---------------: | :-------------: | ----------------------------------------------------------------------------------------------------- |
-|     `api:dev`     |                 | Starts a local instance of the API service.                                                           |
-|   `api:publish`   |                 | Publishes the API. Requires `wrangler` installed and logged.                                          |
-|     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
-| `scrape:figther`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
-| `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
-
-## Available API endpoints
+## 🗃 API endpoints
 
 API URL
 
@@ -39,9 +29,19 @@ https://api.octagon-api.com/
 | GET `/fighter/:fighterId`   | Returns single fighter info.  |
 | GET `/division/:divisionId` | Returns single division info. |
 
+## 🤖 Scripts
+
+|      Script       |     Params      | Function                                                                                              |
+| :---------------: | :-------------: | ----------------------------------------------------------------------------------------------------- |
+|     `api:dev`     |                 | Starts a local instance of the API service.                                                           |
+|   `api:publish`   |                 | Publishes the API. Requires `wrangler` installed and logged.                                          |
+|     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
+| `scrape:figther`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
+| `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
+
 # Project technical information
 
-## Technologies
+## 👩‍💻 Technologies
 
 - Astro, Svelte, React
 - PostCSS: autoprefixer
@@ -49,7 +49,7 @@ https://api.octagon-api.com/
 - Scraper: NodeJS and node-html-parser
 - Image processing: sharp
 
-## Providers
+## 🦾 Providers
 
 - Web hosting: Vercel
 - API endpoints: Cloudfare workers
