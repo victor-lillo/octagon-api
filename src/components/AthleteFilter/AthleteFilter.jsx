@@ -45,7 +45,12 @@ export default function AthleteFilter() {
               key={`${name}-${index}`}
               className={styles.row}
             >
-              <a href={route}>{name}</a>
+              <a
+                aria-label={`Go to ${name} page`}
+                href={route}
+              >
+                {name}
+              </a>
             </li>
           ))}
       </ul>

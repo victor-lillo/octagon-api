@@ -32,7 +32,7 @@
     </a>
     <div class="navbar__anchor-container">
       {#each navigationLinks as { label, route }}
-        <a class="navbar__anchor" href={route}>
+        <a class="navbar__anchor" aria-label={`Go to ${label} page`} href={route}>
           {label}
         </a>
       {/each}

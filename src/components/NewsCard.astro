@@ -12,7 +12,10 @@ const { fighter, fighterName, categoryName, currentPosition, previousPosition, d
 const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
 ---
 
-<a href={`/athlete/${fighter}`}>
+<a
+  aria-label={`Go to ${fighterName} page`}
+  href={`/athlete/${fighter}`}
+>
   <article class={currentPosition < previousPosition ? 'up' : 'down'}>
     <header>
       <h3>{fighterName}</h3>
