@@ -1,4 +1,4 @@
-# Welcome to Octagon API
+# Welcome to Octagon API 🥊
 
 ## 📜 Description
 
@@ -16,9 +16,7 @@ Also, we created a **web page** for displaying our database information.
 
 ## 🗃 API endpoints
 
-API URL
-
-```txt
+```txt title="API URL"
 https://api.octagon-api.com/
 ```
 
