@@ -16,7 +16,7 @@ Also, we created a **web page** for displaying our database information.
 
 ## 🗃 API endpoints
 
-```txt title="API URL"
+```txt
 https://api.octagon-api.com/
 ```
 
@@ -41,16 +41,16 @@ https://api.octagon-api.com/
 
 ## 👩‍💻 Technologies
 
-- Astro, Svelte, React
-- PostCSS: autoprefixer
-- API: hono
-- Scraper: NodeJS and node-html-parser
-- Image processing: sharp
+- **Front End**: Astro, Svelte, React
+- **PostCSS**: autoprefixer
+- **Scraper**: NodeJS and node-html-parser
+- **API**: hono
+- **Image processing**: sharp
 
 ## 🦾 Providers
 
-- Web hosting: Vercel
-- API endpoints: Cloudfare workers
+- **Web hosting**: Vercel
+- **API endpoints**: Cloudfare workers
 
 ## 🎨 UI and web design
 
