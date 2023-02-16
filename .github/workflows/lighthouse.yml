@@ -24,6 +24,6 @@ jobs:
           npm run lighthouse
           git config user.name octagon-api
           git add -A 
-          git commit -am "[BOT] Update Octagon API database"
+          git commit -am "[BOT] Lighthouse Badge Generator"
           git push origin main
       - run: echo "🎉 Task finished!"
