@@ -44,12 +44,12 @@
         "name": "Brandon Moreno"
       },
       {
-        "id": "jiri-prochazka",
-        "name": "Jiří Procházka"
-      },
-      {
         "id": "jon-jones",
         "name": "Jon Jones"
+      },
+      {
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
       },
       {
         "id": "dustin-poirier",
@@ -64,8 +64,8 @@
         "name": "Robert Whittaker"
       },
       {
-        "id": "deiveson-figueiredo",
-        "name": "Deiveson Figueiredo"
+        "id": "max-holloway",
+        "name": "Max Holloway"
       }
     ]
   },
@@ -230,12 +230,12 @@
         "name": "Alexander Volkanovski"
       },
       {
-        "id": "max-holloway",
-        "name": "Max Holloway"
-      },
-      {
         "id": "yair-rodriguez",
         "name": "Yair Rodriguez"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
       },
       {
         "id": "brian-ortega",
@@ -422,20 +422,20 @@
         "name": "Jorge Masvidal"
       },
       {
-        "id": "michael-chiesa",
-        "name": "Michael Chiesa"
-      },
-      {
         "id": "neil-magny",
         "name": "Neil Magny"
       },
       {
-        "id": "michel-pereira",
-        "name": "Michel Pereira"
+        "id": "michael-chiesa",
+        "name": "Michael Chiesa"
       },
       {
-        "id": "li-jingliang",
-        "name": "Li Jingliang"
+        "id": "sara-elpar-0",
+        "name": "Jack Della Maddalena"
+      },
+      {
+        "id": "michel-pereira",
+        "name": "Michel Pereira"
       }
     ]
   },
@@ -620,24 +620,24 @@
         "name": "Tom Aspinall"
       },
       {
-        "id": "alexander-volkov",
-        "name": "Alexander Volkov"
-      },
-      {
         "id": "sergey-spivak-0",
         "name": "Serghei Spivac"
+      },
+      {
+        "id": "alexander-volkov",
+        "name": "Alexander Volkov"
       },
       {
         "id": "jairzinho-rozenstruik",
         "name": "Jairzinho Rozenstruik"
       },
       {
-        "id": "derrick-lewis",
-        "name": "Derrick Lewis"
-      },
-      {
         "id": "marcin-tybura",
         "name": "Marcin Tybura"
+      },
+      {
+        "id": "derrick-lewis",
+        "name": "Derrick Lewis"
       },
       {
         "id": "chris-daukaus",
