@@ -41,7 +41,7 @@ export const compareRankings = async () => {
       }
     }
   }
-  const limitedRankingChanges = rankingChanges.slice(0, STORED_CHANGES_NUM - 1)
+  const limitedRankingChanges = rankingChanges.slice(0, STORED_CHANGES_NUM)
   await writeDBFile(NEWS_DB_NAME, limitedRankingChanges)
   logSuccess('Ranking changes saved')
 }
