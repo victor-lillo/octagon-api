@@ -22,7 +22,9 @@ export const compareRankings = async () => {
       const { id: currentFighter, name: fighterName } = fightersArray[key]
 
       if (currentFighter !== fightersOldArray[key].id) {
-        const previousPosition = fightersOldArray.findIndex(({ id }) => id === currentFighter)
+        const previousPosition = fightersOldArray.findIndex(
+          ({ id }) => id === currentFighter || 'unranked'
+        )
 
         const isSaved = rankingChanges.find(
           (el) => el.fighter === currentFighter && el.currentPosition === intKey

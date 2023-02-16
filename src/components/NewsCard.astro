@@ -4,19 +4,21 @@ export interface Props {
   fighterName: string
   categoryName: string
   currentPosition: number
-  previousPosition: number
+  previousPosition: number | 'unranked'
   date: string
 }
 const { fighter, fighterName, categoryName, currentPosition, previousPosition, date } = Astro.props
 
 const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
+const pathClass =
+  currentPosition < previousPosition || previousPosition === 'unranked' ? 'up' : 'down'
 ---
 
 <a
   aria-label={`Go to ${fighterName} page`}
   href={`/athlete/${fighter}`}
 >
-  <article class={currentPosition < previousPosition ? 'up' : 'down'}>
+  <article class={pathClass}>
     <header>
       <h3>{fighterName}</h3>
       <p class='text'>

@@ -50,7 +50,7 @@
     "categoryId": "welterweight",
     "categoryName": "Welterweight",
     "currentPosition": 14,
-    "previousPosition": -1,
+    "previousPosition": "unranked",
     "date": "2023-02-16T09:22:53.901Z"
   },
   {
