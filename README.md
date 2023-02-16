@@ -36,6 +36,7 @@ https://api.octagon-api.com/
 |     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
 | `scrape:figther`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
 | `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
+|   `lighthouse`    |                 | Generates and insert Lighthouse report badges in the `README.md`.                                     |
 
 # Project technical information
 
@@ -59,3 +60,7 @@ https://api.octagon-api.com/
 - These are the **breakpoints** used in the responsive design:
   - **Tablet:** `768px (48rem)`
   - **Desktop:** `1024px (64rem)`
+
+## Lighthouse report
+
+<!-- lightouse-badges:start -->
