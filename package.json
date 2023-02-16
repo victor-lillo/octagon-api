@@ -34,6 +34,7 @@
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20230214.0",
+    "@types/node": "18.13.0",
     "autoprefixer": "10.4.13",
     "badge-maker": "3.3.1",
     "chrome-launcher": "0.15.1",
