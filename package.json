@@ -35,8 +35,9 @@
   "devDependencies": {
     "@cloudflare/workers-types": "4.20230214.0",
     "autoprefixer": "10.4.13",
-    "badge-maker": "^3.3.1",
-    "lighthouse": "^10.0.1",
+    "badge-maker": "3.3.1",
+    "chrome-launcher": "0.15.1",
+    "lighthouse": "10.0.1",
     "vitest": "0.28.5",
     "wrangler": "2.10.0"
   },
