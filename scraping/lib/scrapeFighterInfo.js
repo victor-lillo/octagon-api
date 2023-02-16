@@ -45,7 +45,7 @@ const scrapeFighterInfo = async (id) => {
 
   // For new fighters in our ranking, FIGHTER_DATA[id] is undef
   // So we return a void string as imgUrl
-  const oldImgUrl = FIGHTER_DATA[id].imgUrl ?? ''
+  const oldImgUrl = FIGHTER_DATA[id]?.imgUrl ?? ''
 
   if (imgUrl !== oldImgUrl)
     await saveImage({
