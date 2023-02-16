@@ -1,5 +1,18 @@
 # Welcome to Octagon API 🥊
 
+## 🚦 Lighthouse Score
+
+<div align="center" width="100%">
+<!-- lightouse-badges:start -->
+
+![performance](./lighthouse/results/performance.svg)
+![accessibility](./lighthouse/results/accessibility.svg)
+![seo](./lighthouse/results/seo.svg)
+![best-practices](./lighthouse/results/best-practices.svg)
+
+<!-- lightouse-badges:end -->
+</div>
+
 ## 📜 Description
 
 This is an **open source project**, created by a group of developers who loves MMA.
@@ -60,16 +73,3 @@ https://api.octagon-api.com/
 - These are the **breakpoints** used in the responsive design:
   - **Tablet:** `768px (48rem)`
   - **Desktop:** `1024px (64rem)`
-
-## 🚦 Lighthouse Score
-
-<div align="center" width="100%">
-<!-- lightouse-badges:start -->
-
-![performance](./lighthouse/results/performance.svg)
-![accessibility](./lighthouse/results/accessibility.svg)
-![seo](./lighthouse/results/seo.svg)
-![best-practices](./lighthouse/results/best-practices.svg)
-
-<!-- lightouse-badges:end -->
-</div>
