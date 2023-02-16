@@ -63,6 +63,7 @@ https://api.octagon-api.com/
 
 ## 🚦 Lighthouse Score
 
+<div align="center" width="100%">
 <!-- lightouse-badges:start -->
 
 ![performance](./lighthouse/results/performance.svg)
@@ -71,3 +72,4 @@ https://api.octagon-api.com/
 ![best-practices](./lighthouse/results/best-practices.svg)
 
 <!-- lightouse-badges:end -->
+</div>
