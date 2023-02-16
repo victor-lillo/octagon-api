@@ -2,6 +2,12 @@ import lighthouse from 'lighthouse'
 import chromeLauncher from 'chrome-launcher'
 import makeBadgeSvg from './makeBadge.js'
 import updateReadme from './updateReadme.js'
+import fs from 'node:fs'
+import path from 'node:path'
+
+const ROOT_FOLDER = 'lighthouse'
+const RESULTS_FOLDER = 'results'
+const RESULTS_PATH = path.join(process.cwd(), ROOT_FOLDER, RESULTS_FOLDER)
 
 const config = {
   extends: 'lighthouse:default',
@@ -64,17 +70,26 @@ const getLighthouseReport = async ({ url, mdName, badgeStyle }) => {
     'best-practices': bestPractices,
   }
 
+  // Create a dir. Ignore if exists.
+  fs.mkdir(RESULTS_PATH, { recursive: true }, (err) => {
+    if (err) throw err
+  })
+
   console.log('\nRESULTS:')
+
   const badges = Object.entries(lighthouseReport).map(([key, value]) => {
     const percentValue = value.toFixed(2) * 100
-
     console.log(`• ${key}: ${percentValue}%`)
-    return makeBadgeSvg({
+
+    makeBadgeSvg({
+      folder: RESULTS_PATH,
       label: key,
       message: percentValue,
       color: percentToColor(percentValue),
       badgeStyle,
     })
+
+    return `![${key}](./${ROOT_FOLDER}/${RESULTS_FOLDER}/${key}.svg)`
   })
 
   updateReadme({ mdName, badgesMdText: badges.join('\n') })
@@ -83,4 +98,3 @@ const getLighthouseReport = async ({ url, mdName, badgeStyle }) => {
 }
 
 export default getLighthouseReport
-// getLighthouseReport({ url: 'https://doscuadrados.es', mdName: 'TEMPLATE.md' })

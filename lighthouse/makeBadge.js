@@ -1,20 +1,22 @@
 import { makeBadge } from 'badge-maker'
 import { writeFile } from 'node:fs/promises'
+import path from 'node:path'
 
-const writeLocalFile = (name, data) => {
-  return writeFile(`./assets/${name}.svg`, data, 'utf-8')
+const writeLocalFile = (folder, name, data) => {
+  const svgPath = path.join(folder, `${name}.svg`)
+
+  return writeFile(svgPath, data, 'utf-8')
 }
 
-const makeBadgeSvg = ({ label, message, color, badgeStyle }) => {
+const makeBadgeSvg = ({ badgeStyle, color, folder, label, message }) => {
   const svg = makeBadge({
     label: label,
     message: `${message}%`,
     color: color,
-    style: badgeStyle, //'plastic', 'flat', 'flat-square', 'for-the-badge' or 'social'
+    style: badgeStyle,
   })
 
-  // writeLocalFile(label, svg)
-  return svg
+  writeLocalFile(folder, label, svg)
 }
 
 export default makeBadgeSvg
