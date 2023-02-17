@@ -35,15 +35,22 @@ const {
   weight,
   wins,
 } = Astro.props
+
+const seoNickname = nickname ? `, known as "${nickname}"` : ''
+
+const seoDescription =
+  `MMA athlete ${name}` + seoNickname + `, from the ${category}, stats and information.`
 ---
 
-<Layout title={name}>
+<Layout
+  title={name}
+  description={seoDescription}
+>
   <main>
     <header>
       <h1>{name}</h1>
       {nickname ? <h2>"{nickname}"</h2> : null}
     </header>
-
     <FighterScoreCard
       athlete={athlete}
       wins={wins}
