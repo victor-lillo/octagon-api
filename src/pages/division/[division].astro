@@ -34,7 +34,10 @@ const seoCategoryName = categoryName.toLowerCase().includes('division')
 const seoDescription = `MMA ${seoCategoryName}, stats and information. Current athletes fighting in it: ${formattedFighterList}.`
 ---
 
-<Layout title={categoryName}>
+<Layout
+  title={categoryName}
+  description={seoDescription}
+>
   <main>
     <header>
       <h1>Division</h1>
