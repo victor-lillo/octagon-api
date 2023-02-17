@@ -17,7 +17,7 @@
 
 This is an **open source project**, created by a group of developers who love MMA.
 
-Our purpouse is to provide a **free and fast API** from this popular sport. There were lots of APIs for everything you can imagine, except MMA. That's the reason we created **Octagon API**
+Our purpouse is to provide a **free and fast API** from this popular sport. There were lots of APIs for everything you can imagine, except MMA. That's the reason we created **Octagon API**.
 
 Now, MMA fan developers can create their own projects with their favourite fighters information, bringing a breath of fresh air to the common API based projects.
 
