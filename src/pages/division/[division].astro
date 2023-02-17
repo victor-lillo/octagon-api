@@ -22,6 +22,16 @@ export function getStaticPaths() {
 
 const { division } = Astro.params
 const { categoryName, championId, championName, fighters } = Astro.props
+
+const fighterName = fighters.map(({ name }) => name)
+const formatter = new Intl.ListFormat('en', { style: 'short', type: 'conjunction' })
+const formattedFighterList = formatter.format(fighterName)
+
+const seoCategoryName = categoryName.toLowerCase().includes('division')
+  ? categoryName
+  : `${categoryName} division`
+
+const seoDescription = `MMA ${seoCategoryName}, stats and information. Current athletes fighting in it: ${formattedFighterList}.`
 ---
 
 <Layout title={categoryName}>
