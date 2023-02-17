@@ -49,7 +49,7 @@ const seoDescription =
   <main>
     <header>
       <h1>{name}</h1>
-      {nickname ? <h2>"{nickname}"</h2> : null}
+      {nickname && <h2>"{nickname}"</h2>}
     </header>
     <FighterScoreCard
       athlete={athlete}
