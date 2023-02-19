@@ -70,6 +70,8 @@ const getLighthouseReport = async ({ url, mdName, badgeStyle }) => {
     'best-practices': bestPractices,
   }
 
+  await chrome.kill()
+
   // Create a dir. Ignore if exists.
   fs.mkdir(RESULTS_PATH, { recursive: true }, (err) => {
     if (err) throw err
@@ -93,8 +95,6 @@ const getLighthouseReport = async ({ url, mdName, badgeStyle }) => {
   })
 
   updateReadme({ mdName, badgesMdText: badges.join('\n') })
-
-  await chrome.kill()
 }
 
 export default getLighthouseReport
