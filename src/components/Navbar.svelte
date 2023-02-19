@@ -12,6 +12,10 @@
       route: '/athlete',
     },
     {
+      label: 'API',
+      route: '/api',
+    },
+    {
       label: 'About',
       route: '/about',
     },
