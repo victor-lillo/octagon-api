@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "volkan-oezdemir",
+    "fighterName": "Volkan Oezdemir",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 9,
+    "previousPosition": 0,
+    "date": "2023-02-23T04:18:04.909Z"
+  },
+  {
+    "fighter": "ryan-spann",
+    "fighterName": "Ryan Spann",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 8,
+    "previousPosition": 0,
+    "date": "2023-02-23T04:18:04.909Z"
+  },
+  {
     "fighter": "derrick-lewis",
     "fighterName": "Derrick Lewis",
     "categoryId": "heavyweight",
@@ -69,15 +87,6 @@
     "categoryName": "Welterweight",
     "currentPosition": 12,
     "previousPosition": 13,
-    "date": "2023-02-16T09:22:53.901Z"
-  },
-  {
-    "fighter": "max-holloway",
-    "fighterName": "Max Holloway",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 2,
-    "previousPosition": 1,
     "date": "2023-02-16T09:22:53.901Z"
   }
 ]
