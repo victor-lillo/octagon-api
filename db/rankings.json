@@ -3,73 +3,589 @@
     "id": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "alexander-volkanovski",
+      "championName": "Alexander Volkanovski"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "alexander-volkanovski",
+        "name": "Alexander Volkanovski"
+      },
+      {
+        "id": "islam-makhachev",
+        "name": "Islam Makhachev"
+      },
+      {
+        "id": "leon-edwards",
+        "name": "Leon Edwards"
+      },
+      {
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
+      },
+      {
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya"
+      },
+      {
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
+      },
+      {
+        "id": "aljamain-sterling",
+        "name": "Aljamain Sterling"
+      },
+      {
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira"
+      },
+      {
+        "id": "brandon-moreno",
+        "name": "Brandon Moreno"
+      },
+      {
+        "id": "jon-jones",
+        "name": "Jon Jones"
+      },
+      {
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
+      },
+      {
+        "id": "dustin-poirier",
+        "name": "Dustin Poirier"
+      },
+      {
+        "id": "jamahal-hill",
+        "name": "Jamahal Hill"
+      },
+      {
+        "id": "robert-whittaker",
+        "name": "Robert Whittaker"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
+      }
+    ]
   },
   {
     "id": "flyweight",
     "categoryName": "Flyweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "brandon-moreno",
+      "championName": "Brandon Moreno"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "brandon-moreno",
+        "name": "Brandon Moreno"
+      },
+      {
+        "id": "deiveson-figueiredo",
+        "name": "Deiveson Figueiredo"
+      },
+      {
+        "id": "alexandre-pantoja",
+        "name": "Alexandre Pantoja"
+      },
+      {
+        "id": "kai-kara-france",
+        "name": "Kai Kara-France"
+      },
+      {
+        "id": "brandon-royval",
+        "name": "Brandon Royval"
+      },
+      {
+        "id": "matheus-nicolau",
+        "name": "Matheus Nicolau"
+      },
+      {
+        "id": "alex-perez",
+        "name": "Alex Perez"
+      },
+      {
+        "id": "amir-albazi",
+        "name": "Amir Albazi"
+      },
+      {
+        "id": "matt-schnell",
+        "name": "Matt Schnell"
+      },
+      {
+        "id": "manel-kape",
+        "name": "Manel Kape"
+      },
+      {
+        "id": "david-dvorak",
+        "name": "David Dvorak"
+      },
+      {
+        "id": "tim-elliott",
+        "name": "Tim Elliott"
+      },
+      {
+        "id": "liana-dzhodzhua-0",
+        "name": "Muhammad Mokaev"
+      },
+      {
+        "id": "su-mudaerji",
+        "name": "Sumudaerji"
+      },
+      {
+        "id": "tagir-ulanbekov",
+        "name": "Tagir Ulanbekov"
+      },
+      {
+        "id": "tyson-nam",
+        "name": "Tyson Nam"
+      }
+    ]
   },
   {
     "id": "bantamweight",
     "categoryName": "Bantamweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "aljamain-sterling",
+      "championName": "Aljamain Sterling"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "aljamain-sterling",
+        "name": "Aljamain Sterling"
+      },
+      {
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
+      },
+      {
+        "id": "petr-yan",
+        "name": "Petr Yan"
+      },
+      {
+        "id": "merab-dvalishvili",
+        "name": "Merab Dvalishvili"
+      },
+      {
+        "id": "marlon-vera",
+        "name": "Marlon Vera"
+      },
+      {
+        "id": "cory-sandhagen",
+        "name": "Cory Sandhagen"
+      },
+      {
+        "id": "rob-font",
+        "name": "Rob Font"
+      },
+      {
+        "id": "dominick-cruz",
+        "name": "Dominick Cruz"
+      },
+      {
+        "id": "yadong-song",
+        "name": "Yadong Song"
+      },
+      {
+        "id": "pedro-munhoz",
+        "name": "Pedro Munhoz"
+      },
+      {
+        "id": "ricky-simon",
+        "name": "Ricky Simon"
+      },
+      {
+        "id": "umar-nurmagomedov",
+        "name": "Umar Nurmagomedov"
+      },
+      {
+        "id": "chris-gutierrez",
+        "name": "Chris Gutierrez"
+      },
+      {
+        "id": "adrian-yanez",
+        "name": "Adrian Yanez"
+      },
+      {
+        "id": "said-nurmagomedov",
+        "name": "Said Nurmagomedov"
+      },
+      {
+        "id": "jack-shore",
+        "name": "Jack Shore"
+      }
+    ]
   },
   {
     "id": "featherweight",
     "categoryName": "Featherweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "alexander-volkanovski",
+      "championName": "Alexander Volkanovski"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "alexander-volkanovski",
+        "name": "Alexander Volkanovski"
+      },
+      {
+        "id": "yair-rodriguez",
+        "name": "Yair Rodriguez"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
+      },
+      {
+        "id": "brian-ortega",
+        "name": "Brian Ortega"
+      },
+      {
+        "id": "arnold-allen",
+        "name": "Arnold Allen"
+      },
+      {
+        "id": "josh-emmett",
+        "name": "Josh Emmett"
+      },
+      {
+        "id": "chan-sung-jung",
+        "name": "Chan Sung Jung"
+      },
+      {
+        "id": "calvin-kattar",
+        "name": "Calvin Kattar"
+      },
+      {
+        "id": "giga-chikadze",
+        "name": "Giga Chikadze"
+      },
+      {
+        "id": "ilia-topuria",
+        "name": "Ilia Topuria"
+      },
+      {
+        "id": "movsar-evloev",
+        "name": "Movsar Evloev"
+      },
+      {
+        "id": "bryce-mitchell",
+        "name": "Bryce Mitchell"
+      },
+      {
+        "id": "sodiq-yusuff",
+        "name": "Sodiq Yusuff"
+      },
+      {
+        "id": "dan-ige",
+        "name": "Dan Ige"
+      },
+      {
+        "id": "edson-barboza",
+        "name": "Edson Barboza"
+      },
+      {
+        "id": "alex-caceres",
+        "name": "Alex Caceres"
+      }
+    ]
   },
   {
     "id": "lightweight",
     "categoryName": "Lightweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "islam-makhachev",
+      "championName": "Islam Makhachev"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "islam-makhachev",
+        "name": "Islam Makhachev"
+      },
+      {
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira"
+      },
+      {
+        "id": "dustin-poirier",
+        "name": "Dustin Poirier"
+      },
+      {
+        "id": "justin-gaethje",
+        "name": "Justin Gaethje"
+      },
+      {
+        "id": "beneil-dariush",
+        "name": "Beneil Dariush"
+      },
+      {
+        "id": "michael-chandler",
+        "name": "Michael Chandler"
+      },
+      {
+        "id": "rafael-fiziev",
+        "name": "Rafael Fiziev"
+      },
+      {
+        "id": "mateusz-gamrot",
+        "name": "Mateusz Gamrot"
+      },
+      {
+        "id": "arman-tsarukyan",
+        "name": "Arman Tsarukyan"
+      },
+      {
+        "id": "rafael-dos-anjos",
+        "name": "Rafael Dos Anjos"
+      },
+      {
+        "id": "jalin-turner",
+        "name": "Jalin Turner"
+      },
+      {
+        "id": "dan-hooker",
+        "name": "Dan Hooker"
+      },
+      {
+        "id": "damir-ismagulov",
+        "name": "Damir Ismagulov"
+      },
+      {
+        "id": "renato-moicano",
+        "name": "Renato Moicano"
+      },
+      {
+        "id": "drew-dober",
+        "name": "Drew Dober"
+      },
+      {
+        "id": "grant-dawson",
+        "name": "Grant Dawson"
+      }
+    ]
   },
   {
     "id": "welterweight",
     "categoryName": "Welterweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "leon-edwards",
+      "championName": "Leon Edwards"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "leon-edwards",
+        "name": "Leon Edwards"
+      },
+      {
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
+      },
+      {
+        "id": "colby-covington",
+        "name": "Colby Covington"
+      },
+      {
+        "id": "khamzat-chimaev",
+        "name": "Khamzat Chimaev"
+      },
+      {
+        "id": "belal-muhammad",
+        "name": "Belal Muhammad"
+      },
+      {
+        "id": "gilbert-burns",
+        "name": "Gilbert Burns"
+      },
+      {
+        "id": "stephen-thompson",
+        "name": "Stephen Thompson"
+      },
+      {
+        "id": "geoff-neal",
+        "name": "Geoff Neal"
+      },
+      {
+        "id": "sean-brady",
+        "name": "Sean Brady"
+      },
+      {
+        "id": "vicente-luque",
+        "name": "Vicente Luque"
+      },
+      {
+        "id": "shavkat-rakhmonov",
+        "name": "Shavkat Rakhmonov"
+      },
+      {
+        "id": "jorge-masvidal",
+        "name": "Jorge Masvidal"
+      },
+      {
+        "id": "neil-magny",
+        "name": "Neil Magny"
+      },
+      {
+        "id": "michael-chiesa",
+        "name": "Michael Chiesa"
+      },
+      {
+        "id": "sara-elpar-0",
+        "name": "Jack Della Maddalena"
+      },
+      {
+        "id": "michel-pereira",
+        "name": "Michel Pereira"
+      }
+    ]
   },
   {
     "id": "middleweight",
     "categoryName": "Middleweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "alex-pereira",
+      "championName": "Alex Pereira"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
+      },
+      {
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya"
+      },
+      {
+        "id": "robert-whittaker",
+        "name": "Robert Whittaker"
+      },
+      {
+        "id": "jared-cannonier",
+        "name": "Jared Cannonier"
+      },
+      {
+        "id": "marvin-vettori",
+        "name": "Marvin Vettori"
+      },
+      {
+        "id": "derek-brunson",
+        "name": "Derek Brunson"
+      },
+      {
+        "id": "paulo-costa",
+        "name": "Paulo Costa"
+      },
+      {
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
+      },
+      {
+        "id": "roman-dolidze",
+        "name": "Roman Dolidze"
+      },
+      {
+        "id": "jack-hermansson",
+        "name": "Jack Hermansson"
+      },
+      {
+        "id": "dricus-du-plessis",
+        "name": "Dricus Du Plessis"
+      },
+      {
+        "id": "andre-muniz",
+        "name": "Andre Muniz"
+      },
+      {
+        "id": "nassourdine-imavov",
+        "name": "Nassourdine Imavov"
+      },
+      {
+        "id": "kelvin-gastelum",
+        "name": "Kelvin Gastelum"
+      },
+      {
+        "id": "chris-curtis",
+        "name": "Chris Curtis"
+      },
+      {
+        "id": "darren-till",
+        "name": "Darren Till"
+      }
+    ]
   },
   {
     "id": "light-heavyweight",
     "categoryName": "Light Heavyweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "jamahal-hill",
+      "championName": "Jamahal Hill"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "jamahal-hill",
+        "name": "Jamahal Hill"
+      },
+      {
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
+      },
+      {
+        "id": "magomed-ankalaev",
+        "name": "Magomed Ankalaev"
+      },
+      {
+        "id": "jan-blachowicz",
+        "name": "Jan Błachowicz"
+      },
+      {
+        "id": "aleksandar-rakic",
+        "name": "Aleksandar Rakić"
+      },
+      {
+        "id": "anthony-smith",
+        "name": "Anthony Smith"
+      },
+      {
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
+      },
+      {
+        "id": "johnny-walker",
+        "name": "Johnny Walker"
+      },
+      {
+        "id": "ryan-spann",
+        "name": "Ryan Spann"
+      },
+      {
+        "id": "volkan-oezdemir",
+        "name": "Volkan Oezdemir"
+      },
+      {
+        "id": "paul-craig",
+        "name": "Paul Craig"
+      },
+      {
+        "id": "dominick-reyes",
+        "name": "Dominick Reyes"
+      },
+      {
+        "id": "jim-crute",
+        "name": "Jimmy Crute"
+      },
+      {
+        "id": "khalil-rountree-jr",
+        "name": "Khalil Rountree Jr."
+      },
+      {
+        "id": "dustin-jacoby",
+        "name": "Dustin Jacoby"
+      },
+      {
+        "id": "azamat-murzakanov",
+        "name": "Azamat Murzakanov"
+      }
+    ]
   },
   {
     "id": "heavyweight",
@@ -78,51 +594,373 @@
       "id": "",
       "championName": ""
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "ciryl-gane",
+        "name": "Ciryl Gane"
+      },
+      {
+        "id": "stipe-miocic",
+        "name": "Stipe Miocic"
+      },
+      {
+        "id": "sergei-pavlovich",
+        "name": "Sergei Pavlovich"
+      },
+      {
+        "id": "curtis-blaydes",
+        "name": "Curtis Blaydes"
+      },
+      {
+        "id": "tai-tuivasa",
+        "name": "Tai Tuivasa"
+      },
+      {
+        "id": "tom-aspinall",
+        "name": "Tom Aspinall"
+      },
+      {
+        "id": "sergey-spivak-0",
+        "name": "Serghei Spivac"
+      },
+      {
+        "id": "alexander-volkov",
+        "name": "Alexander Volkov"
+      },
+      {
+        "id": "jairzinho-rozenstruik",
+        "name": "Jairzinho Rozenstruik"
+      },
+      {
+        "id": "marcin-tybura",
+        "name": "Marcin Tybura"
+      },
+      {
+        "id": "derrick-lewis",
+        "name": "Derrick Lewis"
+      },
+      {
+        "id": "chris-daukaus",
+        "name": "Chris Daukaus"
+      },
+      {
+        "id": "alexandr-romanov",
+        "name": "Alexandr Romanov"
+      },
+      {
+        "id": "kori-makkenna-10",
+        "name": "Jailton Almeida"
+      },
+      {
+        "id": "blagoy-ivanov",
+        "name": "Blagoy Ivanov"
+      }
+    ]
   },
   {
     "id": "womens-pound-for-pound-top-rank",
     "categoryName": "Women's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "amanda-nunes",
+      "championName": "Amanda Nunes"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "amanda-nunes",
+        "name": "Amanda Nunes"
+      },
+      {
+        "id": "valentina-shevchenko",
+        "name": "Valentina Shevchenko"
+      },
+      {
+        "id": "weili-zhang",
+        "name": "Zhang Weili"
+      },
+      {
+        "id": "julianna-pena",
+        "name": "Julianna Peña"
+      },
+      {
+        "id": "rose-namajunas",
+        "name": "Rose Namajunas"
+      },
+      {
+        "id": "carla-esparza",
+        "name": "Carla Esparza"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jessica Andrade"
+      },
+      {
+        "id": "taila-santos",
+        "name": "Taila Santos"
+      },
+      {
+        "id": "marina-rodriguez",
+        "name": "Marina Rodriguez"
+      },
+      {
+        "id": "amanda-lemos",
+        "name": "Amanda Lemos"
+      },
+      {
+        "id": "manon-fiorot",
+        "name": "Manon Fiorot"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
+      },
+      {
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
+      },
+      {
+        "id": "katlyn-chookagian",
+        "name": "Katlyn Chookagian"
+      },
+      {
+        "id": "ketlen-vieira",
+        "name": "Ketlen Vieira"
+      }
+    ]
   },
   {
     "id": "womens-strawweight",
     "categoryName": "Women's Strawweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "weili-zhang",
+      "championName": "Zhang Weili"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "weili-zhang",
+        "name": "Zhang Weili"
+      },
+      {
+        "id": "carla-esparza",
+        "name": "Carla Esparza"
+      },
+      {
+        "id": "rose-namajunas",
+        "name": "Rose Namajunas"
+      },
+      {
+        "id": "amanda-lemos",
+        "name": "Amanda Lemos"
+      },
+      {
+        "id": "marina-rodriguez",
+        "name": "Marina Rodriguez"
+      },
+      {
+        "id": "xiaonan-yan",
+        "name": "Xiaonan Yan"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jessica Andrade"
+      },
+      {
+        "id": "mackenzie-dern",
+        "name": "Mackenzie Dern"
+      },
+      {
+        "id": "tecia-torres",
+        "name": "Tecia Torres"
+      },
+      {
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
+      },
+      {
+        "id": "virna-jandiroba",
+        "name": "Virna Jandiroba"
+      },
+      {
+        "id": "michelle-waterson",
+        "name": "Michelle Waterson-Gomez"
+      },
+      {
+        "id": "angela-hill",
+        "name": "Angela Hill"
+      },
+      {
+        "id": "luana-pinheiro",
+        "name": "Luana Pinheiro"
+      },
+      {
+        "id": "emily-ducote",
+        "name": "Emily Ducote"
+      },
+      {
+        "id": "polyana-viana",
+        "name": "Polyana Viana"
+      }
+    ]
   },
   {
     "id": "womens-flyweight",
     "categoryName": "Women's Flyweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "valentina-shevchenko",
+      "championName": "Valentina Shevchenko"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "valentina-shevchenko",
+        "name": "Valentina Shevchenko"
+      },
+      {
+        "id": "taila-santos",
+        "name": "Taila Santos"
+      },
+      {
+        "id": "manon-fiorot",
+        "name": "Manon Fiorot"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jessica Andrade"
+      },
+      {
+        "id": "katlyn-chookagian",
+        "name": "Katlyn Chookagian"
+      },
+      {
+        "id": "alexa-grasso",
+        "name": "Alexa Grasso"
+      },
+      {
+        "id": "lauren-murphy",
+        "name": "Lauren Murphy"
+      },
+      {
+        "id": "viviane-araujo",
+        "name": "Viviane Araújo"
+      },
+      {
+        "id": "jennifer-maia",
+        "name": "Jennifer Maia"
+      },
+      {
+        "id": "andrea-lee",
+        "name": "Andrea Lee"
+      },
+      {
+        "id": "erin-blanchfield",
+        "name": "Erin Blanchfield"
+      },
+      {
+        "id": "casey-oneill",
+        "name": "Casey O'Neill"
+      },
+      {
+        "id": "maycee-barber",
+        "name": "Maycee Barber"
+      },
+      {
+        "id": "tracy-cortez",
+        "name": "Tracy Cortez"
+      },
+      {
+        "id": "cynthia-calvillo",
+        "name": "Cynthia Calvillo"
+      },
+      {
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
+      }
+    ]
   },
   {
     "id": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "amanda-nunes",
+      "championName": "Amanda Nunes"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "amanda-nunes",
+        "name": "Amanda Nunes"
+      },
+      {
+        "id": "julianna-pena",
+        "name": "Julianna Peña"
+      },
+      {
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
+      },
+      {
+        "id": "ketlen-vieira",
+        "name": "Ketlen Vieira"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
+      },
+      {
+        "id": "yana-kunitskaya",
+        "name": "Yana Santos"
+      },
+      {
+        "id": "pannie-kianzad",
+        "name": "Pannie Kianzad"
+      },
+      {
+        "id": "macy-chiasson",
+        "name": "Macy Chiasson"
+      },
+      {
+        "id": "karol-rosa",
+        "name": "Karol Rosa"
+      },
+      {
+        "id": "miesha-tate",
+        "name": "Miesha Tate"
+      },
+      {
+        "id": "julia-avila",
+        "name": "Julia Avila"
+      },
+      {
+        "id": "lina-lansberg",
+        "name": "Lina Lansberg"
+      },
+      {
+        "id": "norma-dumont",
+        "name": "Norma Dumont"
+      },
+      {
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "josiane-nunes",
+        "name": "Josiane Nunes"
+      }
+    ]
   },
   {
     "id": "womens-featherweight",
     "categoryName": "Women's Featherweight",
     "champion": {
-      "id": "",
-      "championName": ""
+      "id": "amanda-nunes",
+      "championName": "Amanda Nunes"
     },
-    "fighters": []
+    "fighters": [
+      {
+        "id": "amanda-nunes",
+        "name": "Amanda Nunes"
+      }
+    ]
   }
 ]
