@@ -20,7 +20,6 @@ const getSlugFromUrl = (url) => {
 }
 
 async function scrapeRankingsInfo() {
-  await renameFile('rankings', 'rankings-old')
   logInfo(`Running ranking scraper`)
 
   const $ = await scrape(RANKINGS_URL)
@@ -37,6 +36,7 @@ async function scrapeRankingsInfo() {
     const championId = championNode ? getSlugFromUrl(championNode.getAttribute('href')) : ''
 
     const rankedsNodeElements = $el.querySelectorAll(SELECTORS.fighterRows)
+
     const fighters = rankedsNodeElements.map(($element) => {
       const relativeFighterUrl = $element.querySelector('a').getAttribute('href')
       const id = getSlugFromUrl(relativeFighterUrl)
@@ -49,6 +49,7 @@ async function scrapeRankingsInfo() {
     return { id: categoryId, categoryName, champion, fighters }
   })
 
+  await renameFile('rankings', 'rankings-old')
   await writeDBFile(RANKINGS_DB_NAME, data)
   logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
 }
