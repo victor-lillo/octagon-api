@@ -12,8 +12,8 @@ const RANKINGS_DB_NAME = 'rankings'
 const SELECTORS = {
   table: '.views-table',
   category: '.rankings--athlete--champion h4',
-  champion: '.rankings--athlete--champion .views-row a',
-  fighterRows: '.views-row',
+  champion: '.rankings--athlete--champion .info a',
+  fighterRows: '.views-field.views-field-title',
 }
 const getSlugFromUrl = (url) => {
   return url.split('/').at(-1)
@@ -36,9 +36,9 @@ async function scrapeRankingsInfo() {
       const championName = championNode ? championNode.textContent : ''
       const championId = championNode ? getSlugFromUrl(championNode.getAttribute('href')) : ''
 
-      const rankedsNodeElements = $el.querySelectorAll(SELECTORS.fighterRows)
+      const fighterRowsNode = $el.querySelectorAll(SELECTORS.fighterRows)
 
-      const fighters = rankedsNodeElements.map(($element) => {
+      const fighters = fighterRowsNode.map(($element) => {
         const relativeFighterUrl = $element.querySelector('a').getAttribute('href')
         const id = getSlugFromUrl(relativeFighterUrl)
         const name = cleanString($element.textContent)
@@ -48,7 +48,7 @@ async function scrapeRankingsInfo() {
       const champion = { id: championId, championName }
 
       // Guard clause: if fighters is 0, throw new Error
-      if (fighters.length === 0)
+      if (fighters.length === 0 && championName === '')
         throw new Error(`Fighters not found. Check the selectors in ${RANKINGS_URL}`)
 
       return { id: categoryId, categoryName, champion, fighters }
@@ -60,6 +60,7 @@ async function scrapeRankingsInfo() {
   } catch (error) {
     console.log('')
     logError(error)
+    console.log(error)
     console.log('')
   }
 }
