@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "dustin-jacoby",
-    "fighterName": "Dustin Jacoby",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2023-03-16T04:17:04.460Z"
-  },
-  {
-    "fighter": "khalil-rountree-jr",
-    "fighterName": "Khalil Rountree Jr.",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2023-03-16T04:17:04.460Z"
-  },
-  {
-    "fighter": "chelsea-chandler",
-    "fighterName": "Chelsea Chandler",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
+    "fighter": "alexandr-romanov",
+    "fighterName": "Alexandr Romanov",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-03-09T08:02:49.280Z"
-  },
-  {
-    "fighter": "josiane-nunes",
-    "fighterName": "Josiane Nunes",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": 15,
-    "date": "2023-03-09T08:02:49.280Z"
-  },
-  {
-    "fighter": "norma-dumont",
-    "fighterName": "Norma Dumont",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 12,
     "previousPosition": 13,
-    "date": "2023-03-09T08:02:49.280Z"
+    "date": "2023-04-20T04:15:32.589Z"
   },
   {
-    "fighter": "mayra-bueno-silva",
-    "fighterName": "Mayra Bueno Silva",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 9,
+    "fighter": "blagoy-ivanov",
+    "fighterName": "Blagoy Ivanov",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2023-03-09T08:02:49.280Z"
+    "date": "2023-04-20T04:15:32.589Z"
   },
   {
-    "fighter": "karol-rosa",
-    "fighterName": "Karol Rosa",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 8,
-    "previousPosition": 9,
-    "date": "2023-03-09T08:02:49.280Z"
-  },
-  {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
+    "fighter": "serghei-spivac",
+    "fighterName": "Serghei Spivac",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 7,
-    "previousPosition": 8,
-    "date": "2023-03-09T08:02:49.280Z"
+    "previousPosition": "unranked",
+    "date": "2023-04-20T04:15:32.589Z"
   },
   {
-    "fighter": "pannie-kianzad",
-    "fighterName": "Pannie Kianzad",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
+    "fighter": "alexander-volkov",
+    "fighterName": "Alexander Volkov",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 6,
     "previousPosition": 7,
-    "date": "2023-03-09T08:02:49.280Z"
+    "date": "2023-04-20T04:15:32.589Z"
   },
   {
-    "fighter": "yana-kunitskaya",
-    "fighterName": "Yana Santos",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
+    "fighter": "tai-tuivasa",
+    "fighterName": "Tai Tuivasa",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2023-03-09T08:02:49.280Z"
+    "previousPosition": 4,
+    "date": "2023-04-20T04:15:32.589Z"
+  },
+  {
+    "fighter": "tom-aspinall",
+    "fighterName": "Tom Aspinall",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2023-04-20T04:15:32.589Z"
+  },
+  {
+    "fighter": "ryan-spann",
+    "fighterName": "Ryan Spann",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 9,
+    "previousPosition": 7,
+    "date": "2023-04-20T04:15:32.589Z"
+  },
+  {
+    "fighter": "paul-craig",
+    "fighterName": "Paul Craig",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2023-04-20T04:15:32.589Z"
+  },
+  {
+    "fighter": "volkan-oezdemir",
+    "fighterName": "Volkan Oezdemir",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2023-04-20T04:15:32.589Z"
+  },
+  {
+    "fighter": "jack-della",
+    "fighterName": "Jack Della Maddalena",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2023-04-20T04:15:32.589Z"
   }
 ]

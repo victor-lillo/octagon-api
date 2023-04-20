@@ -122,7 +122,7 @@
         "name": "Tim Elliott"
       },
       {
-        "id": "liana-dzhodzhua-0",
+        "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
       },
       {
@@ -134,8 +134,8 @@
         "name": "Tagir Ulanbekov"
       },
       {
-        "id": "tyson-nam",
-        "name": "Tyson Nam"
+        "id": "bruno-silva",
+        "name": "Bruno Silva"
       }
     ]
   },
@@ -148,20 +148,20 @@
     },
     "fighters": [
       {
-        "id": "sean-omalley",
-        "name": "Sean O'Malley"
-      },
-      {
-        "id": "petr-yan",
-        "name": "Petr Yan"
-      },
-      {
         "id": "merab-dvalishvili",
         "name": "Merab Dvalishvili"
       },
       {
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
+      },
+      {
         "id": "marlon-vera",
         "name": "Marlon Vera"
+      },
+      {
+        "id": "petr-yan",
+        "name": "Petr Yan"
       },
       {
         "id": "cory-sandhagen",
@@ -180,12 +180,12 @@
         "name": "Yadong Song"
       },
       {
-        "id": "pedro-munhoz",
-        "name": "Pedro Munhoz"
-      },
-      {
         "id": "ricky-simon",
         "name": "Ricky Simon"
+      },
+      {
+        "id": "pedro-munhoz",
+        "name": "Pedro Munhoz"
       },
       {
         "id": "umar-nurmagomedov",
@@ -198,6 +198,10 @@
       {
         "id": "chris-gutierrez",
         "name": "Chris Gutierrez"
+      },
+      {
+        "id": "jonathan-martinez",
+        "name": "Jonathan Martinez"
       },
       {
         "id": "jack-shore",
@@ -406,7 +410,7 @@
         "name": "Michael Chiesa"
       },
       {
-        "id": "sara-elpar-0",
+        "id": "jack-della",
         "name": "Jack Della Maddalena"
       },
       {
@@ -522,16 +526,16 @@
         "name": "Johnny Walker"
       },
       {
-        "id": "ryan-spann",
-        "name": "Ryan Spann"
-      },
-      {
         "id": "volkan-oezdemir",
         "name": "Volkan Oezdemir"
       },
       {
         "id": "paul-craig",
         "name": "Paul Craig"
+      },
+      {
+        "id": "ryan-spann",
+        "name": "Ryan Spann"
       },
       {
         "id": "dominick-reyes",
@@ -580,20 +584,20 @@
         "name": "Curtis Blaydes"
       },
       {
-        "id": "tai-tuivasa",
-        "name": "Tai Tuivasa"
-      },
-      {
         "id": "tom-aspinall",
         "name": "Tom Aspinall"
       },
       {
-        "id": "sergey-spivak-0",
-        "name": "Serghei Spivac"
+        "id": "tai-tuivasa",
+        "name": "Tai Tuivasa"
       },
       {
         "id": "alexander-volkov",
         "name": "Alexander Volkov"
+      },
+      {
+        "id": "serghei-spivac",
+        "name": "Serghei Spivac"
       },
       {
         "id": "jairzinho-rozenstruik",
@@ -616,12 +620,12 @@
         "name": "Jailton Almeida"
       },
       {
-        "id": "alexandr-romanov",
-        "name": "Alexandr Romanov"
-      },
-      {
         "id": "blagoy-ivanov",
         "name": "Blagoy Ivanov"
+      },
+      {
+        "id": "alexandr-romanov",
+        "name": "Alexandr Romanov"
       }
     ]
   },
