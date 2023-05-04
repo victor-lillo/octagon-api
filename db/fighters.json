@@ -164,7 +164,7 @@
     "fightingStyle": "Kickboxer",
     "age": "33",
     "height": "67.00",
-    "weight": "135.00",
+    "weight": "148.00",
     "octagonDebut": "Feb. 22, 2014",
     "reach": "71.00",
     "legReach": "39.00"
@@ -485,7 +485,7 @@
     "age": "27",
     "height": "68.00",
     "weight": "125.80",
-    "octagonDebut": "Apr. 26, 2023",
+    "octagonDebut": "May. 03, 2023",
     "reach": "72.00",
     "legReach": "38.50"
   },
@@ -661,7 +661,7 @@
   "yadong-song": {
     "category": "Bantamweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/SONG_YADONG_L_09-17.png?itok=-lD5rx-e",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-04/SONG_YADONG_L_04_28.png?itok=U_o6d8g3",
     "losses": "7",
     "name": "Song Yadong",
     "nickname": "",
@@ -972,7 +972,7 @@
     "fightingStyle": "Freestyle",
     "age": "29",
     "height": "67.00",
-    "weight": "146.00",
+    "weight": "158.00",
     "octagonDebut": "Apr. 20, 2019",
     "reach": "72.50",
     "legReach": "36.00"
@@ -1288,7 +1288,7 @@
     "fightingStyle": "Freestyle",
     "age": "34",
     "height": "68.00",
-    "weight": "156.00",
+    "weight": "172.40",
     "octagonDebut": "Dec. 01, 2013",
     "reach": "70.00",
     "legReach": "35.00"
@@ -1360,7 +1360,7 @@
     "trainsAt": "Roufusport, (Mikwaukee, WI) & Chicago Fight Team (Chicago, IL)",
     "age": "34",
     "height": "71.00",
-    "weight": "170.00",
+    "weight": "196.00",
     "octagonDebut": "Jul. 07, 2016",
     "reach": "72.00",
     "legReach": "40.00"
@@ -1379,7 +1379,7 @@
     "fightingStyle": "Brazilian Jiu-Jitsu",
     "age": "36",
     "height": "70.00",
-    "weight": "183.60",
+    "weight": "186.20",
     "octagonDebut": "Jul. 26, 2014",
     "reach": "71.00",
     "legReach": "40.00"
@@ -2375,7 +2375,7 @@
     "age": "36",
     "height": "71.00",
     "weight": "256.50",
-    "octagonDebut": "Apr. 26, 2023",
+    "octagonDebut": "May. 03, 2023",
     "reach": "73.00",
     "legReach": "42.00"
   },
@@ -2521,9 +2521,9 @@
     "status": "Active",
     "placeOfBirth": "State of Rio Grande do Sul, Brazil",
     "fightingStyle": "Muay Thai",
-    "age": "35",
+    "age": "36",
     "height": "66.00",
-    "weight": "115.50",
+    "weight": "123.60",
     "octagonDebut": "Sep. 23, 2018",
     "reach": "65.00",
     "legReach": "38.50"
@@ -2727,7 +2727,7 @@
     "fightingStyle": "Jiu-Jitsu",
     "age": "34",
     "height": "63.00",
-    "weight": "115.00",
+    "weight": "127.00",
     "octagonDebut": "Apr. 27, 2019",
     "reach": "64.00",
     "legReach": "37.00"
@@ -3020,7 +3020,7 @@
     "status": "Active",
     "placeOfBirth": "Culiacán, Mexico",
     "fightingStyle": "Striker",
-    "age": "34",
+    "age": "35",
     "height": "69.00",
     "weight": "137.50",
     "octagonDebut": "Dec. 18, 2016",

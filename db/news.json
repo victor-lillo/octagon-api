@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "ketlen-vieira",
-    "fighterName": "Ketlen Vieira",
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 3,
-    "previousPosition": 2,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "holly-holm",
-    "fighterName": "Holly Holm",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 2,
-    "previousPosition": 3,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "miranda-maverick",
-    "fighterName": "Miranda Maverick",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
+    "currentPosition": 5,
     "previousPosition": "unranked",
-    "date": "2023-04-27T04:15:29.903Z"
+    "date": "2023-05-04T04:15:18.835Z"
   },
   {
-    "fighter": "andrea-lee",
-    "fighterName": "Andrea Lee",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 12,
-    "previousPosition": 10,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "maycee-barber",
-    "fighterName": "Maycee Barber",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 10,
-    "previousPosition": 12,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "michelle-waterson",
-    "fighterName": "Michelle Waterson-Gomez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 11,
-    "previousPosition": 9,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "tatiana-suarez",
-    "fighterName": "Tatiana Suarez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "amanda-ribas",
-    "fighterName": "Amanda Ribas",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 9,
-    "previousPosition": 10,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "chris-daukaus",
-    "fighterName": "Chris Daukaus",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2023-04-27T04:15:29.903Z"
-  },
-  {
-    "fighter": "kori-makkenna-10",
+    "fighter": "jailton-almeida",
     "fighterName": "Jailton Almeida",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
     "currentPosition": 11,
     "previousPosition": "unranked",
-    "date": "2023-04-27T04:15:29.903Z"
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "serghei-spivac",
+    "fighterName": "Serghei Spivac",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": "unranked",
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "stipe-miocic",
+    "fighterName": "Stipe Miocic",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 2,
+    "previousPosition": 1,
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "sergei-pavlovich",
+    "fighterName": "Sergei Pavlovich",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 1,
+    "previousPosition": 2,
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "daniel-rodriguez",
+    "fighterName": "Daniel Rodriguez",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "michel-pereira",
+    "fighterName": "Michel Pereira",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "jack-della",
+    "fighterName": "Jack Della Maddalena",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 12,
+    "previousPosition": "unranked",
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "calvin-kattar",
+    "fighterName": "Calvin Kattar",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-05-04T04:15:18.835Z"
+  },
+  {
+    "fighter": "chan-sung-jung",
+    "fighterName": "Chan Sung Jung",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-05-04T04:15:18.835Z"
   }
 ]
