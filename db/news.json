@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "yana-santos",
-    "fighterName": "Yana Santos",
+    "fighter": "josiane-nunes",
+    "fighterName": "Josiane Nunes",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 5,
-    "previousPosition": "unranked",
-    "date": "2023-05-04T04:15:18.835Z"
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2023-05-11T04:14:47.782Z"
   },
   {
-    "fighter": "jailton-almeida",
-    "fighterName": "Jailton Almeida",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2023-05-04T04:15:18.835Z"
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2023-05-11T04:14:47.782Z"
   },
   {
-    "fighter": "serghei-spivac",
+    "fighter": "angela-hill",
+    "fighterName": "Angela Hill",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2023-05-11T04:14:47.782Z"
+  },
+  {
+    "fighter": "luana-pinheiro",
+    "fighterName": "Luana Pinheiro",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2023-05-11T04:14:47.782Z"
+  },
+  {
+    "fighter": "sergey-spivak-0",
     "fighterName": "Serghei Spivac",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
     "currentPosition": 7,
     "previousPosition": "unranked",
-    "date": "2023-05-04T04:15:18.835Z"
+    "date": "2023-05-11T04:14:47.782Z"
   },
   {
-    "fighter": "stipe-miocic",
-    "fighterName": "Stipe Miocic",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 2,
-    "previousPosition": 1,
-    "date": "2023-05-04T04:15:18.835Z"
-  },
-  {
-    "fighter": "sergei-pavlovich",
-    "fighterName": "Sergei Pavlovich",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 1,
-    "previousPosition": 2,
-    "date": "2023-05-04T04:15:18.835Z"
-  },
-  {
-    "fighter": "daniel-rodriguez",
-    "fighterName": "Daniel Rodriguez",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "andre-muniz",
+    "fighterName": "Andre Muniz",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
     "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-05-04T04:15:18.835Z"
+    "previousPosition": 13,
+    "date": "2023-05-11T04:14:47.782Z"
   },
   {
-    "fighter": "michel-pereira",
-    "fighterName": "Michel Pereira",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "chris-curtis",
+    "fighterName": "Chris Curtis",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
     "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2023-05-04T04:15:18.835Z"
-  },
-  {
-    "fighter": "jack-della",
-    "fighterName": "Jack Della Maddalena",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2023-05-04T04:15:18.835Z"
-  },
-  {
-    "fighter": "calvin-kattar",
-    "fighterName": "Calvin Kattar",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2023-05-04T04:15:18.835Z"
+    "date": "2023-05-11T04:14:47.782Z"
   },
   {
     "fighter": "chan-sung-jung",
     "fighterName": "Chan Sung Jung",
     "categoryId": "featherweight",
     "categoryName": "Featherweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-05-11T04:14:47.782Z"
+  },
+  {
+    "fighter": "calvin-kattar",
+    "fighterName": "Calvin Kattar",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2023-05-04T04:15:18.835Z"
+    "date": "2023-05-11T04:14:47.782Z"
+  },
+  {
+    "fighter": "dominick-cruz",
+    "fighterName": "Dominick Cruz",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2023-05-11T04:14:47.782Z"
   }
 ]
