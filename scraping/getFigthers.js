@@ -1,12 +1,9 @@
+import sleepWithLog from 'sleep-dots'
 import { logSuccess } from './lib/log.js'
 import { readDBFile } from './lib/db.js'
 import { REQUEST_DELAY } from '../octagon-api.config.js'
 import scrapeFighterInfo from './lib/scrapeFighterInfo.js'
 import timeFormatter from './lib/timeFormatter.js'
-
-const sleep = (miliseconds) => {
-  return new Promise((resolve) => setTimeout(resolve, miliseconds))
-}
 
 async function getFigthers() {
   const start = performance.now()
@@ -16,7 +13,7 @@ async function getFigthers() {
     for (const { id } of fighters) {
       await scrapeFighterInfo(id)
       console.log(`Waiting ${timeFormatter(REQUEST_DELAY)}\n`)
-      await sleep(REQUEST_DELAY)
+      await sleepWithLog(REQUEST_DELAY)
     }
   }
 

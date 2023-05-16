@@ -30,6 +30,7 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "sharp": "0.31.3",
+    "sleep-dots": "1.1.2",
     "svelte": "3.55.1"
   },
   "devDependencies": {
