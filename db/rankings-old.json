@@ -40,12 +40,12 @@
         "name": "Charles Oliveira"
       },
       {
-        "id": "brandon-moreno",
-        "name": "Brandon Moreno"
-      },
-      {
         "id": "alex-pereira",
         "name": "Alex Pereira"
+      },
+      {
+        "id": "brandon-moreno",
+        "name": "Brandon Moreno"
       },
       {
         "id": "jiri-prochazka",
@@ -172,12 +172,12 @@
         "name": "Rob Font"
       },
       {
-        "id": "dominick-cruz",
-        "name": "Dominick Cruz"
-      },
-      {
         "id": "yadong-song",
         "name": "Song Yadong"
+      },
+      {
+        "id": "dominick-cruz",
+        "name": "Dominick Cruz"
       },
       {
         "id": "pedro-munhoz",
@@ -238,12 +238,12 @@
         "name": "Josh Emmett"
       },
       {
-        "id": "chan-sung-jung",
-        "name": "Chan Sung Jung"
-      },
-      {
         "id": "calvin-kattar",
         "name": "Calvin Kattar"
+      },
+      {
+        "id": "chan-sung-jung",
+        "name": "Chan Sung Jung"
       },
       {
         "id": "giga-chikadze",
@@ -480,12 +480,12 @@
         "name": "Brendan Allen"
       },
       {
-        "id": "andre-muniz",
-        "name": "Andre Muniz"
-      },
-      {
         "id": "chris-curtis",
         "name": "Chris Curtis"
+      },
+      {
+        "id": "andre-muniz",
+        "name": "Andre Muniz"
       }
     ]
   },
@@ -596,7 +596,7 @@
         "name": "Alexander Volkov"
       },
       {
-        "id": "serghei-spivac",
+        "id": "sergey-spivak-0",
         "name": "Serghei Spivac"
       },
       {
@@ -756,12 +756,12 @@
         "name": "Michelle Waterson-Gomez"
       },
       {
-        "id": "angela-hill",
-        "name": "Angela Hill"
-      },
-      {
         "id": "luana-pinheiro",
         "name": "Luana Pinheiro"
+      },
+      {
+        "id": "angela-hill",
+        "name": "Angela Hill"
       },
       {
         "id": "tabatha-ricci",
@@ -900,12 +900,12 @@
         "name": "Norma Dumont"
       },
       {
-        "id": "josiane-nunes",
-        "name": "Josiane Nunes"
-      },
-      {
         "id": "chelsea-chandler",
         "name": "Chelsea Chandler"
+      },
+      {
+        "id": "josiane-nunes",
+        "name": "Josiane Nunes"
       }
     ]
   },
