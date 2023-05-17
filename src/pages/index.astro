@@ -25,7 +25,14 @@ const orderedData = newsData.sort((a, b) => {
     <h1>Welcome to <span class='text-gradient'>Octagon API</span></h1>
     <h2 class='subtitle'>News</h2>
     <section>
-      {orderedData.map((fighterData) => <NewsCard {...fighterData} />)}
+      {
+        orderedData.map((fighterData, index) => (
+          <NewsCard
+            {...fighterData}
+            index={index}
+          />
+        ))
+      }
     </section>
   </main>
 </Layout>
