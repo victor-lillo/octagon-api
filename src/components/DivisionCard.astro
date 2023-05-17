@@ -21,6 +21,7 @@ const divisionData = data.map(({ id, categoryName, champion }) => {
           src={`/fighters/${championImg}`}
           alt={`${categoryName} image`}
           fetchpriority={index <= 2 ? 'high' : undefined}
+          loading={index >= 5 ? 'lazy' : undefined}
         />
       </li>
     ))
