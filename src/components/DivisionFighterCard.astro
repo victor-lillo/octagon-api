@@ -26,6 +26,7 @@ const clampedName =
     <img
       src={`/fighters/${fighterId}.webp`}
       alt={`${fighterName} athlete image`}
+      fetchpriority={index < 1 ? 'high' : undefined}
     />
     <footer>
       <h3>

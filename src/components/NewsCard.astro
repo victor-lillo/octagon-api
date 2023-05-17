@@ -29,7 +29,8 @@ const pathClass =
     <img
       src={`/fighters/${imgPath}`}
       alt='Peleador'
-      loading='lazy'
+      loading={index >= 5 ? 'lazy' : undefined}
+      fetchpriority={index <= 1 ? 'high' : undefined}
     />
   </article>
 </a>

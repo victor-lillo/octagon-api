@@ -8,6 +8,7 @@ const { athlete, losses, draws, wins } = Astro.props
   <img
     src={`/fighters/${athlete}.webp`}
     alt='Peleador'
+    fetchpriority='high'
   />
   <ScoreChart
     wins={wins}

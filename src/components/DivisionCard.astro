@@ -9,7 +9,7 @@ const divisionData = data.map(({ id, categoryName, champion }) => {
 
 <ul>
   {
-    divisionData.map(({ route, championImg, categoryName }) => (
+    divisionData.map(({ route, championImg, categoryName }, index) => (
       <li>
         <a
           aria-label={`Go to ${categoryName} page`}
@@ -19,7 +19,8 @@ const divisionData = data.map(({ id, categoryName, champion }) => {
         </a>
         <img
           src={`/fighters/${championImg}`}
-          alt=''
+          alt={`${categoryName} image`}
+          fetchpriority={index <= 2 ? 'high' : undefined}
         />
       </li>
     ))
