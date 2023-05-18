@@ -1,6 +1,6 @@
 {
   "alexander-volkanovski": {
-    "category": "Lightweight Division",
+    "category": "Featherweight Division",
     "draws": "0",
     "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/VOLKANOVSKI_ALEXANDER_L_02-11.png?itok=ZuyYEOcc",
     "losses": "2",
@@ -485,7 +485,7 @@
     "age": "27",
     "height": "68.00",
     "weight": "125.80",
-    "octagonDebut": "May. 10, 2023",
+    "octagonDebut": "May. 17, 2023",
     "reach": "72.00",
     "legReach": "38.50"
   },
@@ -810,7 +810,7 @@
   "yair-rodriguez": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-02/RODRIGUEZ_YAIR_L_02-11.png?itok=q4BiMHdn",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-05/RODRIGUEZ_YAIR_L_BELT.png?itok=2BJcAs4l",
     "losses": "3",
     "name": "Yair Rodriguez",
     "nickname": "El Pantera",
@@ -1913,18 +1913,18 @@
   "anthony-smith": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-08/SMITH_ANTHONY_L_07-30.png?itok=91VPCJmx",
-    "losses": "17",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-05/SMITH_ANTHONY_L_05-13.png?itok=ajezPo9f",
+    "losses": "18",
     "name": "Anthony Smith",
     "nickname": "Lionheart",
     "wins": "36",
     "status": "Active",
     "placeOfBirth": "Corpus Christi, United States",
-    "trainsAt": "Factory X",
+    "trainsAt": "Mick Doyle's Kickboxing - Omaha, NE",
     "fightingStyle": "Freestyle",
     "age": "34",
     "height": "76.00",
-    "weight": "206.50",
+    "weight": "213.40",
     "octagonDebut": "Aug. 19, 2012",
     "reach": "76.00",
     "legReach": "44.00"
@@ -2025,18 +2025,18 @@
   "johnny-walker": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2018-11/WALKER_JOHNNY_L.png?VersionId=bpAtkv74IWxqHMi2NKlBG8eAaPeAv3Kx&itok=ZP0TbL2N",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/601d454c-9816-4660-8f47-c92f3a3738f3%252FWALKER_JOHNNY_L_02-19.png?itok=-Oj2FjNg",
     "losses": "7",
     "name": "Johnny Walker",
     "nickname": "",
-    "wins": "20",
+    "wins": "21",
     "status": "Active",
     "placeOfBirth": "Belford Roxo, Brazil",
     "trainsAt": "SBG Ireland",
     "fightingStyle": "MMA",
     "age": "31",
     "height": "78.00",
-    "weight": "205.00",
+    "weight": "219.80",
     "octagonDebut": "Nov. 17, 2018",
     "reach": "82.00",
     "legReach": "44.50"
@@ -2249,8 +2249,8 @@
   "jairzinho-rozenstruik": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/1eb95f06-585c-4565-ad55-8a0ca3d84ac8%252FROZENSTRUIK_JAIRZINHO_L_06-04.png?itok=IJW2dU39",
-    "losses": "4",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-05/ROZENSTRUIK_JAIRZINHO_L_05-13.png?itok=xOfYqu5i",
+    "losses": "5",
     "name": "Jairzinho Rozenstruik",
     "nickname": "Bigi Boy",
     "wins": "13",
@@ -2260,7 +2260,7 @@
     "fightingStyle": "MMA",
     "age": "35",
     "height": "74.00",
-    "weight": "261.50",
+    "weight": "264.00",
     "octagonDebut": "Feb. 02, 2019",
     "reach": "78.00",
     "legReach": "41.00"
@@ -2375,7 +2375,7 @@
     "age": "36",
     "height": "71.00",
     "weight": "256.50",
-    "octagonDebut": "May. 10, 2023",
+    "octagonDebut": "May. 17, 2023",
     "reach": "73.00",
     "legReach": "42.00"
   },
@@ -2492,9 +2492,9 @@
     "legReach": "35.00"
   },
   "jessica-andrade": {
-    "category": "Women's Flyweight Division",
+    "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-06/9e1322ed-8b10-40f2-b0fc-575fb206c20c%252FANDRADE_JESSICA_L_04-23.png?itok=3jTE7pkP",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-05/ANDRADE_JESSICA_L_05-06.png?itok=VypA4T6z",
     "losses": "11",
     "name": "Jessica Andrade",
     "nickname": "Bate Estaca",
@@ -2505,7 +2505,7 @@
     "fightingStyle": "Muay Thai",
     "age": "31",
     "height": "61.50",
-    "weight": "132.00",
+    "weight": "115.00",
     "octagonDebut": "Jul. 27, 2013",
     "reach": "62.00",
     "legReach": "35.00"
@@ -3122,7 +3122,7 @@
     "legReach": "36.00"
   },
   "miesha-tate": {
-    "category": "Women's Bantamweight Division",
+    "category": "Women's Flyweight Division",
     "draws": "0",
     "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TATE_MIESHA_L_07-17.png?itok=l3ajmGkB",
     "losses": "9",
@@ -3384,7 +3384,7 @@
     "losses": "2",
     "name": "Jailton Almeida",
     "nickname": "Malhadinho",
-    "wins": "18",
+    "wins": "19",
     "status": "Active",
     "placeOfBirth": "Brazil",
     "fightingStyle": "Boxing",
@@ -3618,5 +3618,23 @@
     "octagonDebut": "Aug. 29, 2017",
     "reach": "71.00",
     "legReach": "40.00"
+  },
+  "ian-garry": {
+    "category": "Welterweight Division",
+    "draws": "0",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/GARRY_IAN_L_03-05.png?itok=WBuKo1By",
+    "losses": "0",
+    "name": "Ian Machado Garry",
+    "nickname": "The Future",
+    "wins": "12",
+    "status": "Active",
+    "placeOfBirth": "Dublin, Ireland",
+    "trainsAt": "Sanford MMA",
+    "age": "25",
+    "height": "75.00",
+    "weight": "182.60",
+    "octagonDebut": "Nov. 06, 2021",
+    "reach": "74.50",
+    "legReach": "42.00"
   }
 }

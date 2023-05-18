@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "josiane-nunes",
-    "fighterName": "Josiane Nunes",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
     "fighter": "chelsea-chandler",
     "fighterName": "Chelsea Chandler",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "angela-hill",
-    "fighterName": "Angela Hill",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "luana-pinheiro",
-    "fighterName": "Luana Pinheiro",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "sergey-spivak-0",
-    "fighterName": "Serghei Spivac",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": "unranked",
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "andre-muniz",
-    "fighterName": "Andre Muniz",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
     "currentPosition": 14,
     "previousPosition": 13,
-    "date": "2023-05-11T04:14:47.782Z"
+    "date": "2023-05-18T04:15:03.915Z"
   },
   {
-    "fighter": "chris-curtis",
-    "fighterName": "Chris Curtis",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "josiane-nunes",
+    "fighterName": "Josiane Nunes",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2023-05-11T04:14:47.782Z"
+    "date": "2023-05-18T04:15:03.915Z"
   },
   {
-    "fighter": "chan-sung-jung",
-    "fighterName": "Chan Sung Jung",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2023-05-11T04:14:47.782Z"
+    "fighter": "amanda-ribas",
+    "fighterName": "Amanda Ribas",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2023-05-18T04:15:03.915Z"
   },
   {
-    "fighter": "calvin-kattar",
-    "fighterName": "Calvin Kattar",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2023-05-11T04:14:47.782Z"
+    "fighter": "tatiana-suarez",
+    "fighterName": "Tatiana Suarez",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 9,
+    "previousPosition": 10,
+    "date": "2023-05-18T04:15:03.915Z"
   },
   {
-    "fighter": "dominick-cruz",
-    "fighterName": "Dominick Cruz",
-    "categoryId": "bantamweight",
-    "categoryName": "Bantamweight",
+    "fighter": "tecia-torres",
+    "fighterName": "Tecia Torres",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2023-05-18T04:15:03.915Z"
+  },
+  {
+    "fighter": "mackenzie-dern",
+    "fighterName": "Mackenzie Dern",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 7,
     "previousPosition": 6,
-    "date": "2023-05-11T04:14:47.782Z"
+    "date": "2023-05-18T04:15:03.915Z"
+  },
+  {
+    "fighter": "marina-rodriguez",
+    "fighterName": "Marina Rodriguez",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 6,
+    "previousPosition": 4,
+    "date": "2023-05-18T04:15:03.915Z"
+  },
+  {
+    "fighter": "virna-jandiroba",
+    "fighterName": "Virna Jandiroba",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 5,
+    "previousPosition": 8,
+    "date": "2023-05-18T04:15:03.915Z"
+  },
+  {
+    "fighter": "jessica-andrade",
+    "fighterName": "Jessica Andrade",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 4,
+    "previousPosition": 3,
+    "date": "2023-05-18T04:15:03.915Z"
+  },
+  {
+    "fighter": "amanda-lemos",
+    "fighterName": "Amanda Lemos",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 3,
+    "previousPosition": 2,
+    "date": "2023-05-18T04:15:03.915Z"
   }
 ]
