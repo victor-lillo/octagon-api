@@ -1,5 +1,50 @@
 [
   {
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
+    "previousPosition": "unranked",
+    "date": "2023-06-08T04:15:32.305Z"
+  },
+  {
+    "fighter": "jailton-almeida",
+    "fighterName": "Jailton Almeida",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 8,
+    "previousPosition": "unranked",
+    "date": "2023-06-08T04:15:32.305Z"
+  },
+  {
+    "fighter": "serghei-spivac",
+    "fighterName": "Serghei Spivac",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": "unranked",
+    "date": "2023-06-08T04:15:32.305Z"
+  },
+  {
+    "fighter": "ian-garry",
+    "fighterName": "Ian Machado Garry",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 12,
+    "previousPosition": "unranked",
+    "date": "2023-06-08T04:15:32.305Z"
+  },
+  {
+    "fighter": "muhammad-mokaev",
+    "fighterName": "Muhammad Mokaev",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 11,
+    "previousPosition": "unranked",
+    "date": "2023-06-08T04:15:32.305Z"
+  },
+  {
     "fighter": "marina-rodriguez",
     "fighterName": "Marina Rodriguez",
     "categoryId": "womens-strawweight",
@@ -43,50 +88,5 @@
     "currentPosition": 5,
     "previousPosition": 4,
     "date": "2023-06-01T04:16:20.567Z"
-  },
-  {
-    "fighter": "johnny-walker",
-    "fighterName": "Johnny Walker",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2023-06-01T04:16:20.567Z"
-  },
-  {
-    "fighter": "sara-elpar-0",
-    "fighterName": "Jack Della Maddalena",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2023-06-01T04:16:20.567Z"
-  },
-  {
-    "fighter": "nassurdin-imavov-4",
-    "fighterName": "Ian Machado Garry",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2023-06-01T04:16:20.567Z"
-  },
-  {
-    "fighter": "liana-dzhodzhua-0",
-    "fighterName": "Muhammad Mokaev",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2023-06-01T04:16:20.567Z"
-  },
-  {
-    "fighter": "josiane-nunes",
-    "fighterName": "Josiane Nunes",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2023-05-25T04:15:04.996Z"
   }
 ]
