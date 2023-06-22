@@ -32,12 +32,12 @@
         "name": "Aljamain Sterling"
       },
       {
-        "id": "kamaru-usman",
-        "name": "Kamaru Usman"
-      },
-      {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
+      },
+      {
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
       },
       {
         "id": "brandon-moreno",
@@ -118,7 +118,7 @@
         "name": "Tim Elliott"
       },
       {
-        "id": "liana-dzhodzhua-0",
+        "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
       },
       {
@@ -406,11 +406,11 @@
         "name": "Michael Chiesa"
       },
       {
-        "id": "nassurdin-imavov-4",
+        "id": "ian-garry",
         "name": "Ian Machado Garry"
       },
       {
-        "id": "sara-elpar-0",
+        "id": "jack-della",
         "name": "Jack Della Maddalena"
       },
       {
@@ -436,20 +436,20 @@
         "name": "Robert Whittaker"
       },
       {
-        "id": "marvin-vettori",
-        "name": "Marvin Vettori"
-      },
-      {
         "id": "jared-cannonier",
         "name": "Jared Cannonier"
       },
       {
-        "id": "paulo-costa",
-        "name": "Paulo Costa"
+        "id": "marvin-vettori",
+        "name": "Marvin Vettori"
       },
       {
         "id": "dricus-du-plessis",
         "name": "Dricus Du Plessis"
+      },
+      {
+        "id": "paulo-costa",
+        "name": "Paulo Costa"
       },
       {
         "id": "sean-strickland",
@@ -596,11 +596,11 @@
         "name": "Alexander Volkov"
       },
       {
-        "id": "sergey-spivak-0",
+        "id": "serghei-spivac",
         "name": "Serghei Spivac"
       },
       {
-        "id": "kori-makkenna-10",
+        "id": "jailton-almeida",
         "name": "Jailton Almeida"
       },
       {
@@ -633,14 +633,10 @@
     "id": "womens-pound-for-pound-top-rank",
     "categoryName": "Women's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "amanda-nunes",
-      "championName": "Amanda Nunes"
+      "id": "alexa-grasso",
+      "championName": "Alexa Grasso"
     },
     "fighters": [
-      {
-        "id": "amanda-nunes",
-        "name": "Amanda Nunes"
-      },
       {
         "id": "alexa-grasso",
         "name": "Alexa Grasso"
@@ -678,6 +674,10 @@
         "name": "Yan Xiaonan"
       },
       {
+        "id": "taila-santos",
+        "name": "Taila Santos"
+      },
+      {
         "id": "manon-fiorot",
         "name": "Manon Fiorot"
       },
@@ -686,16 +686,16 @@
         "name": "Amanda Lemos"
       },
       {
-        "id": "taila-santos",
-        "name": "Taila Santos"
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
       },
       {
         "id": "holly-holm",
         "name": "Holly Holm"
       },
       {
-        "id": "raquel-pennington",
-        "name": "Raquel Pennington"
+        "id": "tatiana-suarez",
+        "name": "Tatiana Suarez"
       }
     ]
   },
@@ -799,7 +799,7 @@
       },
       {
         "id": "katlyn-chookagian",
-        "name": "Katlyn Chookagian"
+        "name": "Katlyn Cerminara"
       },
       {
         "id": "lauren-murphy",
@@ -834,7 +834,7 @@
         "name": "Tracy Cortez"
       },
       {
-        "id": "kori-makkenna-6",
+        "id": "jasmine-jasudavicius",
         "name": "Jasmine Jasudavicius"
       }
     ]
@@ -843,8 +843,8 @@
     "id": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
     "champion": {
-      "id": "amanda-nunes",
-      "championName": "Amanda Nunes"
+      "id": "",
+      "championName": ""
     },
     "fighters": [
       {
@@ -908,14 +908,5 @@
         "name": "Chelsea Chandler"
       }
     ]
-  },
-  {
-    "id": "womens-featherweight",
-    "categoryName": "Women's Featherweight",
-    "champion": {
-      "id": "amanda-nunes",
-      "championName": "Amanda Nunes"
-    },
-    "fighters": []
   }
 ]
