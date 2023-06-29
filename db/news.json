@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "kori-makkenna-6",
+    "fighter": "jasmine-jasudavicius",
     "fighterName": "Jasmine Jasudavicius",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
     "currentPosition": 14,
     "previousPosition": "unranked",
-    "date": "2023-06-22T04:14:54.051Z"
+    "date": "2023-06-29T04:17:06.206Z"
   },
   {
-    "fighter": "kori-makkenna-10",
-    "fighterName": "Jailton Almeida",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
+    "fighter": "tatiana-suarez",
+    "fighterName": "Tatiana Suarez",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2023-06-29T04:17:06.206Z"
+  },
+  {
+    "fighter": "raquel-pennington",
+    "fighterName": "Raquel Pennington",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 12,
+    "previousPosition": 14,
+    "date": "2023-06-29T04:17:06.206Z"
+  },
+  {
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 9,
+    "previousPosition": 12,
+    "date": "2023-06-29T04:17:06.206Z"
+  },
+  {
+    "fighter": "xiaonan-yan",
+    "fighterName": "Yan Xiaonan",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
     "currentPosition": 8,
-    "previousPosition": "unranked",
-    "date": "2023-06-22T04:14:54.051Z"
+    "previousPosition": 9,
+    "date": "2023-06-29T04:17:06.206Z"
   },
   {
-    "fighter": "sergey-spivak-0",
-    "fighterName": "Serghei Spivac",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
+    "fighter": "jessica-andrade",
+    "fighterName": "Jessica Andrade",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
     "currentPosition": 7,
-    "previousPosition": "unranked",
-    "date": "2023-06-22T04:14:54.051Z"
+    "previousPosition": 8,
+    "date": "2023-06-29T04:17:06.206Z"
   },
   {
-    "fighter": "nikita-krylov",
-    "fighterName": "Nikita Krylov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "erin-blanchfield",
+    "fighterName": "Erin Blanchfield",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2023-06-29T04:17:06.206Z"
+  },
+  {
+    "fighter": "carla-esparza",
+    "fighterName": "Carla Esparza",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
     "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2023-06-22T04:14:54.051Z"
+    "previousPosition": 6,
+    "date": "2023-06-29T04:17:06.206Z"
   },
   {
-    "fighter": "johnny-walker",
-    "fighterName": "Johnny Walker",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "julianna-pena",
+    "fighterName": "Julianna Peña",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
     "currentPosition": 4,
     "previousPosition": 5,
-    "date": "2023-06-22T04:14:54.051Z"
+    "date": "2023-06-29T04:17:06.206Z"
   },
   {
-    "fighter": "chris-curtis",
-    "fighterName": "Chris Curtis",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2023-06-22T04:14:54.051Z"
-  },
-  {
-    "fighter": "andre-muniz",
-    "fighterName": "Andre Muniz",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2023-06-22T04:14:54.051Z"
-  },
-  {
-    "fighter": "sara-elpar-0",
-    "fighterName": "Jack Della Maddalena",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2023-06-22T04:14:54.051Z"
-  },
-  {
-    "fighter": "nassurdin-imavov-4",
-    "fighterName": "Ian Machado Garry",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2023-06-22T04:14:54.051Z"
-  },
-  {
-    "fighter": "david-dvorak",
-    "fighterName": "David Dvorak",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 14,
-    "previousPosition": 9,
-    "date": "2023-06-22T04:14:54.051Z"
+    "fighter": "rose-namajunas",
+    "fighterName": "Rose Namajunas",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 3,
+    "previousPosition": 4,
+    "date": "2023-06-29T04:17:06.206Z"
   }
 ]

@@ -234,6 +234,10 @@
         "name": "Arnold Allen"
       },
       {
+        "id": "ilia-topuria",
+        "name": "Ilia Topuria"
+      },
+      {
         "id": "josh-emmett",
         "name": "Josh Emmett"
       },
@@ -250,20 +254,16 @@
         "name": "Giga Chikadze"
       },
       {
-        "id": "ilia-topuria",
-        "name": "Ilia Topuria"
-      },
-      {
         "id": "movsar-evloev",
         "name": "Movsar Evloev"
       },
       {
-        "id": "bryce-mitchell",
-        "name": "Bryce Mitchell"
-      },
-      {
         "id": "sodiq-yusuff",
         "name": "Sodiq Yusuff"
+      },
+      {
+        "id": "bryce-mitchell",
+        "name": "Bryce Mitchell"
       },
       {
         "id": "dan-ige",
@@ -444,12 +444,12 @@
         "name": "Marvin Vettori"
       },
       {
-        "id": "dricus-du-plessis",
-        "name": "Dricus Du Plessis"
-      },
-      {
         "id": "paulo-costa",
         "name": "Paulo Costa"
+      },
+      {
+        "id": "dricus-du-plessis",
+        "name": "Dricus Du Plessis"
       },
       {
         "id": "sean-strickland",
@@ -468,16 +468,16 @@
         "name": "Jack Hermansson"
       },
       {
+        "id": "brendan-allen",
+        "name": "Brendan Allen"
+      },
+      {
         "id": "kelvin-gastelum",
         "name": "Kelvin Gastelum"
       },
       {
         "id": "nassourdine-imavov",
         "name": "Nassourdine Imavov"
-      },
-      {
-        "id": "brendan-allen",
-        "name": "Brendan Allen"
       },
       {
         "id": "andre-muniz",
@@ -514,12 +514,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "johnny-walker",
-        "name": "Johnny Walker"
-      },
-      {
         "id": "nikita-krylov",
         "name": "Nikita Krylov"
+      },
+      {
+        "id": "johnny-walker",
+        "name": "Johnny Walker"
       },
       {
         "id": "anthony-smith",
@@ -752,20 +752,20 @@
         "name": "Amanda Ribas"
       },
       {
-        "id": "michelle-waterson",
-        "name": "Michelle Waterson-Gomez"
-      },
-      {
         "id": "luana-pinheiro",
         "name": "Luana Pinheiro"
       },
       {
-        "id": "angela-hill",
-        "name": "Angela Hill"
+        "id": "michelle-waterson",
+        "name": "Michelle Waterson-Gomez"
       },
       {
         "id": "tabatha-ricci",
         "name": "Tabatha Ricci"
+      },
+      {
+        "id": "angela-hill",
+        "name": "Angela Hill"
       }
     ]
   },
@@ -806,20 +806,20 @@
         "name": "Lauren Murphy"
       },
       {
-        "id": "jennifer-maia",
-        "name": "Jennifer Maia"
+        "id": "maycee-barber",
+        "name": "Maycee Barber"
       },
       {
-        "id": "amanda-ribas",
-        "name": "Amanda Ribas"
+        "id": "jennifer-maia",
+        "name": "Jennifer Maia"
       },
       {
         "id": "viviane-araujo",
         "name": "Viviane Araújo"
       },
       {
-        "id": "maycee-barber",
-        "name": "Maycee Barber"
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
       },
       {
         "id": "casey-oneill",
