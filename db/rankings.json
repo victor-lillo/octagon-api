@@ -118,7 +118,7 @@
         "name": "Tim Elliott"
       },
       {
-        "id": "muhammad-mokaev",
+        "id": "liana-dzhodzhua-0",
         "name": "Muhammad Mokaev"
       },
       {
@@ -324,6 +324,10 @@
         "name": "Rafael Dos Anjos"
       },
       {
+        "id": "grant-dawson",
+        "name": "Grant Dawson"
+      },
+      {
         "id": "jalin-turner",
         "name": "Jalin Turner"
       },
@@ -332,20 +336,16 @@
         "name": "Dan Hooker"
       },
       {
-        "id": "damir-ismagulov",
-        "name": "Damir Ismagulov"
-      },
-      {
         "id": "renato-moicano",
         "name": "Renato Moicano"
       },
       {
-        "id": "matt-frevola",
-        "name": "Matt Frevola"
+        "id": "damir-ismagulov",
+        "name": "Damir Ismagulov"
       },
       {
-        "id": "grant-dawson",
-        "name": "Grant Dawson"
+        "id": "matt-frevola",
+        "name": "Matt Frevola"
       }
     ]
   },
@@ -386,12 +386,12 @@
         "name": "Stephen Thompson"
       },
       {
-        "id": "geoff-neal",
-        "name": "Geoff Neal"
-      },
-      {
         "id": "sean-brady",
         "name": "Sean Brady"
+      },
+      {
+        "id": "geoff-neal",
+        "name": "Geoff Neal"
       },
       {
         "id": "vicente-luque",
@@ -406,11 +406,11 @@
         "name": "Michael Chiesa"
       },
       {
-        "id": "ian-garry",
+        "id": "nassurdin-imavov-4",
         "name": "Ian Machado Garry"
       },
       {
-        "id": "jack-della",
+        "id": "sara-elpar-0",
         "name": "Jack Della Maddalena"
       },
       {
@@ -444,12 +444,12 @@
         "name": "Marvin Vettori"
       },
       {
-        "id": "paulo-costa",
-        "name": "Paulo Costa"
-      },
-      {
         "id": "dricus-du-plessis",
         "name": "Dricus Du Plessis"
+      },
+      {
+        "id": "paulo-costa",
+        "name": "Paulo Costa"
       },
       {
         "id": "sean-strickland",
@@ -514,12 +514,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
-      },
-      {
         "id": "johnny-walker",
         "name": "Johnny Walker"
+      },
+      {
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
       },
       {
         "id": "anthony-smith",
@@ -568,12 +568,12 @@
     },
     "fighters": [
       {
-        "id": "ciryl-gane",
-        "name": "Ciryl Gane"
-      },
-      {
         "id": "sergei-pavlovich",
         "name": "Sergei Pavlovich"
+      },
+      {
+        "id": "ciryl-gane",
+        "name": "Ciryl Gane"
       },
       {
         "id": "stipe-miocic",
@@ -596,11 +596,11 @@
         "name": "Alexander Volkov"
       },
       {
-        "id": "serghei-spivac",
+        "id": "sergey-spivak-0",
         "name": "Serghei Spivac"
       },
       {
-        "id": "jailton-almeida",
+        "id": "kori-makkenna-10",
         "name": "Jailton Almeida"
       },
       {
@@ -616,12 +616,12 @@
         "name": "Jairzinho Rozenstruik"
       },
       {
-        "id": "chris-daukaus",
-        "name": "Chris Daukaus"
-      },
-      {
         "id": "alexandr-romanov",
         "name": "Alexandr Romanov"
+      },
+      {
+        "id": "chris-daukaus",
+        "name": "Chris Daukaus"
       },
       {
         "id": "blagoy-ivanov",
@@ -786,12 +786,12 @@
         "name": "Manon Fiorot"
       },
       {
-        "id": "taila-santos",
-        "name": "Taila Santos"
-      },
-      {
         "id": "erin-blanchfield",
         "name": "Erin Blanchfield"
+      },
+      {
+        "id": "taila-santos",
+        "name": "Taila Santos"
       },
       {
         "id": "jessica-andrade",
@@ -799,7 +799,7 @@
       },
       {
         "id": "katlyn-chookagian",
-        "name": "Katlyn Cerminara"
+        "name": "Katlyn Chookagian"
       },
       {
         "id": "lauren-murphy",
@@ -834,7 +834,7 @@
         "name": "Tracy Cortez"
       },
       {
-        "id": "jasmine-jasudavicius",
+        "id": "kori-makkenna-6",
         "name": "Jasmine Jasudavicius"
       }
     ]
@@ -868,12 +868,12 @@
         "name": "Irene Aldana"
       },
       {
-        "id": "yana-santos",
-        "name": "Yana Santos"
-      },
-      {
         "id": "pannie-kianzad",
         "name": "Pannie Kianzad"
+      },
+      {
+        "id": "yana-kunitskaya",
+        "name": "Yana Santos"
       },
       {
         "id": "macy-chiasson",
