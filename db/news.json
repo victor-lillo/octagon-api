@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "amanda-ribas",
-    "fighterName": "Amanda Ribas",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 10,
-    "previousPosition": 8,
-    "date": "2023-07-06T04:18:07.328Z"
+    "fighter": "yana-kunitskaya",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": "unranked",
+    "date": "2023-07-13T04:17:04.897Z"
   },
   {
-    "fighter": "jennifer-maia",
-    "fighterName": "Jennifer Maia",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 8,
-    "previousPosition": 7,
-    "date": "2023-07-06T04:18:07.328Z"
-  },
-  {
-    "fighter": "maycee-barber",
-    "fighterName": "Maycee Barber",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 7,
-    "previousPosition": 10,
-    "date": "2023-07-06T04:18:07.328Z"
-  },
-  {
-    "fighter": "angela-hill",
-    "fighterName": "Angela Hill",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2023-07-06T04:18:07.328Z"
-  },
-  {
-    "fighter": "tabatha-ricci",
-    "fighterName": "Tabatha Ricci",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2023-07-06T04:18:07.328Z"
-  },
-  {
-    "fighter": "michelle-waterson",
-    "fighterName": "Michelle Waterson-Gomez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2023-07-06T04:18:07.328Z"
-  },
-  {
-    "fighter": "luana-pinheiro",
-    "fighterName": "Luana Pinheiro",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2023-07-06T04:18:07.328Z"
-  },
-  {
-    "fighter": "johnny-walker",
-    "fighterName": "Johnny Walker",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2023-07-06T04:18:07.328Z"
+    "previousPosition": 6,
+    "date": "2023-07-13T04:17:04.897Z"
   },
   {
-    "fighter": "nikita-krylov",
-    "fighterName": "Nikita Krylov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2023-07-06T04:18:07.328Z"
+    "fighter": "kori-makkenna-6",
+    "fighterName": "Jasmine Jasudavicius",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2023-07-13T04:17:04.897Z"
   },
   {
-    "fighter": "nassourdine-imavov",
-    "fighterName": "Nassourdine Imavov",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 3,
+    "previousPosition": 2,
+    "date": "2023-07-13T04:17:04.897Z"
+  },
+  {
+    "fighter": "erin-blanchfield",
+    "fighterName": "Erin Blanchfield",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 2,
+    "previousPosition": 3,
+    "date": "2023-07-13T04:17:04.897Z"
+  },
+  {
+    "fighter": "chris-daukaus",
+    "fighterName": "Chris Daukaus",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2023-07-13T04:17:04.897Z"
+  },
+  {
+    "fighter": "alexandr-romanov",
+    "fighterName": "Alexandr Romanov",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2023-07-06T04:18:07.328Z"
+    "previousPosition": 13,
+    "date": "2023-07-13T04:17:04.897Z"
+  },
+  {
+    "fighter": "kori-makkenna-10",
+    "fighterName": "Jailton Almeida",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 8,
+    "previousPosition": "unranked",
+    "date": "2023-07-13T04:17:04.897Z"
+  },
+  {
+    "fighter": "sergey-spivak-0",
+    "fighterName": "Serghei Spivac",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": "unranked",
+    "date": "2023-07-13T04:17:04.897Z"
+  },
+  {
+    "fighter": "ciryl-gane",
+    "fighterName": "Ciryl Gane",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 1,
+    "previousPosition": 0,
+    "date": "2023-07-13T04:17:04.897Z"
   }
 ]
