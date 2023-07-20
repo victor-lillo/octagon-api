@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "yana-kunitskaya",
-    "fighterName": "Yana Santos",
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 6,
-    "previousPosition": "unranked",
-    "date": "2023-07-13T04:17:04.897Z"
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2023-07-20T04:15:08.342Z"
   },
   {
-    "fighter": "pannie-kianzad",
-    "fighterName": "Pannie Kianzad",
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2023-07-13T04:17:04.897Z"
-  },
-  {
-    "fighter": "kori-makkenna-6",
-    "fighterName": "Jasmine Jasudavicius",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-07-13T04:17:04.897Z"
-  },
-  {
-    "fighter": "taila-santos",
-    "fighterName": "Taila Santos",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 3,
-    "previousPosition": 2,
-    "date": "2023-07-13T04:17:04.897Z"
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2023-07-20T04:15:08.342Z"
   },
   {
     "fighter": "erin-blanchfield",
     "fighterName": "Erin Blanchfield",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
+    "currentPosition": 3,
+    "previousPosition": 2,
+    "date": "2023-07-20T04:15:08.342Z"
+  },
+  {
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "currentPosition": 2,
     "previousPosition": 3,
-    "date": "2023-07-13T04:17:04.897Z"
+    "date": "2023-07-20T04:15:08.342Z"
   },
   {
-    "fighter": "chris-daukaus",
-    "fighterName": "Chris Daukaus",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2023-07-13T04:17:04.897Z"
-  },
-  {
-    "fighter": "alexandr-romanov",
-    "fighterName": "Alexandr Romanov",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2023-07-13T04:17:04.897Z"
-  },
-  {
-    "fighter": "kori-makkenna-10",
-    "fighterName": "Jailton Almeida",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 8,
-    "previousPosition": "unranked",
-    "date": "2023-07-13T04:17:04.897Z"
-  },
-  {
-    "fighter": "sergey-spivak-0",
+    "fighter": "serghei-spivac",
     "fighterName": "Serghei Spivac",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
     "currentPosition": 7,
     "previousPosition": "unranked",
-    "date": "2023-07-13T04:17:04.897Z"
+    "date": "2023-07-20T04:15:08.342Z"
   },
   {
-    "fighter": "ciryl-gane",
-    "fighterName": "Ciryl Gane",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 1,
-    "previousPosition": 0,
-    "date": "2023-07-13T04:17:04.897Z"
+    "fighter": "alonzo-menifield",
+    "fighterName": "Alonzo Menifield",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2023-07-20T04:15:08.342Z"
+  },
+  {
+    "fighter": "johnny-walker",
+    "fighterName": "Johnny Walker",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2023-07-20T04:15:08.342Z"
+  },
+  {
+    "fighter": "nikita-krylov",
+    "fighterName": "Nikita Krylov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2023-07-20T04:15:08.342Z"
+  },
+  {
+    "fighter": "paulo-costa",
+    "fighterName": "Paulo Costa",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-07-20T04:15:08.342Z"
+  },
+  {
+    "fighter": "sean-strickland",
+    "fighterName": "Sean Strickland",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-07-20T04:15:08.342Z"
   }
 ]

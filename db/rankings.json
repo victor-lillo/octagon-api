@@ -118,7 +118,7 @@
         "name": "Tim Elliott"
       },
       {
-        "id": "liana-dzhodzhua-0",
+        "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
       },
       {
@@ -406,12 +406,12 @@
         "name": "Michael Chiesa"
       },
       {
-        "id": "nassurdin-imavov-4",
-        "name": "Ian Machado Garry"
-      },
-      {
         "id": "sara-elpar-0",
         "name": "Jack Della Maddalena"
+      },
+      {
+        "id": "nassurdin-imavov-4",
+        "name": "Ian Machado Garry"
       },
       {
         "id": "michel-pereira",
@@ -600,7 +600,7 @@
         "name": "Serghei Spivac"
       },
       {
-        "id": "kori-makkenna-10",
+        "id": "jailton-almeida",
         "name": "Jailton Almeida"
       },
       {
@@ -674,12 +674,12 @@
         "name": "Yan Xiaonan"
       },
       {
-        "id": "taila-santos",
-        "name": "Taila Santos"
-      },
-      {
         "id": "manon-fiorot",
         "name": "Manon Fiorot"
+      },
+      {
+        "id": "taila-santos",
+        "name": "Taila Santos"
       },
       {
         "id": "amanda-lemos",
@@ -690,8 +690,8 @@
         "name": "Raquel Pennington"
       },
       {
-        "id": "holly-holm",
-        "name": "Holly Holm"
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
       },
       {
         "id": "tatiana-suarez",
@@ -856,12 +856,16 @@
         "name": "Raquel Pennington"
       },
       {
-        "id": "holly-holm",
-        "name": "Holly Holm"
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
       },
       {
         "id": "ketlen-vieira",
         "name": "Ketlen Vieira"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
       },
       {
         "id": "irene-aldana",
@@ -872,32 +876,28 @@
         "name": "Pannie Kianzad"
       },
       {
-        "id": "yana-kunitskaya",
+        "id": "yana-santos",
         "name": "Yana Santos"
-      },
-      {
-        "id": "karol-rosa",
-        "name": "Karol Rosa"
       },
       {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
+        "id": "karol-rosa",
+        "name": "Karol Rosa"
       },
       {
         "id": "miesha-tate",
         "name": "Miesha Tate"
       },
       {
-        "id": "julia-avila",
-        "name": "Julia Avila"
-      },
-      {
         "id": "norma-dumont",
         "name": "Norma Dumont"
+      },
+      {
+        "id": "julia-avila",
+        "name": "Julia Avila"
       },
       {
         "id": "josiane-nunes",
