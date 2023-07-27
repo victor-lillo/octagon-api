@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
+    "fighter": "julia-avila",
+    "fighterName": "Julia Avila",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 8,
-    "previousPosition": 7,
-    "date": "2023-07-20T04:15:08.342Z"
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2023-07-27T04:14:18.355Z"
+  },
+  {
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2023-07-27T04:14:18.355Z"
   },
   {
     "fighter": "karol-rosa",
     "fighterName": "Karol Rosa",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 7,
-    "previousPosition": 8,
-    "date": "2023-07-20T04:15:08.342Z"
+    "currentPosition": 9,
+    "previousPosition": 7,
+    "date": "2023-07-27T04:14:18.355Z"
   },
   {
-    "fighter": "erin-blanchfield",
-    "fighterName": "Erin Blanchfield",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 3,
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 7,
+    "previousPosition": "unranked",
+    "date": "2023-07-27T04:14:18.355Z"
+  },
+  {
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-07-27T04:14:18.355Z"
+  },
+  {
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2023-07-27T04:14:18.355Z"
+  },
+  {
+    "fighter": "holly-holm",
+    "fighterName": "Holly Holm",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 4,
     "previousPosition": 2,
-    "date": "2023-07-20T04:15:08.342Z"
+    "date": "2023-07-27T04:14:18.355Z"
+  },
+  {
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 2,
+    "previousPosition": 9,
+    "date": "2023-07-27T04:14:18.355Z"
+  },
+  {
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2023-07-27T04:14:18.355Z"
   },
   {
     "fighter": "taila-santos",
     "fighterName": "Taila Santos",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 2,
-    "previousPosition": 3,
-    "date": "2023-07-20T04:15:08.342Z"
-  },
-  {
-    "fighter": "serghei-spivac",
-    "fighterName": "Serghei Spivac",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": "unranked",
-    "date": "2023-07-20T04:15:08.342Z"
-  },
-  {
-    "fighter": "alonzo-menifield",
-    "fighterName": "Alonzo Menifield",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2023-07-20T04:15:08.342Z"
-  },
-  {
-    "fighter": "johnny-walker",
-    "fighterName": "Johnny Walker",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2023-07-20T04:15:08.342Z"
-  },
-  {
-    "fighter": "nikita-krylov",
-    "fighterName": "Nikita Krylov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2023-07-20T04:15:08.342Z"
-  },
-  {
-    "fighter": "paulo-costa",
-    "fighterName": "Paulo Costa",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2023-07-20T04:15:08.342Z"
-  },
-  {
-    "fighter": "sean-strickland",
-    "fighterName": "Sean Strickland",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2023-07-20T04:15:08.342Z"
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2023-07-27T04:14:18.355Z"
   }
 ]
