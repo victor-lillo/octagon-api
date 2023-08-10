@@ -10,7 +10,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "api:dev": "wrangler dev api/index.js",
-    "api:publish": "wrangler publish api/index.js",
+    "api:publish": "wrangler deploy api/index.js",
     "scrape": "node scraping",
     "scrape:fighter": "node scraping/services/getOneFighter.js",
     "scrape:rankings": "node scraping/services/getOnlyRankings.js",
