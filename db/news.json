@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "josiane-nunes",
-    "fighterName": "Josiane Nunes",
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2023-05-11T04:14:47.782Z"
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2023-08-03T04:14:45.125Z"
   },
   {
-    "fighter": "chelsea-chandler",
-    "fighterName": "Chelsea Chandler",
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2023-05-11T04:14:47.782Z"
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2023-08-03T04:14:45.125Z"
   },
   {
-    "fighter": "angela-hill",
-    "fighterName": "Angela Hill",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2023-05-11T04:14:47.782Z"
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2023-08-03T04:14:45.125Z"
   },
   {
-    "fighter": "luana-pinheiro",
-    "fighterName": "Luana Pinheiro",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2023-05-11T04:14:47.782Z"
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2023-08-03T04:14:45.125Z"
   },
   {
-    "fighter": "sergey-spivak-0",
-    "fighterName": "Serghei Spivac",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
+    "fighter": "yana-kunitskaya",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 7,
     "previousPosition": "unranked",
-    "date": "2023-05-11T04:14:47.782Z"
+    "date": "2023-08-03T04:14:45.125Z"
   },
   {
-    "fighter": "andre-muniz",
-    "fighterName": "Andre Muniz",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "taila-santos",
+    "fighterName": "Taila Santos",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 3,
+    "previousPosition": 2,
+    "date": "2023-08-03T04:14:45.125Z"
+  },
+  {
+    "fighter": "erin-blanchfield",
+    "fighterName": "Erin Blanchfield",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 2,
+    "previousPosition": 3,
+    "date": "2023-08-03T04:14:45.125Z"
+  },
+  {
+    "fighter": "kennedy-nzechukwu",
+    "fighterName": "Kennedy Nzechukwu",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 15,
+    "previousPosition": "unranked",
+    "date": "2023-08-03T04:14:45.125Z"
+  },
+  {
+    "fighter": "alonzo-menifield",
+    "fighterName": "Alonzo Menifield",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
     "currentPosition": 14,
     "previousPosition": 13,
-    "date": "2023-05-11T04:14:47.782Z"
+    "date": "2023-08-03T04:14:45.125Z"
   },
   {
-    "fighter": "chris-curtis",
-    "fighterName": "Chris Curtis",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "dustin-jacoby",
+    "fighterName": "Dustin Jacoby",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
     "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "chan-sung-jung",
-    "fighterName": "Chan Sung Jung",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "calvin-kattar",
-    "fighterName": "Calvin Kattar",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2023-05-11T04:14:47.782Z"
-  },
-  {
-    "fighter": "dominick-cruz",
-    "fighterName": "Dominick Cruz",
-    "categoryId": "bantamweight",
-    "categoryName": "Bantamweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2023-05-11T04:14:47.782Z"
+    "date": "2023-08-03T04:14:45.125Z"
   }
 ]
