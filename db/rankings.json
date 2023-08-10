@@ -3,17 +3,17 @@
     "id": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "alexander-volkanovski",
-      "championName": "Alexander Volkanovski"
+      "id": "jon-jones",
+      "championName": "Jon Jones"
     },
     "fighters": [
       {
-        "id": "alexander-volkanovski",
-        "name": "Alexander Volkanovski"
-      },
-      {
         "id": "jon-jones",
         "name": "Jon Jones"
+      },
+      {
+        "id": "alexander-volkanovski",
+        "name": "Alexander Volkanovski"
       },
       {
         "id": "islam-makhachev",
@@ -44,12 +44,12 @@
         "name": "Alexandre Pantoja"
       },
       {
-        "id": "jiri-prochazka",
-        "name": "Jiří Procházka"
-      },
-      {
         "id": "alex-pereira",
         "name": "Alex Pereira"
+      },
+      {
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
       },
       {
         "id": "max-holloway",
@@ -110,12 +110,12 @@
         "name": "Matt Schnell"
       },
       {
-        "id": "manel-kape",
-        "name": "Manel Kape"
-      },
-      {
         "id": "tim-elliott",
         "name": "Tim Elliott"
+      },
+      {
+        "id": "manel-kape",
+        "name": "Manel Kape"
       },
       {
         "id": "muhammad-mokaev",
@@ -134,8 +134,8 @@
         "name": "Steve Erceg"
       },
       {
-        "id": "david-dvorak",
-        "name": "David Dvorak"
+        "id": "cody-durden",
+        "name": "Cody Durden"
       }
     ]
   },
@@ -258,12 +258,12 @@
         "name": "Movsar Evloev"
       },
       {
-        "id": "sodiq-yusuff",
-        "name": "Sodiq Yusuff"
-      },
-      {
         "id": "bryce-mitchell",
         "name": "Bryce Mitchell"
+      },
+      {
+        "id": "sodiq-yusuff",
+        "name": "Sodiq Yusuff"
       },
       {
         "id": "dan-ige",
@@ -658,20 +658,20 @@
         "name": "Julianna Peña"
       },
       {
-        "id": "carla-esparza",
-        "name": "Carla Esparza"
-      },
-      {
         "id": "erin-blanchfield",
         "name": "Erin Blanchfield"
       },
       {
-        "id": "jessica-andrade",
-        "name": "Jessica Andrade"
+        "id": "carla-esparza",
+        "name": "Carla Esparza"
       },
       {
         "id": "xiaonan-yan",
         "name": "Yan Xiaonan"
+      },
+      {
+        "id": "tatiana-suarez",
+        "name": "Tatiana Suarez"
       },
       {
         "id": "manon-fiorot",
@@ -682,20 +682,20 @@
         "name": "Taila Santos"
       },
       {
-        "id": "amanda-lemos",
-        "name": "Amanda Lemos"
+        "id": "jessica-andrade",
+        "name": "Jessica Andrade"
       },
       {
         "id": "raquel-pennington",
         "name": "Raquel Pennington"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
+        "id": "amanda-lemos",
+        "name": "Amanda Lemos"
       },
       {
-        "id": "tatiana-suarez",
-        "name": "Tatiana Suarez"
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
       }
     ]
   },
@@ -720,6 +720,10 @@
         "name": "Yan Xiaonan"
       },
       {
+        "id": "tatiana-suarez",
+        "name": "Tatiana Suarez"
+      },
+      {
         "id": "amanda-lemos",
         "name": "Amanda Lemos"
       },
@@ -742,10 +746,6 @@
       {
         "id": "tecia-torres",
         "name": "Tecia Torres"
-      },
-      {
-        "id": "tatiana-suarez",
-        "name": "Tatiana Suarez"
       },
       {
         "id": "amanda-ribas",
@@ -794,12 +794,12 @@
         "name": "Taila Santos"
       },
       {
-        "id": "jessica-andrade",
-        "name": "Jessica Andrade"
-      },
-      {
         "id": "katlyn-chookagian",
         "name": "Katlyn Chookagian"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jessica Andrade"
       },
       {
         "id": "lauren-murphy",
@@ -880,12 +880,12 @@
         "name": "Yana Santos"
       },
       {
-        "id": "macy-chiasson",
-        "name": "Macy Chiasson"
-      },
-      {
         "id": "karol-rosa",
         "name": "Karol Rosa"
+      },
+      {
+        "id": "macy-chiasson",
+        "name": "Macy Chiasson"
       },
       {
         "id": "norma-dumont",
