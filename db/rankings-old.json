@@ -3,17 +3,17 @@
     "id": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "jon-jones",
-      "championName": "Jon Jones"
+      "id": "alexander-volkanovski",
+      "championName": "Alexander Volkanovski"
     },
     "fighters": [
       {
-        "id": "jon-jones",
-        "name": "Jon Jones"
-      },
-      {
         "id": "alexander-volkanovski",
         "name": "Alexander Volkanovski"
+      },
+      {
+        "id": "jon-jones",
+        "name": "Jon Jones"
       },
       {
         "id": "islam-makhachev",
@@ -44,12 +44,12 @@
         "name": "Alexandre Pantoja"
       },
       {
-        "id": "alex-pereira",
-        "name": "Alex Pereira"
-      },
-      {
         "id": "jiri-prochazka",
         "name": "Jiří Procházka"
+      },
+      {
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
       },
       {
         "id": "max-holloway",
@@ -320,12 +320,12 @@
         "name": "Arman Tsarukyan"
       },
       {
-        "id": "rafael-dos-anjos",
-        "name": "Rafael Dos Anjos"
-      },
-      {
         "id": "dan-hooker",
         "name": "Dan Hooker"
+      },
+      {
+        "id": "rafael-dos-anjos",
+        "name": "Rafael Dos Anjos"
       },
       {
         "id": "grant-dawson",
@@ -518,12 +518,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
-      },
-      {
         "id": "johnny-walker",
         "name": "Johnny Walker"
+      },
+      {
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
       },
       {
         "id": "anthony-smith",
@@ -538,16 +538,16 @@
         "name": "Ryan Spann"
       },
       {
+        "id": "khalil-rountree-jr",
+        "name": "Khalil Rountree Jr."
+      },
+      {
         "id": "azamat-murzakanov",
         "name": "Azamat Murzakanov"
       },
       {
         "id": "dominick-reyes",
         "name": "Dominick Reyes"
-      },
-      {
-        "id": "khalil-rountree-jr",
-        "name": "Khalil Rountree Jr."
       },
       {
         "id": "alonzo-menifield",
@@ -666,12 +666,12 @@
         "name": "Carla Esparza"
       },
       {
-        "id": "xiaonan-yan",
-        "name": "Yan Xiaonan"
-      },
-      {
         "id": "tatiana-suarez",
         "name": "Tatiana Suarez"
+      },
+      {
+        "id": "xiaonan-yan",
+        "name": "Yan Xiaonan"
       },
       {
         "id": "manon-fiorot",
@@ -876,7 +876,7 @@
         "name": "Pannie Kianzad"
       },
       {
-        "id": "yana-santos",
+        "id": "yana-kunitskaya",
         "name": "Yana Santos"
       },
       {

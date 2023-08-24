@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "katlyn-chookagian",
-    "fighterName": "Katlyn Chookagian",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2023-08-10T10:12:56.614Z"
+    "fighter": "yana-kunitskaya",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 7,
+    "previousPosition": "unranked",
+    "date": "2023-08-24T04:14:18.036Z"
   },
   {
-    "fighter": "tecia-torres",
-    "fighterName": "Tecia Torres",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2023-08-10T10:12:56.614Z"
-  },
-  {
-    "fighter": "marina-rodriguez",
-    "fighterName": "Marina Rodriguez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
+    "fighter": "xiaonan-yan",
+    "fighterName": "Yan Xiaonan",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
     "currentPosition": 8,
     "previousPosition": 7,
-    "date": "2023-08-10T10:12:56.614Z"
-  },
-  {
-    "fighter": "mackenzie-dern",
-    "fighterName": "Mackenzie Dern",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2023-08-10T10:12:56.614Z"
-  },
-  {
-    "fighter": "virna-jandiroba",
-    "fighterName": "Virna Jandiroba",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2023-08-10T10:12:56.614Z"
-  },
-  {
-    "fighter": "jessica-andrade",
-    "fighterName": "Jessica Andrade",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2023-08-10T10:12:56.614Z"
-  },
-  {
-    "fighter": "amanda-lemos",
-    "fighterName": "Amanda Lemos",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 4,
-    "previousPosition": 3,
-    "date": "2023-08-10T10:12:56.614Z"
+    "date": "2023-08-24T04:14:18.036Z"
   },
   {
     "fighter": "tatiana-suarez",
     "fighterName": "Tatiana Suarez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 3,
-    "previousPosition": 9,
-    "date": "2023-08-10T10:12:56.614Z"
-  },
-  {
-    "fighter": "mayra-bueno-silva",
-    "fighterName": "Mayra Bueno Silva",
     "categoryId": "womens-pound-for-pound-top-rank",
     "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2023-08-10T10:12:56.614Z"
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2023-08-24T04:14:18.036Z"
   },
   {
-    "fighter": "amanda-lemos",
-    "fighterName": "Amanda Lemos",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 13,
+    "fighter": "dominick-reyes",
+    "fighterName": "Dominick Reyes",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 12,
     "previousPosition": 11,
-    "date": "2023-08-10T10:12:56.614Z"
+    "date": "2023-08-24T04:14:18.036Z"
+  },
+  {
+    "fighter": "azamat-murzakanov",
+    "fighterName": "Azamat Murzakanov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2023-08-24T04:14:18.036Z"
+  },
+  {
+    "fighter": "khalil-rountree-jr",
+    "fighterName": "Khalil Rountree Jr.",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 10,
+    "previousPosition": 12,
+    "date": "2023-08-24T04:14:18.036Z"
+  },
+  {
+    "fighter": "nikita-krylov",
+    "fighterName": "Nikita Krylov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-08-24T04:14:18.036Z"
+  },
+  {
+    "fighter": "johnny-walker",
+    "fighterName": "Johnny Walker",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-08-24T04:14:18.036Z"
+  },
+  {
+    "fighter": "rafael-dos-anjos",
+    "fighterName": "Rafael Dos Anjos",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2023-08-24T04:14:18.036Z"
+  },
+  {
+    "fighter": "dan-hooker",
+    "fighterName": "Dan Hooker",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2023-08-24T04:14:18.036Z"
   }
 ]
