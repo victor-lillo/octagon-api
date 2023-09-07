@@ -118,7 +118,7 @@
         "name": "Manel Kape"
       },
       {
-        "id": "liana-dzhodzhua-0",
+        "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
       },
       {
@@ -254,10 +254,6 @@
         "name": "Movsar Evloev"
       },
       {
-        "id": "chan-sung-jung",
-        "name": "Chan Sung Jung"
-      },
-      {
         "id": "bryce-mitchell",
         "name": "Bryce Mitchell"
       },
@@ -276,6 +272,10 @@
       {
         "id": "alex-caceres",
         "name": "Alex Caceres"
+      },
+      {
+        "id": "lerone-murphy",
+        "name": "Lerone Murphy"
       }
     ]
   },
@@ -410,7 +410,7 @@
         "name": "Kevin Holland"
       },
       {
-        "id": "sara-elpar-0",
+        "id": "jack-della-maddalena",
         "name": "Jack Della Maddalena"
       },
       {
@@ -568,12 +568,12 @@
     },
     "fighters": [
       {
-        "id": "sergei-pavlovich",
-        "name": "Sergei Pavlovich"
-      },
-      {
         "id": "ciryl-gane",
         "name": "Ciryl Gane"
+      },
+      {
+        "id": "sergei-pavlovich",
+        "name": "Sergei Pavlovich"
       },
       {
         "id": "stipe-miocic",
@@ -592,12 +592,12 @@
         "name": "Tai Tuivasa"
       },
       {
-        "id": "serghei-spivac",
-        "name": "Serghei Spivac"
-      },
-      {
         "id": "alexander-volkov",
         "name": "Alexander Volkov"
+      },
+      {
+        "id": "serghei-spivac",
+        "name": "Serghei Spivac"
       },
       {
         "id": "jailton-almeida",
@@ -650,10 +650,6 @@
         "name": "Valentina Shevchenko"
       },
       {
-        "id": "rose-namajunas",
-        "name": "Rose Namajunas"
-      },
-      {
         "id": "julianna-pena",
         "name": "Julianna Peña"
       },
@@ -662,20 +658,24 @@
         "name": "Erin Blanchfield"
       },
       {
+        "id": "manon-fiorot",
+        "name": "Manon Fiorot"
+      },
+      {
         "id": "carla-esparza",
         "name": "Carla Esparza"
       },
       {
-        "id": "tatiana-suarez",
-        "name": "Tatiana Suarez"
+        "id": "rose-namajunas",
+        "name": "Rose Namajunas"
       },
       {
         "id": "xiaonan-yan",
         "name": "Yan Xiaonan"
       },
       {
-        "id": "manon-fiorot",
-        "name": "Manon Fiorot"
+        "id": "tatiana-suarez",
+        "name": "Tatiana Suarez"
       },
       {
         "id": "taila-santos",
@@ -880,12 +880,12 @@
         "name": "Yana Santos"
       },
       {
-        "id": "karol-rosa",
-        "name": "Karol Rosa"
-      },
-      {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
+      },
+      {
+        "id": "karol-rosa",
+        "name": "Karol Rosa"
       },
       {
         "id": "norma-dumont",

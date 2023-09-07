@@ -40,12 +40,16 @@
         "name": "Sean O'Malley"
       },
       {
+        "id": "alexandre-pantoja",
+        "name": "Alexandre Pantoja"
+      },
+      {
         "id": "aljamain-sterling",
         "name": "Aljamain Sterling"
       },
       {
-        "id": "alexandre-pantoja",
-        "name": "Alexandre Pantoja"
+        "id": "max-holloway",
+        "name": "Max Holloway"
       },
       {
         "id": "alex-pereira",
@@ -54,10 +58,6 @@
       {
         "id": "jiri-prochazka",
         "name": "Jiří Procházka"
-      },
-      {
-        "id": "max-holloway",
-        "name": "Max Holloway"
       },
       {
         "id": "justin-gaethje",
@@ -118,7 +118,7 @@
         "name": "Manel Kape"
       },
       {
-        "id": "muhammad-mokaev",
+        "id": "liana-dzhodzhua-0",
         "name": "Muhammad Mokaev"
       },
       {
@@ -246,16 +246,16 @@
         "name": "Calvin Kattar"
       },
       {
-        "id": "chan-sung-jung",
-        "name": "Chan Sung Jung"
-      },
-      {
         "id": "giga-chikadze",
         "name": "Giga Chikadze"
       },
       {
         "id": "movsar-evloev",
         "name": "Movsar Evloev"
+      },
+      {
+        "id": "chan-sung-jung",
+        "name": "Chan Sung Jung"
       },
       {
         "id": "bryce-mitchell",
@@ -410,7 +410,7 @@
         "name": "Kevin Holland"
       },
       {
-        "id": "jack-della-maddalena",
+        "id": "sara-elpar-0",
         "name": "Jack Della Maddalena"
       },
       {
@@ -658,12 +658,12 @@
         "name": "Julianna Peña"
       },
       {
-        "id": "carla-esparza",
-        "name": "Carla Esparza"
-      },
-      {
         "id": "erin-blanchfield",
         "name": "Erin Blanchfield"
+      },
+      {
+        "id": "carla-esparza",
+        "name": "Carla Esparza"
       },
       {
         "id": "tatiana-suarez",
@@ -782,12 +782,12 @@
         "name": "Valentina Shevchenko"
       },
       {
-        "id": "manon-fiorot",
-        "name": "Manon Fiorot"
-      },
-      {
         "id": "erin-blanchfield",
         "name": "Erin Blanchfield"
+      },
+      {
+        "id": "manon-fiorot",
+        "name": "Manon Fiorot"
       },
       {
         "id": "taila-santos",
@@ -864,12 +864,12 @@
         "name": "Ketlen Vieira"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "holly-holm",
         "name": "Holly Holm"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "pannie-kianzad",
