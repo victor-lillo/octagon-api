@@ -24,10 +24,6 @@
         "name": "Leon Edwards"
       },
       {
-        "id": "israel-adesanya",
-        "name": "Israel Adesanya"
-      },
-      {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
       },
@@ -40,12 +36,16 @@
         "name": "Sean O'Malley"
       },
       {
-        "id": "alexandre-pantoja",
-        "name": "Alexandre Pantoja"
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
       },
       {
-        "id": "aljamain-sterling",
-        "name": "Aljamain Sterling"
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya"
+      },
+      {
+        "id": "alexandre-pantoja",
+        "name": "Alexandre Pantoja"
       },
       {
         "id": "max-holloway",
@@ -56,12 +56,12 @@
         "name": "Alex Pereira"
       },
       {
-        "id": "jiri-prochazka",
-        "name": "Jiří Procházka"
+        "id": "aljamain-sterling",
+        "name": "Aljamain Sterling"
       },
       {
-        "id": "justin-gaethje",
-        "name": "Justin Gaethje"
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
       },
       {
         "id": "jamahal-hill",
@@ -106,16 +106,16 @@
         "name": "Alex Perez"
       },
       {
+        "id": "manel-kape",
+        "name": "Manel Kape"
+      },
+      {
         "id": "matt-schnell",
         "name": "Matt Schnell"
       },
       {
         "id": "tim-elliott",
         "name": "Tim Elliott"
-      },
-      {
-        "id": "manel-kape",
-        "name": "Manel Kape"
       },
       {
         "id": "muhammad-mokaev",
@@ -134,8 +134,8 @@
         "name": "Steve Erceg"
       },
       {
-        "id": "cody-durden",
-        "name": "Cody Durden"
+        "id": "david-dvorak",
+        "name": "David Dvorak"
       }
     ]
   },
@@ -423,10 +423,14 @@
     "id": "middleweight",
     "categoryName": "Middleweight",
     "champion": {
-      "id": "israel-adesanya",
-      "championName": "Israel Adesanya"
+      "id": "sean-strickland",
+      "championName": "Sean Strickland"
     },
     "fighters": [
+      {
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya"
+      },
       {
         "id": "dricus-du-plessis",
         "name": "Dricus Du Plessis"
@@ -444,20 +448,16 @@
         "name": "Marvin Vettori"
       },
       {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
-      },
-      {
         "id": "paulo-costa",
         "name": "Paulo Costa"
       },
       {
-        "id": "derek-brunson",
-        "name": "Derek Brunson"
-      },
-      {
         "id": "roman-dolidze",
         "name": "Roman Dolidze"
+      },
+      {
+        "id": "derek-brunson",
+        "name": "Derek Brunson"
       },
       {
         "id": "jack-hermansson",
@@ -518,12 +518,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
-      },
-      {
         "id": "johnny-walker",
         "name": "Johnny Walker"
+      },
+      {
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
       },
       {
         "id": "anthony-smith",
@@ -588,16 +588,16 @@
         "name": "Curtis Blaydes"
       },
       {
-        "id": "tai-tuivasa",
-        "name": "Tai Tuivasa"
-      },
-      {
         "id": "alexander-volkov",
         "name": "Alexander Volkov"
       },
       {
         "id": "serghei-spivac",
         "name": "Serghei Spivac"
+      },
+      {
+        "id": "tai-tuivasa",
+        "name": "Tai Tuivasa"
       },
       {
         "id": "jailton-almeida",
@@ -864,12 +864,12 @@
         "name": "Ketlen Vieira"
       },
       {
-        "id": "holly-holm",
-        "name": "Holly Holm"
-      },
-      {
         "id": "irene-aldana",
         "name": "Irene Aldana"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
       },
       {
         "id": "pannie-kianzad",
@@ -880,12 +880,12 @@
         "name": "Yana Santos"
       },
       {
-        "id": "macy-chiasson",
-        "name": "Macy Chiasson"
-      },
-      {
         "id": "karol-rosa",
         "name": "Karol Rosa"
+      },
+      {
+        "id": "macy-chiasson",
+        "name": "Macy Chiasson"
       },
       {
         "id": "norma-dumont",
