@@ -171,7 +171,30 @@
 
     .navbar__anchor {
       display: initial;
+      position: relative;
       font-size: 1.4rem;
+    }
+
+    .navbar__anchor::after {
+      content: '';
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: -2px;
+      margin-left: auto;
+      margin-right: auto;
+      z-index: -1;
+      height: 1px;
+      border-radius: 2px;
+      background-color: currentColor;
+      transform: scaleX(0);
+      transform-origin: bottom right;
+      transition: transform 0.35s ease-out;
+    }
+
+    .navbar__anchor:hover::after {
+      transform: scaleX(1);
+      transform-origin: bottom left;
     }
 
     .hamburger {
