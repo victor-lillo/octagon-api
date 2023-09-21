@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "karol-rosa",
-    "fighterName": "Karol Rosa",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2023-09-14T04:14:42.195Z"
-  },
-  {
     "fighter": "macy-chiasson",
     "fighterName": "Macy Chiasson",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2023-09-21T04:15:11.665Z"
+  },
+  {
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 8,
     "previousPosition": 9,
-    "date": "2023-09-14T04:14:42.195Z"
+    "date": "2023-09-21T04:15:11.665Z"
   },
   {
-    "fighter": "tatiana-suarez",
-    "fighterName": "Tatiana Suarez",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 9,
-    "previousPosition": 7,
-    "date": "2023-09-14T04:14:42.195Z"
-  },
-  {
-    "fighter": "rose-namajunas",
-    "fighterName": "Rose Namajunas",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 7,
-    "previousPosition": 3,
-    "date": "2023-09-14T04:14:42.195Z"
-  },
-  {
-    "fighter": "manon-fiorot",
-    "fighterName": "Manon Fiorot",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "fighter": "holly-holm",
+    "fighterName": "Holly Holm",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
-    "previousPosition": 9,
-    "date": "2023-09-14T04:14:42.195Z"
+    "previousPosition": 4,
+    "date": "2023-09-21T04:15:11.665Z"
   },
   {
-    "fighter": "erin-blanchfield",
-    "fighterName": "Erin Blanchfield",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 4,
     "previousPosition": 5,
-    "date": "2023-09-14T04:14:42.195Z"
+    "date": "2023-09-21T04:15:11.665Z"
   },
   {
-    "fighter": "julianna-pena",
-    "fighterName": "Julianna Peña",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 3,
-    "previousPosition": 4,
-    "date": "2023-09-14T04:14:42.195Z"
+    "fighter": "tai-tuivasa",
+    "fighterName": "Tai Tuivasa",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": 5,
+    "date": "2023-09-21T04:15:11.665Z"
   },
   {
     "fighter": "serghei-spivac",
     "fighterName": "Serghei Spivac",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2023-09-14T04:14:42.195Z"
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2023-09-21T04:15:11.665Z"
   },
   {
     "fighter": "alexander-volkov",
     "fighterName": "Alexander Volkov",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
-    "currentPosition": 6,
-    "previousPosition": 7,
-    "date": "2023-09-14T04:14:42.195Z"
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-09-21T04:15:11.665Z"
   },
   {
-    "fighter": "sergei-pavlovich",
-    "fighterName": "Sergei Pavlovich",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 1,
-    "previousPosition": 0,
-    "date": "2023-09-14T04:14:42.195Z"
+    "fighter": "nikita-krylov",
+    "fighterName": "Nikita Krylov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-09-21T04:15:11.665Z"
+  },
+  {
+    "fighter": "johnny-walker",
+    "fighterName": "Johnny Walker",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-09-21T04:15:11.665Z"
+  },
+  {
+    "fighter": "derek-brunson",
+    "fighterName": "Derek Brunson",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2023-09-21T04:15:11.665Z"
   }
 ]
