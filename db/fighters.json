@@ -484,7 +484,7 @@
     "age": "27",
     "height": "68.00",
     "weight": "125.80",
-    "octagonDebut": "Sep. 27, 2023",
+    "octagonDebut": "Oct. 04, 2023",
     "reach": "72.00",
     "legReach": "38.50"
   },
@@ -3788,13 +3788,13 @@
     "losses": "2",
     "name": "Jack Della Maddalena",
     "nickname": "",
-    "wins": "14",
+    "wins": "15",
     "status": "Active",
     "placeOfBirth": "Australia",
     "fightingStyle": "MMA",
-    "age": "26",
+    "age": "27",
     "height": "71.00",
-    "weight": "171.00",
+    "weight": "187.40",
     "octagonDebut": "Jan. 22, 2022",
     "reach": "73.00",
     "legReach": "40.50"
@@ -3977,7 +3977,7 @@
     "wins": "16",
     "status": "Active",
     "placeOfBirth": "Lodz, Poland",
-    "trainsAt": "Gracie Barra Lodz",
+    "trainsAt": "American Top Team",
     "fightingStyle": "MMA",
     "age": "37",
     "height": "63.00",
@@ -4004,5 +4004,23 @@
     "octagonDebut": "Jun. 04, 2022",
     "reach": "67.00",
     "legReach": "37.00"
+  },
+  "martin-buday": {
+    "category": "Heavyweight Division",
+    "draws": "0",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-04/BUDAY_MARTIN_L.png?itok=Ewdmlx7r",
+    "losses": "1",
+    "name": "Martin Buday",
+    "nickname": "Badys",
+    "wins": "13",
+    "status": "Active",
+    "placeOfBirth": "Nitra, Slovakia",
+    "fightingStyle": "Jiu-Jitsu",
+    "age": "31",
+    "height": "76.00",
+    "weight": "265.00",
+    "octagonDebut": "Apr. 16, 2022",
+    "reach": "77.00",
+    "legReach": "43.00"
   }
 }

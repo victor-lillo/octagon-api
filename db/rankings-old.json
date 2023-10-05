@@ -28,12 +28,12 @@
         "name": "Charles Oliveira"
       },
       {
-        "id": "kamaru-usman",
-        "name": "Kamaru Usman"
-      },
-      {
         "id": "sean-omalley",
         "name": "Sean O'Malley"
+      },
+      {
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
       },
       {
         "id": "sean-strickland",
@@ -172,12 +172,12 @@
         "name": "Marlon Vera"
       },
       {
-        "id": "yadong-song",
-        "name": "Song Yadong"
-      },
-      {
         "id": "rob-font",
         "name": "Rob Font"
+      },
+      {
+        "id": "yadong-song",
+        "name": "Song Yadong"
       },
       {
         "id": "dominick-cruz",
@@ -308,12 +308,12 @@
         "name": "Michael Chandler"
       },
       {
-        "id": "rafael-fiziev",
-        "name": "Rafael Fiziev"
-      },
-      {
         "id": "mateusz-gamrot",
         "name": "Mateusz Gamrot"
+      },
+      {
+        "id": "rafael-fiziev",
+        "name": "Rafael Fiziev"
       },
       {
         "id": "arman-tsarukyan",
@@ -744,16 +744,12 @@
         "name": "Luana Pinheiro"
       },
       {
-        "id": "amanda-ribas",
-        "name": "Amanda Ribas"
-      },
-      {
         "id": "tabatha-ricci",
         "name": "Tabatha Ricci"
       },
       {
-        "id": "michelle-waterson",
-        "name": "Michelle Waterson-Gomez"
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
       },
       {
         "id": "angela-hill",
@@ -762,6 +758,10 @@
       {
         "id": "loopy-godinez",
         "name": "Loopy Godinez"
+      },
+      {
+        "id": "michelle-waterson",
+        "name": "Michelle Waterson-Gomez"
       },
       {
         "id": "karolina-kowalkiewicz",
@@ -880,12 +880,12 @@
         "name": "Yana Santos"
       },
       {
-        "id": "karol-rosa",
-        "name": "Karol Rosa"
-      },
-      {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
+      },
+      {
+        "id": "karol-rosa",
+        "name": "Karol Rosa"
       },
       {
         "id": "norma-dumont",

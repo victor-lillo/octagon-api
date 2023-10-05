@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "yana-kunitskaya",
-    "fighterName": "Yana Santos",
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 7,
-    "previousPosition": "unranked",
-    "date": "2023-09-28T04:14:52.440Z"
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2023-10-05T04:14:57.756Z"
   },
   {
-    "fighter": "trevin-dzhayls-0",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-09-28T04:14:52.440Z"
-  },
-  {
-    "fighter": "casey-oneill",
-    "fighterName": "Casey O'Neill",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 13,
-    "previousPosition": 11,
-    "date": "2023-09-28T04:14:52.440Z"
-  },
-  {
-    "fighter": "tracy-cortez",
-    "fighterName": "Tracy Cortez",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
-    "previousPosition": 13,
-    "date": "2023-09-28T04:14:52.440Z"
-  },
-  {
-    "fighter": "viviane-araujo",
-    "fighterName": "Viviane Araújo",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 10,
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 8,
     "previousPosition": 9,
-    "date": "2023-09-28T04:14:52.440Z"
-  },
-  {
-    "fighter": "karolina-kowalkiewicz",
-    "fighterName": "Karolina Kowalkiewicz",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-09-28T04:14:52.440Z"
-  },
-  {
-    "fighter": "loopy-godinez",
-    "fighterName": "Loopy Godinez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2023-09-28T04:14:52.440Z"
-  },
-  {
-    "fighter": "angela-hill",
-    "fighterName": "Angela Hill",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 14,
-    "date": "2023-09-28T04:14:52.440Z"
+    "date": "2023-10-05T04:14:57.756Z"
   },
   {
     "fighter": "michelle-waterson",
     "fighterName": "Michelle Waterson-Gomez",
     "categoryId": "womens-strawweight",
     "categoryName": "Women's Strawweight",
+    "currentPosition": 13,
+    "previousPosition": 11,
+    "date": "2023-10-05T04:14:57.756Z"
+  },
+  {
+    "fighter": "loopy-godinez",
+    "fighterName": "Loopy Godinez",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2023-10-05T04:14:57.756Z"
+  },
+  {
+    "fighter": "angela-hill",
+    "fighterName": "Angela Hill",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 11,
     "previousPosition": 12,
-    "date": "2023-09-28T04:14:52.440Z"
+    "date": "2023-10-05T04:14:57.756Z"
+  },
+  {
+    "fighter": "amanda-ribas",
+    "fighterName": "Amanda Ribas",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2023-10-05T04:14:57.756Z"
   },
   {
     "fighter": "tabatha-ricci",
     "fighterName": "Tabatha Ricci",
     "categoryId": "womens-strawweight",
     "categoryName": "Women's Strawweight",
-    "currentPosition": 10,
-    "previousPosition": 13,
-    "date": "2023-09-28T04:14:52.440Z"
+    "currentPosition": 9,
+    "previousPosition": 10,
+    "date": "2023-10-05T04:14:57.756Z"
+  },
+  {
+    "fighter": "rafael-fiziev",
+    "fighterName": "Rafael Fiziev",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-10-05T04:14:57.756Z"
+  },
+  {
+    "fighter": "mateusz-gamrot",
+    "fighterName": "Mateusz Gamrot",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-10-05T04:14:57.756Z"
+  },
+  {
+    "fighter": "yadong-song",
+    "fighterName": "Song Yadong",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2023-10-05T04:14:57.756Z"
   }
 ]
