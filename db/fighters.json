@@ -484,7 +484,7 @@
     "age": "27",
     "height": "68.00",
     "weight": "125.80",
-    "octagonDebut": "Oct. 04, 2023",
+    "octagonDebut": "Oct. 11, 2023",
     "reach": "72.00",
     "legReach": "38.50"
   },
@@ -1297,7 +1297,7 @@
     "category": "Lightweight Division",
     "draws": "1",
     "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-11/DAWSON_GRANT_L_11-05.png?itok=Woy6T3r9",
-    "losses": "1",
+    "losses": "2",
     "name": "Grant Dawson",
     "nickname": "KGD",
     "wins": "20",
@@ -3974,7 +3974,7 @@
     "losses": "7",
     "name": "Karolina Kowalkiewicz",
     "nickname": "",
-    "wins": "16",
+    "wins": "17",
     "status": "Active",
     "placeOfBirth": "Lodz, Poland",
     "trainsAt": "American Top Team",
@@ -4022,5 +4022,24 @@
     "octagonDebut": "Apr. 16, 2022",
     "reach": "77.00",
     "legReach": "43.00"
+  },
+  "bobby-green": {
+    "category": "Lightweight Division",
+    "draws": "1",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-04/GREEN_BOBBY_L_04-22.png?itok=v2Q_sfOH",
+    "losses": "14",
+    "name": "Bobby Green",
+    "nickname": "King",
+    "wins": "31",
+    "status": "Active",
+    "placeOfBirth": "Fontana, United States",
+    "trainsAt": "Team Green",
+    "fightingStyle": "MMA",
+    "age": "37",
+    "height": "70.00",
+    "weight": "155.50",
+    "octagonDebut": "May. 20, 2012",
+    "reach": "71.00",
+    "legReach": "40.00"
   }
 }
