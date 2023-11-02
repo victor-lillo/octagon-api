@@ -484,7 +484,7 @@
     "age": "27",
     "height": "68.00",
     "weight": "125.80",
-    "octagonDebut": "Oct. 25, 2023",
+    "octagonDebut": "Nov. 01, 2023",
     "reach": "72.00",
     "legReach": "38.50"
   },
@@ -3118,7 +3118,7 @@
     "legReach": "36.00"
   },
   "miesha-tate": {
-    "category": "Women's Flyweight Division",
+    "category": "Women's Bantamweight Division",
     "draws": "0",
     "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-07/TATE_MIESHA_L_07-17.png?itok=l3ajmGkB",
     "losses": "9",
@@ -3131,7 +3131,7 @@
     "fightingStyle": "Grappler",
     "age": "36",
     "height": "66.00",
-    "weight": "125.80",
+    "weight": "135.00",
     "octagonDebut": "Aug. 19, 2012",
     "reach": "65.00",
     "legReach": "37.50"
@@ -3382,9 +3382,9 @@
     "nickname": "Malhadinho",
     "wins": "19",
     "status": "Active",
-    "placeOfBirth": "Brazil",
+    "placeOfBirth": "Salvador, Brazil",
     "fightingStyle": "Boxing",
-    "age": "31",
+    "age": "32",
     "height": "75.00",
     "weight": "231.00",
     "octagonDebut": "Nov. 13, 2021",

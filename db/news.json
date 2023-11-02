@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2023-10-26T04:14:56.997Z"
-  },
-  {
-    "fighter": "karol-rosa",
-    "fighterName": "Karol Rosa",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 8,
-    "previousPosition": 9,
-    "date": "2023-10-26T04:14:56.997Z"
-  },
-  {
-    "fighter": "yana-santos",
-    "fighterName": "Yana Santos",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 7,
+    "fighter": "andrea-lee",
+    "fighterName": "Andrea Lee",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 14,
     "previousPosition": "unranked",
-    "date": "2023-10-26T04:14:56.997Z"
+    "date": "2023-11-02T04:15:15.419Z"
   },
   {
     "fighter": "karine-silva",
     "fighterName": "Karine Silva",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-10-26T04:14:56.997Z"
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2023-11-02T04:15:15.419Z"
   },
   {
-    "fighter": "jennifer-maia",
-    "fighterName": "Jennifer Maia",
+    "fighter": "casey-oneill",
+    "fighterName": "Casey O'Neill",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2023-11-02T04:15:15.419Z"
+  },
+  {
+    "fighter": "natalia-silva",
+    "fighterName": "Natalia Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2023-11-02T04:15:15.419Z"
+  },
+  {
+    "fighter": "tracy-cortez",
+    "fighterName": "Tracy Cortez",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
     "currentPosition": 10,
-    "previousPosition": 8,
-    "date": "2023-10-26T04:14:56.997Z"
+    "previousPosition": 11,
+    "date": "2023-11-02T04:15:15.419Z"
   },
   {
-    "fighter": "viviane-araujo",
-    "fighterName": "Viviane Araújo",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 8,
-    "previousPosition": 10,
-    "date": "2023-10-26T04:14:56.997Z"
+    "fighter": "chris-curtis",
+    "fighterName": "Chris Curtis",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2023-11-02T04:15:15.419Z"
   },
   {
-    "fighter": "martin-buday",
-    "fighterName": "Martin Buday",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2023-10-26T04:14:56.997Z"
+    "fighter": "paul-craig",
+    "fighterName": "Paul Craig",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2023-11-02T04:15:15.419Z"
   },
   {
-    "fighter": "jailton-almeida",
-    "fighterName": "Jailton Almeida",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 8,
-    "previousPosition": "unranked",
-    "date": "2023-10-26T04:14:56.997Z"
-  },
-  {
-    "fighter": "serghei-spivac",
-    "fighterName": "Serghei Spivac",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 6,
-    "previousPosition": "unranked",
-    "date": "2023-10-26T04:14:56.997Z"
-  },
-  {
-    "fighter": "jack-della-maddalena",
-    "fighterName": "Jack Della Maddalena",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "nassourdine-imavov",
+    "fighterName": "Nassourdine Imavov",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
     "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2023-10-26T04:14:56.997Z"
+    "previousPosition": 10,
+    "date": "2023-11-02T04:15:15.419Z"
+  },
+  {
+    "fighter": "kelvin-gastelum",
+    "fighterName": "Kelvin Gastelum",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2023-11-02T04:15:15.419Z"
+  },
+  {
+    "fighter": "brendan-allen",
+    "fighterName": "Brendan Allen",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2023-11-02T04:15:15.419Z"
   }
 ]

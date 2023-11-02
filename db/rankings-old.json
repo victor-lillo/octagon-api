@@ -12,12 +12,12 @@
         "name": "Jon Jones"
       },
       {
-        "id": "alexander-volkanovski",
-        "name": "Alexander Volkanovski"
-      },
-      {
         "id": "islam-makhachev",
         "name": "Islam Makhachev"
+      },
+      {
+        "id": "alexander-volkanovski",
+        "name": "Alexander Volkanovski"
       },
       {
         "id": "leon-edwards",
@@ -30,10 +30,6 @@
       {
         "id": "sean-omalley",
         "name": "Sean O'Malley"
-      },
-      {
-        "id": "kamaru-usman",
-        "name": "Kamaru Usman"
       },
       {
         "id": "sean-strickland",
@@ -52,12 +48,16 @@
         "name": "Alex Pereira"
       },
       {
+        "id": "aljamain-sterling",
+        "name": "Aljamain Sterling"
+      },
+      {
         "id": "max-holloway",
         "name": "Max Holloway"
       },
       {
-        "id": "aljamain-sterling",
-        "name": "Aljamain Sterling"
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
       },
       {
         "id": "jiri-prochazka",
@@ -114,12 +114,12 @@
         "name": "Matt Schnell"
       },
       {
-        "id": "tim-elliott",
-        "name": "Tim Elliott"
-      },
-      {
         "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
+      },
+      {
+        "id": "tim-elliott",
+        "name": "Tim Elliott"
       },
       {
         "id": "su-mudaerji",
@@ -204,8 +204,8 @@
         "name": "Chris Gutierrez"
       },
       {
-        "id": "adrian-yanez",
-        "name": "Adrian Yanez"
+        "id": "said-nurmagomedov",
+        "name": "Said Nurmagomedov"
       }
     ]
   },
@@ -362,16 +362,12 @@
         "name": "Kamaru Usman"
       },
       {
-        "id": "colby-covington",
-        "name": "Colby Covington"
-      },
-      {
         "id": "belal-muhammad",
         "name": "Belal Muhammad"
       },
       {
-        "id": "khamzat-chimaev",
-        "name": "Khamzat Chimaev"
+        "id": "colby-covington",
+        "name": "Colby Covington"
       },
       {
         "id": "gilbert-burns",
@@ -416,6 +412,10 @@
       {
         "id": "michael-chiesa",
         "name": "Michael Chiesa"
+      },
+      {
+        "id": "rinat-fakhretdinov",
+        "name": "Rinat Fakhretdinov"
       }
     ]
   },
@@ -460,6 +460,10 @@
         "name": "Jack Hermansson"
       },
       {
+        "id": "khamzat-chimaev",
+        "name": "Khamzat Chimaev"
+      },
+      {
         "id": "brendan-allen",
         "name": "Brendan Allen"
       },
@@ -478,10 +482,6 @@
       {
         "id": "chris-curtis",
         "name": "Chris Curtis"
-      },
-      {
-        "id": "andre-muniz",
-        "name": "Andre Muniz"
       },
       {
         "id": "anthony-hernandez",
@@ -818,10 +818,6 @@
         "name": "Amanda Ribas"
       },
       {
-        "id": "jennifer-maia",
-        "name": "Jennifer Maia"
-      },
-      {
         "id": "tracy-cortez",
         "name": "Tracy Cortez"
       },
@@ -836,6 +832,10 @@
       {
         "id": "karine-silva",
         "name": "Karine Silva"
+      },
+      {
+        "id": "andrea-lee",
+        "name": "Andrea Lee"
       }
     ]
   },
