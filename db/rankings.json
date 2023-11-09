@@ -3,17 +3,17 @@
     "id": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "jon-jones",
-      "championName": "Jon Jones"
+      "id": "islam-makhachev",
+      "championName": "Islam Makhachev"
     },
     "fighters": [
       {
-        "id": "jon-jones",
-        "name": "Jon Jones"
-      },
-      {
         "id": "islam-makhachev",
         "name": "Islam Makhachev"
+      },
+      {
+        "id": "jon-jones",
+        "name": "Jon Jones"
       },
       {
         "id": "alexander-volkanovski",
@@ -56,12 +56,12 @@
         "name": "Max Holloway"
       },
       {
-        "id": "kamaru-usman",
-        "name": "Kamaru Usman"
-      },
-      {
         "id": "jiri-prochazka",
         "name": "Jiří Procházka"
+      },
+      {
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
       },
       {
         "id": "jamahal-hill",
@@ -386,12 +386,12 @@
         "name": "Geoff Neal"
       },
       {
-        "id": "sean-brady",
-        "name": "Sean Brady"
-      },
-      {
         "id": "vicente-luque",
         "name": "Vicente Luque"
+      },
+      {
+        "id": "sean-brady",
+        "name": "Sean Brady"
       },
       {
         "id": "ian-garry",
@@ -456,12 +456,12 @@
         "name": "Roman Dolidze"
       },
       {
-        "id": "jack-hermansson",
-        "name": "Jack Hermansson"
-      },
-      {
         "id": "khamzat-chimaev",
         "name": "Khamzat Chimaev"
+      },
+      {
+        "id": "jack-hermansson",
+        "name": "Jack Hermansson"
       },
       {
         "id": "brendan-allen",
@@ -592,16 +592,16 @@
         "name": "Alexander Volkov"
       },
       {
+        "id": "jailton-almeida",
+        "name": "Jailton Almeida"
+      },
+      {
         "id": "serghei-spivac",
         "name": "Serghei Spivac"
       },
       {
         "id": "tai-tuivasa",
         "name": "Tai Tuivasa"
-      },
-      {
-        "id": "jailton-almeida",
-        "name": "Jailton Almeida"
       },
       {
         "id": "derrick-lewis",
@@ -624,8 +624,8 @@
         "name": "Marcos Rogerio de Lima"
       },
       {
-        "id": "martin-buday",
-        "name": "Martin Buday"
+        "id": "rodrigo-nascimento-ferreira",
+        "name": "Rodrigo Nascimento"
       }
     ]
   },
@@ -678,12 +678,8 @@
         "name": "Tatiana Suarez"
       },
       {
-        "id": "taila-santos",
-        "name": "Taila Santos"
-      },
-      {
         "id": "jessica-andrade",
-        "name": "Jessica Andrade"
+        "name": "Jéssica Andrade"
       },
       {
         "id": "raquel-pennington",
@@ -694,8 +690,12 @@
         "name": "Amanda Lemos"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
+        "id": "ketlen-vieira",
+        "name": "Ketlen Vieira"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       }
     ]
   },
@@ -725,7 +725,7 @@
       },
       {
         "id": "jessica-andrade",
-        "name": "Jessica Andrade"
+        "name": "Jéssica Andrade"
       },
       {
         "id": "virna-jandiroba",
@@ -790,16 +790,12 @@
         "name": "Manon Fiorot"
       },
       {
-        "id": "taila-santos",
-        "name": "Taila Santos"
-      },
-      {
         "id": "katlyn-chookagian",
         "name": "Katlyn Chookagian"
       },
       {
         "id": "jessica-andrade",
-        "name": "Jessica Andrade"
+        "name": "Jéssica Andrade"
       },
       {
         "id": "lauren-murphy",
@@ -836,6 +832,10 @@
       {
         "id": "andrea-lee",
         "name": "Andrea Lee"
+      },
+      {
+        "id": "joanne-wood",
+        "name": "Joanne Wood"
       }
     ]
   },
@@ -856,20 +856,16 @@
         "name": "Raquel Pennington"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
-      },
-      {
         "id": "ketlen-vieira",
         "name": "Ketlen Vieira"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "holly-holm",
         "name": "Holly Holm"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "pannie-kianzad",
@@ -906,6 +902,10 @@
       {
         "id": "chelsea-chandler",
         "name": "Chelsea Chandler"
+      },
+      {
+        "id": "tainara-lisboa",
+        "name": "Tainara Lisboa"
       }
     ]
   }
