@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "andrea-lee",
-    "fighterName": "Andrea Lee",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "tainara-lisboa",
+    "fighterName": "Tainara Lisboa",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 14,
     "previousPosition": "unranked",
-    "date": "2023-11-02T04:15:15.419Z"
+    "date": "2023-11-16T04:15:55.698Z"
   },
   {
-    "fighter": "karine-silva",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2023-11-02T04:15:15.419Z"
+    "date": "2023-11-16T04:15:55.698Z"
   },
   {
-    "fighter": "casey-oneill",
-    "fighterName": "Casey O'Neill",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "josiane-nunes",
+    "fighterName": "Josiane Nunes",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 12,
     "previousPosition": 13,
-    "date": "2023-11-02T04:15:15.419Z"
+    "date": "2023-11-16T04:15:55.698Z"
   },
   {
-    "fighter": "natalia-silva",
-    "fighterName": "Natalia Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "julia-avila",
+    "fighterName": "Julia Avila",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 11,
     "previousPosition": 12,
-    "date": "2023-11-02T04:15:15.419Z"
+    "date": "2023-11-16T04:15:55.698Z"
   },
   {
-    "fighter": "tracy-cortez",
-    "fighterName": "Tracy Cortez",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 10,
     "previousPosition": 11,
-    "date": "2023-11-02T04:15:15.419Z"
+    "date": "2023-11-16T04:15:55.698Z"
   },
   {
-    "fighter": "chris-curtis",
-    "fighterName": "Chris Curtis",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2023-11-02T04:15:15.419Z"
-  },
-  {
-    "fighter": "paul-craig",
-    "fighterName": "Paul Craig",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2023-11-02T04:15:15.419Z"
-  },
-  {
-    "fighter": "nassourdine-imavov",
-    "fighterName": "Nassourdine Imavov",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2023-11-02T04:15:15.419Z"
-  },
-  {
-    "fighter": "kelvin-gastelum",
-    "fighterName": "Kelvin Gastelum",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2023-11-02T04:15:15.419Z"
-  },
-  {
-    "fighter": "brendan-allen",
-    "fighterName": "Brendan Allen",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 9,
+    "previousPosition": 10,
+    "date": "2023-11-16T04:15:55.698Z"
+  },
+  {
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2023-11-16T04:15:55.698Z"
+  },
+  {
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 7,
     "previousPosition": 8,
-    "date": "2023-11-02T04:15:15.419Z"
+    "date": "2023-11-16T04:15:55.698Z"
+  },
+  {
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2023-11-16T04:15:55.698Z"
+  },
+  {
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2023-11-16T04:15:55.698Z"
   }
 ]
