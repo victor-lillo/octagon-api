@@ -52,16 +52,16 @@
         "name": "Aljamain Sterling"
       },
       {
+        "id": "tom-aspinall",
+        "name": "Tom Aspinall"
+      },
+      {
         "id": "max-holloway",
         "name": "Max Holloway"
       },
       {
         "id": "kamaru-usman",
         "name": "Kamaru Usman"
-      },
-      {
-        "id": "tom-aspinall",
-        "name": "Tom Aspinall"
       },
       {
         "id": "jiri-prochazka",
@@ -328,12 +328,12 @@
         "name": "Rafael Dos Anjos"
       },
       {
-        "id": "jalin-turner",
-        "name": "Jalin Turner"
+        "id": "benoit-saint-denis",
+        "name": "Benoît Saint Denis"
       },
       {
-        "id": "mariya-agapova-0",
-        "name": "Benoît Saint Denis"
+        "id": "jalin-turner",
+        "name": "Jalin Turner"
       },
       {
         "id": "bobby-green",
@@ -394,7 +394,7 @@
         "name": "Sean Brady"
       },
       {
-        "id": "nassurdin-imavov-4",
+        "id": "ian-garry",
         "name": "Ian Machado Garry"
       },
       {
@@ -414,7 +414,7 @@
         "name": "Michael Chiesa"
       },
       {
-        "id": "lyudovit-klayn-0",
+        "id": "rinat-fakhretdinov",
         "name": "Rinat Fakhretdinov"
       }
     ]
@@ -456,16 +456,16 @@
         "name": "Roman Dolidze"
       },
       {
+        "id": "brendan-allen",
+        "name": "Brendan Allen"
+      },
+      {
         "id": "khamzat-chimaev",
         "name": "Khamzat Chimaev"
       },
       {
         "id": "jack-hermansson",
         "name": "Jack Hermansson"
-      },
-      {
-        "id": "brendan-allen",
-        "name": "Brendan Allen"
       },
       {
         "id": "kelvin-gastelum",
@@ -620,12 +620,12 @@
         "name": "Alexandr Romanov"
       },
       {
-        "id": "marcos-rogerio-de-lima",
-        "name": "Marcos Rogerio de Lima"
-      },
-      {
         "id": "rodrigo-nascimento-ferreira",
         "name": "Rodrigo Nascimento"
+      },
+      {
+        "id": "marcos-rogerio-de-lima",
+        "name": "Marcos Rogerio de Lima"
       }
     ]
   },
@@ -662,12 +662,12 @@
         "name": "Manon Fiorot"
       },
       {
-        "id": "carla-esparza",
-        "name": "Carla Esparza"
-      },
-      {
         "id": "rose-namajunas",
         "name": "Rose Namajunas"
+      },
+      {
+        "id": "carla-esparza",
+        "name": "Carla Esparza"
       },
       {
         "id": "xiaonan-yan",
@@ -740,12 +740,12 @@
         "name": "Mackenzie Dern"
       },
       {
-        "id": "luana-pinheiro",
-        "name": "Luana Pinheiro"
-      },
-      {
         "id": "amanda-ribas",
         "name": "Amanda Ribas"
+      },
+      {
+        "id": "luana-pinheiro",
+        "name": "Luana Pinheiro"
       },
       {
         "id": "loopy-godinez",
@@ -856,6 +856,10 @@
         "name": "Raquel Pennington"
       },
       {
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
+      },
+      {
         "id": "ketlen-vieira",
         "name": "Ketlen Vieira"
       },
@@ -902,10 +906,6 @@
       {
         "id": "chelsea-chandler",
         "name": "Chelsea Chandler"
-      },
-      {
-        "id": "tainara-lisboa",
-        "name": "Tainara Lisboa"
       }
     ]
   }
