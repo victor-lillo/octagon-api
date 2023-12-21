@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "norma-dumont",
-    "fighterName": "Norma Dumont",
+    "fighter": "holly-holm",
+    "fighterName": "Holly Holm",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2023-12-14T04:16:03.939Z"
-  },
-  {
-    "fighter": "miesha-tate",
-    "fighterName": "Miesha Tate",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2023-12-14T04:16:03.939Z"
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2023-12-21T04:15:42.151Z"
   },
   {
     "fighter": "irene-aldana",
     "fighterName": "Irene Aldana",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2023-12-14T04:16:03.939Z"
-  },
-  {
-    "fighter": "holly-holm",
-    "fighterName": "Holly Holm",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
     "currentPosition": 4,
     "previousPosition": 5,
-    "date": "2023-12-14T04:16:03.939Z"
+    "date": "2023-12-21T04:15:42.151Z"
   },
   {
-    "fighter": "kelvin-gastelum",
-    "fighterName": "Kelvin Gastelum",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 13,
-    "previousPosition": 10,
-    "date": "2023-12-14T04:16:03.939Z"
-  },
-  {
-    "fighter": "chris-curtis",
-    "fighterName": "Chris Curtis",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2023-12-14T04:16:03.939Z"
-  },
-  {
-    "fighter": "paul-craig",
-    "fighterName": "Paul Craig",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2023-12-14T04:16:03.939Z"
-  },
-  {
-    "fighter": "nassourdine-imavov",
-    "fighterName": "Nassourdine Imavov",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "ryan-spann",
+    "fighterName": "Ryan Spann",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
     "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2023-12-14T04:16:03.939Z"
+    "previousPosition": 9,
+    "date": "2023-12-21T04:15:42.151Z"
   },
   {
-    "fighter": "vicente-luque",
-    "fighterName": "Vicente Luque",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 8,
+    "fighter": "anthony-smith",
+    "fighterName": "Anthony Smith",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 9,
     "previousPosition": 7,
-    "date": "2023-12-14T04:16:03.939Z"
+    "date": "2023-12-21T04:15:42.151Z"
   },
   {
-    "fighter": "geoff-neal",
-    "fighterName": "Geoff Neal",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "khalil-rountree-jr",
+    "fighterName": "Khalil Rountree Jr.",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
     "currentPosition": 7,
+    "previousPosition": 10,
+    "date": "2023-12-21T04:15:42.151Z"
+  },
+  {
+    "fighter": "nikita-krylov",
+    "fighterName": "Nikita Krylov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2023-12-21T04:15:42.151Z"
+  },
+  {
+    "fighter": "johnny-walker",
+    "fighterName": "Johnny Walker",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2023-12-14T04:16:03.939Z"
+    "date": "2023-12-21T04:15:42.151Z"
+  },
+  {
+    "fighter": "lerone-murphy",
+    "fighterName": "Lerone Murphy",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2023-12-21T04:15:42.151Z"
+  },
+  {
+    "fighter": "alex-caceres",
+    "fighterName": "Alex Caceres",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2023-12-21T04:15:42.151Z"
+  },
+  {
+    "fighter": "ricky-simon",
+    "fighterName": "Ricky Simon",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2023-12-21T04:15:42.151Z"
   }
 ]

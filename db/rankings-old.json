@@ -82,12 +82,12 @@
         "name": "Brandon Moreno"
       },
       {
-        "id": "brandon-royval",
-        "name": "Brandon Royval"
-      },
-      {
         "id": "amir-albazi",
         "name": "Amir Albazi"
+      },
+      {
+        "id": "brandon-royval",
+        "name": "Brandon Royval"
       },
       {
         "id": "kai-kara-france",
@@ -106,12 +106,12 @@
         "name": "Alex Perez"
       },
       {
-        "id": "matt-schnell",
-        "name": "Matt Schnell"
-      },
-      {
         "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
+      },
+      {
+        "id": "matt-schnell",
+        "name": "Matt Schnell"
       },
       {
         "id": "tim-elliott",
@@ -122,12 +122,12 @@
         "name": "Steve Erceg"
       },
       {
-        "id": "su-mudaerji",
-        "name": "Sumudaerji"
-      },
-      {
         "id": "tagir-ulanbekov",
         "name": "Tagir Ulanbekov"
+      },
+      {
+        "id": "su-mudaerji",
+        "name": "Sumudaerji"
       },
       {
         "id": "david-dvorak",
@@ -192,12 +192,12 @@
         "name": "Pedro Munhoz"
       },
       {
-        "id": "ricky-simon",
-        "name": "Ricky Simon"
-      },
-      {
         "id": "jonathan-martinez",
         "name": "Jonathan Martinez"
+      },
+      {
+        "id": "ricky-simon",
+        "name": "Ricky Simon"
       },
       {
         "id": "umar-nurmagomedov",
@@ -270,12 +270,12 @@
         "name": "Dan Ige"
       },
       {
-        "id": "lerone-murphy",
-        "name": "Lerone Murphy"
-      },
-      {
         "id": "alex-caceres",
         "name": "Alex Caceres"
+      },
+      {
+        "id": "lerone-murphy",
+        "name": "Lerone Murphy"
       }
     ]
   },
@@ -518,28 +518,28 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
-      },
-      {
         "id": "johnny-walker",
         "name": "Johnny Walker"
       },
       {
-        "id": "anthony-smith",
-        "name": "Anthony Smith"
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
+      },
+      {
+        "id": "khalil-rountree-jr",
+        "name": "Khalil Rountree Jr."
       },
       {
         "id": "volkan-oezdemir",
         "name": "Volkan Oezdemir"
       },
       {
-        "id": "ryan-spann",
-        "name": "Ryan Spann"
+        "id": "anthony-smith",
+        "name": "Anthony Smith"
       },
       {
-        "id": "khalil-rountree-jr",
-        "name": "Khalil Rountree Jr."
+        "id": "ryan-spann",
+        "name": "Ryan Spann"
       },
       {
         "id": "azamat-murzakanov",
@@ -864,12 +864,12 @@
         "name": "Ketlen Vieira"
       },
       {
-        "id": "holly-holm",
-        "name": "Holly Holm"
-      },
-      {
         "id": "irene-aldana",
         "name": "Irene Aldana"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
       },
       {
         "id": "pannie-kianzad",
