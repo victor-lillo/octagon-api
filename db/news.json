@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "holly-holm",
-    "fighterName": "Holly Holm",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "irene-aldana",
-    "fighterName": "Irene Aldana",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "ryan-spann",
-    "fighterName": "Ryan Spann",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "anthony-smith",
-    "fighterName": "Anthony Smith",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 9,
-    "previousPosition": 7,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "khalil-rountree-jr",
-    "fighterName": "Khalil Rountree Jr.",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": 10,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "nikita-krylov",
-    "fighterName": "Nikita Krylov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "johnny-walker",
-    "fighterName": "Johnny Walker",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2023-12-21T04:15:42.151Z"
-  },
-  {
-    "fighter": "lerone-murphy",
-    "fighterName": "Lerone Murphy",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
+    "fighter": "andrea-lee",
+    "fighterName": "Andrea Lee",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "currentPosition": 14,
     "previousPosition": 13,
-    "date": "2023-12-21T04:15:42.151Z"
+    "date": "2023-12-28T04:15:32.938Z"
   },
   {
-    "fighter": "alex-caceres",
-    "fighterName": "Alex Caceres",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
+    "fighter": "casey-oneill",
+    "fighterName": "Casey O'Neill",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 13,
+    "previousPosition": 11,
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "ariane-lipski",
+    "fighterName": "Ariane Lipski",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 11,
+    "previousPosition": "unranked",
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "tracy-cortez",
+    "fighterName": "Tracy Cortez",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "natalia-silva",
+    "fighterName": "Natalia Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 9,
+    "previousPosition": 10,
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "rose-namajunas",
+    "fighterName": "Rose Namajunas",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "carla-esparza",
+    "fighterName": "Carla Esparza",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "rodrigo-nascimento-ferreira",
+    "fighterName": "Rodrigo Nascimento",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2023-12-28T04:15:32.938Z"
+  },
+  {
+    "fighter": "marcos-rogerio-de-lima",
+    "fighterName": "Marcos Rogerio de Lima",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2023-12-21T04:15:42.151Z"
+    "date": "2023-12-28T04:15:32.938Z"
   },
   {
-    "fighter": "ricky-simon",
-    "fighterName": "Ricky Simon",
-    "categoryId": "bantamweight",
-    "categoryName": "Bantamweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2023-12-21T04:15:42.151Z"
+    "fighter": "dominick-reyes",
+    "fighterName": "Dominick Reyes",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2023-12-28T04:15:32.938Z"
   }
 ]

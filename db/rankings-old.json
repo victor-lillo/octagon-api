@@ -32,12 +32,12 @@
         "name": "Charles Oliveira"
       },
       {
-        "id": "sean-omalley",
-        "name": "Sean O'Malley"
-      },
-      {
         "id": "sean-strickland",
         "name": "Sean Strickland"
+      },
+      {
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
       },
       {
         "id": "israel-adesanya",
@@ -118,12 +118,12 @@
         "name": "Tim Elliott"
       },
       {
-        "id": "steve-erceg",
-        "name": "Steve Erceg"
-      },
-      {
         "id": "tagir-ulanbekov",
         "name": "Tagir Ulanbekov"
+      },
+      {
+        "id": "steve-erceg",
+        "name": "Steve Erceg"
       },
       {
         "id": "su-mudaerji",
@@ -134,8 +134,8 @@
         "name": "David Dvorak"
       },
       {
-        "id": "cody-durden",
-        "name": "Cody Durden"
+        "id": "tatsuro-taira",
+        "name": "Tatsuro Taira"
       }
     ]
   },
@@ -226,12 +226,12 @@
         "name": "Yair Rodriguez"
       },
       {
-        "id": "brian-ortega",
-        "name": "Brian Ortega"
-      },
-      {
         "id": "arnold-allen",
         "name": "Arnold Allen"
+      },
+      {
+        "id": "brian-ortega",
+        "name": "Brian Ortega"
       },
       {
         "id": "ilia-topuria",
@@ -366,16 +366,16 @@
         "name": "Belal Muhammad"
       },
       {
-        "id": "colby-covington",
-        "name": "Colby Covington"
+        "id": "shavkat-rakhmonov",
+        "name": "Shavkat Rakhmonov"
       },
       {
         "id": "gilbert-burns",
         "name": "Gilbert Burns"
       },
       {
-        "id": "shavkat-rakhmonov",
-        "name": "Shavkat Rakhmonov"
+        "id": "colby-covington",
+        "name": "Colby Covington"
       },
       {
         "id": "stephen-thompson",
@@ -518,12 +518,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "johnny-walker",
-        "name": "Johnny Walker"
-      },
-      {
         "id": "nikita-krylov",
         "name": "Nikita Krylov"
+      },
+      {
+        "id": "johnny-walker",
+        "name": "Johnny Walker"
       },
       {
         "id": "khalil-rountree-jr",
@@ -542,16 +542,16 @@
         "name": "Ryan Spann"
       },
       {
+        "id": "alonzo-menifield",
+        "name": "Alonzo Menifield"
+      },
+      {
         "id": "azamat-murzakanov",
         "name": "Azamat Murzakanov"
       },
       {
         "id": "dominick-reyes",
         "name": "Dominick Reyes"
-      },
-      {
-        "id": "alonzo-menifield",
-        "name": "Alonzo Menifield"
       },
       {
         "id": "dustin-jacoby",
@@ -620,12 +620,12 @@
         "name": "Alexandr Romanov"
       },
       {
-        "id": "rodrigo-nascimento-ferreira",
-        "name": "Rodrigo Nascimento"
-      },
-      {
         "id": "marcos-rogerio-de-lima",
         "name": "Marcos Rogerio de Lima"
+      },
+      {
+        "id": "rodrigo-nascimento-ferreira",
+        "name": "Rodrigo Nascimento"
       }
     ]
   },
@@ -662,12 +662,12 @@
         "name": "Manon Fiorot"
       },
       {
-        "id": "rose-namajunas",
-        "name": "Rose Namajunas"
-      },
-      {
         "id": "carla-esparza",
         "name": "Carla Esparza"
+      },
+      {
+        "id": "rose-namajunas",
+        "name": "Rose Namajunas"
       },
       {
         "id": "xiaonan-yan",
@@ -814,28 +814,28 @@
         "name": "Amanda Ribas"
       },
       {
-        "id": "tracy-cortez",
-        "name": "Tracy Cortez"
-      },
-      {
         "id": "natalia-silva",
         "name": "Natalia Silva"
       },
       {
-        "id": "casey-oneill",
-        "name": "Casey O'Neill"
+        "id": "tracy-cortez",
+        "name": "Tracy Cortez"
+      },
+      {
+        "id": "ariane-lipski",
+        "name": "Ariane Lipski"
       },
       {
         "id": "karine-silva",
         "name": "Karine Silva"
       },
       {
-        "id": "andrea-lee",
-        "name": "Andrea Lee"
+        "id": "casey-oneill",
+        "name": "Casey O'Neill"
       },
       {
-        "id": "joanne-wood",
-        "name": "Joanne Wood"
+        "id": "andrea-lee",
+        "name": "Andrea Lee"
       }
     ]
   },
