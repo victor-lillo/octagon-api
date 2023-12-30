@@ -17,31 +17,31 @@
     "lighthouse": "node lighthouse"
   },
   "dependencies": {
-    "@astrojs/react": "3.0.3",
-    "@astrojs/sitemap": "3.0.2",
-    "@astrojs/svelte": "4.0.3",
-    "@types/react": "18.2.31",
-    "@types/react-dom": "18.2.14",
-    "astro": "3.3.3",
-    "axios": "1.5.1",
-    "hono": "3.8.3",
-    "node-html-parser": "6.1.10",
+    "@astrojs/react": "3.0.9",
+    "@astrojs/sitemap": "3.0.4",
+    "@astrojs/svelte": "5.0.3",
+    "@types/react": "18.2.46",
+    "@types/react-dom": "18.2.18",
+    "astro": "4.0.8",
+    "axios": "1.6.3",
+    "hono": "3.11.11",
+    "node-html-parser": "6.1.12",
     "picocolors": "1.0.0",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "sharp": "0.32.6",
+    "sharp": "0.33.1",
     "sleep-dots": "1.1.2",
-    "svelte": "4.2.2"
+    "svelte": "4.2.8"
   },
   "devDependencies": {
-    "@cloudflare/workers-types": "4.20231016.0",
-    "@types/node": "20.8.8",
+    "@cloudflare/workers-types": "4.20231218.0",
+    "@types/node": "20.10.6",
     "autoprefixer": "10.4.16",
     "badge-maker": "3.3.1",
     "chrome-launcher": "1.1.0",
-    "lighthouse": "11.2.0",
-    "vitest": "0.34.6",
-    "wrangler": "3.14.0"
+    "lighthouse": "11.4.0",
+    "vitest": "1.1.0",
+    "wrangler": "3.22.1"
   },
   "browserslist": {
     "development": [
