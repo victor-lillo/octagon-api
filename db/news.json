@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "arnold-allen",
+    "fighterName": "Arnold Allen",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 3,
+    "previousPosition": 2,
+    "date": "2024-01-04T04:16:11.024Z"
+  },
+  {
+    "fighter": "brian-ortega",
+    "fighterName": "Brian Ortega",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 2,
+    "previousPosition": 3,
+    "date": "2024-01-04T04:16:11.024Z"
+  },
+  {
     "fighter": "andrea-lee",
     "fighterName": "Andrea Lee",
     "categoryId": "womens-flyweight",
@@ -69,24 +87,6 @@
     "categoryName": "Heavyweight",
     "currentPosition": 14,
     "previousPosition": 13,
-    "date": "2023-12-28T04:15:32.938Z"
-  },
-  {
-    "fighter": "marcos-rogerio-de-lima",
-    "fighterName": "Marcos Rogerio de Lima",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2023-12-28T04:15:32.938Z"
-  },
-  {
-    "fighter": "dominick-reyes",
-    "fighterName": "Dominick Reyes",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
     "date": "2023-12-28T04:15:32.938Z"
   }
 ]
