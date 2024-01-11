@@ -226,12 +226,12 @@
         "name": "Yair Rodriguez"
       },
       {
-        "id": "brian-ortega",
-        "name": "Brian Ortega"
-      },
-      {
         "id": "arnold-allen",
         "name": "Arnold Allen"
+      },
+      {
+        "id": "brian-ortega",
+        "name": "Brian Ortega"
       },
       {
         "id": "ilia-topuria",
@@ -480,12 +480,12 @@
         "name": "Chris Curtis"
       },
       {
-        "id": "kelvin-gastelum",
-        "name": "Kelvin Gastelum"
-      },
-      {
         "id": "anthony-hernandez",
         "name": "Anthony Hernandez"
+      },
+      {
+        "id": "caio-borralho",
+        "name": "Caio Borralho"
       }
     ]
   },
