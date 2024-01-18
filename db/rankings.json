@@ -32,12 +32,12 @@
         "name": "Charles Oliveira"
       },
       {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
-      },
-      {
         "id": "sean-omalley",
         "name": "Sean O'Malley"
+      },
+      {
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
       },
       {
         "id": "israel-adesanya",
@@ -196,16 +196,16 @@
         "name": "Jonathan Martinez"
       },
       {
-        "id": "ricky-simon",
-        "name": "Ricky Simon"
-      },
-      {
         "id": "umar-nurmagomedov",
         "name": "Umar Nurmagomedov"
       },
       {
-        "id": "chris-gutierrez",
-        "name": "Chris Gutierrez"
+        "id": "mario-bautista",
+        "name": "Mario Bautista"
+      },
+      {
+        "id": "ricky-simon",
+        "name": "Ricky Simon"
       }
     ]
   },
@@ -226,12 +226,12 @@
         "name": "Yair Rodriguez"
       },
       {
-        "id": "arnold-allen",
-        "name": "Arnold Allen"
-      },
-      {
         "id": "brian-ortega",
         "name": "Brian Ortega"
+      },
+      {
+        "id": "arnold-allen",
+        "name": "Arnold Allen"
       },
       {
         "id": "ilia-topuria",
@@ -270,12 +270,12 @@
         "name": "Dan Ige"
       },
       {
-        "id": "alex-caceres",
-        "name": "Alex Caceres"
-      },
-      {
         "id": "lerone-murphy",
         "name": "Lerone Murphy"
+      },
+      {
+        "id": "alex-caceres",
+        "name": "Alex Caceres"
       }
     ]
   },
@@ -320,20 +320,20 @@
         "name": "Rafael Fiziev"
       },
       {
-        "id": "dan-hooker",
-        "name": "Dan Hooker"
-      },
-      {
         "id": "jalin-turner",
         "name": "Jalin Turner"
       },
       {
-        "id": "rafael-dos-anjos",
-        "name": "Rafael Dos Anjos"
+        "id": "dan-hooker",
+        "name": "Dan Hooker"
       },
       {
         "id": "benoit-saint-denis",
         "name": "Benoît Saint Denis"
+      },
+      {
+        "id": "rafael-dos-anjos",
+        "name": "Rafael Dos Anjos"
       },
       {
         "id": "renato-moicano",
@@ -452,12 +452,12 @@
         "name": "Paulo Costa"
       },
       {
-        "id": "roman-dolidze",
-        "name": "Roman Dolidze"
-      },
-      {
         "id": "brendan-allen",
         "name": "Brendan Allen"
+      },
+      {
+        "id": "roman-dolidze",
+        "name": "Roman Dolidze"
       },
       {
         "id": "khamzat-chimaev",
@@ -476,12 +476,12 @@
         "name": "Paul Craig"
       },
       {
-        "id": "chris-curtis",
-        "name": "Chris Curtis"
-      },
-      {
         "id": "anthony-hernandez",
         "name": "Anthony Hernandez"
+      },
+      {
+        "id": "chris-curtis",
+        "name": "Chris Curtis"
       },
       {
         "id": "caio-borralho",
@@ -596,12 +596,12 @@
         "name": "Jailton Almeida"
       },
       {
-        "id": "serghei-spivac",
-        "name": "Serghei Spivac"
-      },
-      {
         "id": "tai-tuivasa",
         "name": "Tai Tuivasa"
+      },
+      {
+        "id": "serghei-spivac",
+        "name": "Serghei Spivac"
       },
       {
         "id": "derrick-lewis",
@@ -620,12 +620,12 @@
         "name": "Alexandr Romanov"
       },
       {
-        "id": "marcos-rogerio-de-lima",
-        "name": "Marcos Rogerio de Lima"
-      },
-      {
         "id": "rodrigo-nascimento-ferreira",
         "name": "Rodrigo Nascimento"
+      },
+      {
+        "id": "marcos-rogerio-de-lima",
+        "name": "Marcos Rogerio de Lima"
       }
     ]
   },
@@ -798,10 +798,6 @@
         "name": "Jéssica Andrade"
       },
       {
-        "id": "lauren-murphy",
-        "name": "Lauren Murphy"
-      },
-      {
         "id": "maycee-barber",
         "name": "Maycee Barber"
       },
@@ -836,6 +832,10 @@
       {
         "id": "andrea-lee",
         "name": "Andrea Lee"
+      },
+      {
+        "id": "joanne-wood",
+        "name": "Joanne Wood"
       }
     ]
   },
@@ -884,12 +884,12 @@
         "name": "Karol Rosa"
       },
       {
-        "id": "miesha-tate",
-        "name": "Miesha Tate"
-      },
-      {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
+      },
+      {
+        "id": "miesha-tate",
+        "name": "Miesha Tate"
       },
       {
         "id": "norma-dumont",
