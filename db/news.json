@@ -1,92 +1,92 @@
 [
   {
+    "fighter": "melissa-dixon",
+    "fighterName": "Melissa Dixon",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-02-01T04:16:38.504Z"
+  },
+  {
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2024-02-01T04:16:38.504Z"
+  },
+  {
+    "fighter": "josiane-nunes",
+    "fighterName": "Josiane Nunes",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-02-01T04:16:38.504Z"
+  },
+  {
+    "fighter": "julia-avila",
+    "fighterName": "Julia Avila",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-02-01T04:16:38.504Z"
+  },
+  {
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2024-02-01T04:16:38.504Z"
+  },
+  {
     "fighter": "miesha-tate",
     "fighterName": "Miesha Tate",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2024-01-25T04:16:43.803Z"
+    "currentPosition": 7,
+    "previousPosition": 10,
+    "date": "2024-02-01T04:16:38.504Z"
   },
   {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 9,
-    "previousPosition": 10,
-    "date": "2024-01-25T04:16:43.803Z"
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2024-02-01T04:16:38.504Z"
   },
   {
-    "fighter": "joanne-wood",
-    "fighterName": "Joanne Wood",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-01-25T04:16:43.803Z"
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2024-02-01T04:16:38.504Z"
   },
   {
-    "fighter": "andrea-lee",
-    "fighterName": "Andrea Lee",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-01-25T04:16:43.803Z"
+    "fighter": "holly-holm",
+    "fighterName": "Holly Holm",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2024-02-01T04:16:38.504Z"
   },
   {
-    "fighter": "casey-oneill",
-    "fighterName": "Casey O'Neill",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2024-01-25T04:16:43.803Z"
-  },
-  {
-    "fighter": "karine-silva",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2024-01-25T04:16:43.803Z"
-  },
-  {
-    "fighter": "ariane-lipski",
-    "fighterName": "Ariane Lipski",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2024-01-25T04:16:43.803Z"
-  },
-  {
-    "fighter": "tracy-cortez",
-    "fighterName": "Tracy Cortez",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 9,
-    "previousPosition": 10,
-    "date": "2024-01-25T04:16:43.803Z"
-  },
-  {
-    "fighter": "natalia-silva",
-    "fighterName": "Natalia Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 8,
-    "previousPosition": 9,
-    "date": "2024-01-25T04:16:43.803Z"
-  },
-  {
-    "fighter": "amanda-ribas",
-    "fighterName": "Amanda Ribas",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 7,
-    "previousPosition": 8,
-    "date": "2024-01-25T04:16:43.803Z"
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 3,
+    "previousPosition": 4,
+    "date": "2024-02-01T04:16:38.504Z"
   }
 ]
