@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "marukosuhoshierio-terima",
+    "fighterName": "Marcos Rogerio de Lima",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-02-08T04:15:26.725Z"
+  },
+  {
+    "fighter": "henri-sefuto",
+    "fighterName": "Henry Cejudo",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 2,
+    "previousPosition": "unranked",
+    "date": "2024-02-08T04:15:26.725Z"
+  },
+  {
     "fighter": "melissa-dixon",
     "fighterName": "Melissa Dixon",
     "categoryId": "womens-bantamweight",
@@ -69,24 +87,6 @@
     "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-02-01T04:16:38.504Z"
-  },
-  {
-    "fighter": "holly-holm",
-    "fighterName": "Holly Holm",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2024-02-01T04:16:38.504Z"
-  },
-  {
-    "fighter": "irene-aldana",
-    "fighterName": "Irene Aldana",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 3,
-    "previousPosition": 4,
     "date": "2024-02-01T04:16:38.504Z"
   }
 ]
