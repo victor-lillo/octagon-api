@@ -42,14 +42,5 @@
     "lighthouse": "11.5.0",
     "vitest": "1.2.2",
     "wrangler": "3.28.2"
-  },
-  "browserslist": {
-    "development": [
-      "last 1 version"
-    ],
-    "production": [
-      "defaults",
-      "> 0.1%"
-    ]
   }
 }
