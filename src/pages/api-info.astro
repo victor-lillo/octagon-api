@@ -5,7 +5,57 @@ import Layout from '@layouts/Layout.astro'
 <Layout title='API'>
   <main>
     <h1>API</h1>
+
+    <table>
+      <thead>
+        <tr>
+          <th>Endpoint</th>
+          <th>Response</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>GET <code>/rankings</code></td>
+          <td>Returns whole rankings info.</td>
+        </tr>
+        <tr>
+          <td>GET <code>/fighters</code></td>
+          <td>Returns all fighters info.</td>
+        </tr>
+        <tr>
+          <td>GET <code>/fighter/:fighterId</code></td>
+          <td>Returns single fighter info.</td>
+        </tr>
+        <tr>
+          <td>GET <code>/division/:divisionId</code></td>
+          <td>Returns single division info.</td>
+        </tr>
+      </tbody>
+    </table>
   </main>
 </Layout>
 
-<style></style>
+<style>
+  h1 {
+    font-size: 3rem;
+  }
+  code {
+    padding: 0.2em 0.4em;
+    margin: 0;
+    font-size: 85%;
+    border-radius: 6px;
+    background-color: var(--color-table-code);
+  }
+  table {
+    font-size: 1.4rem;
+    border-collapse: collapse;
+  }
+  th {
+    background-color: var(--color-table-head);
+  }
+  td,
+  th {
+    padding: 0.6rem 0.6rem;
+    border: 1px solid var(--color-table-border);
+  }
+</style>
