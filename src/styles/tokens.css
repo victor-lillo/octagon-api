@@ -26,6 +26,10 @@
   --bg-color-menu-mobile: var(--color-primary-light-5);
   --bg-transparent: #00000020;
 
+  --color-table-border: var(--color-primary-dark-7);
+  --color-table-code: var(--color-primary-light-6);
+  --color-table-head: var(--color-primary-light-4);
+
   --bg-gradient-1: linear-gradient(
     0deg,
     var(--color-primary-light-8) 0%,
@@ -65,6 +69,10 @@
 
   --bg-color-menu-mobile: var(--color-primary-dark-5);
   --bg-transparent: #ffffff20;
+
+  --color-table-border: var(--color-primary-light-7);
+  --color-table-code: var(--color-primary-dark-6);
+  --color-table-head: var(--color-primary-dark-7);
 
   --bg-gradient-1: linear-gradient(
     0deg,
