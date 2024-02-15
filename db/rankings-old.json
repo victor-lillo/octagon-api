@@ -184,16 +184,16 @@
         "name": "Rob Font"
       },
       {
+        "id": "jonathan-martinez",
+        "name": "Jonathan Martinez"
+      },
+      {
         "id": "dominick-cruz",
         "name": "Dominick Cruz"
       },
       {
         "id": "pedro-munhoz",
         "name": "Pedro Munhoz"
-      },
-      {
-        "id": "jonathan-martinez",
-        "name": "Jonathan Martinez"
       },
       {
         "id": "umar-nurmagomedov",
@@ -340,7 +340,7 @@
         "name": "Renato Moicano"
       },
       {
-        "id": "bobby-green",
+        "id": "hohi-kurin",
         "name": "Bobby Green"
       },
       {
@@ -456,20 +456,20 @@
         "name": "Brendan Allen"
       },
       {
-        "id": "roman-dolidze",
-        "name": "Roman Dolidze"
+        "id": "nassourdine-imavov",
+        "name": "Nassourdine Imavov"
       },
       {
         "id": "khamzat-chimaev",
         "name": "Khamzat Chimaev"
       },
       {
-        "id": "jack-hermansson",
-        "name": "Jack Hermansson"
+        "id": "roman-dolidze",
+        "name": "Roman Dolidze"
       },
       {
-        "id": "nassourdine-imavov",
-        "name": "Nassourdine Imavov"
+        "id": "jack-hermansson",
+        "name": "Jack Hermansson"
       },
       {
         "id": "paul-craig",
@@ -596,20 +596,20 @@
         "name": "Jailton Almeida"
       },
       {
-        "id": "tai-tuivasa",
-        "name": "Tai Tuivasa"
-      },
-      {
         "id": "serghei-spivac",
         "name": "Serghei Spivac"
       },
       {
-        "id": "derrick-lewis",
-        "name": "Derrick Lewis"
+        "id": "tai-tuivasa",
+        "name": "Tai Tuivasa"
       },
       {
         "id": "marcin-tybura",
         "name": "Marcin Tybura"
+      },
+      {
+        "id": "derrick-lewis",
+        "name": "Derrick Lewis"
       },
       {
         "id": "jairzinho-rozenstruik",
@@ -802,16 +802,16 @@
         "name": "Maycee Barber"
       },
       {
-        "id": "viviane-araujo",
-        "name": "Viviane Araújo"
+        "id": "natalia-silva",
+        "name": "Natalia Silva"
       },
       {
         "id": "amanda-ribas",
         "name": "Amanda Ribas"
       },
       {
-        "id": "natalia-silva",
-        "name": "Natalia Silva"
+        "id": "viviane-araujo",
+        "name": "Viviane Araújo"
       },
       {
         "id": "tracy-cortez",
@@ -830,12 +830,12 @@
         "name": "Casey O'Neill"
       },
       {
-        "id": "andrea-lee",
-        "name": "Andrea Lee"
-      },
-      {
         "id": "jasmine-jasudavicius",
         "name": "Jasmine Jasudavicius"
+      },
+      {
+        "id": "andrea-lee",
+        "name": "Andrea Lee"
       }
     ]
   },
