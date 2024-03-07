@@ -78,16 +78,16 @@
     },
     "fighters": [
       {
+        "id": "brandon-royval",
+        "name": "Brandon Royval"
+      },
+      {
         "id": "brandon-moreno",
         "name": "Brandon Moreno"
       },
       {
         "id": "amir-albazi",
         "name": "Amir Albazi"
-      },
-      {
-        "id": "brandon-royval",
-        "name": "Brandon Royval"
       },
       {
         "id": "kai-kara-france",
@@ -226,12 +226,12 @@
         "name": "Max Holloway"
       },
       {
-        "id": "yair-rodriguez",
-        "name": "Yair Rodriguez"
-      },
-      {
         "id": "brian-ortega",
         "name": "Brian Ortega"
+      },
+      {
+        "id": "yair-rodriguez",
+        "name": "Yair Rodriguez"
       },
       {
         "id": "movsar-evloev",
@@ -340,7 +340,7 @@
         "name": "Renato Moicano"
       },
       {
-        "id": "hohi-kurin",
+        "id": "bobby-green",
         "name": "Bobby Green"
       },
       {
@@ -604,12 +604,12 @@
         "name": "Tai Tuivasa"
       },
       {
-        "id": "marcin-tybura",
-        "name": "Marcin Tybura"
-      },
-      {
         "id": "derrick-lewis",
         "name": "Derrick Lewis"
+      },
+      {
+        "id": "marcin-tybura",
+        "name": "Marcin Tybura"
       },
       {
         "id": "jairzinho-rozenstruik",
@@ -624,7 +624,7 @@
         "name": "Marcos Rogerio de Lima"
       },
       {
-        "id": "rodrigo-nascimento-ferreira",
+        "id": "hotoriko-nashimentofuereira",
         "name": "Rodrigo Nascimento"
       }
     ]
