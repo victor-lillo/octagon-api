@@ -102,40 +102,40 @@
         "name": "Manel Kape"
       },
       {
-        "id": "alex-perez",
-        "name": "Alex Perez"
-      },
-      {
         "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
       },
       {
-        "id": "matt-schnell",
-        "name": "Matt Schnell"
+        "id": "alex-perez",
+        "name": "Alex Perez"
       },
       {
         "id": "tim-elliott",
         "name": "Tim Elliott"
       },
       {
-        "id": "tagir-ulanbekov",
-        "name": "Tagir Ulanbekov"
-      },
-      {
         "id": "steve-erceg",
         "name": "Steve Erceg"
       },
       {
-        "id": "su-mudaerji",
-        "name": "Sumudaerji"
+        "id": "matt-schnell",
+        "name": "Matt Schnell"
+      },
+      {
+        "id": "tagir-ulanbekov",
+        "name": "Tagir Ulanbekov"
+      },
+      {
+        "id": "tatsuro-taira",
+        "name": "Tatsuro Taira"
       },
       {
         "id": "david-dvorak",
         "name": "David Dvorak"
       },
       {
-        "id": "tatsuro-taira",
-        "name": "Tatsuro Taira"
+        "id": "su-mudaerji",
+        "name": "Sumudaerji"
       }
     ]
   },
@@ -184,6 +184,10 @@
         "name": "Rob Font"
       },
       {
+        "id": "umar-nurmagomedov",
+        "name": "Umar Nurmagomedov"
+      },
+      {
         "id": "jonathan-martinez",
         "name": "Jonathan Martinez"
       },
@@ -194,10 +198,6 @@
       {
         "id": "pedro-munhoz",
         "name": "Pedro Munhoz"
-      },
-      {
-        "id": "umar-nurmagomedov",
-        "name": "Umar Nurmagomedov"
       },
       {
         "id": "mario-bautista",
@@ -460,12 +460,12 @@
         "name": "Nassourdine Imavov"
       },
       {
-        "id": "jack-hermansson",
-        "name": "Jack Hermansson"
-      },
-      {
         "id": "roman-dolidze",
         "name": "Roman Dolidze"
+      },
+      {
+        "id": "jack-hermansson",
+        "name": "Jack Hermansson"
       },
       {
         "id": "khamzat-chimaev",
@@ -554,8 +554,8 @@
         "name": "Dominick Reyes"
       },
       {
-        "id": "dustin-jacoby",
-        "name": "Dustin Jacoby"
+        "id": "vitor-petrino",
+        "name": "Vitor Petrino"
       }
     ]
   },
@@ -604,16 +604,16 @@
         "name": "Tai Tuivasa"
       },
       {
-        "id": "derrick-lewis",
-        "name": "Derrick Lewis"
-      },
-      {
         "id": "marcin-tybura",
         "name": "Marcin Tybura"
       },
       {
         "id": "jairzinho-rozenstruik",
         "name": "Jairzinho Rozenstruik"
+      },
+      {
+        "id": "derrick-lewis",
+        "name": "Derrick Lewis"
       },
       {
         "id": "alexandr-romanov",
@@ -624,7 +624,7 @@
         "name": "Marcos Rogerio de Lima"
       },
       {
-        "id": "hotoriko-nashimentofuereira",
+        "id": "rodrigo-nascimento-ferreira",
         "name": "Rodrigo Nascimento"
       }
     ]

@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "hotoriko-nashimentofuereira",
+    "fighter": "rodrigo-nascimento-ferreira",
     "fighterName": "Rodrigo Nascimento",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
     "currentPosition": 14,
     "previousPosition": "unranked",
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "marcin-tybura",
-    "fighterName": "Marcin Tybura",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2024-03-07T04:14:38.675Z"
+    "date": "2024-03-14T04:15:06.337Z"
   },
   {
     "fighter": "derrick-lewis",
     "fighterName": "Derrick Lewis",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
+    "currentPosition": 11,
+    "previousPosition": 9,
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "jairzinho-rozenstruik",
+    "fighterName": "Jairzinho Rozenstruik",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "marcin-tybura",
+    "fighterName": "Marcin Tybura",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 9,
     "previousPosition": 10,
-    "date": "2024-03-07T04:14:38.675Z"
+    "date": "2024-03-14T04:15:06.337Z"
   },
   {
-    "fighter": "bobby-green",
-    "fighterName": "Bobby Green",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "yair-rodriguez",
-    "fighterName": "Yair Rodriguez",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 3,
-    "previousPosition": 2,
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "brian-ortega",
-    "fighterName": "Brian Ortega",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 2,
-    "previousPosition": 3,
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "amir-albazi",
-    "fighterName": "Amir Albazi",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 2,
-    "previousPosition": 1,
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "brandon-moreno",
-    "fighterName": "Brandon Moreno",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 1,
-    "previousPosition": 0,
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "brandon-royval",
-    "fighterName": "Brandon Royval",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 0,
-    "previousPosition": 2,
-    "date": "2024-03-07T04:14:38.675Z"
-  },
-  {
-    "fighter": "jasmine-jasudavicius",
-    "fighterName": "Jasmine Jasudavicius",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "vitor-petrino",
+    "fighterName": "Vitor Petrino",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
     "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-02-29T04:14:52.276Z"
+    "previousPosition": "unranked",
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "jack-hermansson",
+    "fighterName": "Jack Hermansson",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "roman-dolidze",
+    "fighterName": "Roman Dolidze",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "pedro-munhoz",
+    "fighterName": "Pedro Munhoz",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "dominick-cruz",
+    "fighterName": "Dominick Cruz",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2024-03-14T04:15:06.337Z"
+  },
+  {
+    "fighter": "jonathan-martinez",
+    "fighterName": "Jonathan Martinez",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2024-03-14T04:15:06.337Z"
   }
 ]

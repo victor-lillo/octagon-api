@@ -28,16 +28,16 @@
         "name": "Ilia Topuria"
       },
       {
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
+      },
+      {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
       },
       {
         "id": "alexander-volkanovski",
         "name": "Alexander Volkanovski"
-      },
-      {
-        "id": "sean-omalley",
-        "name": "Sean O'Malley"
       },
       {
         "id": "dricus-du-plessis",
@@ -130,12 +130,12 @@
         "name": "Tatsuro Taira"
       },
       {
-        "id": "david-dvorak",
-        "name": "David Dvorak"
-      },
-      {
         "id": "su-mudaerji",
         "name": "Sumudaerji"
+      },
+      {
+        "id": "david-dvorak",
+        "name": "David Dvorak"
       }
     ]
   },
@@ -188,24 +188,24 @@
         "name": "Umar Nurmagomedov"
       },
       {
-        "id": "jonathan-martinez",
-        "name": "Jonathan Martinez"
-      },
-      {
         "id": "dominick-cruz",
         "name": "Dominick Cruz"
       },
       {
-        "id": "pedro-munhoz",
-        "name": "Pedro Munhoz"
+        "id": "kyler-phillips",
+        "name": "Kyler Phillips"
       },
       {
         "id": "mario-bautista",
         "name": "Mario Bautista"
       },
       {
-        "id": "ricky-simon",
-        "name": "Ricky Simon"
+        "id": "jonathan-martinez",
+        "name": "Jonathan Martinez"
+      },
+      {
+        "id": "pedro-munhoz",
+        "name": "Pedro Munhoz"
       }
     ]
   },
@@ -304,12 +304,12 @@
         "name": "Arman Tsarukyan"
       },
       {
-        "id": "michael-chandler",
-        "name": "Michael Chandler"
-      },
-      {
         "id": "mateusz-gamrot",
         "name": "Mateusz Gamrot"
+      },
+      {
+        "id": "michael-chandler",
+        "name": "Michael Chandler"
       },
       {
         "id": "beneil-dariush",
@@ -320,20 +320,20 @@
         "name": "Rafael Fiziev"
       },
       {
-        "id": "jalin-turner",
-        "name": "Jalin Turner"
-      },
-      {
         "id": "dan-hooker",
         "name": "Dan Hooker"
       },
       {
-        "id": "rafael-dos-anjos",
-        "name": "Rafael Dos Anjos"
+        "id": "jalin-turner",
+        "name": "Jalin Turner"
       },
       {
         "id": "benoit-saint-denis",
         "name": "Benoît Saint Denis"
+      },
+      {
+        "id": "rafael-dos-anjos",
+        "name": "Rafael Dos Anjos"
       },
       {
         "id": "renato-moicano",
@@ -370,12 +370,16 @@
         "name": "Shavkat Rakhmonov"
       },
       {
-        "id": "gilbert-burns",
-        "name": "Gilbert Burns"
-      },
-      {
         "id": "colby-covington",
         "name": "Colby Covington"
+      },
+      {
+        "id": "jack-della-maddalena",
+        "name": "Jack Della Maddalena"
+      },
+      {
+        "id": "gilbert-burns",
+        "name": "Gilbert Burns"
       },
       {
         "id": "ian-garry",
@@ -398,12 +402,12 @@
         "name": "Vicente Luque"
       },
       {
-        "id": "jack-della-maddalena",
-        "name": "Jack Della Maddalena"
-      },
-      {
         "id": "neil-magny",
         "name": "Neil Magny"
+      },
+      {
+        "id": "michael-page",
+        "name": "Michael Page"
       },
       {
         "id": "kevin-holland",
@@ -412,10 +416,6 @@
       {
         "id": "michael-chiesa",
         "name": "Michael Chiesa"
-      },
-      {
-        "id": "rinat-fakhretdinov",
-        "name": "Rinat Fakhretdinov"
       }
     ]
   },
@@ -472,12 +472,12 @@
         "name": "Khamzat Chimaev"
       },
       {
-        "id": "paul-craig",
-        "name": "Paul Craig"
-      },
-      {
         "id": "anthony-hernandez",
         "name": "Anthony Hernandez"
+      },
+      {
+        "id": "paul-craig",
+        "name": "Paul Craig"
       },
       {
         "id": "chris-curtis",
@@ -694,8 +694,8 @@
         "name": "Irene Aldana"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
+        "id": "maycee-barber",
+        "name": "Maycee Barber"
       }
     ]
   },
@@ -790,16 +790,16 @@
         "name": "Manon Fiorot"
       },
       {
-        "id": "katlyn-cerminara",
-        "name": "Katlyn Cerminara"
+        "id": "maycee-barber",
+        "name": "Maycee Barber"
       },
       {
         "id": "jessica-andrade",
         "name": "Jéssica Andrade"
       },
       {
-        "id": "maycee-barber",
-        "name": "Maycee Barber"
+        "id": "katlyn-cerminara",
+        "name": "Katlyn Cerminara"
       },
       {
         "id": "natalia-silva",
@@ -904,8 +904,8 @@
         "name": "Chelsea Chandler"
       },
       {
-        "id": "melissa-dixon",
-        "name": "Melissa Dixon"
+        "id": "melissa-mullins",
+        "name": "Melissa Mullins"
       }
     ]
   }
