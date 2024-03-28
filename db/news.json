@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "melissa-mullins",
-    "fighterName": "Melissa Mullins",
+    "fighter": "josiane-nunes",
+    "fighterName": "Josiane Nunes",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "katlyn-cerminara",
-    "fighterName": "Katlyn Cerminara",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 5,
-    "previousPosition": 3,
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "maycee-barber",
-    "fighterName": "Maycee Barber",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 3,
-    "previousPosition": 5,
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "maycee-barber",
-    "fighterName": "Maycee Barber",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "paul-craig",
-    "fighterName": "Paul Craig",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "anthony-hernandez",
-    "fighterName": "Anthony Hernandez",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "michael-chiesa",
-    "fighterName": "Michael Chiesa",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-03-21T04:16:23.824Z"
-  },
-  {
-    "fighter": "kevin-holland",
-    "fighterName": "Kevin Holland",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
     "currentPosition": 13,
     "previousPosition": 12,
-    "date": "2024-03-21T04:16:23.824Z"
+    "date": "2024-03-28T04:14:46.634Z"
   },
   {
-    "fighter": "michael-page",
-    "fighterName": "Michael Page",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2024-03-21T04:16:23.824Z"
+    "previousPosition": 13,
+    "date": "2024-03-28T04:14:46.634Z"
   },
   {
-    "fighter": "vicente-luque",
-    "fighterName": "Vicente Luque",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 10,
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 9,
+    "previousPosition": 6,
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 8,
+    "previousPosition": 5,
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
     "previousPosition": 9,
-    "date": "2024-03-21T04:16:23.824Z"
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "tai-tuivasa",
+    "fighterName": "Tai Tuivasa",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "serghei-spivac",
+    "fighterName": "Serghei Spivac",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2024-03-28T04:14:46.634Z"
+  },
+  {
+    "fighter": "marcin-tybura",
+    "fighterName": "Marcin Tybura",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": 9,
+    "date": "2024-03-28T04:14:46.634Z"
   }
 ]

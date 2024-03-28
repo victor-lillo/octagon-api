@@ -690,12 +690,12 @@
         "name": "Ketlen Vieira"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "maycee-barber",
         "name": "Maycee Barber"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       }
     ]
   },
@@ -802,6 +802,10 @@
         "name": "Katlyn Cerminara"
       },
       {
+        "id": "rose-namajunas",
+        "name": "Rose Namajunas"
+      },
+      {
         "id": "natalia-silva",
         "name": "Natalia Silva"
       },
@@ -832,10 +836,6 @@
       {
         "id": "miranda-maverick",
         "name": "Miranda Maverick"
-      },
-      {
-        "id": "jasmine-jasudavicius",
-        "name": "Jasmine Jasudavicius"
       }
     ]
   },
