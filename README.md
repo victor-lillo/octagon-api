@@ -17,9 +17,9 @@
 
 This is an **open source project**, created by a group of developers who love MMA.
 
-Our purpouse is to provide a **free and fast API** from this popular sport. There were lots of APIs for everything you can imagine, except MMA. That's the reason we created **Octagon API**.
+Our purpose is to provide a **free and fast API** from this popular sport. There were lots of APIs for everything you can imagine, except MMA. That's the reason we created **Octagon API**.
 
-Now, MMA fan developers can create their own projects with their favourite fighters information, bringing a breath of fresh air to the common API based projects.
+Now, MMA fan developers can create their own projects with their favorite fighters information, bringing a breath of fresh air to the common API based projects.
 
 Also, we created a **web page** for displaying our database information.
 
@@ -47,7 +47,7 @@ https://api.octagon-api.com/
 |     `api:dev`     |                 | Starts a local instance of the API service.                                                           |
 |   `api:publish`   |                 | Publishes the API. Requires `wrangler` installed and logged.                                          |
 |     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
-| `scrape:figther`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
+| `scrape:fighter`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `yarn scrape:fighter --amanda-nunes`. |
 | `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
 |   `lighthouse`    |                 | Generates and insert Lighthouse report badges in the `README.md`.                                     |
 
