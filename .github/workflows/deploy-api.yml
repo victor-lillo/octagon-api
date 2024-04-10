@@ -6,6 +6,10 @@ on:
   push:
     branches: ['main']
     paths: ['db/**']
+  workflow_run:
+    workflows: ['Octagon Scraper']
+    types:
+      - completed
 
 jobs:
   deploy:
