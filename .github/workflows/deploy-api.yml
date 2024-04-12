@@ -23,4 +23,4 @@ jobs:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: api
-      - run: echo "🎉 API successfuly finished!"
+      - run: echo "🎉 API successfully finished!"
