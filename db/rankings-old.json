@@ -130,12 +130,12 @@
         "name": "Tatsuro Taira"
       },
       {
-        "id": "su-mudaerji",
-        "name": "Sumudaerji"
-      },
-      {
         "id": "david-dvorak",
         "name": "David Dvorak"
+      },
+      {
+        "id": "su-mudaerji",
+        "name": "Sumudaerji"
       }
     ]
   },
@@ -398,24 +398,24 @@
         "name": "Geoff Neal"
       },
       {
-        "id": "vicente-luque",
-        "name": "Vicente Luque"
-      },
-      {
         "id": "neil-magny",
         "name": "Neil Magny"
+      },
+      {
+        "id": "joaquin-buckley",
+        "name": "Joaquin Buckley"
       },
       {
         "id": "michael-page",
         "name": "Michael Page"
       },
       {
-        "id": "kevin-holland",
-        "name": "Kevin Holland"
+        "id": "vicente-luque",
+        "name": "Vicente Luque"
       },
       {
-        "id": "michael-chiesa",
-        "name": "Michael Chiesa"
+        "id": "kevin-holland",
+        "name": "Kevin Holland"
       }
     ]
   },
@@ -650,20 +650,20 @@
         "name": "Valentina Shevchenko"
       },
       {
-        "id": "erin-blanchfield",
-        "name": "Erin Blanchfield"
+        "id": "manon-fiorot",
+        "name": "Manon Fiorot"
       },
       {
         "id": "julianna-pena",
         "name": "Julianna Peña"
       },
       {
-        "id": "manon-fiorot",
-        "name": "Manon Fiorot"
-      },
-      {
         "id": "raquel-pennington",
         "name": "Raquel Pennington"
+      },
+      {
+        "id": "erin-blanchfield",
+        "name": "Erin Blanchfield"
       },
       {
         "id": "rose-namajunas",
@@ -782,12 +782,12 @@
         "name": "Valentina Shevchenko"
       },
       {
-        "id": "erin-blanchfield",
-        "name": "Erin Blanchfield"
-      },
-      {
         "id": "manon-fiorot",
         "name": "Manon Fiorot"
+      },
+      {
+        "id": "erin-blanchfield",
+        "name": "Erin Blanchfield"
       },
       {
         "id": "maycee-barber",
@@ -798,12 +798,12 @@
         "name": "Jéssica Andrade"
       },
       {
-        "id": "katlyn-cerminara",
-        "name": "Katlyn Cerminara"
-      },
-      {
         "id": "rose-namajunas",
         "name": "Rose Namajunas"
+      },
+      {
+        "id": "katlyn-cerminara",
+        "name": "Katlyn Cerminara"
       },
       {
         "id": "natalia-silva",

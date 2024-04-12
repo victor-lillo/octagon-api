@@ -344,8 +344,8 @@
         "name": "Bobby Green"
       },
       {
-        "id": "drew-dober",
-        "name": "Drew Dober"
+        "id": "matt-frevola",
+        "name": "Matt Frevola"
       }
     ]
   },
@@ -398,12 +398,12 @@
         "name": "Geoff Neal"
       },
       {
-        "id": "neil-magny",
-        "name": "Neil Magny"
-      },
-      {
         "id": "joaquin-buckley",
         "name": "Joaquin Buckley"
+      },
+      {
+        "id": "neil-magny",
+        "name": "Neil Magny"
       },
       {
         "id": "michael-page",
@@ -460,12 +460,12 @@
         "name": "Nassourdine Imavov"
       },
       {
-        "id": "jack-hermansson",
-        "name": "Jack Hermansson"
-      },
-      {
         "id": "roman-dolidze",
         "name": "Roman Dolidze"
+      },
+      {
+        "id": "jack-hermansson",
+        "name": "Jack Hermansson"
       },
       {
         "id": "khamzat-chimaev",
@@ -662,12 +662,12 @@
         "name": "Raquel Pennington"
       },
       {
-        "id": "erin-blanchfield",
-        "name": "Erin Blanchfield"
-      },
-      {
         "id": "rose-namajunas",
         "name": "Rose Namajunas"
+      },
+      {
+        "id": "erin-blanchfield",
+        "name": "Erin Blanchfield"
       },
       {
         "id": "tatiana-suarez",
@@ -732,12 +732,12 @@
         "name": "Marina Rodriguez"
       },
       {
-        "id": "amanda-ribas",
-        "name": "Amanda Ribas"
-      },
-      {
         "id": "mackenzie-dern",
         "name": "Mackenzie Dern"
+      },
+      {
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
       },
       {
         "id": "luana-pinheiro",
@@ -852,12 +852,12 @@
         "name": "Julianna Peña"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
-      },
-      {
         "id": "ketlen-vieira",
         "name": "Ketlen Vieira"
+      },
+      {
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
       },
       {
         "id": "irene-aldana",
@@ -880,16 +880,16 @@
         "name": "Karol Rosa"
       },
       {
+        "id": "norma-dumont",
+        "name": "Norma Dumont"
+      },
+      {
         "id": "pannie-kianzad",
         "name": "Pannie Kianzad"
       },
       {
         "id": "yana-santos",
         "name": "Yana Santos"
-      },
-      {
-        "id": "norma-dumont",
-        "name": "Norma Dumont"
       },
       {
         "id": "julia-avila",
@@ -900,12 +900,12 @@
         "name": "Chelsea Chandler"
       },
       {
-        "id": "josiane-nunes",
-        "name": "Josiane Nunes"
+        "id": "germaine-de-randamie",
+        "name": "Germaine de Randamie"
       },
       {
-        "id": "melissa-mullins",
-        "name": "Melissa Mullins"
+        "id": "josiane-nunes",
+        "name": "Josiane Nunes"
       }
     ]
   }
