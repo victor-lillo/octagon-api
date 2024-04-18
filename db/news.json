@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "katlyn-cerminara",
-    "fighterName": "Katlyn Cerminara",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "rose-namajunas",
-    "fighterName": "Rose Namajunas",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "erin-blanchfield",
-    "fighterName": "Erin Blanchfield",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 2,
-    "previousPosition": 1,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "manon-fiorot",
-    "fighterName": "Manon Fiorot",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 1,
-    "previousPosition": 2,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "erin-blanchfield",
-    "fighterName": "Erin Blanchfield",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 6,
-    "previousPosition": 3,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "raquel-pennington",
-    "fighterName": "Raquel Pennington",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "manon-fiorot",
-    "fighterName": "Manon Fiorot",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 3,
-    "previousPosition": 5,
-    "date": "2024-04-11T04:15:02.228Z"
-  },
-  {
-    "fighter": "kevin-holland",
-    "fighterName": "Kevin Holland",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "josiane-nunes",
+    "fighterName": "Josiane Nunes",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 14,
     "previousPosition": 13,
-    "date": "2024-04-11T04:15:02.228Z"
+    "date": "2024-04-18T04:15:18.375Z"
   },
   {
-    "fighter": "vicente-luque",
-    "fighterName": "Vicente Luque",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "germaine-de-randamie",
+    "fighterName": "Germaine de Randamie",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 13,
-    "previousPosition": 10,
-    "date": "2024-04-11T04:15:02.228Z"
+    "previousPosition": "unranked",
+    "date": "2024-04-18T04:15:18.375Z"
   },
   {
-    "fighter": "joaquin-buckley",
-    "fighterName": "Joaquin Buckley",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2024-04-11T04:15:02.228Z"
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 8,
+    "previousPosition": 10,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 2,
+    "previousPosition": 1,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "ketlen-vieira",
+    "fighterName": "Ketlen Vieira",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 1,
+    "previousPosition": 2,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "amanda-ribas",
+    "fighterName": "Amanda Ribas",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "mackenzie-dern",
+    "fighterName": "Mackenzie Dern",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2024-04-18T04:15:18.375Z"
+  },
+  {
+    "fighter": "erin-blanchfield",
+    "fighterName": "Erin Blanchfield",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2024-04-18T04:15:18.375Z"
   }
 ]

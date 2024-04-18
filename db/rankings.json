@@ -32,12 +32,12 @@
         "name": "Sean O'Malley"
       },
       {
-        "id": "charles-oliveira",
-        "name": "Charles Oliveira"
-      },
-      {
         "id": "alexander-volkanovski",
         "name": "Alexander Volkanovski"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
       },
       {
         "id": "dricus-du-plessis",
@@ -46,6 +46,10 @@
       {
         "id": "alexandre-pantoja",
         "name": "Alexandre Pantoja"
+      },
+      {
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira"
       },
       {
         "id": "israel-adesanya",
@@ -58,10 +62,6 @@
       {
         "id": "sean-strickland",
         "name": "Sean Strickland"
-      },
-      {
-        "id": "max-holloway",
-        "name": "Max Holloway"
       },
       {
         "id": "aljamain-sterling",
@@ -152,10 +152,6 @@
         "name": "Merab Dvalishvili"
       },
       {
-        "id": "aljamain-sterling",
-        "name": "Aljamain Sterling"
-      },
-      {
         "id": "cory-sandhagen",
         "name": "Cory Sandhagen"
       },
@@ -172,12 +168,12 @@
         "name": "Henry Cejudo"
       },
       {
-        "id": "yadong-song",
-        "name": "Song Yadong"
-      },
-      {
         "id": "deiveson-figueiredo",
         "name": "Deiveson Figueiredo"
+      },
+      {
+        "id": "yadong-song",
+        "name": "Song Yadong"
       },
       {
         "id": "rob-font",
@@ -206,6 +202,10 @@
       {
         "id": "pedro-munhoz",
         "name": "Pedro Munhoz"
+      },
+      {
+        "id": "ricky-simon",
+        "name": "Ricky Simon"
       }
     ]
   },
@@ -246,6 +246,10 @@
         "name": "Josh Emmett"
       },
       {
+        "id": "aljamain-sterling",
+        "name": "Aljamain Sterling"
+      },
+      {
         "id": "calvin-kattar",
         "name": "Calvin Kattar"
       },
@@ -266,16 +270,12 @@
         "name": "Dan Ige"
       },
       {
+        "id": "diego-lopes",
+        "name": "Diego Lopes"
+      },
+      {
         "id": "sodiq-yusuff",
         "name": "Sodiq Yusuff"
-      },
-      {
-        "id": "lerone-murphy",
-        "name": "Lerone Murphy"
-      },
-      {
-        "id": "alex-caceres",
-        "name": "Alex Caceres"
       }
     ]
   },
@@ -287,6 +287,10 @@
       "championName": "Islam Makhachev"
     },
     "fighters": [
+      {
+        "id": "arman-tsarukyan",
+        "name": "Arman Tsarukyan"
+      },
       {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
@@ -300,24 +304,28 @@
         "name": "Dustin Poirier"
       },
       {
-        "id": "arman-tsarukyan",
-        "name": "Arman Tsarukyan"
-      },
-      {
         "id": "mateusz-gamrot",
         "name": "Mateusz Gamrot"
-      },
-      {
-        "id": "michael-chandler",
-        "name": "Michael Chandler"
       },
       {
         "id": "beneil-dariush",
         "name": "Beneil Dariush"
       },
       {
+        "id": "michael-chandler",
+        "name": "Michael Chandler"
+      },
+      {
         "id": "rafael-fiziev",
         "name": "Rafael Fiziev"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
+      },
+      {
+        "id": "renato-moicano",
+        "name": "Renato Moicano"
       },
       {
         "id": "dan-hooker",
@@ -336,16 +344,8 @@
         "name": "Rafael Dos Anjos"
       },
       {
-        "id": "renato-moicano",
-        "name": "Renato Moicano"
-      },
-      {
         "id": "bobby-green",
         "name": "Bobby Green"
-      },
-      {
-        "id": "matt-frevola",
-        "name": "Matt Frevola"
       }
     ]
   },
@@ -480,12 +480,12 @@
         "name": "Paul Craig"
       },
       {
-        "id": "chris-curtis",
-        "name": "Chris Curtis"
-      },
-      {
         "id": "caio-borralho",
         "name": "Caio Borralho"
+      },
+      {
+        "id": "chris-curtis",
+        "name": "Chris Curtis"
       }
     ]
   },
@@ -498,16 +498,16 @@
     },
     "fighters": [
       {
-        "id": "jamahal-hill",
-        "name": "Jamahal Hill"
-      },
-      {
         "id": "jiri-prochazka",
         "name": "Jiří Procházka"
       },
       {
         "id": "magomed-ankalaev",
         "name": "Magomed Ankalaev"
+      },
+      {
+        "id": "jamahal-hill",
+        "name": "Jamahal Hill"
       },
       {
         "id": "jan-blachowicz",
@@ -686,12 +686,12 @@
         "name": "Amanda Lemos"
       },
       {
-        "id": "ketlen-vieira",
-        "name": "Ketlen Vieira"
+        "id": "kayla-harrison",
+        "name": "Kayla Harrison"
       },
       {
-        "id": "maycee-barber",
-        "name": "Maycee Barber"
+        "id": "ketlen-vieira",
+        "name": "Ketlen Vieira"
       },
       {
         "id": "irene-aldana",
@@ -708,12 +708,12 @@
     },
     "fighters": [
       {
-        "id": "xiaonan-yan",
-        "name": "Yan Xiaonan"
-      },
-      {
         "id": "tatiana-suarez",
         "name": "Tatiana Suarez"
+      },
+      {
+        "id": "xiaonan-yan",
+        "name": "Yan Xiaonan"
       },
       {
         "id": "amanda-lemos",
@@ -860,6 +860,10 @@
         "name": "Mayra Bueno Silva"
       },
       {
+        "id": "kayla-harrison",
+        "name": "Kayla Harrison"
+      },
+      {
         "id": "irene-aldana",
         "name": "Irene Aldana"
       },
@@ -902,10 +906,6 @@
       {
         "id": "germaine-de-randamie",
         "name": "Germaine de Randamie"
-      },
-      {
-        "id": "josiane-nunes",
-        "name": "Josiane Nunes"
       }
     ]
   }
