@@ -48,16 +48,16 @@
         "name": "Alexandre Pantoja"
       },
       {
-        "id": "charles-oliveira",
-        "name": "Charles Oliveira"
-      },
-      {
         "id": "israel-adesanya",
         "name": "Israel Adesanya"
       },
       {
         "id": "tom-aspinall",
         "name": "Tom Aspinall"
+      },
+      {
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira"
       },
       {
         "id": "sean-strickland",
@@ -94,20 +94,20 @@
         "name": "Kai Kara-France"
       },
       {
-        "id": "matheus-nicolau",
-        "name": "Matheus Nicolau"
-      },
-      {
-        "id": "manel-kape",
-        "name": "Manel Kape"
+        "id": "alex-perez",
+        "name": "Alex Perez"
       },
       {
         "id": "muhammad-mokaev",
         "name": "Muhammad Mokaev"
       },
       {
-        "id": "alex-perez",
-        "name": "Alex Perez"
+        "id": "manel-kape",
+        "name": "Manel Kape"
+      },
+      {
+        "id": "matheus-nicolau",
+        "name": "Matheus Nicolau"
       },
       {
         "id": "tim-elliott",
@@ -130,12 +130,12 @@
         "name": "Tatsuro Taira"
       },
       {
-        "id": "david-dvorak",
-        "name": "David Dvorak"
-      },
-      {
         "id": "su-mudaerji",
         "name": "Sumudaerji"
+      },
+      {
+        "id": "david-dvorak",
+        "name": "David Dvorak"
       }
     ]
   },
@@ -192,20 +192,20 @@
         "name": "Dominick Cruz"
       },
       {
-        "id": "mario-bautista",
-        "name": "Mario Bautista"
-      },
-      {
         "id": "jonathan-martinez",
         "name": "Jonathan Martinez"
       },
       {
-        "id": "pedro-munhoz",
-        "name": "Pedro Munhoz"
+        "id": "mario-bautista",
+        "name": "Mario Bautista"
       },
       {
         "id": "ricky-simon",
         "name": "Ricky Simon"
+      },
+      {
+        "id": "pedro-munhoz",
+        "name": "Pedro Munhoz"
       }
     ]
   },
@@ -258,12 +258,12 @@
         "name": "Giga Chikadze"
       },
       {
-        "id": "bryce-mitchell",
-        "name": "Bryce Mitchell"
-      },
-      {
         "id": "edson-barboza",
         "name": "Edson Barboza"
+      },
+      {
+        "id": "bryce-mitchell",
+        "name": "Bryce Mitchell"
       },
       {
         "id": "dan-ige",
@@ -374,7 +374,7 @@
         "name": "Colby Covington"
       },
       {
-        "id": "jack-della-maddalena",
+        "id": "sara-elpar-0",
         "name": "Jack Della Maddalena"
       },
       {
@@ -472,7 +472,7 @@
         "name": "Khamzat Chimaev"
       },
       {
-        "id": "anthony-hernandez",
+        "id": "ansoni-herunantesu",
         "name": "Anthony Hernandez"
       },
       {
@@ -538,12 +538,12 @@
         "name": "Anthony Smith"
       },
       {
-        "id": "ryan-spann",
-        "name": "Ryan Spann"
-      },
-      {
         "id": "alonzo-menifield",
         "name": "Alonzo Menifield"
+      },
+      {
+        "id": "bogdan-guskov",
+        "name": "Bogdan Guskov"
       },
       {
         "id": "azamat-murzakanov",
@@ -554,8 +554,8 @@
         "name": "Dominick Reyes"
       },
       {
-        "id": "vitor-petrino",
-        "name": "Vitor Petrino"
+        "id": "ryan-spann",
+        "name": "Ryan Spann"
       }
     ]
   },
@@ -580,12 +580,12 @@
         "name": "Sergei Pavlovich"
       },
       {
-        "id": "stipe-miocic",
-        "name": "Stipe Miocic"
-      },
-      {
         "id": "curtis-blaydes",
         "name": "Curtis Blaydes"
+      },
+      {
+        "id": "stipe-miocic",
+        "name": "Stipe Miocic"
       },
       {
         "id": "alexander-volkov",
@@ -822,12 +822,12 @@
         "name": "Tracy Cortez"
       },
       {
-        "id": "ariane-lipski",
-        "name": "Ariane Lipski"
+        "id": "trevin-dzhayls-0",
+        "name": "Karine Silva"
       },
       {
-        "id": "karine-silva",
-        "name": "Karine Silva"
+        "id": "ariane-lipski",
+        "name": "Ariane da Silva"
       },
       {
         "id": "casey-oneill",
