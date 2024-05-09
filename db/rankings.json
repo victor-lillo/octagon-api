@@ -110,12 +110,12 @@
         "name": "Matheus Nicolau"
       },
       {
-        "id": "tim-elliott",
-        "name": "Tim Elliott"
-      },
-      {
         "id": "steve-erceg",
         "name": "Steve Erceg"
+      },
+      {
+        "id": "tim-elliott",
+        "name": "Tim Elliott"
       },
       {
         "id": "matt-schnell",
@@ -176,6 +176,10 @@
         "name": "Song Yadong"
       },
       {
+        "id": "jose-aldo",
+        "name": "José Aldo"
+      },
+      {
         "id": "rob-font",
         "name": "Rob Font"
       },
@@ -192,16 +196,12 @@
         "name": "Dominick Cruz"
       },
       {
-        "id": "jonathan-martinez",
-        "name": "Jonathan Martinez"
-      },
-      {
         "id": "mario-bautista",
         "name": "Mario Bautista"
       },
       {
-        "id": "ricky-simon",
-        "name": "Ricky Simon"
+        "id": "jonathan-martinez",
+        "name": "Jonathan Martinez"
       },
       {
         "id": "pedro-munhoz",
@@ -308,12 +308,12 @@
         "name": "Mateusz Gamrot"
       },
       {
-        "id": "beneil-dariush",
-        "name": "Beneil Dariush"
-      },
-      {
         "id": "michael-chandler",
         "name": "Michael Chandler"
+      },
+      {
+        "id": "beneil-dariush",
+        "name": "Beneil Dariush"
       },
       {
         "id": "rafael-fiziev",
@@ -374,7 +374,7 @@
         "name": "Colby Covington"
       },
       {
-        "id": "sara-elpar-0",
+        "id": "jack-della-maddalena",
         "name": "Jack Della Maddalena"
       },
       {
@@ -460,10 +460,6 @@
         "name": "Nassourdine Imavov"
       },
       {
-        "id": "roman-dolidze",
-        "name": "Roman Dolidze"
-      },
-      {
         "id": "jack-hermansson",
         "name": "Jack Hermansson"
       },
@@ -472,16 +468,20 @@
         "name": "Khamzat Chimaev"
       },
       {
-        "id": "ansoni-herunantesu",
-        "name": "Anthony Hernandez"
-      },
-      {
-        "id": "paul-craig",
-        "name": "Paul Craig"
+        "id": "roman-dolidze",
+        "name": "Roman Dolidze"
       },
       {
         "id": "caio-borralho",
         "name": "Caio Borralho"
+      },
+      {
+        "id": "michel-pereira",
+        "name": "Michel Pereira"
+      },
+      {
+        "id": "anthony-hernandez",
+        "name": "Anthony Hernandez"
       },
       {
         "id": "chris-curtis",
@@ -686,16 +686,16 @@
         "name": "Amanda Lemos"
       },
       {
-        "id": "kayla-harrison",
-        "name": "Kayla Harrison"
-      },
-      {
         "id": "ketlen-vieira",
         "name": "Ketlen Vieira"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
+        "id": "kayla-harrison",
+        "name": "Kayla Harrison"
+      },
+      {
+        "id": "maycee-barber",
+        "name": "Maycee Barber"
       }
     ]
   },
@@ -756,16 +756,16 @@
         "name": "Angela Hill"
       },
       {
-        "id": "karolina-kowalkiewicz",
-        "name": "Karolina Kowalkiewicz"
+        "id": "iasmin-lucindo",
+        "name": "Iasmin Lucindo"
       },
       {
         "id": "michelle-waterson",
         "name": "Michelle Waterson-Gomez"
       },
       {
-        "id": "gillian-robertson",
-        "name": "Gillian Robertson"
+        "id": "karolina-kowalkiewicz",
+        "name": "Karolina Kowalkiewicz"
       }
     ]
   },
@@ -822,7 +822,7 @@
         "name": "Tracy Cortez"
       },
       {
-        "id": "trevin-dzhayls-0",
+        "id": "karine-silva",
         "name": "Karine Silva"
       },
       {
