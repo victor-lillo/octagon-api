@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "karine-silva",
+    "fighter": "yana-kunitskaya",
+    "fighterName": "Yana Santos",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 11,
+    "previousPosition": "unranked",
+    "date": "2024-05-23T04:16:00.318Z"
+  },
+  {
+    "fighter": "kori-makkenna-6",
+    "fighterName": "Jasmine Jasudavicius",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-05-23T04:16:00.318Z"
+  },
+  {
+    "fighter": "ariane-rifusuki",
+    "fighterName": "Ariane da Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 12,
+    "previousPosition": "unranked",
+    "date": "2024-05-23T04:16:00.318Z"
+  },
+  {
+    "fighter": "trevin-dzhayls-0",
     "fighterName": "Karine Silva",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
     "currentPosition": 11,
     "previousPosition": "unranked",
-    "date": "2024-05-16T04:13:39.189Z"
+    "date": "2024-05-23T04:16:00.318Z"
   },
   {
-    "fighter": "karolina-kowalkiewicz",
-    "fighterName": "Karolina Kowalkiewicz",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": 12,
-    "date": "2024-05-16T04:13:39.189Z"
+    "fighter": "katlyn-chookagian",
+    "fighterName": "Katlyn Cerminara",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 6,
+    "previousPosition": "unranked",
+    "date": "2024-05-23T04:16:00.318Z"
   },
   {
     "fighter": "iasmin-lucindo",
     "fighterName": "Iasmin Lucindo",
     "categoryId": "womens-strawweight",
     "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2024-05-16T04:13:39.189Z"
-  },
-  {
-    "fighter": "maycee-barber",
-    "fighterName": "Maycee Barber",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-05-16T04:13:39.189Z"
-  },
-  {
-    "fighter": "kayla-harrison",
-    "fighterName": "Kayla Harrison",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
     "currentPosition": 13,
     "previousPosition": 12,
-    "date": "2024-05-16T04:13:39.189Z"
+    "date": "2024-05-23T04:16:00.318Z"
   },
   {
-    "fighter": "ketlen-vieira",
-    "fighterName": "Ketlen Vieira",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "fighter": "michelle-waterson",
+    "fighterName": "Michelle Waterson-Gomez",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 12,
     "previousPosition": 13,
-    "date": "2024-05-16T04:13:39.189Z"
+    "date": "2024-05-23T04:16:00.318Z"
   },
   {
-    "fighter": "anthony-hernandez",
-    "fighterName": "Anthony Hernandez",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2024-05-16T04:13:39.189Z"
-  },
-  {
-    "fighter": "michel-pereira",
-    "fighterName": "Michel Pereira",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2024-05-16T04:13:39.189Z"
-  },
-  {
-    "fighter": "caio-borralho",
-    "fighterName": "Caio Borralho",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "jairzinho-rozenstruik",
+    "fighterName": "Jairzinho Rozenstruik",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 11,
-    "previousPosition": 13,
-    "date": "2024-05-16T04:13:39.189Z"
+    "previousPosition": 10,
+    "date": "2024-05-23T04:16:00.318Z"
   },
   {
-    "fighter": "roman-dolidze",
-    "fighterName": "Roman Dolidze",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "tai-tuivasa",
+    "fighterName": "Tai Tuivasa",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 10,
-    "previousPosition": 8,
-    "date": "2024-05-16T04:13:39.189Z"
+    "previousPosition": 9,
+    "date": "2024-05-23T04:16:00.318Z"
+  },
+  {
+    "fighter": "derrick-lewis",
+    "fighterName": "Derrick Lewis",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 9,
+    "previousPosition": 11,
+    "date": "2024-05-23T04:16:00.318Z"
   }
 ]
