@@ -1,5 +1,77 @@
 [
   {
+    "fighter": "raquel-pennington",
+    "fighterName": "Raquel Pennington",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "julianna-pena",
+    "fighterName": "Julianna Peña",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "paulo-costa",
+    "fighterName": "Paulo Costa",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "nassourdine-imavov",
+    "fighterName": "Nassourdine Imavov",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "cody-durden",
+    "fighterName": "Cody Durden",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "david-dvorak",
+    "fighterName": "David Dvorak",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "tom-aspinall",
+    "fighterName": "Tom Aspinall",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
+    "fighter": "charles-oliveira",
+    "fighterName": "Charles Oliveira",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-06-13T04:16:57.768Z"
+  },
+  {
     "fighter": "trevin-dzhayls-0",
     "fighterName": "Karine Silva",
     "categoryId": "womens-flyweight",
@@ -16,77 +88,5 @@
     "currentPosition": 9,
     "previousPosition": 8,
     "date": "2024-06-06T04:16:39.810Z"
-  },
-  {
-    "fighter": "calvin-kattar",
-    "fighterName": "Calvin Kattar",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 8,
-    "previousPosition": 9,
-    "date": "2024-06-06T04:16:39.810Z"
-  },
-  {
-    "fighter": "yana-santos",
-    "fighterName": "Yana Santos",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2024-05-30T04:19:46.331Z"
-  },
-  {
-    "fighter": "jasmine-jasudavicius",
-    "fighterName": "Jasmine Jasudavicius",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-05-30T04:19:46.331Z"
-  },
-  {
-    "fighter": "ariane-lipski",
-    "fighterName": "Ariane da Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2024-05-30T04:19:46.331Z"
-  },
-  {
-    "fighter": "karine-silva",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2024-05-30T04:19:46.331Z"
-  },
-  {
-    "fighter": "katlyn-cerminara",
-    "fighterName": "Katlyn Cerminara",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 6,
-    "previousPosition": "unranked",
-    "date": "2024-05-30T04:19:46.331Z"
-  },
-  {
-    "fighter": "gillian-robertson",
-    "fighterName": "Gillian Robertson",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-05-30T04:19:46.331Z"
-  },
-  {
-    "fighter": "michelle-waterson",
-    "fighterName": "Michelle Waterson-Gomez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2024-05-30T04:19:46.331Z"
   }
 ]
