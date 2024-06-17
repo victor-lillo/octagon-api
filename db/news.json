@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "raquel-pennington",
-    "fighterName": "Raquel Pennington",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "julianna-pena",
-    "fighterName": "Julianna Peña",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "paulo-costa",
-    "fighterName": "Paulo Costa",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "nassourdine-imavov",
-    "fighterName": "Nassourdine Imavov",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 6,
-    "previousPosition": 7,
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "cody-durden",
-    "fighterName": "Cody Durden",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "david-dvorak",
-    "fighterName": "David Dvorak",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "tom-aspinall",
-    "fighterName": "Tom Aspinall",
+    "fighter": "germaine-de-randamie",
+    "fighterName": "Germaine de Randamie",
     "categoryId": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-06-13T04:16:57.768Z"
+    "currentPosition": 194,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
   },
   {
-    "fighter": "charles-oliveira",
-    "fighterName": "Charles Oliveira",
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
     "categoryId": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2024-06-13T04:16:57.768Z"
-  },
-  {
-    "fighter": "trevin-dzhayls-0",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
+    "currentPosition": 193,
     "previousPosition": "unranked",
-    "date": "2024-06-06T04:16:39.810Z"
+    "date": "2024-06-17T07:19:22.926Z"
   },
   {
-    "fighter": "giga-chikadze",
-    "fighterName": "Giga Chikadze",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2024-06-06T04:16:39.810Z"
+    "fighter": "julia-avila",
+    "fighterName": "Julia Avila",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 192,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "yana-santos",
+    "fighterName": "Yana Santos",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 191,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "pannie-kianzad",
+    "fighterName": "Pannie Kianzad",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 190,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 189,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 188,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 187,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 186,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
+  },
+  {
+    "fighter": "holly-holm",
+    "fighterName": "Holly Holm",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 185,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T07:19:22.926Z"
   }
 ]
