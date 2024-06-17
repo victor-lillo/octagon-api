@@ -66,7 +66,17 @@
       {
         "id": "aljamain-sterling",
         "name": "Aljamain Sterling"
-      },
+      }
+    ]
+  },
+  {
+    "id": "flyweight",
+    "categoryName": "Flyweight",
+    "champion": {
+      "id": "alexandre-pantoja",
+      "championName": "Alexandre Pantoja"
+    },
+    "fighters": [
       {
         "id": "brandon-royval",
         "name": "Brandon Royval"
@@ -126,7 +136,17 @@
       {
         "id": "cody-durden",
         "name": "Cody Durden"
-      },
+      }
+    ]
+  },
+  {
+    "id": "bantamweight",
+    "categoryName": "Bantamweight",
+    "champion": {
+      "id": "sean-omalley",
+      "championName": "Sean O'Malley"
+    },
+    "fighters": [
       {
         "id": "merab-dvalishvili",
         "name": "Merab Dvalishvili"
@@ -186,7 +206,17 @@
       {
         "id": "pedro-munhoz",
         "name": "Pedro Munhoz"
-      },
+      }
+    ]
+  },
+  {
+    "id": "featherweight",
+    "categoryName": "Featherweight",
+    "champion": {
+      "id": "ilia-topuria",
+      "championName": "Ilia Topuria"
+    },
+    "fighters": [
       {
         "id": "alexander-volkanovski",
         "name": "Alexander Volkanovski"
@@ -246,7 +276,17 @@
       {
         "id": "edson-barboza",
         "name": "Edson Barboza"
-      },
+      }
+    ]
+  },
+  {
+    "id": "lightweight",
+    "categoryName": "Lightweight",
+    "champion": {
+      "id": "islam-makhachev",
+      "championName": "Islam Makhachev"
+    },
+    "fighters": [
       {
         "id": "arman-tsarukyan",
         "name": "Arman Tsarukyan"
@@ -306,7 +346,17 @@
       {
         "id": "bobby-green",
         "name": "Bobby Green"
-      },
+      }
+    ]
+  },
+  {
+    "id": "welterweight",
+    "categoryName": "Welterweight",
+    "champion": {
+      "id": "leon-edwards",
+      "championName": "Leon Edwards"
+    },
+    "fighters": [
       {
         "id": "kamaru-usman",
         "name": "Kamaru Usman"
@@ -324,7 +374,7 @@
         "name": "Colby Covington"
       },
       {
-        "id": "sara-elpar-0",
+        "id": "jack-della-maddalena",
         "name": "Jack Della Maddalena"
       },
       {
@@ -366,7 +416,17 @@
       {
         "id": "kevin-holland",
         "name": "Kevin Holland"
-      },
+      }
+    ]
+  },
+  {
+    "id": "middleweight",
+    "categoryName": "Middleweight",
+    "champion": {
+      "id": "dricus-du-plessis",
+      "championName": "Dricus Du Plessis"
+    },
+    "fighters": [
       {
         "id": "sean-strickland",
         "name": "Sean Strickland"
@@ -412,7 +472,7 @@
         "name": "Khamzat Chimaev"
       },
       {
-        "id": "mario-souza-3",
+        "id": "caio-borralho",
         "name": "Caio Borralho"
       },
       {
@@ -426,7 +486,17 @@
       {
         "id": "chris-curtis",
         "name": "Chris Curtis"
-      },
+      }
+    ]
+  },
+  {
+    "id": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "champion": {
+      "id": "alex-pereira",
+      "championName": "Alex Pereira"
+    },
+    "fighters": [
       {
         "id": "jiri-prochazka",
         "name": "Jiří Procházka"
@@ -486,7 +556,17 @@
       {
         "id": "azamat-murzakanov",
         "name": "Azamat Murzakanov"
-      },
+      }
+    ]
+  },
+  {
+    "id": "heavyweight",
+    "categoryName": "Heavyweight",
+    "champion": {
+      "id": "jon-jones",
+      "championName": "Jon Jones"
+    },
+    "fighters": [
       {
         "id": "tom-aspinall",
         "name": "Tom Aspinall"
@@ -546,7 +626,17 @@
       {
         "id": "rodrigo-nascimento-ferreira",
         "name": "Rodrigo Nascimento"
-      },
+      }
+    ]
+  },
+  {
+    "id": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "champion": {
+      "id": "alexa-grasso",
+      "championName": "Alexa Grasso"
+    },
+    "fighters": [
       {
         "id": "alexa-grasso",
         "name": "Alexa Grasso"
@@ -606,7 +696,17 @@
       {
         "id": "maycee-barber",
         "name": "Maycee Barber"
-      },
+      }
+    ]
+  },
+  {
+    "id": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "champion": {
+      "id": "weili-zhang",
+      "championName": "Zhang Weili"
+    },
+    "fighters": [
       {
         "id": "tatiana-suarez",
         "name": "Tatiana Suarez"
@@ -666,7 +766,17 @@
       {
         "id": "gillian-robertson",
         "name": "Gillian Robertson"
-      },
+      }
+    ]
+  },
+  {
+    "id": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "champion": {
+      "id": "alexa-grasso",
+      "championName": "Alexa Grasso"
+    },
+    "fighters": [
       {
         "id": "valentina-shevchenko",
         "name": "Valentina Shevchenko"
@@ -692,7 +802,7 @@
         "name": "Rose Namajunas"
       },
       {
-        "id": "katlyn-chookagian",
+        "id": "katlyn-cerminara",
         "name": "Katlyn Cerminara"
       },
       {
@@ -724,9 +834,19 @@
         "name": "Casey O'Neill"
       },
       {
-        "id": "kori-makkenna-6",
+        "id": "jasmine-jasudavicius",
         "name": "Jasmine Jasudavicius"
-      },
+      }
+    ]
+  },
+  {
+    "id": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "champion": {
+      "id": "raquel-pennington",
+      "championName": "Raquel Pennington"
+    },
+    "fighters": [
       {
         "id": "julianna-pena",
         "name": "Julianna Peña"

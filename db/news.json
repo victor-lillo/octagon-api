@@ -1,5 +1,41 @@
 [
   {
+    "fighter": "jasmine-jasudavicius",
+    "fighterName": "Jasmine Jasudavicius",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T15:39:00.204Z"
+  },
+  {
+    "fighter": "katlyn-cerminara",
+    "fighterName": "Katlyn Cerminara",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 6,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T15:39:00.204Z"
+  },
+  {
+    "fighter": "caio-borralho",
+    "fighterName": "Caio Borralho",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 11,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T15:39:00.204Z"
+  },
+  {
+    "fighter": "jack-della-maddalena",
+    "fighterName": "Jack Della Maddalena",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 4,
+    "previousPosition": "unranked",
+    "date": "2024-06-17T15:39:00.204Z"
+  },
+  {
     "fighter": "germaine-de-randamie",
     "fighterName": "Germaine de Randamie",
     "categoryId": "mens-pound-for-pound-top-rank",
@@ -50,42 +86,6 @@
     "categoryId": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
     "currentPosition": 189,
-    "previousPosition": "unranked",
-    "date": "2024-06-17T07:19:22.926Z"
-  },
-  {
-    "fighter": "karol-rosa",
-    "fighterName": "Karol Rosa",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 188,
-    "previousPosition": "unranked",
-    "date": "2024-06-17T07:19:22.926Z"
-  },
-  {
-    "fighter": "miesha-tate",
-    "fighterName": "Miesha Tate",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 187,
-    "previousPosition": "unranked",
-    "date": "2024-06-17T07:19:22.926Z"
-  },
-  {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 186,
-    "previousPosition": "unranked",
-    "date": "2024-06-17T07:19:22.926Z"
-  },
-  {
-    "fighter": "holly-holm",
-    "fighterName": "Holly Holm",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 185,
     "previousPosition": "unranked",
     "date": "2024-06-17T07:19:22.926Z"
   }
