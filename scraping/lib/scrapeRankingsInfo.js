@@ -1,8 +1,8 @@
-import { cleanString, standarizeString } from './stringFormatters.js'
-import { logError, logInfo, logSuccess } from './log.js'
-import { writeDBFile } from './db.js'
-import scrape from './scrape.js'
-import { renameFile } from './renameFile.js'
+import { cleanString, standarizeString } from '../utils/stringFormatters.js'
+import { logError, logInfo, logSuccess } from '../utils/log.js'
+import { writeDBFile } from '../utils/db.js'
+import scrape from '../utils/scrape.js'
+import { renameFile } from '../utils/renameFile.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 

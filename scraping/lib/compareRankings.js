@@ -1,5 +1,5 @@
-import { logSuccess } from './log.js'
-import { readDBFile, writeDBFile } from './db.js'
+import { logSuccess } from '../utils/log.js'
+import { readDBFile, writeDBFile } from '../utils/db.js'
 
 const STORED_CHANGES_NUM = 10
 const NEWS_DB_NAME = 'news'

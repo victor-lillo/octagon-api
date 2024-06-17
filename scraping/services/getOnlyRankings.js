@@ -1,7 +1,7 @@
 import { compareRankings } from '../lib/compareRankings.js'
-import { logSuccess } from '../lib/log.js'
+import { logSuccess } from '../utils/log.js'
 import scrapeRankingsInfo from '../lib/scrapeRankingsInfo.js'
-import timeFormatter from '../lib/timeFormatter.js'
+import timeFormatter from '../utils/timeFormatter.js'
 
 const run = async () => {
   const start = performance.now()

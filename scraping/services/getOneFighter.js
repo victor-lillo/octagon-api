@@ -1,7 +1,7 @@
 import scrapeFighterInfo from '../lib/scrapeFighterInfo.js'
-import { readDBFile } from '../lib/db.js'
-import { logError, logSuccess } from '../lib/log.js'
-import timeFormatter from '../lib/timeFormatter.js'
+import { readDBFile } from '../utils/db.js'
+import { logError, logSuccess } from '../utils/log.js'
+import timeFormatter from '../utils/timeFormatter.js'
 
 const run = async () => {
   const start = performance.now()

@@ -1,9 +1,9 @@
 import sleepWithLog from 'sleep-dots'
-import { logSuccess } from './lib/log.js'
-import { readDBFile } from './lib/db.js'
+import { logSuccess } from './utils/log.js'
+import { readDBFile } from './utils/db.js'
 import { REQUEST_DELAY } from '../octagon-api.config.js'
 import scrapeFighterInfo from './lib/scrapeFighterInfo.js'
-import timeFormatter from './lib/timeFormatter.js'
+import timeFormatter from './utils/timeFormatter.js'
 
 async function getFigthers() {
   const start = performance.now()
