@@ -1,4 +1,4 @@
-import { cleanString, standarizeString } from './string_modifiers.js'
+import { cleanString, standarizeString } from './stringFormatters.js'
 import { logError, logInfo, logSuccess } from './log.js'
 import { writeDBFile } from './db.js'
 import scrape from './scrape.js'

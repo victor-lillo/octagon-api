@@ -1,5 +1,5 @@
 import path from 'node:path'
-import { cleanString, camelCaseString } from './string_modifiers.js'
+import { cleanString, camelCaseString } from './stringFormatters.js'
 import { logInfo, logSuccess } from './log.js'
 import { readDBFile, writeDBFile } from './db.js'
 import checkFileExists from './checkFileExists.js'
