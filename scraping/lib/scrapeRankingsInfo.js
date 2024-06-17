@@ -62,10 +62,8 @@ async function scrapeRankingsInfo() {
     await writeDBFile(RANKINGS_DB_NAME, data)
     logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
   } catch (error) {
-    console.log('')
-    logError(error)
-    console.log(error)
-    console.log('')
+    logError('\n', error)
+    console.log(error, '\n')
   }
 }
 
