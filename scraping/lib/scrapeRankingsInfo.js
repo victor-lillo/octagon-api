@@ -10,11 +10,12 @@ const RANKINGS_URL = 'https://www.ufc.com/rankings'
 const RANKINGS_DB_NAME = 'rankings'
 
 const SELECTORS = {
-  table: '.views-table',
+  table: '.view-grouping', // Each category table selector
   category: '.rankings--athlete--champion h4',
   champion: '.rankings--athlete--champion .info a',
   fighterRows: '.views-field.views-field-title',
 }
+
 const getSlugFromUrl = (url) => {
   return url.split('/').at(-1)
 }
@@ -26,7 +27,11 @@ async function scrapeRankingsInfo() {
     const $ = await scrape(RANKINGS_URL)
     const $tables = $.querySelectorAll(SELECTORS.table)
 
-    // Recorremos el nodeElement tables (que son todos los que coinciden con nuestra búsqueda)
+    // Guard clause: if $tables is 0, throw new Error
+    if ($tables.length === 0)
+      throw new Error(`'$table' selector have changed. Check the selector in ${RANKINGS_URL}`)
+
+    // We traverse the nodeElement tables
     const data = $tables.map(($el) => {
       const categoryName = $el.querySelector(SELECTORS.category).textContent
       const categoryId = standarizeString(categoryName)
@@ -58,10 +63,8 @@ async function scrapeRankingsInfo() {
     await writeDBFile(RANKINGS_DB_NAME, data)
     logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
   } catch (error) {
-    console.log('')
-    logError(error)
-    console.log(error)
-    console.log('')
+    logError('\n', error)
+    console.log(error, '\n')
   }
 }
 
