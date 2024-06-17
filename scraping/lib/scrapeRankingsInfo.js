@@ -15,6 +15,7 @@ const SELECTORS = {
   champion: '.rankings--athlete--champion .info a',
   fighterRows: '.views-field.views-field-title',
 }
+
 const getSlugFromUrl = (url) => {
   return url.split('/').at(-1)
 }
