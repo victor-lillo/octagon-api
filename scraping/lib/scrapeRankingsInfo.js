@@ -10,7 +10,7 @@ const RANKINGS_URL = 'https://www.ufc.com/rankings'
 const RANKINGS_DB_NAME = 'rankings'
 
 const SELECTORS = {
-  table: '.views-table',
+  table: '.view-grouping', // Each category table selector
   category: '.rankings--athlete--champion h4',
   champion: '.rankings--athlete--champion .info a',
   fighterRows: '.views-field.views-field-title',
