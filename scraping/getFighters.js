@@ -5,7 +5,7 @@ import { REQUEST_DELAY } from '../octagon-api.config.js'
 import scrapeFighterInfo from './lib/scrapeFighterInfo.js'
 import timeFormatter from './utils/timeFormatter.js'
 
-async function getFigthers() {
+async function getFighters() {
   const start = performance.now()
   const ranking_data = await readDBFile('rankings')
 
@@ -22,4 +22,4 @@ async function getFigthers() {
   logSuccess(`Task finished in ${time}`)
 }
 
-export default getFigthers
+export default getFighters
