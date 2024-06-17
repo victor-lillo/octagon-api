@@ -26,7 +26,11 @@ async function scrapeRankingsInfo() {
     const $ = await scrape(RANKINGS_URL)
     const $tables = $.querySelectorAll(SELECTORS.table)
 
-    // Recorremos el nodeElement tables (que son todos los que coinciden con nuestra búsqueda)
+    // Guard clause: if $tables is 0, throw new Error
+    if ($tables.length === 0)
+      throw new Error(`'$table' selector have changed. Check the selector in ${RANKINGS_URL}`)
+
+    // We traverse the nodeElement tables
     const data = $tables.map(($el) => {
       const categoryName = $el.querySelector(SELECTORS.category).textContent
       const categoryId = standarizeString(categoryName)
