@@ -132,7 +132,7 @@
   "alex-pereira": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-04/PEREIRA_ALEX_L_BELT_04-13.png?itok=-zKSPFcu",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/PEREIRA_ALEX_L_BELT_06-29.png?itok=DU4_Yb_o",
     "losses": "2",
     "name": "Alex Pereira",
     "nickname": "Poatan",
@@ -143,7 +143,7 @@
     "fightingStyle": "Kickboxer",
     "age": "36",
     "height": "76.00",
-    "weight": "205.00",
+    "weight": "220.00",
     "octagonDebut": "Nov. 6, 2021",
     "reach": "79.00",
     "legReach": "44.00"
@@ -181,7 +181,7 @@
     "fightingStyle": "Muay Thai",
     "age": "31",
     "height": "75.00",
-    "weight": "206.00",
+    "weight": "218.00",
     "octagonDebut": "Jul. 11, 2020",
     "reach": "80.00",
     "legReach": "45.00"
@@ -823,7 +823,7 @@
   "brian-ortega": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-02/ORTEGA_BRIAN_L_02-24.png?itok=kmX5nrw1",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/ORTEGA_BRIAN_L_06-29.png?itok=Jia4w1Q0",
     "losses": "3",
     "name": "Brian Ortega",
     "nickname": "T-City",
@@ -834,7 +834,7 @@
     "fightingStyle": "Striker",
     "age": "33",
     "height": "68.00",
-    "weight": "146.00",
+    "weight": "161.00",
     "octagonDebut": "Jul. 26, 2014",
     "reach": "69.00",
     "legReach": "39.00"
@@ -1315,7 +1315,7 @@
     "wins": "17",
     "status": "Active",
     "placeOfBirth": "United States",
-    "trainsAt": "American Top Team ATT Coconut Creek, FL",
+    "trainsAt": "MMA Masters - Miami, FL",
     "age": "36",
     "height": "71.00",
     "weight": "169.50",
@@ -1676,7 +1676,7 @@
     "legReach": "41.50"
   },
   "roman-dolidze": {
-    "category": "Middleweight Division",
+    "category": "Light Heavyweight Division",
     "draws": "0",
     "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-02/DOLIDZE_ROMAN_L_02-03.png?itok=WAOnQkrD",
     "losses": "3",
@@ -1689,7 +1689,7 @@
     "fightingStyle": "MMA",
     "age": "35",
     "height": "74.00",
-    "weight": "186.00",
+    "weight": "212.00",
     "octagonDebut": "Jul. 18, 2020",
     "reach": "76.00",
     "legReach": "41.00"
@@ -1902,7 +1902,7 @@
   "anthony-smith": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-05/SMITH_ANTHONY_L_05-04.png?itok=zTXc2_ci",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/SMITH_ANTHONY_L_06-29.png?itok=S5_2ZY8h",
     "losses": "19",
     "name": "Anthony Smith",
     "nickname": "Lionheart",
@@ -1913,7 +1913,7 @@
     "fightingStyle": "Freestyle",
     "age": "35",
     "height": "76.00",
-    "weight": "205.50",
+    "weight": "220.00",
     "octagonDebut": "Aug. 19, 2012",
     "reach": "76.00",
     "legReach": "44.00"
@@ -1980,12 +1980,13 @@
     "name": "Volkan Oezdemir",
     "nickname": "No Time",
     "wins": "19",
+    "status": "Active",
     "placeOfBirth": "Fribourg, Switzerland",
     "trainsAt": "Allstars Training Center",
     "fightingStyle": "Striker",
     "age": "34",
     "height": "74.00",
-    "weight": "205.00",
+    "weight": "220.90",
     "octagonDebut": "Feb. 5, 2017",
     "reach": "75.00",
     "legReach": "40.50"
@@ -2012,7 +2013,7 @@
   "johnny-walker": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-02/601d454c-9816-4660-8f47-c92f3a3738f3%252FWALKER_JOHNNY_L_02-19.png?itok=-Oj2FjNg",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/WALKER_JOHNNY_L_06-22.png?itok=t1LEaZqm",
     "losses": "8",
     "name": "Johnny Walker",
     "nickname": "",
@@ -2020,9 +2021,9 @@
     "placeOfBirth": "Belford Roxo, Brazil",
     "trainsAt": "SBG Ireland",
     "fightingStyle": "MMA",
-    "age": "31",
+    "age": "32",
     "height": "78.00",
-    "weight": "219.80",
+    "weight": "226.50",
     "octagonDebut": "Nov. 17, 2018",
     "reach": "82.00",
     "legReach": "44.50"
@@ -2123,7 +2124,7 @@
   "sergei-pavlovich": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-11/PAVLOVICH_SERGEI_L_11-11.png?itok=b_wm1tN_",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/PAVLOVICH_SERGEI_L_06-22.png?itok=6PW_KVJX",
     "losses": "2",
     "name": "Sergei Pavlovich",
     "nickname": "",
@@ -2132,7 +2133,7 @@
     "fightingStyle": "MMA",
     "age": "32",
     "height": "75.00",
-    "weight": "259.80",
+    "weight": "257.00",
     "octagonDebut": "Nov. 24, 2018",
     "reach": "84.00",
     "legReach": "45.00"
@@ -2220,12 +2221,13 @@
     "name": "Alexander Volkov",
     "nickname": "Drago",
     "wins": "37",
+    "status": "Active",
     "placeOfBirth": "Moscow, Russia",
     "trainsAt": "Global Fight Gym",
     "fightingStyle": "Brazilian Jiu-Jitsu",
     "age": "35",
     "height": "79.00",
-    "weight": "262.90",
+    "weight": "250.00",
     "octagonDebut": "Nov. 19, 2016",
     "reach": "80.00",
     "legReach": "47.50"
@@ -2716,7 +2718,7 @@
   "michelle-waterson": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-11/WATERSON-GOMEZ_MICHELLE_L_09-23.png?itok=D3kmaEQL",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/WATERSON-GOMEZ_MICHELLE_L_06-29.png?itok=wPvygZA6",
     "losses": "12",
     "name": "Michelle Waterson-Gomez",
     "nickname": "The Karate Hottie",
@@ -2727,7 +2729,7 @@
     "fightingStyle": "Karate",
     "age": "38",
     "height": "63.00",
-    "weight": "115.50",
+    "weight": "126.70",
     "octagonDebut": "Jul. 12, 2015",
     "reach": "62.00",
     "legReach": "35.50"
@@ -3077,7 +3079,7 @@
     "fightingStyle": "MMA",
     "age": "32",
     "height": "71.00",
-    "weight": "135.50",
+    "weight": "149.50",
     "octagonDebut": "Nov. 30, 2018",
     "reach": "72.00",
     "legReach": "42.00"
@@ -3174,7 +3176,7 @@
   "mayra-bueno-silva": {
     "category": "Women's Bantamweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-01/BUENO_SILVA_MAYRA_L_01-20.png?itok=nAxFKdRz",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/BUENO_SILVA_MAYRA_L_06-29.png?itok=j8J02KKv",
     "losses": "3",
     "name": "Mayra Bueno Silva",
     "nickname": "Sheetara",
@@ -3184,7 +3186,7 @@
     "fightingStyle": "Striker",
     "age": "32",
     "height": "66.00",
-    "weight": "135.00",
+    "weight": "145.00",
     "octagonDebut": "Sep. 23, 2018",
     "reach": "66.50",
     "legReach": "39.00"
@@ -3596,7 +3598,7 @@
   "ian-garry": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-06/GARRY_IAN_L_05-13.png?itok=HVpEq-kW",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-06/GARRY_IAN_L_06-29.png?itok=rJiZh_SO",
     "losses": "0",
     "name": "Ian Machado Garry",
     "nickname": "The Future",
@@ -3605,7 +3607,7 @@
     "placeOfBirth": "Dublin, Ireland",
     "age": "26",
     "height": "75.00",
-    "weight": "170.50",
+    "weight": "181.90",
     "octagonDebut": "Nov. 6, 2021",
     "reach": "74.50",
     "legReach": "42.00"
@@ -4214,7 +4216,7 @@
     "fightingStyle": "MMA",
     "age": "29",
     "height": "65.00",
-    "weight": "115.80",
+    "weight": "125.00",
     "octagonDebut": "Dec. 1, 2017",
     "reach": "63.00",
     "legReach": "35.50"
@@ -4373,7 +4375,6 @@
     "name": "Michael Page",
     "nickname": "Venom",
     "wins": "22",
-    "status": "Active",
     "placeOfBirth": "England, United Kingdom",
     "age": "37",
     "height": "75.00",
@@ -4444,11 +4445,12 @@
     "name": "Diego Lopes",
     "nickname": "",
     "wins": "24",
+    "status": "Active",
     "placeOfBirth": "Manaus, Brazil",
     "fightingStyle": "Jiu-Jitsu",
     "age": "29",
     "height": "71.00",
-    "weight": "157.00",
+    "weight": "162.00",
     "octagonDebut": "May. 6, 2023",
     "reach": "72.50",
     "legReach": "41.00"
@@ -4590,7 +4592,6 @@
     "name": "Carlos Ulberg",
     "nickname": "Black Jag",
     "wins": "11",
-    "status": "Active",
     "placeOfBirth": "Auckland, New Zealand",
     "trainsAt": "City Kickboxing",
     "fightingStyle": "Kickboxer",
