@@ -25,22 +25,25 @@ const scrapeFighterInfo = async (id) => {
   const url = ATHLETE_BASE_URL + id
 
   logInfo(`Scraping ${id} web page`)
+
   const $ = await scrape(url)
+
   const name = $.querySelector(SELECTORS.name).textContent
   const nickname = $.querySelector(SELECTORS.nickname)
     ? $.querySelector(SELECTORS.nickname).textContent.replaceAll('"', '')
     : ''
   const imgUrl = $.querySelector(SELECTORS.image).getAttribute('src')
-  const raw_record = $.querySelector(SELECTORS.record).textContent
-  const [wins, losses, draws] = raw_record.split(' ')[0].split('-')
+  const rawRecord = $.querySelector(SELECTORS.record).textContent
+  const [wins, losses, draws] = rawRecord.split(' ')[0].split('-')
   const category = $.querySelector(SELECTORS.category).textContent
 
-  const bio_fields_obj = {}
-  const bio_fields = $.querySelectorAll(SELECTORS.bio_field)
-  bio_fields.forEach(($el) => {
+  const bioFieldsData = {}
+  const $bioFields = $.querySelectorAll(SELECTORS.bio_field)
+
+  $bioFields.forEach(($el) => {
     const text_label = $el.textContent.toLowerCase().replace(' ', '_')
     const text_content = cleanString($el.nextElementSibling.textContent)
-    bio_fields_obj[camelCaseString(text_label)] = text_content
+    bioFieldsData[camelCaseString(text_label)] = text_content
   })
 
   // For new fighters in our ranking, FIGHTER_DATA[id] is undef
@@ -55,7 +58,7 @@ const scrapeFighterInfo = async (id) => {
       url: imgUrl,
     })
 
-  FIGHTER_DATA[id] = { category, draws, imgUrl, losses, name, nickname, wins, ...bio_fields_obj }
+  FIGHTER_DATA[id] = { category, draws, imgUrl, losses, name, nickname, wins, ...bioFieldsData }
   await writeDBFile(FIGHTERS_DB_NAME, FIGHTER_DATA)
   logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
 }
