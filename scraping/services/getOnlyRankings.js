@@ -11,8 +11,8 @@ const run = async () => {
 
   const end = performance.now()
   const time = timeFormatter(end - start)
-  console.log(' ')
-  logSuccess(`Task finished in ${time}`)
+
+  logSuccess(`\nTask finished in ${time}`)
 }
 
 run()
