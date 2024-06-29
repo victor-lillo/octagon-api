@@ -20,7 +20,7 @@ const getSlugFromUrl = (url) => {
   return url.split('/').at(-1)
 }
 
-export default async function scrapeRankings() {
+const scrapeRankings = async () => {
   try {
     logInfo(`Running ranking scraper`)
 
@@ -67,3 +67,5 @@ export default async function scrapeRankings() {
     console.log(error, '\n')
   }
 }
+
+export default scrapeRankings
