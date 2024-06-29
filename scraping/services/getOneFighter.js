@@ -1,4 +1,4 @@
-import scrapeFighterInfo from '../lib/scrapeFighterInfo.js'
+import scrapeFighterInfo from '../scrapers/scrapeFighterInfo.js'
 import { readDBFile } from '../utils/db.js'
 import { logError, logSuccess } from '../utils/log.js'
 import timeFormatter from '../utils/timeFormatter.js'

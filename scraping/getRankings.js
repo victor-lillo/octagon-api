@@ -1,5 +1,5 @@
 import { compareRankings } from './services/compareRankings.js'
-import scrapeRankingInfo from './lib/scrapeRankingsInfo.js'
+import scrapeRankingInfo from './scrapers/scrapeRankingsInfo.js'
 
 const getRankings = async () => {
   await scrapeRankingInfo()
