@@ -1,4 +1,4 @@
-import scrapeFighterInfo from '../scrapers/scrapeFighterInfo.js'
+import scrapeFighter from '../scrapers/scrapeFighter.js'
 import { readDBFile } from '../utils/db.js'
 import { logError, logSuccess } from '../utils/log.js'
 import timeFormatter from '../utils/timeFormatter.js'
@@ -22,7 +22,7 @@ const run = async () => {
     return
   }
 
-  await scrapeFighterInfo(fighterId)
+  await scrapeFighter(fighterId)
   const end = performance.now()
   const time = timeFormatter(end - start)
   console.log('')

@@ -2,7 +2,7 @@ import sleepWithLog from 'sleep-dots'
 import { logSuccess } from './utils/log.js'
 import { readDBFile } from './utils/db.js'
 import { REQUEST_DELAY } from '../octagon-api.config.js'
-import scrapeFighterInfo from './scrapers/scrapeFighterInfo.js'
+import scrapeFighter from './scrapers/scrapeFighter.js'
 import timeFormatter from './utils/timeFormatter.js'
 
 async function getFighters() {
@@ -11,7 +11,7 @@ async function getFighters() {
 
   for (const { fighters } of rankingData) {
     for (const { id } of fighters) {
-      await scrapeFighterInfo(id)
+      await scrapeFighter(id)
       console.log(`Waiting ${timeFormatter(REQUEST_DELAY)}\n`)
       await sleepWithLog(REQUEST_DELAY)
     }
