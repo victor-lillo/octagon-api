@@ -1,12 +1,12 @@
 import { compareRankings } from './compareRankings.js'
 import { logSuccess } from '../utils/log.js'
-import scrapeRankingsInfo from '../scrapers/scrapeRankingsInfo.js'
+import scrapeRankings from '../scrapers/scrapeRankings.js'
 import timeFormatter from '../utils/timeFormatter.js'
 
 const run = async () => {
   const start = performance.now()
 
-  await scrapeRankingsInfo()
+  await scrapeRankings()
   await compareRankings()
 
   const end = performance.now()
