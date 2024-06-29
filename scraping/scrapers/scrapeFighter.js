@@ -21,7 +21,7 @@ const SELECTORS = {
   record: '.hero-profile__division-body',
 }
 
-export default async function scrapeFighter(id) {
+const scrapeFighter = async (id) => {
   const url = ATHLETE_BASE_URL + id
 
   logInfo(`Scraping ${id} web page`)
@@ -62,3 +62,5 @@ export default async function scrapeFighter(id) {
   await writeDBFile(FIGHTERS_DB_NAME, FIGHTER_DATA)
   logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
 }
+
+export default scrapeFighter
