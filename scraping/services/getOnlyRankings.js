@@ -1,4 +1,4 @@
-import { compareRankings } from '../lib/compareRankings.js'
+import { compareRankings } from './compareRankings.js'
 import { logSuccess } from '../utils/log.js'
 import scrapeRankingsInfo from '../lib/scrapeRankingsInfo.js'
 import timeFormatter from '../utils/timeFormatter.js'
