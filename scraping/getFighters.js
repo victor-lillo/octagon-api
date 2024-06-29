@@ -7,9 +7,9 @@ import timeFormatter from './utils/timeFormatter.js'
 
 async function getFighters() {
   const start = performance.now()
-  const ranking_data = await readDBFile('rankings')
+  const rankingData = await readDBFile('rankings')
 
-  for (const { fighters } of ranking_data) {
+  for (const { fighters } of rankingData) {
     for (const { id } of fighters) {
       await scrapeFighterInfo(id)
       console.log(`Waiting ${timeFormatter(REQUEST_DELAY)}\n`)
