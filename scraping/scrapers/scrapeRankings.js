@@ -1,13 +1,10 @@
 import { cleanString, standarizeString } from '../utils/stringFormatters.js'
-import { logError, logInfo, logSuccess } from '../utils/log.js'
-import { writeDBFile } from '../utils/db.js'
+import { logError, logInfo } from '../utils/log.js'
 import scrape from '../utils/scrape.js'
-import { renameFile } from '../utils/renameFile.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 
 const RANKINGS_URL = 'https://www.ufc.com/rankings'
-const RANKINGS_DB_NAME = 'rankings'
 
 const SELECTORS = {
   table: '.view-grouping', // Each category table selector
@@ -59,9 +56,7 @@ const scrapeRankings = async () => {
       return { id: categoryId, categoryName, champion, fighters }
     })
 
-    await renameFile('rankings', 'rankings-old')
-    await writeDBFile(RANKINGS_DB_NAME, data)
-    logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
+    return data
   } catch (error) {
     logError('\n', error)
   }
