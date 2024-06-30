@@ -25,7 +25,7 @@ export const renameDBFile = async (oldFileName, newFileName) => {
 
     (err) => {
       if (err) throw err
-      console.log(`"${oldFileName}" saved in "${newFileName}"\n`)
+      else console.log(`"${oldFileName}" saved in "${newFileName}"\n`)
     }
   )
 }
