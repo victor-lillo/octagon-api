@@ -1,8 +1,8 @@
 import { compareRankings } from './services/compareRankings.js'
-import scrapeRankings from './scrapers/scrapeRankings.js'
+import { logSuccess } from './utils/log.js'
 import { renameFile } from './utils/renameFile.js'
 import { writeDBFile } from './utils/db.js'
-import { logSuccess } from './utils/log.js'
+import scrapeRankings from './scrapers/scrapeRankings.js'
 
 const RANKINGS_DB_NAME = 'rankings'
 
