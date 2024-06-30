@@ -8,7 +8,7 @@ const RANKINGS_DB_NAME = 'rankings'
 
 const getRankings = async () => {
   const data = await scrapeRankings()
-  await renameFile('rankings', 'rankings-old')
+  await renameFile('rankings' + '.json', 'rankings-old' + '.json')
   await writeDBFile(RANKINGS_DB_NAME, data)
 
   logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
