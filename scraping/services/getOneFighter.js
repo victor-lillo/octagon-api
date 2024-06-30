@@ -1,4 +1,4 @@
-import { FIGHTERS_DB_NAME } from '../constants/index.js'
+import { FIGHTERS_DB_NAME } from '../constants/names.js'
 import scrapeFighter from '../scrapers/scrapeFighter.js'
 import { readDBFile } from '../utils/db.js'
 import { logError, logSuccess } from '../utils/log.js'

@@ -1,6 +1,6 @@
 import { logSuccess } from '../utils/log.js'
 import { readDBFile, writeDBFile } from '../utils/db.js'
-import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/index.js'
+import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/names.js'
 
 const STORED_CHANGES_NUM = 10
 

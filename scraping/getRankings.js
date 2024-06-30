@@ -2,7 +2,7 @@ import { compareRankings } from './services/compareRankings.js'
 import { logSuccess } from './utils/log.js'
 import { renameDBFile, writeDBFile } from './utils/db.js'
 import scrapeRankings from './scrapers/scrapeRankings.js'
-import { RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from './constants/index.js'
+import { RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from './constants/names.js'
 
 const getRankings = async () => {
   const data = await scrapeRankings()

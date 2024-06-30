@@ -4,7 +4,7 @@ import { readDBFile } from './utils/db.js'
 import { REQUEST_DELAY } from '../octagon-api.config.js'
 import scrapeFighter from './scrapers/scrapeFighter.js'
 import timeFormatter from './utils/timeFormatter.js'
-import { RANKINGS_DB_NAME } from './constants/index.js'
+import { RANKINGS_DB_NAME } from './constants/names.js'
 
 const getFighters = async () => {
   const start = performance.now()

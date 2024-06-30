@@ -5,7 +5,7 @@ import { readDBFile, writeDBFile } from '../utils/db.js'
 import checkFileExists from '../utils/checkFileExists.js'
 import saveImage from '../utils/saveImage.js'
 import scrape from '../utils/scrape.js'
-import { FIGHTERS_DB_NAME } from '../constants/index.js'
+import { FIGHTERS_DB_NAME } from '../constants/names.js'
 
 const ATHLETE_BASE_URL = 'https://www.ufc.com/athlete/'
 const BASE_IMAGE_FOLDER = 'public'
