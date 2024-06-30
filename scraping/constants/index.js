@@ -1,3 +1,5 @@
+export const DB_FOLDER_NAME = 'db'
+
 export const FIGHTERS_DB_NAME = 'fighters.json'
 
 export const NEWS_DB_NAME = 'news.json'
