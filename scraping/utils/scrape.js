@@ -1,5 +1,5 @@
-import axios from 'axios'
 import { parse } from 'node-html-parser'
+import axios from 'axios'
 
 const scrape = async (url) => {
   try {

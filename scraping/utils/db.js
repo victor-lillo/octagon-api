@@ -1,7 +1,7 @@
 import { join } from 'node:path'
 import { readFile, rename, writeFile } from 'node:fs/promises'
-import { DB_FOLDER_NAME } from '../constants/names.js'
 import { logError } from './log.js'
+import { DB_FOLDER_NAME } from '../constants/names.js'
 
 export const getDBFilePath = (dbName) => join(process.cwd(), DB_FOLDER_NAME, dbName)
 
