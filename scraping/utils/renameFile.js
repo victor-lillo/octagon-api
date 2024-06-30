@@ -10,7 +10,7 @@ export const renameFile = async (oldFileName, newFileName) => {
 
     (err) => {
       if (err) throw err
-      console.log(`"${oldFileName}" backup saved in "${newFileName}"`)
+      console.log(`"${oldFileName}" saved in "${newFileName}"\n`)
     }
   )
 }
