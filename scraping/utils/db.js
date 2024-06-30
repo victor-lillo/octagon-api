@@ -3,7 +3,7 @@ import { readFile, writeFile } from 'node:fs/promises'
 
 const DB_FOLDER_NAME = 'db'
 
-const getFilePath = (dbName) => join(process.cwd(), DB_FOLDER_NAME, `${dbName}.json`)
+const getFilePath = (dbName) => join(process.cwd(), DB_FOLDER_NAME, dbName)
 
 export async function readDBFile(dbName) {
   const filePath = getFilePath(dbName)
