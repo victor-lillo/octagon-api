@@ -4,8 +4,8 @@ import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constan
 
 const STORED_CHANGES_NUM = 10
 
-const oldRanking = await readDBFile(RANKINGS_DB_NAME)
-const newRanking = await readDBFile(RANKINGS_OLD_DB_NAME)
+const newRanking = await readDBFile(RANKINGS_DB_NAME)
+const oldRanking = await readDBFile(RANKINGS_OLD_DB_NAME)
 const rankingChanges = await readDBFile(NEWS_DB_NAME)
 const date = new Date()
 
