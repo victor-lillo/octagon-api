@@ -5,7 +5,7 @@ import scrapeRankings from '../scrapers/scrapeRankings.js'
 import timeFormatter from '../utils/timeFormatter.js'
 import { RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/names.js'
 
-const run = async () => {
+export const getAndSaveRankings = async () => {
   const start = performance.now()
 
   const data = await scrapeRankings()
@@ -19,5 +19,3 @@ const run = async () => {
 
   logSuccess(`Task finished in ${time}`)
 }
-
-run()
