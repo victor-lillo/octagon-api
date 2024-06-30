@@ -4,6 +4,7 @@ const DISPLAY_UNITS = {
   minutes: 'min',
   hours: 'h',
 }
+
 const padNumber = (num) => {
   return num.toString().padStart(2, '0')
 }
