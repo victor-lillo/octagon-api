@@ -19,7 +19,8 @@ export const compareRankings = async () => {
     for (const key in fightersArray) {
       const intKey = parseInt(key)
 
-      const { id: currentFighter, name: fighterName } = fightersArray[key]
+      const currentFighter = fightersArray[key].id
+      const fighterName = fightersArray[key].name
 
       if (currentFighter !== fightersOldArray[key]?.id) {
         const previousPosition = fightersOldArray.findIndex(({ id }) => {
