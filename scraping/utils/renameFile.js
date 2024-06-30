@@ -1,15 +1,16 @@
-import fs from 'fs'
-import path from 'node:path'
+import { join } from 'node:path'
+import { rename } from 'fs'
 
-const DB_PATH = path.join(process.cwd(), './db/')
+const DB_PATH = join(process.cwd(), './db/')
+
 export const renameFile = async (oldFileName, newFileName) => {
-  fs.rename(
-    path.join(DB_PATH, oldFileName + '.json'),
-    path.join(DB_PATH, newFileName + '.json'),
+  rename(
+    join(DB_PATH, oldFileName),
+    join(DB_PATH, newFileName),
 
     (err) => {
       if (err) throw err
-      console.log(`${oldFileName}.json backup saved`)
+      console.log(`"${oldFileName}" backup saved in "${newFileName}"`)
     }
   )
 }
