@@ -1,3 +1,4 @@
+import { FIGHTERS_DB_NAME } from '../constants/index.js'
 import scrapeFighter from '../scrapers/scrapeFighter.js'
 import { readDBFile } from '../utils/db.js'
 import { logError, logSuccess } from '../utils/log.js'
@@ -13,7 +14,7 @@ const run = async () => {
     return
   }
   const fighterId = firstArg.replace(ARG_SELECTOR, '')
-  const FIGHTER_DATA = await readDBFile('fighters')
+  const FIGHTER_DATA = await readDBFile(FIGHTERS_DB_NAME)
 
   if (!FIGHTER_DATA[fighterId]) {
     logError(`Fighter with id '${fighterId}' doesn't exist`)

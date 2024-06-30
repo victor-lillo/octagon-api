@@ -4,14 +4,13 @@ import { renameFile } from '../utils/renameFile.js'
 import { writeDBFile } from '../utils/db.js'
 import scrapeRankings from '../scrapers/scrapeRankings.js'
 import timeFormatter from '../utils/timeFormatter.js'
-
-const RANKINGS_DB_NAME = 'rankings'
+import { RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/index.js'
 
 const run = async () => {
   const start = performance.now()
 
   const data = await scrapeRankings()
-  await renameFile('rankings' + '.json', 'rankings-old' + '.json')
+  await renameFile(RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME)
   await writeDBFile(RANKINGS_DB_NAME, data)
 
   await compareRankings()

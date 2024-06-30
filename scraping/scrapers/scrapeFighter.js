@@ -5,12 +5,13 @@ import { readDBFile, writeDBFile } from '../utils/db.js'
 import checkFileExists from '../utils/checkFileExists.js'
 import saveImage from '../utils/saveImage.js'
 import scrape from '../utils/scrape.js'
+import { FIGHTERS_DB_NAME } from '../constants/index.js'
 
 const ATHLETE_BASE_URL = 'https://www.ufc.com/athlete/'
 const BASE_IMAGE_FOLDER = 'public'
 const FIGHTERS_IMAGE_FOLDER = 'fighters'
-const FIGHTERS_DB_NAME = FIGHTERS_IMAGE_FOLDER
-const FIGHTER_DATA = await readDBFile('fighters')
+
+const FIGHTER_DATA = await readDBFile(FIGHTERS_DB_NAME)
 
 const SELECTORS = {
   bio_field: '.c-bio__label',
@@ -60,7 +61,7 @@ const scrapeFighter = async (id) => {
 
   FIGHTER_DATA[id] = { category, draws, imgUrl, losses, name, nickname, wins, ...bioFieldsData }
   await writeDBFile(FIGHTERS_DB_NAME, FIGHTER_DATA)
-  logSuccess(`${FIGHTERS_DB_NAME}.json updated`)
+  logSuccess(`${FIGHTERS_DB_NAME} updated`)
 }
 
 export default scrapeFighter

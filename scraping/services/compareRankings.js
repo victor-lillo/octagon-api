@@ -1,12 +1,12 @@
 import { logSuccess } from '../utils/log.js'
 import { readDBFile, writeDBFile } from '../utils/db.js'
+import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/index.js'
 
 const STORED_CHANGES_NUM = 10
-const NEWS_DB_NAME = 'news'
 
-const oldRanking = await readDBFile('rankings-old')
-const newRanking = await readDBFile('rankings')
-const rankingChanges = await readDBFile('news')
+const oldRanking = await readDBFile(RANKINGS_DB_NAME)
+const newRanking = await readDBFile(RANKINGS_OLD_DB_NAME)
+const rankingChanges = await readDBFile(NEWS_DB_NAME)
 const date = new Date()
 
 export const compareRankings = async () => {
