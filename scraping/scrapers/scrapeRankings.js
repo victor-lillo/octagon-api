@@ -64,7 +64,6 @@ const scrapeRankings = async () => {
     logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
   } catch (error) {
     logError('\n', error)
-    console.log(error, '\n')
   }
 }
 
