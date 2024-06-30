@@ -18,7 +18,7 @@ export const writeDBFile = async (dbName, data) => {
   return writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8')
 }
 
-export const renameDBFile = async (oldFileName, newFileName) => {
+export const renameDBFile = (oldFileName, newFileName) => {
   rename(
     getDBFilePath(oldFileName),
     getDBFilePath(newFileName),
