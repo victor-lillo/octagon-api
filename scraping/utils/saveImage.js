@@ -2,7 +2,15 @@ import path from 'node:path'
 import sharp from 'sharp'
 import { logSuccess } from './log.js'
 
-const saveImage = async ({ baseFolder, fileName, folder, url }) => {
+const BASE_IMAGE_FOLDER = 'public'
+const FIGHTERS_IMAGE_FOLDER = 'fighters'
+
+const saveImage = async ({
+  baseFolder = BASE_IMAGE_FOLDER,
+  fileName,
+  folder = FIGHTERS_IMAGE_FOLDER,
+  url,
+}) => {
   const responseImage = await fetch(url)
   const arrayBuffer = await responseImage.arrayBuffer()
   const buffer = Buffer.from(arrayBuffer)

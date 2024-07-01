@@ -5,9 +5,6 @@ import scrapeFighter from '../scrapers/scrapeFighter.js'
 import { REQUEST_DELAY } from '../../octagon-api.config.js'
 import sleepWithLog from 'sleep-dots'
 
-const BASE_IMAGE_FOLDER = 'public'
-const FIGHTERS_IMAGE_FOLDER = 'fighters'
-
 const getAndSaveFighters = async () => {
   const rankingData = await readDBFile(RANKINGS_DB_NAME)
   const previousFightersInfo = await readDBFile(FIGHTERS_DB_NAME)
@@ -24,9 +21,7 @@ const getAndSaveFighters = async () => {
 
       if (fighterInfo.imgUrl !== oldImgUrl)
         await saveImage({
-          baseFolder: BASE_IMAGE_FOLDER,
           fileName: id,
-          folder: FIGHTERS_IMAGE_FOLDER,
           url: imgUrl,
         })
 
