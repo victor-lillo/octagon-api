@@ -1,9 +1,9 @@
+import sleepWithLog from 'sleep-dots'
 import { readDBFile, writeDBFile } from '../utils/db.js'
 import saveRemoteImage from '../utils/saveRemoteImage.js'
-import { FIGHTERS_DB_NAME, RANKINGS_DB_NAME } from '../constants/names.js'
 import scrapeFighter from '../scrapers/scrapeFighter.js'
-import { REQUEST_DELAY } from '../../octagon-api.config.js'
-import sleepWithLog from 'sleep-dots'
+import { FIGHTERS_DB_NAME, RANKINGS_DB_NAME } from '../constants/names.js'
+import { REQUEST_DELAY } from '../constants/config.js'
 
 const getAndSaveFighters = async () => {
   const rankingData = await readDBFile(RANKINGS_DB_NAME)
