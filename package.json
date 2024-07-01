@@ -11,7 +11,7 @@
     "astro": "astro",
     "api:dev": "wrangler dev api/index.js",
     "api:publish": "wrangler deploy api/index.js",
-    "scrape": "node scraping",
+    "scrape": "node scraping/mainEntrypoint.js",
     "scrape:fighter": "node scraping/updateOneFighterEntrypoint.js",
     "scrape:rankings": "node scraping/rankingsEntrypoint.js",
     "lighthouse": "node lighthouse"
