@@ -1,4 +1,4 @@
-import getFighters from './getFighters.js'
+import getFighters from './services/getFighters.js'
 import getRankings from './rankingsEntrypoint.js'
 import { logInfo, logSuccess } from './utils/log.js'
 
