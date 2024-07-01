@@ -15,7 +15,7 @@ const getAndSaveFighters = async () => {
     for (const { id } of fighters) {
       const fighterInfo = await scrapeFighter(id)
 
-      // For new fighters in our ranking, FIGHTER_DATA[id] is undef
+      // For new fighters in our ranking, previousFightersInfo[id] is undef
       // So we return a void string as imgUrl
       const oldImgUrl = previousFightersInfo[id]?.imgUrl ?? ''
 
