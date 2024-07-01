@@ -1,5 +1,5 @@
-import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/names.js'
 import { readDBFile } from '../utils/db.js'
+import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/names.js'
 
 export const getRankingsChanges = async () => {
   const newRankings = await readDBFile(RANKINGS_DB_NAME)
