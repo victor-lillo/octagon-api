@@ -13,6 +13,7 @@
     "api:publish": "wrangler deploy api/index.js",
     "scrape": "node scraping/mainEntrypoint.js",
     "scrape:fighter": "node scraping/updateOneFighterEntrypoint.js",
+    "scrape:fighters": "node scraping/fightersEntrypoint.js",
     "scrape:rankings": "node scraping/rankingsEntrypoint.js",
     "lighthouse": "node lighthouse"
   },
