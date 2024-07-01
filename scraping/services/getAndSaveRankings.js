@@ -14,5 +14,5 @@ export const getAndSaveRankings = async () => {
   const end = performance.now()
   const time = timeFormatter(end - start)
 
-  logSuccess(`Task finished in ${time}`)
+  logSuccess(`Rankings scraper task finished in ${time}\n`)
 }
