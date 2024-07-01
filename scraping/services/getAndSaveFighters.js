@@ -12,7 +12,7 @@ const getAndSaveFighters = async () => {
   const rankingData = await readDBFile(RANKINGS_DB_NAME)
   const previousFightersInfo = await readDBFile(FIGHTERS_DB_NAME)
 
-  const finalData = {}
+  const fightersData = {}
 
   for (const { fighters } of rankingData) {
     for (const { id } of fighters) {
@@ -30,13 +30,13 @@ const getAndSaveFighters = async () => {
           url: imgUrl,
         })
 
-      finalData[id] = fighterInfo
+      fightersData[id] = fighterInfo
 
       await sleepWithLog(REQUEST_DELAY)
     }
   }
 
-  await writeDBFile(FIGHTERS_DB_NAME, finalData)
+  await writeDBFile(FIGHTERS_DB_NAME, fightersData)
 }
 
 export default getAndSaveFighters
