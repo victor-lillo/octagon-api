@@ -1,4 +1,4 @@
-import { logSuccess } from '../utils/log.js'
+import { logReport } from '../utils/log.js'
 import { renameDBFile, writeDBFile } from '../utils/db.js'
 import { scrapeRankings } from '../scrapers/scrapeRankings.js'
 import { timeFormatter } from '../utils/timeFormatter.js'
@@ -14,5 +14,9 @@ export const getAndSaveRankings = async () => {
   const end = performance.now()
   const time = timeFormatter(end - start)
 
-  logSuccess(`Rankings scraper task finished in ${time}\n`)
+  logReport({
+    message: 'Rankings scraper FINISHED:',
+    time: time,
+    folder: RANKINGS_DB_NAME,
+  })
 }
