@@ -4,6 +4,7 @@ const DISPLAY_UNITS = {
   minutes: 'min',
   hours: 'h',
 }
+
 const padNumber = (num) => {
   return num.toString().padStart(2, '0')
 }
@@ -11,7 +12,7 @@ const padNumber = (num) => {
 /**
  * @param time {number} (in milliseconds)
  */
-const timeFormatter = (time) => {
+export const timeFormatter = (time) => {
   const parsedTime = new Date(time)
 
   if (time > 1000 * 60 * 60)
@@ -26,5 +27,3 @@ const timeFormatter = (time) => {
     return `${parsedTime.getSeconds()}.${parsedTime.getMilliseconds()} ${DISPLAY_UNITS.seconds}`
   else return `${time.toFixed(2)} ${DISPLAY_UNITS.milliseconds}`
 }
-
-export default timeFormatter

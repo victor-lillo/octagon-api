@@ -1,13 +1,10 @@
 import { cleanString, standarizeString } from '../utils/stringFormatters.js'
-import { logError, logInfo, logSuccess } from '../utils/log.js'
-import { writeDBFile } from '../utils/db.js'
-import scrape from '../utils/scrape.js'
-import { renameFile } from '../utils/renameFile.js'
+import { logError, logInfo } from '../utils/log.js'
+import { scrape } from '../utils/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 
 const RANKINGS_URL = 'https://www.ufc.com/rankings'
-const RANKINGS_DB_NAME = 'rankings'
 
 const SELECTORS = {
   table: '.view-grouping', // Each category table selector
@@ -20,9 +17,9 @@ const getSlugFromUrl = (url) => {
   return url.split('/').at(-1)
 }
 
-async function scrapeRankingsInfo() {
+export const scrapeRankings = async () => {
   try {
-    logInfo(`Running ranking scraper`)
+    logInfo(`Scraping rankings page [${RANKINGS_URL}]\n`)
 
     const $ = await scrape(RANKINGS_URL)
     const $tables = $.querySelectorAll(SELECTORS.table)
@@ -59,13 +56,8 @@ async function scrapeRankingsInfo() {
       return { id: categoryId, categoryName, champion, fighters }
     })
 
-    await renameFile('rankings', 'rankings-old')
-    await writeDBFile(RANKINGS_DB_NAME, data)
-    logSuccess(`Rankings saved in ${RANKINGS_DB_NAME}.json\n`)
+    return data
   } catch (error) {
     logError('\n', error)
-    console.log(error, '\n')
   }
 }
-
-export default scrapeRankingsInfo
