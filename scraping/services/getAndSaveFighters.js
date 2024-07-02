@@ -5,7 +5,7 @@ import scrapeFighter from '../scrapers/scrapeFighter.js'
 import { FIGHTERS_DB_NAME, RANKINGS_DB_NAME } from '../constants/names.js'
 import { REQUEST_DELAY } from '../constants/config.js'
 
-const getAndSaveFighters = async () => {
+export const getAndSaveFighters = async () => {
   const rankingData = await readDBFile(RANKINGS_DB_NAME)
   const previousFightersInfo = await readDBFile(FIGHTERS_DB_NAME)
 
@@ -33,5 +33,3 @@ const getAndSaveFighters = async () => {
 
   await writeDBFile(FIGHTERS_DB_NAME, fightersData)
 }
-
-export default getAndSaveFighters
