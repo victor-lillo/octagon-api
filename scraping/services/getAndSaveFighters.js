@@ -1,6 +1,6 @@
 import sleepWithLog from 'sleep-dots'
 import { readDBFile, writeDBFile } from '../utils/db.js'
-import saveRemoteImage from '../utils/saveRemoteImage.js'
+import { saveRemoteImage } from '../utils/saveRemoteImage.js'
 import { scrapeFighter } from '../scrapers/scrapeFighter.js'
 import { FIGHTERS_DB_NAME, RANKINGS_DB_NAME } from '../constants/names.js'
 import { REQUEST_DELAY } from '../constants/config.js'

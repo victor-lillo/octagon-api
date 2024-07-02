@@ -5,7 +5,7 @@ import { logSuccess } from './log.js'
 const BASE_IMAGE_FOLDER = 'public'
 const FIGHTERS_IMAGE_FOLDER = 'fighters'
 
-const saveRemoteImage = async ({
+export const saveRemoteImage = async ({
   baseFolder = BASE_IMAGE_FOLDER,
   fileName,
   folder = FIGHTERS_IMAGE_FOLDER,
@@ -20,5 +20,3 @@ const saveRemoteImage = async ({
   logSuccess('Image succesfully saved')
   return imageFileName
 }
-
-export default saveRemoteImage
