@@ -1,6 +1,6 @@
 import { join } from 'node:path'
 import { readFile, rename, writeFile } from 'node:fs/promises'
-import { logError } from './log.js'
+import { logError, logSuccess } from './log.js'
 import { DB_FOLDER_NAME } from '../constants/names.js'
 
 export const getDBFilePath = (dbName) => join(process.cwd(), DB_FOLDER_NAME, dbName)
@@ -22,7 +22,7 @@ export const renameDBFile = async (oldFileName, newFileName) => {
   try {
     rename(getDBFilePath(oldFileName), getDBFilePath(newFileName))
 
-    console.log(`"${oldFileName}" saved in "${newFileName}"\n`)
+    logSuccess(`'${oldFileName}' saved in '${newFileName}'\n`)
   } catch (err) {
     if (err) logError(err)
   }
