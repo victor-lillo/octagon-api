@@ -1,11 +1,11 @@
-import getFighters from './services/getFighters.js'
+import getAndSaveFighters from './services/getAndSaveFighters.js'
 import getRankings from './rankingsEntrypoint.js'
 import { logInfo, logSuccess } from './utils/log.js'
 
 const runMainEntrypoint = async () => {
   logInfo('RUNNING COMPLETE SCRAPER\n')
   await getRankings()
-  await getFighters()
+  await getAndSaveFighters()
   logSuccess('Scraper finished')
 }
 
