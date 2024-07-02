@@ -1,6 +1,6 @@
 import { cleanString, standarizeString } from '../utils/stringFormatters.js'
 import { logError, logInfo } from '../utils/log.js'
-import scrape from '../utils/scrape.js'
+import { scrape } from '../utils/scrape.js'
 
 // http://www.ufcstats.com/statistics/fighters?char=a
 

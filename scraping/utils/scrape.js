@@ -1,7 +1,7 @@
 import { parse } from 'node-html-parser'
 import axios from 'axios'
 
-const scrape = async (url) => {
+export const scrape = async (url) => {
   try {
     // Usamos Axios porque fetch (node v 18.13) falla con 'fetch failed' al hacer un get a un dominio con response 301, no hace el redirect automáticamente.
     const res = await axios.get(url)
@@ -16,5 +16,3 @@ const scrape = async (url) => {
     console.log(error.message)
   }
 }
-
-export default scrape

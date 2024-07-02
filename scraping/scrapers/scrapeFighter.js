@@ -1,6 +1,6 @@
 import { camelCaseString, cleanString } from '../utils/stringFormatters.js'
 import { logInfo } from '../utils/log.js'
-import scrape from '../utils/scrape.js'
+import { scrape } from '../utils/scrape.js'
 
 const ATHLETE_BASE_URL = 'https://www.ufc.com/athlete/'
 
