@@ -16,9 +16,8 @@ const SELECTORS = {
 }
 
 export const scrapeFighter = async (id) => {
-  logInfo(`Scraping ${id} web page`)
-
   const url = getAthleteUrl(id)
+  logInfo(`Scraping ${id} page [${url}]`)
 
   const $ = await scrape(url)
 
