@@ -1,9 +1,9 @@
 import { getRankingsChanges } from './getRankingsChanges.js'
 import { logSuccess } from '../utils/log.js'
+import { timeFormatter } from '../utils/timeFormatter.js'
 import { writeDBFile } from '../utils/db.js'
 import { NEWS_DB_NAME } from '../constants/names.js'
 import { STORED_CHANGES_NUM } from '../constants/config.js'
-import { timeFormatter } from '../utils/timeFormatter.js'
 
 export const compareAndSaveRankings = async () => {
   const start = performance.now()
