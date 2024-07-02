@@ -1,7 +1,10 @@
+import { logInfo } from '../utils/log.js'
 import { readDBFile } from '../utils/db.js'
 import { NEWS_DB_NAME, RANKINGS_DB_NAME, RANKINGS_OLD_DB_NAME } from '../constants/names.js'
 
 export const getRankingsChanges = async () => {
+  logInfo(`Comparing rankings changes ['${RANKINGS_DB_NAME}' vs '${RANKINGS_OLD_DB_NAME}']\n`)
+
   const newRankings = await readDBFile(RANKINGS_DB_NAME)
   const oldRankings = await readDBFile(RANKINGS_OLD_DB_NAME)
   const rankingsChanges = await readDBFile(NEWS_DB_NAME)
