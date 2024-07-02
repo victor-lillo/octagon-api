@@ -14,15 +14,15 @@ const getAndSaveFighters = async () => {
   for (const { fighters } of rankingData) {
     for (const { id } of fighters) {
       const fighterInfo = await scrapeFighter(id)
+      const currentImgUrl = fighterInfo.imgUrl
 
       // For new fighters in our ranking, previousFightersInfo[id] is undef
-      // So we return a void string as imgUrl
-      const oldImgUrl = previousFightersInfo[id]?.imgUrl ?? ''
+      const oldImgUrl = previousFightersInfo[id]?.imgUrl
 
-      if (fighterInfo.imgUrl !== oldImgUrl)
+      if (currentImgUrl !== oldImgUrl)
         await saveRemoteImage({
           fileName: id,
-          url: imgUrl,
+          url: currentImgUrl,
         })
 
       fightersData[id] = fighterInfo
