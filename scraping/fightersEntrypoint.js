@@ -1,4 +1,4 @@
-import getAndSaveFighters from './services/getAndSaveFighters.js'
+import { getAndSaveFighters } from './services/getAndSaveFighters.js'
 import { logInfo, logSuccess } from './utils/log.js'
 
 const runFightersEntrypoint = async () => {
