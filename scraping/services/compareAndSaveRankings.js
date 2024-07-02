@@ -16,5 +16,5 @@ export const compareAndSaveRankings = async () => {
   const end = performance.now()
   const time = timeFormatter(end - start)
 
-  logSuccess(`Rankings changes saved in ${NEWS_DB_NAME} in ${time}\n`)
+  logSuccess(`Rankings changes saved in '${NEWS_DB_NAME}' in ${time}\n`)
 }
