@@ -19,7 +19,7 @@ const getSlugFromUrl = (url) => {
 
 export const scrapeRankings = async () => {
   try {
-    logInfo(`Running ranking scraper\n`)
+    logInfo(`Scraping rankings page [${RANKINGS_URL}]\n`)
 
     const $ = await scrape(RANKINGS_URL)
     const $tables = $.querySelectorAll(SELECTORS.table)
