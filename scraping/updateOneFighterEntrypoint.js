@@ -1,7 +1,7 @@
 import { logError, logSuccess } from './utils/log.js'
 import { readDBFile } from './utils/db.js'
 import { scrapeFighter } from './scrapers/scrapeFighter.js'
-import timeFormatter from './utils/timeFormatter.js'
+import { timeFormatter } from './utils/timeFormatter.js'
 import { FIGHTERS_DB_NAME } from './constants/names.js'
 
 const runUpdateOneFighterEntrypoint = async () => {
