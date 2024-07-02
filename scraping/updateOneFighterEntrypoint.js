@@ -26,7 +26,7 @@ const runUpdateOneFighterEntrypoint = async () => {
   const end = performance.now()
   const time = timeFormatter(end - start)
 
-  logSuccess(`Task finished in ${time}`)
+  logSuccess(`Task finished (${time})`)
 }
 
 runUpdateOneFighterEntrypoint()
