@@ -15,7 +15,7 @@ const SELECTORS = {
   record: '.hero-profile__division-body',
 }
 
-const scrapeFighter = async (id) => {
+export const scrapeFighter = async (id) => {
   logInfo(`Scraping ${id} web page`)
 
   const url = getAthleteUrl(id)
@@ -43,5 +43,3 @@ const scrapeFighter = async (id) => {
   const data = { category, draws, imgUrl, losses, name, nickname, wins, ...bioFieldsData }
   return data
 }
-
-export default scrapeFighter
