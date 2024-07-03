@@ -1,18 +1,24 @@
 import { compareAndSaveRankings } from './services/compareAndSaveRankings.js'
 import { getAndSaveFighters } from './services/getAndSaveFighters.js'
 import { getAndSaveRankings } from './services/getAndSaveRankings.js'
-import { logInfo, logSuccess } from './utils/log.js'
+import { logReport } from './utils/log.js'
+import { timeFormatter } from './utils/timeFormatter.js'
 
 const runMainEntrypoint = async () => {
-  logInfo('RUNNING COMPLETE SCRAPER\n')
-  console.log('Starting scraping process from runMainEntrypoint...')
+  const start = performance.now()
+  console.log('Starting scraping process from runMainEntrypoint...\n')
+
   await getAndSaveRankings()
-
-  console.log('Starting compareAndSaveRankings...')
   await compareAndSaveRankings()
-
   await getAndSaveFighters()
-  logSuccess('Scraper finished')
+
+  const end = performance.now()
+  const time = timeFormatter(end - start)
+
+  logReport({
+    message: 'Rankings & Fighters scraper finished',
+    time: time,
+  })
 }
 
 runMainEntrypoint()
