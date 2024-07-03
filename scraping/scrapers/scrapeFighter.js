@@ -34,6 +34,7 @@ export const scrapeFighter = async (id) => {
 
   const bioFieldsData = {}
   $bioFields.forEach(($el) => {
+    // Currently: status, place_of birth, trains_at, fighting_style, age, height, weight, octagon_debut, reach, leg_reach
     const text_label = $el.textContent.toLowerCase().replace(' ', '_')
     const text_content = cleanString($el.nextElementSibling.textContent)
     bioFieldsData[camelCaseString(text_label)] = text_content
