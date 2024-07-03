@@ -17,7 +17,7 @@ export const compareAndSaveRankings = async () => {
   const time = timeFormatter(end - start)
 
   logReport({
-    message: 'Rankings changes FINISHED:',
+    message: 'Rankings changes finished',
     time: time,
     folder: NEWS_DB_NAME,
   })

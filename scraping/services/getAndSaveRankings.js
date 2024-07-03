@@ -15,7 +15,7 @@ export const getAndSaveRankings = async () => {
   const time = timeFormatter(end - start)
 
   logReport({
-    message: 'Rankings scraper FINISHED:',
+    message: 'Rankings scraper finished',
     time: time,
     folder: RANKINGS_DB_NAME,
   })
