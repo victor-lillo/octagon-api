@@ -1,4 +1,5 @@
 import sleepWithLog from 'sleep-dots'
+import { logSuccess } from '../utils/log.js'
 import { readDBFile, writeDBFile } from '../utils/db.js'
 import { saveRemoteImage } from '../utils/saveRemoteImage.js'
 import { scrapeFighter } from '../scrapers/scrapeFighter.js'
@@ -26,6 +27,7 @@ export const getAndSaveFighters = async () => {
         })
 
       fightersData[id] = fighterInfo
+      logSuccess(`Fighter ${id} info saved in memory`)
 
       await sleepWithLog(REQUEST_DELAY)
     }
