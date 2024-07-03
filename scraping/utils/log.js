@@ -5,7 +5,6 @@ const SYMBOL = {
   success: pc.green('✔'),
   warning: pc.yellow('⚠'),
   error: pc.red('✖'),
-  error: pc.red('🗀'),
 }
 
 export const logInfo = (...args) => {
