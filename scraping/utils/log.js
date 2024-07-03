@@ -26,5 +26,5 @@ export const logWarning = (...args) => {
 export const logReport = ({ message, time, folder }) => {
   console.log(`${SYMBOL.success} ${pc.green(message)}`)
   console.log(`  Time: ${pc.yellow(time)}`)
-  console.log(`  File: ${pc.yellow(folder)}\n`)
+  if (folder) console.log(`  File: ${pc.yellow(folder)}\n`)
 }
