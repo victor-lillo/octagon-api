@@ -1,12 +1,15 @@
-import sleepWithLog from 'sleep-dots'
-import { logSuccess } from '../utils/log.js'
+import { logReport, logSuccess } from '../utils/log.js'
 import { readDBFile, writeDBFile } from '../utils/db.js'
 import { saveRemoteImage } from '../utils/saveRemoteImage.js'
 import { scrapeFighter } from '../scrapers/scrapeFighter.js'
+import { timeFormatter } from '../utils/timeFormatter.js'
+import sleepWithLog from 'sleep-dots'
 import { FIGHTERS_DB_NAME, RANKINGS_DB_NAME } from '../constants/names.js'
 import { REQUEST_DELAY } from '../constants/config.js'
 
 export const getAndSaveFighters = async () => {
+  const start = performance.now()
+
   const rankingData = await readDBFile(RANKINGS_DB_NAME)
   const previousFightersInfo = await readDBFile(FIGHTERS_DB_NAME)
 
@@ -34,4 +37,13 @@ export const getAndSaveFighters = async () => {
   }
 
   await writeDBFile(FIGHTERS_DB_NAME, fightersData)
+
+  const end = performance.now()
+  const time = timeFormatter(end - start)
+
+  logReport({
+    message: 'Fighters scraper finished',
+    time: time,
+    folder: FIGHTERS_DB_NAME,
+  })
 }
