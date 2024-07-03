@@ -1,8 +1,9 @@
 import { getAndSaveFighters } from './services/getAndSaveFighters.js'
-import { logInfo, logSuccess } from './utils/log.js'
+import { logSuccess } from './utils/log.js'
 
 const runFightersEntrypoint = async () => {
-  logInfo('RUNNING Scraper entrypoint SCRAPER\n')
+  console.log('Starting "runFightersEntrypoint"...\n')
+
   await getAndSaveFighters()
   logSuccess('Scraper finished')
 }
