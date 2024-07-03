@@ -1,7 +1,7 @@
 import { compareAndSaveRankings } from './services/compareAndSaveRankings.js'
 import { getAndSaveFighters } from './services/getAndSaveFighters.js'
 import { getAndSaveRankings } from './services/getAndSaveRankings.js'
-import { logReport } from './utils/log.js'
+import { logSuccess } from './utils/log.js'
 import { timeFormatter } from './utils/timeFormatter.js'
 
 const runMainEntrypoint = async () => {
@@ -15,10 +15,7 @@ const runMainEntrypoint = async () => {
   const end = performance.now()
   const time = timeFormatter(end - start)
 
-  logReport({
-    message: 'Rankings & Fighters scraper finished',
-    time: time,
-  })
+  logSuccess(`Rankings & Fighters scraper finished in ${time}`)
 }
 
 runMainEntrypoint()
