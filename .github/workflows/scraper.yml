@@ -25,5 +25,5 @@ jobs:
           git config user.name octagon-api
           git add -A 
           git commit -am "[BOT] Update Octagon API database"
-          git push origin main
+          git push origin ${{ github.ref_name }}
       - run: echo "🎉 Task finished!"
