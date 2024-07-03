@@ -1,12 +1,29 @@
-import { readFile, writeFile } from 'node:fs/promises'
-import path from 'node:path'
+import { join } from 'node:path'
+import { readFile, rename, writeFile } from 'node:fs/promises'
+import { logError, logSuccess } from './log.js'
+import { DB_FOLDER_NAME } from '../constants/names.js'
 
-const DB_PATH = path.join(process.cwd(), './db/')
+export const getDBFilePath = (dbName) => join(process.cwd(), DB_FOLDER_NAME, dbName)
 
-export function readDBFile(dbName) {
-  return readFile(`${DB_PATH}/${dbName}.json`, 'utf-8').then(JSON.parse)
+export const readDBFile = async (dbName) => {
+  const filePath = getDBFilePath(dbName)
+
+  const text = await readFile(filePath, 'utf-8')
+  return JSON.parse(text)
 }
 
-export function writeDBFile(dbName, data) {
-  return writeFile(`${DB_PATH}/${dbName}.json`, JSON.stringify(data, null, 2), 'utf-8')
+export const writeDBFile = async (dbName, data) => {
+  const filePath = getDBFilePath(dbName)
+
+  return writeFile(filePath, JSON.stringify(data, null, 2), 'utf-8')
+}
+
+export const renameDBFile = async (oldFileName, newFileName) => {
+  try {
+    rename(getDBFilePath(oldFileName), getDBFilePath(newFileName))
+
+    logSuccess(`'${oldFileName}' saved in '${newFileName}'\n`)
+  } catch (err) {
+    if (err) logError(err)
+  }
 }
