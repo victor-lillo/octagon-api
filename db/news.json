@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "julianna-pena",
+    "fighterName": "Julianna Peña",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2024-07-03T14:31:49.748Z"
+  },
+  {
+    "fighter": "raquel-pennington",
+    "fighterName": "Raquel Pennington",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2024-07-03T14:31:49.748Z"
+  },
+  {
     "fighter": "karine-silva",
     "fighterName": "Karine Silva",
     "categoryId": "womens-flyweight",
@@ -69,24 +87,6 @@
     "categoryName": "Flyweight",
     "currentPosition": 9,
     "previousPosition": 7,
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "manel-kape",
-    "fighterName": "Manel Kape",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "alex-perez",
-    "fighterName": "Alex Perez",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 6,
-    "previousPosition": 4,
     "date": "2024-06-28T09:12:57.687Z"
   }
 ]
