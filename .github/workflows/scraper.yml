@@ -15,13 +15,13 @@ jobs:
           fetch-depth: 1
       - uses: actions/setup-node@v4
         with:
-          node-version: 18
-      - uses: pnpm/action-setup@v3
+          node-version: 20
+      - uses: pnpm/action-setup@v4
         with:
-          version: 7.18.2
+          version: 8
           run_install: true
       - run: |
-          npm run scrape
+          pnpm run scrape
           git config user.name octagon-api
           git add -A 
           git commit -am "[BOT] Update Octagon API database"
