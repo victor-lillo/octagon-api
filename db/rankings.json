@@ -12,16 +12,16 @@
         "name": "Islam Makhachev"
       },
       {
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
+      },
+      {
         "id": "jon-jones",
         "name": "Jon Jones"
       },
       {
         "id": "leon-edwards",
         "name": "Leon Edwards"
-      },
-      {
-        "id": "alex-pereira",
-        "name": "Alex Pereira"
       },
       {
         "id": "ilia-topuria",
@@ -48,16 +48,16 @@
         "name": "Alexandre Pantoja"
       },
       {
+        "id": "tom-aspinall",
+        "name": "Tom Aspinall"
+      },
+      {
         "id": "israel-adesanya",
         "name": "Israel Adesanya"
       },
       {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
-      },
-      {
-        "id": "tom-aspinall",
-        "name": "Tom Aspinall"
       },
       {
         "id": "sean-strickland",
@@ -130,12 +130,12 @@
         "name": "Tagir Ulanbekov"
       },
       {
-        "id": "david-dvorak",
-        "name": "David Dvorak"
-      },
-      {
         "id": "cody-durden",
         "name": "Cody Durden"
+      },
+      {
+        "id": "david-dvorak",
+        "name": "David Dvorak"
       }
     ]
   },
@@ -250,16 +250,20 @@
         "name": "Aljamain Sterling"
       },
       {
-        "id": "calvin-kattar",
-        "name": "Calvin Kattar"
-      },
-      {
         "id": "giga-chikadze",
         "name": "Giga Chikadze"
       },
       {
+        "id": "calvin-kattar",
+        "name": "Calvin Kattar"
+      },
+      {
         "id": "lerone-murphy",
         "name": "Lerone Murphy"
+      },
+      {
+        "id": "diego-lopes",
+        "name": "Diego Lopes"
       },
       {
         "id": "bryce-mitchell",
@@ -268,10 +272,6 @@
       {
         "id": "dan-ige",
         "name": "Dan Ige"
-      },
-      {
-        "id": "diego-lopes",
-        "name": "Diego Lopes"
       },
       {
         "id": "edson-barboza",
@@ -534,12 +534,12 @@
         "name": "Volkan Oezdemir"
       },
       {
-        "id": "anthony-smith",
-        "name": "Anthony Smith"
-      },
-      {
         "id": "carlos-ulberg",
         "name": "Carlos Ulberg"
+      },
+      {
+        "id": "anthony-smith",
+        "name": "Anthony Smith"
       },
       {
         "id": "bogdan-guskov",
@@ -654,12 +654,12 @@
         "name": "Manon Fiorot"
       },
       {
-        "id": "raquel-pennington",
-        "name": "Raquel Pennington"
-      },
-      {
         "id": "julianna-pena",
         "name": "Julianna Peña"
+      },
+      {
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
       },
       {
         "id": "rose-namajunas",
@@ -686,12 +686,12 @@
         "name": "Amanda Lemos"
       },
       {
-        "id": "ketlen-vieira",
-        "name": "Ketlen Vieira"
-      },
-      {
         "id": "kayla-harrison",
         "name": "Kayla Harrison"
+      },
+      {
+        "id": "ketlen-vieira",
+        "name": "Ketlen Vieira"
       },
       {
         "id": "maycee-barber",
@@ -756,16 +756,16 @@
         "name": "Luana Pinheiro"
       },
       {
+        "id": "gillian-robertson",
+        "name": "Gillian Robertson"
+      },
+      {
         "id": "iasmin-lucindo",
         "name": "Iasmin Lucindo"
       },
       {
         "id": "michelle-waterson",
         "name": "Michelle Waterson-Gomez"
-      },
-      {
-        "id": "gillian-robertson",
-        "name": "Gillian Robertson"
       }
     ]
   },
@@ -856,10 +856,6 @@
         "name": "Ketlen Vieira"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
-      },
-      {
         "id": "kayla-harrison",
         "name": "Kayla Harrison"
       },
@@ -868,20 +864,24 @@
         "name": "Irene Aldana"
       },
       {
-        "id": "holly-holm",
-        "name": "Holly Holm"
-      },
-      {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
       },
       {
-        "id": "miesha-tate",
-        "name": "Miesha Tate"
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "holly-holm",
+        "name": "Holly Holm"
       },
       {
         "id": "karol-rosa",
         "name": "Karol Rosa"
+      },
+      {
+        "id": "miesha-tate",
+        "name": "Miesha Tate"
       },
       {
         "id": "norma-dumont",

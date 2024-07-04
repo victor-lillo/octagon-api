@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "julianna-pena",
-    "fighterName": "Julianna Peña",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2024-07-03T14:31:49.748Z"
-  },
-  {
-    "fighter": "raquel-pennington",
-    "fighterName": "Raquel Pennington",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2024-07-03T14:31:49.748Z"
-  },
-  {
-    "fighter": "karine-silva",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "ian-garry",
-    "fighterName": "Ian Machado Garry",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 6,
-    "previousPosition": "unranked",
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "benoit-saint-denis",
-    "fighterName": "Benoît Saint Denis",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 11,
-    "previousPosition": "unranked",
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "jonathan-martinez",
-    "fighterName": "Jonathan Martinez",
-    "categoryId": "bantamweight",
-    "categoryName": "Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "tagir-ulanbekov",
-    "fighterName": "Tagir Ulanbekov",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "matt-schnell",
-    "fighterName": "Matt Schnell",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "tim-elliott",
-    "fighterName": "Tim Elliott",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2024-06-28T09:12:57.687Z"
-  },
-  {
-    "fighter": "matheus-nicolau",
-    "fighterName": "Matheus Nicolau",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 9,
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 8,
     "previousPosition": 7,
-    "date": "2024-06-28T09:12:57.687Z"
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "karol-rosa",
+    "fighterName": "Karol Rosa",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "holly-holm",
+    "fighterName": "Holly Holm",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
+    "previousPosition": 2,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 4,
+    "previousPosition": 6,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 3,
+    "previousPosition": 4,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "kayla-harrison",
+    "fighterName": "Kayla Harrison",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 2,
+    "previousPosition": 3,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "michelle-waterson",
+    "fighterName": "Michelle Waterson-Gomez",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "iasmin-lucindo",
+    "fighterName": "Iasmin Lucindo",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2024-07-04T04:16:41.064Z"
+  },
+  {
+    "fighter": "gillian-robertson",
+    "fighterName": "Gillian Robertson",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 12,
+    "previousPosition": 14,
+    "date": "2024-07-04T04:16:41.064Z"
   }
 ]
