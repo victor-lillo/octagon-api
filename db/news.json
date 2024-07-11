@@ -1,5 +1,41 @@
 [
   {
+    "fighter": "vicente-luque",
+    "fighterName": "Vicente Luque",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2024-07-11T05:53:24.525Z"
+  },
+  {
+    "fighter": "michael-page",
+    "fighterName": "Michael Page",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-07-11T05:53:24.525Z"
+  },
+  {
+    "fighter": "giga-chikadze",
+    "fighterName": "Giga Chikadze",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2024-07-11T05:53:24.525Z"
+  },
+  {
+    "fighter": "calvin-kattar",
+    "fighterName": "Calvin Kattar",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2024-07-11T05:53:24.525Z"
+  },
+  {
     "fighter": "miesha-tate",
     "fighterName": "Miesha Tate",
     "categoryId": "womens-bantamweight",
@@ -51,42 +87,6 @@
     "categoryName": "Women's Bantamweight",
     "currentPosition": 3,
     "previousPosition": 4,
-    "date": "2024-07-04T04:16:41.064Z"
-  },
-  {
-    "fighter": "kayla-harrison",
-    "fighterName": "Kayla Harrison",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 2,
-    "previousPosition": 3,
-    "date": "2024-07-04T04:16:41.064Z"
-  },
-  {
-    "fighter": "michelle-waterson",
-    "fighterName": "Michelle Waterson-Gomez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-07-04T04:16:41.064Z"
-  },
-  {
-    "fighter": "iasmin-lucindo",
-    "fighterName": "Iasmin Lucindo",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2024-07-04T04:16:41.064Z"
-  },
-  {
-    "fighter": "gillian-robertson",
-    "fighterName": "Gillian Robertson",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 14,
     "date": "2024-07-04T04:16:41.064Z"
   }
 ]
