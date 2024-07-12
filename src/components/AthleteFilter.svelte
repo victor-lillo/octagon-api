@@ -2,8 +2,10 @@
   import data from '@db/fighters.json';
   import AscOrderLetters from './icons/AscOrderLetters.svelte';
   import DescOrderLetters from './icons/DescOrderLetters.svelte';
+  import AscOrderNumbers from './icons/AscOrderNumbers.svelte';
+  import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
 
-  export let ascOrder = true;
+  export let nameAscOrder = true;
   export let filterName = '';
   export let filteredData = [];
 
@@ -27,7 +29,7 @@
     return lowerName.includes(lowerFilterName);
   });
 
-  $: if (ascOrder) {
+  $: if (nameAscOrder) {
     filteredData = filteredData.sort(({ name: nameA }, { name: nameB }) => {
       if (nameA > nameB) {
         return 1;
@@ -61,7 +63,7 @@
       <th>
         <div>
           Name <label>
-            {#if ascOrder}
+            {#if nameAscOrder}
               <AscOrderLetters />
             {:else}
               <DescOrderLetters />
