@@ -1,5 +1,6 @@
 <script>
   import data from '@db/fighters.json';
+  export let ascOrder = true;
   export let filterName = '';
   export let filteredData = [];
 
@@ -22,9 +23,35 @@
     const lowerName = name.toLocaleLowerCase();
     return lowerName.includes(lowerFilterName);
   });
+
+  $: if (ascOrder) {
+    filteredData = filteredData.sort(({ name: nameA }, { name: nameB }) => {
+      if (nameA > nameB) {
+        return 1;
+      }
+      if (nameA < nameB) {
+        return -1;
+      }
+      return 0;
+    });
+  } else {
+    filteredData = filteredData.sort(({ name: nameA }, { name: nameB }) => {
+      if (nameA > nameB) {
+        return -1;
+      }
+      if (nameA < nameB) {
+        return 1;
+      }
+      return 0;
+    });
+  }
 </script>
 
 <input bind:value={filterName} type="text" />
+<label>
+  Ascending alphabetical order
+  <input bind:checked={ascOrder} type="checkbox" />
+</label>
 
 <ul class="container">
   {#each filteredData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
