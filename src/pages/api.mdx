@@ -34,7 +34,7 @@ The JSON data is an **array**, where each entry is an object with the properties
 | `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
 | `fighters[].name`       | `string` | Name of the fighter.                                                              |
 
-```json
+```json title="https://api.octagon-api.com/rankings" wrap
 [
   {
     "id": "mens-pound-for-pound-top-rank",
@@ -106,7 +106,7 @@ The `value` is an object containing various details about the fighter. The prope
 | `reach`         | `string` | Reach of the fighter (in inches).                      |
 | `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
 
-```json
+```json title="https://api.octagon-api.com/fighters" wrap
 {
   "islam-makhachev": {
     "category": "Lightweight Division",
@@ -157,7 +157,7 @@ The JSON data is an **Object** containing various details about the fighter. The
 | `reach`         | `string` | Reach of the fighter (in inches).                      |
 | `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
 
-```json
+```json title="https://api.octagon-api.com/fighter/jon-jones" wrap
 {
   "category": "Heavyweight Division",
   "draws": "0",
@@ -194,7 +194,7 @@ The JSON data is an **Object** that represents a division of fighters, containin
 | `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
 | `fighters[].name`       | `string` | Name of the fighter.                                                              |
 
-```json
+```json title="https://api.octagon-api.com/division/flyweight" wrap
 {
   "id": "flyweight",
   "categoryName": "Flyweight",
