@@ -3,12 +3,9 @@
   export let filterName = '';
   export let filteredData = [];
 
-  console.log(data);
-
   const fighterData = Object.entries(data)
     .map(([key, value]) => {
-      const { name, weight } = value;
-      return { name, route: `athlete/${key}`, weight };
+      return { id: key, ...value };
     })
     .sort(({ name: nameA }, { name: nameB }) => {
       if (nameA > nameB) {
@@ -30,9 +27,9 @@
 <input bind:value={filterName} type="text" />
 
 <ul class="container">
-  {#each filteredData as { age, category, draws, height, losses, name, reach, route, weight, wins }, index}
+  {#each filteredData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
     <li key={`${name}-${index}`} class="row">
-      <a aria-label={`Go to ${name} page`} href={route}>
+      <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
         {name}
       </a>
     </li>
