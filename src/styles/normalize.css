@@ -5,21 +5,11 @@ Document
 ========
 */
 
-/**
-Use a better box model (opinionated).
-*/
-
-*,
-::before,
-::after {
-  box-sizing: border-box;
-}
-
 html {
   /* Improve consistency of default fonts in all browsers. (https://github.com/sindresorhus/modern-normalize/issues/3) */
   font-family: system-ui, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif, 'Apple Color Emoji',
     'Segoe UI Emoji';
-  line-height: 1.5; /* 1. Correct the line height in all browsers. */
+  line-height: 1.15; /* 1. Correct the line height in all browsers. */
   -webkit-text-size-adjust: 100%; /* 2. Prevent adjustments of font size after orientation changes in iOS. */
   -moz-tab-size: 4; /* 3. Use a more readable tab size (opinionated). */
   tab-size: 4; /* 3 */
@@ -29,10 +19,6 @@ html {
 Sections
 ========
 */
-
-body {
-  margin: 0; /* Remove the margin in all browsers. */
-}
 
 /*
 Grouping content
@@ -145,7 +131,6 @@ textarea {
   font-family: inherit; /* 1 */
   font-size: 100%; /* 1 */
   line-height: 1.15; /* 1 */
-  margin: 0; /* 2 */
 }
 
 /**
@@ -192,14 +177,6 @@ See: https://github.com/mozilla/gecko-dev/blob/2f9eacd9d3d995c937b4251a5557d95d4
 
 :-moz-ui-invalid {
   box-shadow: none;
-}
-
-/**
-Remove the padding so developers are not caught out when they zero out 'fieldset' elements in all browsers.
-*/
-
-legend {
-  padding: 0;
 }
 
 /**
