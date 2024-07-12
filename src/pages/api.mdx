@@ -10,12 +10,12 @@ Here you can find
 
 Welcome to my new Astro blog, using MDX!
 
-| Endpoint                                           | Response                      |
-| -------------------------------------------------- | ----------------------------- |
-| [GET `/rankings`](#get-rankings)                   | Returns whole rankings info.  |
-| [GET `/fighters`](#get-fighters)                   | Returns all fighters info.    |
-| [GET `/fighter/:fighterId`](#get-fighterfighterid) | Returns single fighter info.  |
-| [GET `/division/:divisionId`](#)                   | Returns single division info. |
+| Endpoint                                               | Response                      |
+| ------------------------------------------------------ | ----------------------------- |
+| [GET `/rankings`](#get-rankings)                       | Returns whole rankings info.  |
+| [GET `/fighters`](#get-fighters)                       | Returns all fighters info.    |
+| [GET `/fighter/:fighterId`](#get-fighterfighterid)     | Returns single fighter info.  |
+| [GET `/division/:divisionId`](#get-divisiondivisionid) | Returns single division info. |
 
 ## GET `/rankings`
 
@@ -174,5 +174,44 @@ The JSON data is an **Object** containing various details about the fighter. The
   "octagonDebut": "Aug. 9, 2008",
   "reach": "84.50",
   "legReach": "45.00"
+}
+```
+
+### GET `/division/:divisionId`
+
+This <a href="https://api.octagon-api.com/division/flyweight" target="_blank" rel="noreferrer">endpoint</a> returns the concrete `divisionId` data.
+
+The JSON data is an **Object** that represents a division of fighters, containing properties such as the category ID, category name, champion details, and an array of fighters with their respective IDs and names, as outlined in the table.
+
+| Field                   | Type     | Description                                                                       |
+| ----------------------- | -------- | --------------------------------------------------------------------------------- |
+| `id`                    | `string` | Unique identifier for the category.                                               |
+| `categoryName`          | `string` | Name of the ranking category.                                                     |
+| `champion`              | `object` | Information about the champion of the category. Includes `id` and `championName`. |
+| `champion.id`           | `string` | Unique identifier of the champion.                                                |
+| `champion.championName` | `string` | Name of the champion.                                                             |
+| `fighters`              | `array`  | List of fighters in the category. Includes `id` and `name`.                       |
+| `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
+| `fighters[].name`       | `string` | Name of the fighter.                                                              |
+
+```json
+{
+  "id": "flyweight",
+  "categoryName": "Flyweight",
+  "champion": {
+    "id": "alexandre-pantoja",
+    "championName": "Alexandre Pantoja"
+  },
+  "fighters": [
+    {
+      "id": "brandon-royval",
+      "name": "Brandon Royval"
+    },
+    {
+      "id": "brandon-moreno",
+      "name": "Brandon Moreno"
+    }
+    // More fighters...
+  ]
 }
 ```
