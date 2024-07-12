@@ -13,7 +13,7 @@
     },
     {
       label: 'API',
-      route: '/api-info',
+      route: '/api',
     },
     {
       label: 'About',
