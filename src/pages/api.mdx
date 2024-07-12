@@ -1,15 +1,18 @@
 ---
 title: API
 description: Find out Octagon API endpoints
+layout: ../layouts/MdxLayout.astro
 ---
 
-import Layout from '../layouts/Layout.astro'
+## Introduction
 
-<Layout
-  title={frontmatter.title}
-  description={frontmatter.description}
->
+Here you can find
 
 Welcome to my new Astro blog, using MDX!
 
-</Layout>
+| Endpoint                    | Response                      |
+| --------------------------- | ----------------------------- |
+| GET `/rankings`             | Returns whole rankings info.  |
+| GET `/fighters`             | Returns all fighters info.    |
+| GET `/fighter/:fighterId`   | Returns single fighter info.  |
+| GET `/division/:divisionId` | Returns single division info. |
