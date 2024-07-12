@@ -1,0 +1,221 @@
+---
+title: API
+description: Find out Octagon API endpoints
+layout: ../layouts/MdxLayout.astro
+---
+
+## Introduction
+
+Here you can find the documentation about **Octagon API**. This API is designed to provide data about professional fighters categorized across various weight divisions in MMA.
+
+This documentation will guide you through the available endpoints, parameters, and response formats to help you integrate this data into your applications or services.
+
+If you have any questions, encounter issues, or need further assistance, feel free to open <a href="https://github.com/victor-lillo/octagon-api/issues" target="_blank" rel="noreferrer">an issue on GitHub</a> or reach out to me at <a href="mailto:fentos.dev@gmail.com">fentos.dev@gmail.com</a>.
+
+In this table, you will find a summary of the endpoints.
+
+| Endpoint                                               | Response                      |
+| ------------------------------------------------------ | ----------------------------- |
+| [GET `/rankings`](#get-rankings)                       | Returns whole rankings info.  |
+| [GET `/fighters`](#get-fighters)                       | Returns all fighters info.    |
+| [GET `/fighter/:fighterId`](#get-fighterfighterid)     | Returns single fighter info.  |
+| [GET `/division/:divisionId`](#get-divisiondivisionid) | Returns single division info. |
+
+## GET `/rankings`
+
+This <a href="https://api.octagon-api.com/rankings" target="_blank" rel="noreferrer">endpoint</a> returns the whole rankings data.
+
+The JSON data is an **array**, where each entry is an object with the properties listed in the table.
+
+| Field                   | Type     | Description                                                                       |
+| ----------------------- | -------- | --------------------------------------------------------------------------------- |
+| `id`                    | `string` | Unique identifier for the category.                                               |
+| `categoryName`          | `string` | Name of the ranking category.                                                     |
+| `champion`              | `object` | Information about the champion of the category. Includes `id` and `championName`. |
+| `champion.id`           | `string` | Unique identifier of the champion.                                                |
+| `champion.championName` | `string` | Name of the champion.                                                             |
+| `fighters`              | `array`  | List of fighters in the category. Includes `id` and `name`.                       |
+| `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
+| `fighters[].name`       | `string` | Name of the fighter.                                                              |
+
+```json title="https://api.octagon-api.com/rankings" wrap
+[
+  {
+    "id": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "champion": {
+      "id": "islam-makhachev",
+      "championName": "Islam Makhachev"
+    },
+    "fighters": [
+      {
+        "id": "islam-makhachev",
+        "name": "Islam Makhachev"
+      },
+      {
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
+      }
+      // More fighters...
+    ]
+  },
+  {
+    "id": "flyweight",
+    "categoryName": "Flyweight",
+    "champion": {
+      "id": "alexandre-pantoja",
+      "championName": "Alexandre Pantoja"
+    },
+    "fighters": [
+      {
+        "id": "brandon-royval",
+        "name": "Brandon Royval"
+      },
+      {
+        "id": "brandon-moreno",
+        "name": "Brandon Moreno"
+      }
+      // More fighters...
+    ]
+    // More divisions...
+  }
+]
+```
+
+## GET `/fighters`
+
+This <a href="https://api.octagon-api.com/fighters" target="_blank" rel="noreferrer">endpoint</a> returns the whole fighters data.
+
+The JSON data is an **Object**, where each `key` is the unique identifier of a fighter.
+
+The `value` is an object containing various details about the fighter. The properties of each fighter object are listed in the table, providing information such as the fighter's division, record, personal details, and physical attributes.
+
+| Field           | Type     | Description                                            |
+| --------------- | -------- | ------------------------------------------------------ |
+| `category`      | `string` | Division or category of the fighter.                   |
+| `draws`         | `string` | Number of draws in the fighter's career.               |
+| `imgUrl`        | `string` | URL to the fighter's image.                            |
+| `losses`        | `string` | Number of losses in the fighter's career.              |
+| `name`          | `string` | Full name of the fighter.                              |
+| `nickname`      | `string` | Nickname of the fighter.                               |
+| `wins`          | `string` | Number of wins in the fighter's career.                |
+| `status`        | `string` | Current status of the fighter (e.g., Active, Retired). |
+| `placeOfBirth`  | `string` | Place where the fighter was born.                      |
+| `trainsAt`      | `string` | Training facility where the fighter trains.            |
+| `fightingStyle` | `string` | Fighting style of the fighter.                         |
+| `age`           | `string` | Age of the fighter.                                    |
+| `height`        | `string` | Height of the fighter (in inches).                     |
+| `weight`        | `string` | Weight of the fighter (in pounds).                     |
+| `octagonDebut`  | `string` | Date of the fighter's debut in the octagon.            |
+| `reach`         | `string` | Reach of the fighter (in inches).                      |
+| `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
+
+```json title="https://api.octagon-api.com/fighters" wrap
+{
+  "islam-makhachev": {
+    "category": "Lightweight Division",
+    "draws": "0",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-05/MAKHACHEV_ISLAM_L_BELT_06-01.png?itok=O8gDxptU",
+    "losses": "1",
+    "name": "Islam Makhachev",
+    "nickname": "",
+    "wins": "26",
+    "status": "Active",
+    "placeOfBirth": "Dagestan Republic, Russia",
+    "trainsAt": "AKA (American Kickboxing Academy) San Jose",
+    "fightingStyle": "Sambo",
+    "age": "32",
+    "height": "70.00",
+    "weight": "155.00",
+    "octagonDebut": "May. 23, 2015",
+    "reach": "70.50",
+    "legReach": "40.50"
+  }
+  // More fighters...
+}
+```
+
+### GET `/fighter/:fighterId`
+
+This <a href="https://api.octagon-api.com/fighter/jon-jones" target="_blank" rel="noreferrer">endpoint</a> returns the concrete `fighterId` data.
+
+The JSON data is an **Object** containing various details about the fighter. These properties are listed in the table, providing information such as the fighter's division, record, personal details, and physical attributes.
+
+| Field           | Type     | Description                                            |
+| --------------- | -------- | ------------------------------------------------------ |
+| `category`      | `string` | Division or category of the fighter.                   |
+| `draws`         | `string` | Number of draws in the fighter's career.               |
+| `imgUrl`        | `string` | URL to the fighter's image.                            |
+| `losses`        | `string` | Number of losses in the fighter's career.              |
+| `name`          | `string` | Full name of the fighter.                              |
+| `nickname`      | `string` | Nickname of the fighter.                               |
+| `wins`          | `string` | Number of wins in the fighter's career.                |
+| `status`        | `string` | Current status of the fighter (e.g., Active, Retired). |
+| `placeOfBirth`  | `string` | Place where the fighter was born.                      |
+| `trainsAt`      | `string` | Training facility where the fighter trains.            |
+| `fightingStyle` | `string` | Fighting style of the fighter.                         |
+| `age`           | `string` | Age of the fighter.                                    |
+| `height`        | `string` | Height of the fighter (in inches).                     |
+| `weight`        | `string` | Weight of the fighter (in pounds).                     |
+| `octagonDebut`  | `string` | Date of the fighter's debut in the octagon.            |
+| `reach`         | `string` | Reach of the fighter (in inches).                      |
+| `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
+
+```json title="https://api.octagon-api.com/fighter/jon-jones" wrap
+{
+  "category": "Heavyweight Division",
+  "draws": "0",
+  "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-03/JONES_JON_L_BELT_03_04.png?itok=P6J6DQpm",
+  "losses": "1",
+  "name": "Jon Jones",
+  "nickname": "Bones",
+  "wins": "27",
+  "status": "Active",
+  "placeOfBirth": "Rochester, United States",
+  "age": "35",
+  "height": "76.00",
+  "weight": "248.00",
+  "octagonDebut": "Aug. 9, 2008",
+  "reach": "84.50",
+  "legReach": "45.00"
+}
+```
+
+### GET `/division/:divisionId`
+
+This <a href="https://api.octagon-api.com/division/flyweight" target="_blank" rel="noreferrer">endpoint</a> returns the concrete `divisionId` data.
+
+The JSON data is an **Object** that represents a division of fighters, containing properties such as the category ID, category name, champion details, and an array of fighters with their respective IDs and names, as outlined in the table.
+
+| Field                   | Type     | Description                                                                       |
+| ----------------------- | -------- | --------------------------------------------------------------------------------- |
+| `id`                    | `string` | Unique identifier for the category.                                               |
+| `categoryName`          | `string` | Name of the ranking category.                                                     |
+| `champion`              | `object` | Information about the champion of the category. Includes `id` and `championName`. |
+| `champion.id`           | `string` | Unique identifier of the champion.                                                |
+| `champion.championName` | `string` | Name of the champion.                                                             |
+| `fighters`              | `array`  | List of fighters in the category. Includes `id` and `name`.                       |
+| `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
+| `fighters[].name`       | `string` | Name of the fighter.                                                              |
+
+```json title="https://api.octagon-api.com/division/flyweight" wrap
+{
+  "id": "flyweight",
+  "categoryName": "Flyweight",
+  "champion": {
+    "id": "alexandre-pantoja",
+    "championName": "Alexandre Pantoja"
+  },
+  "fighters": [
+    {
+      "id": "brandon-royval",
+      "name": "Brandon Royval"
+    },
+    {
+      "id": "brandon-moreno",
+      "name": "Brandon Moreno"
+    }
+    // More fighters...
+  ]
+}
+```

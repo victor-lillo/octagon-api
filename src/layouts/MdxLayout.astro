@@ -1,0 +1,81 @@
+---
+import '../styles/normalize.css'
+import '../styles/reset.local.css'
+import '../styles/tokens.css'
+import '../styles/classes.css'
+import '../styles/markdown.css'
+import Navbar from '@components/Navbar.svelte'
+import SEO from '@components/SEO.astro'
+
+const { frontmatter } = Astro.props
+
+const { title, description } = frontmatter
+const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
+---
+
+<!doctype html>
+<html lang='en'>
+  <head>
+    <SEO
+      description={description}
+      title={title ?? 'Octagon API'}
+    />
+    <link
+      rel='icon'
+      type='image/svg+xml'
+      href='/favicon.svg'
+    />
+    <link
+      rel='sitemap'
+      href='/sitemap-index.xml'
+    />
+    <title>{displayTitle}</title>
+  </head>
+  <body>
+    <Navbar client:visible />
+    <main class='md'>
+      <slot />
+    </main>
+    <script is:inline>
+      // Inline: not bundled, so will execute the first
+      // We need to load theme asap, so we are handling it in the layout.
+      const STORAGE_THEME_KEY = 'theme'
+      const getLocalStorageTheme = (localStorageKey) => {
+        if (localStorage && localStorage.getItem(localStorageKey))
+          return localStorage.getItem(localStorageKey)
+        if (window.matchMedia('(prefers-color-scheme: dark)').matches) return 'dark'
+        return 'light'
+      }
+
+      const theme = getLocalStorageTheme(STORAGE_THEME_KEY)
+      const isDark = theme === 'dark'
+      document.documentElement.classList.toggle('theme-dark', isDark)
+    </script>
+
+    <style>
+      body {
+        min-height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        /* This won't display, but lighthouse will check it in contrast with text */
+        background: var(--bg-gradient-1);
+      }
+      /* Fix bg gradient in mobile browsers. Fixed bg doesn't work well */
+      body::before {
+        content: '';
+        display: block;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
+        z-index: -999;
+        background: var(--bg-gradient-1);
+      }
+      main {
+        width: var(--section-width);
+      }
+    </style>
+  </body>
+</html>

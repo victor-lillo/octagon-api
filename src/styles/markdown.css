@@ -1,0 +1,79 @@
+.md {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.3rem;
+  gap: 0.8rem;
+}
+
+.md a {
+  font-weight: var(--font-weight-bold);
+  text-decoration: underline;
+  text-underline-offset: var(--text-underline-offset);
+  text-decoration-color: var(--color-accent-2);
+}
+
+.md :is(p, li, h2, h3, td, details) code {
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius);
+  background-color: var(--color-table-code);
+}
+
+.md code:not(.frame code) {
+  font-size: 0.8em;
+}
+
+.md :is(h1, h2, h3, h4, h5) {
+  position: relative;
+  color: var(--color-title);
+}
+
+.md h2 {
+  margin-top: 3rem;
+}
+
+.md h3 {
+  margin-top: 2.5rem;
+}
+
+.md table {
+  margin: 1rem 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: 1.1rem;
+}
+
+.md :is(table th, table td) {
+  border: 1px solid var(--color-table-border);
+  padding: 0.4rem 0.5rem;
+}
+
+.md table thead th {
+  background-color: var(--color-table-head);
+}
+
+.md ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1rem 0;
+  margin-left: 1.5rem;
+}
+
+.md li p ~ p {
+  padding: 0.5rem 0;
+}
+
+.md summary::marker,
+.md li::marker {
+  color: var(--color-accent-2);
+}
+
+/* Utility class for handling & inverting svgs */
+.md .theme-svg {
+  max-width: 100%;
+  margin: 1.5rem 0;
+}
+
+.theme-dark .md .theme-svg {
+  filter: invert(93%) hue-rotate(180deg);
+}
