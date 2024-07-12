@@ -10,7 +10,10 @@ import react from '@astrojs/react'
 import sitemap from '@astrojs/sitemap'
 
 // https://astro.build/config
+import mdx from '@astrojs/mdx'
+
+// https://astro.build/config
 export default defineConfig({
   site: 'https://octagon-api.com/',
-  integrations: [svelte(), react(), sitemap()],
+  integrations: [mdx(), svelte(), react(), sitemap()],
 })
