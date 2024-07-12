@@ -40,6 +40,8 @@ https://api.octagon-api.com/
 | GET `/fighter/:fighterId`   | Returns single fighter info.  |
 | GET `/division/:divisionId` | Returns single division info. |
 
+For more extensive documentation, go to the [API documentation](https://www.octagon-api.com/api-documentation)
+
 ## 🤖 Scripts
 
 |      Script       |     Params      | Function                                                                                              |
