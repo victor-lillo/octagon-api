@@ -44,15 +44,15 @@ For more extensive documentation, go to the [API documentation](https://www.octa
 
 ## 🤖 Scripts
 
-|      Script       |     Params      | Function                                                                                              |
-| :---------------: | :-------------: | ----------------------------------------------------------------------------------------------------- |
-|     `api:dev`     |                 | Starts a local instance of the API service.                                                           |
-|   `api:publish`   |                 | Publishes the API. Requires `wrangler` installed and logged.                                          |
-|     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                         |
-| `scrape:fighter`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `pnpm scrape:fighter --amanda-nunes`. |
-| `scrape:fighters` |                 | Updates complete `/db/fighter.json`.                                                                  |
-| `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                          |
-|   `lighthouse`    |                 | Generates and insert Lighthouse report badges in the `README.md`.                                     |
+|      Script       |     Params      | Function                                                                                           |
+| :---------------: | :-------------: | -------------------------------------------------------------------------------------------------- |
+|     `api:dev`     |                 | Starts a local instance of the API service.                                                        |
+|   `api:publish`   |                 | Publishes the API. Requires `wrangler` installed and logged.                                       |
+|     `scrape`      |                 | Updates the `/db` the complete scraper: rankings and then fighter by fighter.                      |
+| `scrape:fighter`  | `--{fighterId}` | Updates `/db/fighters.json` with the provided fighter. Example: `pnpm scrape:fighter --jon-jones`. |
+| `scrape:fighters` |                 | Updates complete `/db/fighter.json`.                                                               |
+| `scrape:rankings` |                 | Updates `/db/rankings.json`.                                                                       |
+|   `lighthouse`    |                 | Generates and insert Lighthouse report badges in the `README.md`.                                  |
 
 # Project technical information
 
