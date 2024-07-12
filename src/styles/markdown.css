@@ -1,0 +1,117 @@
+.md {
+  display: flex;
+  flex-direction: column;
+  font-size: 1.3rem;
+  gap: 0.8rem;
+}
+
+.md a {
+  font-weight: var(--font-weight-bold);
+  text-decoration: underline;
+  text-underline-offset: var(--text-underline-offset);
+  text-decoration-color: var(--color-accent-2);
+}
+
+.md :is(p, li, h2, h3, td, details) code {
+  padding: 0.25rem 0.5rem;
+  border-radius: var(--border-radius);
+  background-color: var(--color-primary-2);
+  background-color: red;
+}
+
+.md code:not(.frame code) {
+  font-size: 0.8em;
+}
+
+.md img:not(.zi-image) {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+  margin-block: 1rem;
+}
+
+.md :is(h1, h2, h3, h4, h5) {
+  position: relative;
+  color: var(--color-title);
+}
+
+.md :is(h2, h3, h4, h5) {
+  /* Ensures no overlap with the article-heading-anchor */
+  padding-right: 28px;
+}
+
+.md h2 {
+  margin-top: 3rem;
+}
+
+.md h3 {
+  margin-top: 2.5rem;
+}
+
+.md table {
+  margin: 1rem 0;
+  border-spacing: 0;
+  border-collapse: collapse;
+  font-size: 1.1rem;
+}
+
+.md :is(table th, table td) {
+  border: 1px solid var(--color-subtitle);
+  padding: 0.4rem 0.5rem;
+}
+
+.md ul {
+  display: flex;
+  flex-direction: column;
+  gap: 0.6rem;
+  margin: 1rem 0;
+  margin-left: 1.5rem;
+}
+
+.md li p ~ p {
+  padding: 0.5rem 0;
+}
+
+.md details > summary {
+  margin-block: 0.5rem;
+}
+
+.md summary::marker,
+.md li::marker {
+  color: var(--color-accent-2);
+}
+
+.md blockquote {
+  margin: 1.5rem 0;
+  font-style: italic;
+  opacity: 0.85;
+  border-left: 0.25rem solid var(--color-accent-2);
+  padding-left: 1rem;
+}
+
+.md aside {
+  margin: 1.5rem 0;
+}
+
+.md blockquote p {
+  margin: 1rem 0;
+}
+
+.md blockquote :is(h1, h2, h3) {
+  margin: 0;
+}
+
+.md hr {
+  width: 100%;
+  border-bottom: 2px solid var(--color-accent-2);
+}
+
+/* Utility class for handling & inverting svgs */
+.md .theme-svg {
+  max-width: 100%;
+  margin: 1.5rem 0;
+}
+
+.theme-dark .md .theme-svg {
+  filter: invert(93%) hue-rotate(180deg);
+}
