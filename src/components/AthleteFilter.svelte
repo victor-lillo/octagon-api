@@ -1,5 +1,8 @@
 <script>
   import data from '@db/fighters.json';
+  import AscOrderLetters from './icons/AscOrderLetters.svelte';
+  import DescOrderLetters from './icons/DescOrderLetters.svelte';
+
   export let ascOrder = true;
   export let filterName = '';
   export let filteredData = [];
@@ -47,30 +50,79 @@
   }
 </script>
 
-<input bind:value={filterName} type="text" />
 <label>
-  Ascending alphabetical order
-  <input bind:checked={ascOrder} type="checkbox" />
+  Filter athletes
+  <input bind:value={filterName} type="text" />
 </label>
 
-<ul class="container">
-  {#each filteredData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
-    <li key={`${name}-${index}`} class="row">
-      <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
-        {name}
-      </a>
-    </li>
-  {/each}
-</ul>
+<table>
+  <thead>
+    <tr>
+      <th>
+        <div>
+          Name <label>
+            {#if ascOrder}
+              <AscOrderLetters />
+            {:else}
+              <DescOrderLetters />
+            {/if}
+            <input class="hide" bind:checked={ascOrder} type="checkbox" />
+          </label>
+        </div>
+      </th>
+      <th>Age</th>
+      <th>Height</th>
+      <th>Weight</th>
+    </tr>
+  </thead>
+  <tbody>
+    {#each filteredData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
+      <tr>
+        <td>
+          <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
+            {name}
+          </a></td
+        >
+        <td>{age}</td>
+        <td>{height}</td>
+        <td>{weight}</td>
+      </tr>
+    {/each}
+  </tbody>
+</table>
 
 <style>
-  .container {
-    display: flex;
-    flex-direction: column;
-    gap: 0.5rem;
-    list-style: none;
+  table {
+    border-collapse: collapse;
   }
-  .row {
-    font-size: 1.4rem;
+
+  th {
+    background-color: var(--color-table-head);
+  }
+
+  th div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+  }
+
+  th,
+  td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+  }
+
+  td:nth-child(1) {
+    text-align: left;
+  }
+
+  label {
+    gap: 0.5rem;
+  }
+
+  .hide {
+    display: none;
   }
 </style>
