@@ -19,7 +19,7 @@ Welcome to my new Astro blog, using MDX!
 
 ## GET `/rankings`
 
-This endpoint returns the whole rankings data.
+This <a href="https://api.octagon-api.com/rankings" target="_blank" rel="noreferrer">endpoint</a> returns the whole rankings data.
 
 The JSON data is an **array**, where each entry is an object with the properties listed in the table.
 
@@ -76,4 +76,57 @@ The JSON data is an **array**, where each entry is an object with the properties
     // More divisions...
   }
 ]
+```
+
+## GET `/fighters`
+
+This <a href="https://api.octagon-api.com/fighters" target="_blank" rel="noreferrer">endpoint</a> returns the whole fighters data.
+
+The JSON data is an **Object**, where each `key` is the unique identifier of a fighter.
+
+The `value` is an object containing various details about the fighter. The properties of each fighter object are listed in the table, providing information such as the fighter's division, record, personal details, and physical attributes.
+
+| Field           | Type     | Description                                            |
+| --------------- | -------- | ------------------------------------------------------ |
+| `category`      | `string` | Division or category of the fighter.                   |
+| `draws`         | `string` | Number of draws in the fighter's career.               |
+| `imgUrl`        | `string` | URL to the fighter's image.                            |
+| `losses`        | `string` | Number of losses in the fighter's career.              |
+| `name`          | `string` | Full name of the fighter.                              |
+| `nickname`      | `string` | Nickname of the fighter.                               |
+| `wins`          | `string` | Number of wins in the fighter's career.                |
+| `status`        | `string` | Current status of the fighter (e.g., Active, Retired). |
+| `placeOfBirth`  | `string` | Place where the fighter was born.                      |
+| `trainsAt`      | `string` | Training facility where the fighter trains.            |
+| `fightingStyle` | `string` | Fighting style of the fighter.                         |
+| `age`           | `string` | Age of the fighter.                                    |
+| `height`        | `string` | Height of the fighter (in inches).                     |
+| `weight`        | `string` | Weight of the fighter (in pounds).                     |
+| `octagonDebut`  | `string` | Date of the fighter's debut in the octagon.            |
+| `reach`         | `string` | Reach of the fighter (in inches).                      |
+| `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
+
+```json
+{
+  "islam-makhachev": {
+    "category": "Lightweight Division",
+    "draws": "0",
+    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-05/MAKHACHEV_ISLAM_L_BELT_06-01.png?itok=O8gDxptU",
+    "losses": "1",
+    "name": "Islam Makhachev",
+    "nickname": "",
+    "wins": "26",
+    "status": "Active",
+    "placeOfBirth": "Dagestan Republic, Russia",
+    "trainsAt": "AKA (American Kickboxing Academy) San Jose",
+    "fightingStyle": "Sambo",
+    "age": "32",
+    "height": "70.00",
+    "weight": "155.00",
+    "octagonDebut": "May. 23, 2015",
+    "reach": "70.50",
+    "legReach": "40.50"
+  }
+  // More fighters...
+}
 ```
