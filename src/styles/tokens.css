@@ -43,6 +43,9 @@
 :root {
   color-scheme: light;
 
+  --font-weight-regular: 350;
+  --font-weight-bold: 600;
+
   --color-title: var(--color-primary-dark-7);
   --color-subtitle: var(--color-primary-dark-5);
 
@@ -67,6 +70,9 @@
 
 .theme-dark {
   color-scheme: dark;
+
+  --font-weight-regular: 300;
+  --font-weight-bold: 700;
 
   --color-title: var(--color-primary-light-8);
   --color-subtitle: var(--color-primary-light-6);
