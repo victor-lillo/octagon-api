@@ -4,7 +4,8 @@ import FighterScoreCard from '@components/FighterScoreCard.astro'
 import data from '@db/fighters.json'
 
 interface Props {
-  athlete: string
+  age: string
+  athleteId: string
   category: string
   draws: string
   fightingStyle: string
@@ -24,13 +25,13 @@ interface Props {
 export function getStaticPaths() {
   const params = Object.keys(data).map((fighterId) => {
     const athleteInfo = data[fighterId]
-    return { params: { athlete: fighterId }, props: { ...athleteInfo } }
+    return { params: { athleteId: fighterId }, props: { ...athleteInfo } }
   })
 
   return params
 }
 
-const { athlete } = Astro.params
+const { athleteId } = Astro.params
 const {
   age,
   category,
@@ -65,7 +66,7 @@ const seoDescription =
       {nickname && <h2>"{nickname}"</h2>}
     </header>
     <FighterScoreCard
-      athlete={athlete}
+      athlete={athleteId}
       wins={wins}
       losses={losses}
       draws={draws}
