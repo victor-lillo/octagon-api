@@ -53,26 +53,6 @@ const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
     </script>
 
     <style>
-      body {
-        min-height: 100vh;
-        display: flex;
-        flex-direction: column;
-        align-items: center;
-        /* This won't display, but lighthouse will check it in contrast with text */
-        background: var(--bg-gradient-1);
-      }
-      /* Fix bg gradient in mobile browsers. Fixed bg doesn't work well */
-      body::before {
-        content: '';
-        display: block;
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        z-index: -999;
-        background: var(--bg-gradient-1);
-      }
       main {
         width: var(--section-width);
       }
