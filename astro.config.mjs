@@ -21,6 +21,7 @@ export default defineConfig({
     react(),
     sitemap(),
     expressiveCode({
+      themes: ['slack-dark'],
       plugins: [
         {
           name: 'custom-style',
