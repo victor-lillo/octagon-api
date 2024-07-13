@@ -61,7 +61,18 @@
           </label>
         </div>
       </th>
-      <th>Age</th>
+      <th>
+        <div>
+          Age <label>
+            {#if ageAscOrder}
+              <AscOrderNumbers />
+            {:else}
+              <DescOrderNumbers />
+            {/if}
+            <input class="hide" bind:checked={ageAscOrder} type="checkbox" />
+          </label>
+        </div>
+      </th>
       <th>Height</th>
       <th>Weight</th>
     </tr>
