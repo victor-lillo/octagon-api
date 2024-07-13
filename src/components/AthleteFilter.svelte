@@ -34,10 +34,24 @@
     return lowerName.includes(lowerFilterName);
   });
 
-  $: if (nameAscOrder) {
-    filteredData = filteredData.sort(ascCompare('name'));
-  } else {
-    filteredData = filteredData.sort(descCompare('name'));
+  $: {
+    if (nameAscOrder === null) {
+      break $;
+    } else if (nameAscOrder) {
+      filteredData = filteredData.sort(ascCompare('name'));
+    } else {
+      filteredData = filteredData.sort(descCompare('name'));
+    }
+  }
+
+  $: {
+    if (ageAscOrder === null) {
+      break $;
+    } else if (ageAscOrder) {
+      filteredData = filteredData.sort(ascCompare('age'));
+    } else {
+      filteredData = filteredData.sort(descCompare('age'));
+    }
   }
 </script>
 
