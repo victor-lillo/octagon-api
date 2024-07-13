@@ -57,7 +57,7 @@
             {:else}
               <DescOrderLetters />
             {/if}
-            <input class="hide" bind:checked={ascOrder} type="checkbox" />
+            <input class="hide" bind:checked={nameAscOrder} type="checkbox" />
           </label>
         </div>
       </th>
