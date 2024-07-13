@@ -5,9 +5,12 @@
   import AscOrderNumbers from './icons/AscOrderNumbers.svelte';
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
 
-  export let nameAscOrder = true;
-  export let filterName = '';
-  export let filteredData = [];
+  let nameAscOrder = true;
+  let ageAscOrder = true;
+  let heightAscOrder = true;
+  let weightAscOrder = true;
+  let filterName = '';
+  let filteredData = [];
 
   const fighterData = Object.entries(data)
     .map(([key, value]) => {
