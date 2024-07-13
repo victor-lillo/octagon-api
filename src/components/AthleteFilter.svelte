@@ -6,9 +6,9 @@
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
 
   let nameAscOrder = true;
-  let ageAscOrder = true;
-  let heightAscOrder = true;
-  let weightAscOrder = true;
+  let ageAscOrder = null;
+  let heightAscOrder = null;
+  let weightAscOrder = null;
   let filterName = '';
   let filteredData = [];
 
