@@ -24,19 +24,9 @@
     };
   }
 
-  const fighterData = Object.entries(data)
-    .map(([key, value]) => {
-      return { id: key, ...value };
-    })
-    .sort(({ name: nameA }, { name: nameB }) => {
-      if (nameA > nameB) {
-        return 1;
-      }
-      if (nameA < nameB) {
-        return -1;
-      }
-      return 0;
-    });
+  const fighterData = Object.entries(data).map(([key, value]) => {
+    return { id: key, ...value };
+  });
 
   $: filteredData = fighterData.filter(({ name }) => {
     const lowerFilterName = filterName.toLocaleLowerCase();
