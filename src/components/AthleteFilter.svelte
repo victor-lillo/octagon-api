@@ -12,6 +12,18 @@
   let filterName = '';
   let filteredData = [];
 
+  function ascCompare(prop) {
+    return function (a, b) {
+      return a[prop].localeCompare(b[prop]);
+    };
+  }
+
+  function descCompare(prop) {
+    return function (a, b) {
+      return b[prop].localeCompare(a[prop]);
+    };
+  }
+
   const fighterData = Object.entries(data)
     .map(([key, value]) => {
       return { id: key, ...value };
@@ -33,25 +45,9 @@
   });
 
   $: if (nameAscOrder) {
-    filteredData = filteredData.sort(({ name: nameA }, { name: nameB }) => {
-      if (nameA > nameB) {
-        return 1;
-      }
-      if (nameA < nameB) {
-        return -1;
-      }
-      return 0;
-    });
+    filteredData = filteredData.sort(ascCompare('name'));
   } else {
-    filteredData = filteredData.sort(({ name: nameA }, { name: nameB }) => {
-      if (nameA > nameB) {
-        return -1;
-      }
-      if (nameA < nameB) {
-        return 1;
-      }
-      return 0;
-    });
+    filteredData = filteredData.sort(descCompare('name'));
   }
 </script>
 
