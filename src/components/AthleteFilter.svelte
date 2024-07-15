@@ -4,6 +4,7 @@
   import DescOrderLetters from './icons/DescOrderLetters.svelte';
   import AscOrderNumbers from './icons/AscOrderNumbers.svelte';
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
+  import FilterInput from './FilterInput.svelte';
 
   let nameAscOrder = true;
   let ageAscOrder = null;
@@ -64,20 +65,15 @@
   <thead>
     <tr>
       <th>
-        <div>
-          Name <label>
-            {#if nameAscOrder}
-              <AscOrderLetters />
-            {:else}
-              <DescOrderLetters />
-            {/if}
-            <input class="hide" bind:checked={nameAscOrder} type="checkbox" />
-          </label>
-        </div>
+        <FilterInput label="Name" bind:isChecked={nameAscOrder}>
+          <AscOrderLetters slot="ascIcon" />
+          <DescOrderLetters slot="descIcon" />
+        </FilterInput>
       </th>
       <th>
         <div>
-          Age <label>
+          <label>
+            Age
             {#if ageAscOrder}
               <AscOrderNumbers />
             {:else}
@@ -116,13 +112,6 @@
     background-color: var(--color-table-head);
   }
 
-  th div {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    gap: 0.5rem;
-  }
-
   th,
   td {
     border: 1px solid black;
@@ -132,13 +121,5 @@
 
   td:nth-child(1) {
     text-align: left;
-  }
-
-  label {
-    gap: 0.5rem;
-  }
-
-  .hide {
-    display: none;
   }
 </style>
