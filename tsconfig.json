@@ -3,7 +3,9 @@
   "compilerOptions": {
     "baseUrl": "src",
     "paths": {
-      "@db/*": ["../db/*"]
+      "@components/*": ["components/*"],
+      "@db/*": ["../db/*"],
+      "@layouts/*": ["layouts/*"]
     }
   }
 }
