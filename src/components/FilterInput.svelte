@@ -1,6 +1,6 @@
-<script>
-  export let isChecked;
-  export let label;
+<script lang="ts">
+  export let isChecked = false;
+  export let label: string;
 </script>
 
 <label>
