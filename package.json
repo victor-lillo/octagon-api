@@ -43,6 +43,7 @@
     "badge-maker": "4.0.0",
     "chrome-launcher": "1.1.2",
     "lighthouse": "12.1.0",
+    "typescript": "5.5.3",
     "vitest": "1.6.0",
     "wrangler": "3.61.0"
   },
