@@ -71,17 +71,10 @@
         </FilterInput>
       </th>
       <th>
-        <div>
-          <label>
-            Age
-            {#if ageAscOrder}
-              <AscOrderNumbers />
-            {:else}
-              <DescOrderNumbers />
-            {/if}
-            <input class="hide" bind:checked={ageAscOrder} type="checkbox" />
-          </label>
-        </div>
+        <FilterInput label="Age" bind:isChecked={ageAscOrder}>
+          <AscOrderNumbers slot="ascIcon" />
+          <DescOrderNumbers slot="descIcon" />
+        </FilterInput>
       </th>
       <th>Height</th>
       <th>Weight</th>
