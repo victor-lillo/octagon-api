@@ -76,8 +76,18 @@
           <DescOrderNumbers slot="descIcon" />
         </FilterInput>
       </th>
-      <th>Height</th>
-      <th>Weight</th>
+      <th>
+        <FilterInput label="Height" bind:isChecked={heightAscOrder}>
+          <AscOrderNumbers slot="ascIcon" />
+          <DescOrderNumbers slot="descIcon" />
+        </FilterInput></th
+      >
+      <th>
+        <FilterInput label="Weight" bind:isChecked={weightAscOrder}>
+          <AscOrderNumbers slot="ascIcon" />
+          <DescOrderNumbers slot="descIcon" />
+        </FilterInput></th
+      >
     </tr>
   </thead>
   <tbody>
