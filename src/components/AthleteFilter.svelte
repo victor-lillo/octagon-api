@@ -8,9 +8,14 @@
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
   import FilterInput from './FilterInput.svelte';
 
+  type Filter = {
+    name: string;
+    func: 'asc' | 'desc';
+  };
+
   let filteredData: Array<{ [key: string]: string }> = [];
   let filterName = '';
-  let orderFilters: Array<{ [key: string]: string }> = [];
+  let orderFilters: Array<Filter> = [];
 
   function ascCompare(prop: string) {
     return function (a: { [x: string]: string }, b: { [x: string]: string }) {
@@ -91,7 +96,7 @@
       array: orderFilters,
       keyToRemove: 'name',
       keyValue: name,
-    });
+    }) as Array<Filter>;
 
     if (checked) {
       orderFilters = [...orderFilters, { name, func: 'asc' }];
