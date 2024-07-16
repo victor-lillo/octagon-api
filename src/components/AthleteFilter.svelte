@@ -6,7 +6,7 @@
   import AscOrderNumbers from './icons/AscOrderNumbers.svelte';
   import DescOrderLetters from './icons/DescOrderLetters.svelte';
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
-  import FilterInput from './FilterInput.svelte';
+  import FilterButton from './FilterButton.svelte';
 
   type Filter = {
     filteredKey: string;
@@ -103,7 +103,9 @@
   }
 
   const onChange: FormEventHandler<HTMLInputElement> = (e) => {
-    const { name, checked } = e.currentTarget;
+    const { name, dataset } = e.currentTarget;
+
+    const tristate = dataset.tristate;
 
     orderFilters = removeArrayElementByKey({
       array: orderFilters,
@@ -111,9 +113,10 @@
       keyValue: name,
     }) as Array<Filter>;
 
-    if (checked) {
+    // Tristate: init in 'null', on click 'true', then 'false'
+    if (tristate === 'null') {
       orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.asc.key }];
-    } else {
+    } else if (tristate === 'true') {
       orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.desc.key }];
     }
   };
@@ -139,41 +142,41 @@
       {#each tableHeadCells as { iconType, key, label }}
         <th>
           {#if iconType === 'number'}
-            <FilterInput name={key} label={label} handleChange={onChange}>
+            <FilterButton name={key} label={label} handleChange={onChange}>
               <AscOrderNumbers slot="ascIcon" />
               <DescOrderNumbers slot="descIcon" />
-            </FilterInput>
+            </FilterButton>
           {:else if iconType === 'letter'}
-            <FilterInput name={key} label={label} handleChange={onChange}>
+            <FilterButton name={key} label={label} handleChange={onChange}>
               <AscOrderLetters slot="ascIcon" />
               <DescOrderLetters slot="descIcon" />
-            </FilterInput>
+            </FilterButton>
           {/if}
         </th>
       {/each}
       <!-- <th>
-        <FilterInput label="Name" bind:isChecked={nameAscOrder}>
+        <FilterButton label="Name" bind:isChecked={nameAscOrder}>
           <AscOrderLetters slot="ascIcon" />
           <DescOrderLetters slot="descIcon" />
-        </FilterInput>
+        </FilterButton>
       </th>
       <th>
-        <FilterInput label="Age" bind:isChecked={ageAscOrder}>
+        <FilterButton label="Age" bind:isChecked={ageAscOrder}>
           <AscOrderNumbers slot="ascIcon" />
           <DescOrderNumbers slot="descIcon" />
-        </FilterInput>
+        </FilterButton>
       </th>
       <th>
-        <FilterInput label="Height" bind:isChecked={heightAscOrder}>
+        <FilterButton label="Height" bind:isChecked={heightAscOrder}>
           <AscOrderNumbers slot="ascIcon" />
           <DescOrderNumbers slot="descIcon" />
-        </FilterInput></th
+        </FilterButton></th
       >
       <th>
-        <FilterInput label="Weight" bind:isChecked={weightAscOrder}>
+        <FilterButton label="Weight" bind:isChecked={weightAscOrder}>
           <AscOrderNumbers slot="ascIcon" />
           <DescOrderNumbers slot="descIcon" />
-        </FilterInput></th
+        </FilterButton></th
       > -->
     </tr>
   </thead>
