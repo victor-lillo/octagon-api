@@ -105,7 +105,7 @@
   const onChange: FormEventHandler<HTMLInputElement> = (e) => {
     const { name, dataset } = e.currentTarget;
 
-    const tristate = dataset.tristate;
+    const triState = dataset.tristate;
 
     orderFilters = removeArrayElementByKey({
       array: orderFilters,
@@ -114,9 +114,9 @@
     }) as Array<Filter>;
 
     // Tristate: init in 'null', on click 'true', then 'false'
-    if (tristate === 'null') {
+    if (triState === 'null') {
       orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.asc.key }];
-    } else if (tristate === 'true') {
+    } else if (triState === 'true') {
       orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.desc.key }];
     }
   };
