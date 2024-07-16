@@ -75,6 +75,7 @@
     return lowerName.includes(lowerFilterName);
   });
 
+  // Filter columns data by order
   $: {
     const fighterDataCopy = [...fighterData];
     for (const { filteredKey, order } of orderFilters) {
