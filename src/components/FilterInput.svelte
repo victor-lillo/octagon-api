@@ -1,13 +1,23 @@
 <script lang="ts">
   export let handleChange;
-  export let isChecked: boolean | null = null;
+  export let triState: boolean | null = null;
   export let label: string;
   export let name: string;
+
+  function handleTristate() {
+    if (triState === null) {
+      triState = true;
+    } else if (triState === true) {
+      triState = false;
+    } else {
+      triState = null;
+    }
+  }
 </script>
 
-<label class:asc={isChecked === true} class:desc={isChecked === false}>
+<label class:asc={triState === true} class:desc={triState === false}>
   {label}
-  {#if isChecked}
+  {#if triState}
     <slot name="ascIcon" />
   {:else}
     <slot name="descIcon" />
@@ -15,8 +25,11 @@
   <input
     name={name}
     class="hide"
-    bind:checked={isChecked}
-    on:input={handleChange}
+    data-tristate={`${triState}`}
+    on:input={(e) => {
+      handleTristate();
+      handleChange(e);
+    }}
     type="checkbox"
   />
 </label>
