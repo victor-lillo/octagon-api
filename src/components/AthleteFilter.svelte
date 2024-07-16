@@ -130,6 +130,8 @@
 <button
   on:click={() => {
     orderFilters = [];
+    const event = new Event('reset');
+    document.dispatchEvent(event);
   }}
 >
   Reset filters
