@@ -67,7 +67,7 @@
     filteredData = fighterDataCopy;
   }
 
-  function removeKey({
+  function removeArrayElementByKey({
     array,
     keyToRemove,
     keyValue,
@@ -87,7 +87,11 @@
   const onChange: FormEventHandler<HTMLInputElement> = (e) => {
     const { name, checked } = e.currentTarget;
 
-    orderFilters = removeKey({ array: orderFilters, keyToRemove: 'name', keyValue: name });
+    orderFilters = removeArrayElementByKey({
+      array: orderFilters,
+      keyToRemove: 'name',
+      keyValue: name,
+    });
 
     if (checked) {
       orderFilters = [...orderFilters, { name, func: 'asc' }];
