@@ -1,16 +1,24 @@
 <script lang="ts">
-  export let isChecked = false;
+  export let handleChange;
+  export let isChecked: boolean | null = null;
   export let label: string;
+  export let name: string;
 </script>
 
-<label>
+<label class:asc={isChecked === true} class:desc={isChecked === false}>
   {label}
   {#if isChecked}
     <slot name="ascIcon" />
   {:else}
     <slot name="descIcon" />
   {/if}
-  <input class="hide" bind:checked={isChecked} type="checkbox" />
+  <input
+    name={name}
+    class="hide"
+    bind:checked={isChecked}
+    on:input={handleChange}
+    type="checkbox"
+  />
 </label>
 
 <style>
@@ -23,5 +31,13 @@
 
   .hide {
     display: none;
+  }
+
+  .asc {
+    color: green;
+  }
+
+  .desc {
+    color: red;
   }
 </style>
