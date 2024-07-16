@@ -15,35 +15,33 @@
   }
 </script>
 
-<label class:asc={triState === true} class:desc={triState === false}>
+<button
+  class:asc={triState === true}
+  class:desc={triState === false}
+  data-tristate={`${triState}`}
+  name={name}
+  on:click={(e) => {
+    handleTristate();
+    handleChange(e);
+  }}
+>
   {label}
-  {#if triState}
+  {#if triState === null || triState === true}
     <slot name="ascIcon" />
   {:else}
     <slot name="descIcon" />
   {/if}
-  <input
-    name={name}
-    class="hide"
-    data-tristate={`${triState}`}
-    on:input={(e) => {
-      handleTristate();
-      handleChange(e);
-    }}
-    type="checkbox"
-  />
-</label>
+</button>
 
 <style>
-  label {
+  button {
     gap: 0.5rem;
     display: flex;
     align-items: center;
     justify-content: center;
-  }
-
-  .hide {
-    display: none;
+    border: none;
+    background-color: transparent;
+    width: 100%;
   }
 
   .asc {
