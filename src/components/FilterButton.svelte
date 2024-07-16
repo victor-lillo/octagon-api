@@ -1,8 +1,9 @@
 <script lang="ts">
   export let handleChange;
-  export let triState: boolean | null = null;
   export let label: string;
   export let name: string;
+
+  let triState: boolean | null = null;
 
   function handleTristate() {
     if (triState === null) {
