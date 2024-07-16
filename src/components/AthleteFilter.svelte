@@ -102,6 +102,15 @@
   <input bind:value={filterName} type="text" />
 </label>
 
+<button
+  on:click={() => {
+    orderFilters = [];
+  }}
+>
+  Reset filters
+</button>
+
+<p>{JSON.stringify(orderFilters)}</p>
 <table>
   <thead>
     <tr>
