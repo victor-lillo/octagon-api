@@ -9,8 +9,8 @@
   import FilterInput from './FilterInput.svelte';
 
   type Filter = {
-    name: string;
-    func: 'asc' | 'desc';
+    filteredKey: string;
+    order: 'asc' | 'desc';
   };
 
   let filteredData: Array<{ [key: string]: string }> = [];
@@ -36,11 +36,11 @@
 
   const FILTER_DICT = {
     asc: {
-      key: 'asc',
+      key: 'asc' as const,
       function: ascCompare,
     },
     desc: {
-      key: 'desc',
+      key: 'desc' as const,
       function: descCompare,
     },
   };
@@ -77,9 +77,9 @@
 
   $: {
     const fighterDataCopy = [...fighterData];
-    for (const { name, func } of orderFilters) {
-      const filterFunction = FILTER_DICT[func].function;
-      fighterDataCopy.sort(filterFunction(name));
+    for (const { filteredKey, order } of orderFilters) {
+      const filterFunction = FILTER_DICT[order].function;
+      fighterDataCopy.sort(filterFunction(filteredKey));
     }
     filteredData = fighterDataCopy;
   }
@@ -106,14 +106,14 @@
 
     orderFilters = removeArrayElementByKey({
       array: orderFilters,
-      keyToRemove: 'name',
+      keyToRemove: 'filteredKey',
       keyValue: name,
     }) as Array<Filter>;
 
     if (checked) {
-      orderFilters = [...orderFilters, { name, func: 'asc' }];
+      orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.asc.key }];
     } else {
-      orderFilters = [...orderFilters, { name, func: 'desc' }];
+      orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.desc.key }];
     }
   };
 </script>
