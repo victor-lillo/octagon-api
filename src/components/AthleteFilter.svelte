@@ -34,6 +34,17 @@
     return { id: key, ...value };
   });
 
+  const FILTER_DICT = {
+    asc: {
+      key: 'asc',
+      function: ascCompare,
+    },
+    desc: {
+      key: 'desc',
+      function: descCompare,
+    },
+  };
+
   const tableHeadCells = [
     {
       key: 'name', // same key as fighterData[x]
@@ -67,7 +78,8 @@
   $: {
     const fighterDataCopy = [...fighterData];
     for (const { name, func } of orderFilters) {
-      // fighterDataCopy.sort(filter);
+      const filterFunction = FILTER_DICT[func].function;
+      fighterDataCopy.sort(filterFunction(name));
     }
     filteredData = fighterDataCopy;
   }
