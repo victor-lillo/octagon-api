@@ -14,6 +14,10 @@
       triState = null;
     }
   }
+
+  document.addEventListener('reset', () => {
+    triState = null;
+  });
 </script>
 
 <button
