@@ -1,34 +1,58 @@
-<script>
-  import data from '@db/fighters.json';
+<script lang="ts">
+  import type { FormEventHandler } from 'svelte/elements';
+  import dbData from '@db/fighters.json';
+
   import AscOrderLetters from './icons/AscOrderLetters.svelte';
-  import DescOrderLetters from './icons/DescOrderLetters.svelte';
   import AscOrderNumbers from './icons/AscOrderNumbers.svelte';
+  import DescOrderLetters from './icons/DescOrderLetters.svelte';
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
   import FilterInput from './FilterInput.svelte';
 
-  let nameAscOrder = true;
-  let ageAscOrder = null;
-  let heightAscOrder = null;
-  let weightAscOrder = null;
+  let filteredData: Array<{ [key: string]: string }> = [];
   let filterName = '';
-  let filteredData = [];
+  let orderFilters: Array<{ [key: string]: string }> = [];
 
-  function ascCompare(prop) {
-    return function (a, b) {
+  function ascCompare(prop: string) {
+    return function (a: { [x: string]: string }, b: { [x: string]: string }) {
       return a[prop].localeCompare(b[prop]);
     };
   }
 
-  function descCompare(prop) {
-    return function (a, b) {
+  function descCompare(prop: string) {
+    return function (a: { [x: string]: string }, b: { [x: string]: string }) {
       return b[prop].localeCompare(a[prop]);
     };
   }
 
-  const fighterData = Object.entries(data).map(([key, value]) => {
+  // id,  category,  draws,  imgUrl,  losses,  name,  nickname,  wins,  status,  placeOfBirth,  trainsAt,  fightingStyle,  age,  height,  weight,  octagonDebut,  reach,  legReach
+  const fighterData = Object.entries(dbData).map(([key, value]) => {
     return { id: key, ...value };
   });
 
+  const tableHeadCells = [
+    {
+      key: 'name', // same key as fighterData[x]
+      label: 'Name',
+      iconType: 'letter',
+    },
+    {
+      key: 'age',
+      label: 'Age',
+      iconType: 'number',
+    },
+    {
+      key: 'height',
+      label: 'Height',
+      iconType: 'number',
+    },
+    {
+      key: 'weight',
+      label: 'Weight',
+      iconType: 'number',
+    },
+  ];
+
+  // Filter by name
   $: filteredData = fighterData.filter(({ name }) => {
     const lowerFilterName = filterName.toLocaleLowerCase();
     const lowerName = name.toLocaleLowerCase();
@@ -36,24 +60,41 @@
   });
 
   $: {
-    if (nameAscOrder === null) {
-      break $;
-    } else if (nameAscOrder) {
-      filteredData = filteredData.sort(ascCompare('name'));
-    } else {
-      filteredData = filteredData.sort(descCompare('name'));
+    const fighterDataCopy = [...fighterData];
+    for (const { name, func } of orderFilters) {
+      // fighterDataCopy.sort(filter);
     }
+    filteredData = fighterDataCopy;
   }
 
-  $: {
-    if (ageAscOrder === null) {
-      break $;
-    } else if (ageAscOrder) {
-      filteredData = filteredData.sort(ascCompare('age'));
-    } else {
-      filteredData = filteredData.sort(descCompare('age'));
+  function removeKey({
+    array,
+    keyToRemove,
+    keyValue,
+  }: {
+    array: Array<{ [key: string]: string }>;
+    keyToRemove: string;
+    keyValue: string;
+  }) {
+    const index = array.findIndex((x) => x[keyToRemove] === keyValue);
+    const copy = array;
+    if (index !== -1) {
+      copy.splice(index, 1);
     }
+    return copy;
   }
+
+  const onChange: FormEventHandler<HTMLInputElement> = (e) => {
+    const { name, checked } = e.currentTarget;
+
+    orderFilters = removeKey({ array: orderFilters, keyToRemove: 'name', keyValue: name });
+
+    if (checked) {
+      orderFilters = [...orderFilters, { name, func: 'asc' }];
+    } else {
+      orderFilters = [...orderFilters, { name, func: 'desc' }];
+    }
+  };
 </script>
 
 <label>
@@ -64,7 +105,22 @@
 <table>
   <thead>
     <tr>
-      <th>
+      {#each tableHeadCells as { iconType, key, label }}
+        <th>
+          {#if iconType === 'number'}
+            <FilterInput name={key} label={label} handleChange={onChange}>
+              <AscOrderNumbers slot="ascIcon" />
+              <DescOrderNumbers slot="descIcon" />
+            </FilterInput>
+          {:else if iconType === 'letter'}
+            <FilterInput name={key} label={label} handleChange={onChange}>
+              <AscOrderLetters slot="ascIcon" />
+              <DescOrderLetters slot="descIcon" />
+            </FilterInput>
+          {/if}
+        </th>
+      {/each}
+      <!-- <th>
         <FilterInput label="Name" bind:isChecked={nameAscOrder}>
           <AscOrderLetters slot="ascIcon" />
           <DescOrderLetters slot="descIcon" />
@@ -87,7 +143,7 @@
           <AscOrderNumbers slot="ascIcon" />
           <DescOrderNumbers slot="descIcon" />
         </FilterInput></th
-      >
+      > -->
     </tr>
   </thead>
   <tbody>
