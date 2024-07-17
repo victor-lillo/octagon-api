@@ -165,8 +165,8 @@
         <td>
           <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
             {name}
-          </a></td
-        >
+          </a>
+        </td>
         <td>{age}</td>
         <td>{height}</td>
         <td>{weight}</td>
@@ -178,6 +178,7 @@
 <style>
   table {
     border-collapse: collapse;
+    width: 100%;
   }
 
   th {
@@ -187,11 +188,18 @@
   th,
   td {
     border: 1px solid black;
-    padding: 8px;
+    padding: 0.4rem 0.8rem;
     text-align: center;
   }
 
   td:nth-child(1) {
     text-align: left;
+  }
+
+  @media (hover: hover) {
+    a:hover {
+      text-decoration: underline;
+      text-underline-offset: 2px;
+    }
   }
 </style>
