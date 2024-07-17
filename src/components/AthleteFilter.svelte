@@ -108,20 +108,22 @@
   };
 </script>
 
-<label>
-  Filter athletes
-  <input bind:value={filterName} type="text" />
-</label>
+<section>
+  <label>
+    Filter athletes
+    <input bind:value={filterName} type="text" />
+  </label>
 
-<button
-  on:click={() => {
-    orderFilters = [];
-    const event = new CustomEvent('reset');
-    document.dispatchEvent(event);
-  }}
->
-  Reset columns filters
-</button>
+  <button
+    on:click={() => {
+      orderFilters = [];
+      const event = new CustomEvent('reset');
+      document.dispatchEvent(event);
+    }}
+  >
+    Reset columns filters
+  </button>
+</section>
 
 <table>
   <thead>
@@ -162,6 +164,33 @@
 </table>
 
 <style>
+  section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+  }
+
+  label {
+    display: flex;
+    align-items: center;
+    gap: 0.6rem;
+  }
+
+  button {
+    padding: 0.4rem 1rem;
+    border-radius: var(--border-radius);
+    border: none;
+    background-color: var(--color-table-head);
+    transition: background-color 0.3s ease;
+  }
+
+  @media (hover: hover) {
+    button:hover {
+      background-color: var(--color-primary-dark-3);
+    }
+  }
+
   table {
     border-collapse: collapse;
     width: 100%;
