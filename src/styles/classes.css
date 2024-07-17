@@ -1,3 +1,20 @@
 .no-scroll {
   overflow: hidden;
 }
+
+.visually-hidden {
+  /* Contain text within 1px box */
+  height: 1px;
+  width: 1px;
+  overflow: hidden;
+
+  /* Keep the layout */
+  position: absolute;
+
+  /* Remove any visible trace (e.g. background color) */
+  clip: rect(0 0 0 0);
+  clip-path: inset(50%);
+
+  /* Prevent the screen reader to skip spaces between words */
+  white-space: nowrap;
+}
