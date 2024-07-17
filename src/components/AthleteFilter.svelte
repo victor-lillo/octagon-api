@@ -68,21 +68,23 @@
     },
   ];
 
-  // Filter by name
-  $: filteredData = fighterData.filter(({ name }) => {
-    const lowerFilterName = filterName.toLocaleLowerCase();
-    const lowerName = name.toLocaleLowerCase();
-    return lowerName.includes(lowerFilterName);
-  });
-
-  // Filter columns data by order
   $: {
-    const fighterDataCopy = [...fighterData];
-    for (const { filteredKey, order } of orderFilters) {
-      const filterFunction = FILTER_DICT[order].function;
-      fighterDataCopy.sort(filterFunction(filteredKey));
+    // Filter by filterName
+    filteredData = fighterData.filter(({ name }) => {
+      const lowerFilterName = filterName.toLocaleLowerCase();
+      const lowerName = name.toLocaleLowerCase();
+      return lowerName.includes(lowerFilterName);
+    });
+
+    // Filter by order
+    if (orderFilters.length > 0) {
+      const fighterDataCopy = [...filteredData];
+      for (const { filteredKey, order } of orderFilters) {
+        const filterFunction = FILTER_DICT[order].function;
+        fighterDataCopy.sort(filterFunction(filteredKey));
+      }
+      filteredData = fighterDataCopy;
     }
-    filteredData = fighterDataCopy;
   }
 
   function removeArrayElementByKey({
@@ -157,6 +159,7 @@
       {/each}
     </tr>
   </thead>
+  <p>{filteredData.length}</p>
   <tbody>
     {#each filteredData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
       <tr>
