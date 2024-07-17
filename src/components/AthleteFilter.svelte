@@ -8,6 +8,8 @@
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
   import FilterButton from './FilterButton.svelte';
 
+  import { ascCompare, descCompare } from '@utils/compare';
+
   type Filter = {
     filteredKey: string;
     order: 'asc' | 'desc';
@@ -16,18 +18,6 @@
   let filteredData: Array<{ [key: string]: string }> = [];
   let filterName = '';
   let orderFilters: Array<Filter> = [];
-
-  function ascCompare(prop: string) {
-    return function (a: { [x: string]: string }, b: { [x: string]: string }) {
-      return a[prop].localeCompare(b[prop]);
-    };
-  }
-
-  function descCompare(prop: string) {
-    return function (a: { [x: string]: string }, b: { [x: string]: string }) {
-      return b[prop].localeCompare(a[prop]);
-    };
-  }
 
   // id,  category,  draws,  imgUrl,  losses,  name,  nickname,  wins,  status,  placeOfBirth,  trainsAt,  fightingStyle,  age,  height,  weight,  octagonDebut,  reach,  legReach
   const fighterData = Object.entries(dbData).map(([key, value]) => {
