@@ -57,13 +57,23 @@
       iconType: 'number',
     },
     {
-      key: 'height',
-      label: 'Height',
+      key: 'weight',
+      label: 'Weight',
       iconType: 'number',
     },
     {
-      key: 'weight',
-      label: 'Weight',
+      key: 'wins',
+      label: 'Wins',
+      iconType: 'number',
+    },
+    {
+      key: 'losses',
+      label: 'Losses',
+      iconType: 'number',
+    },
+    {
+      key: 'height',
+      label: 'Height',
       iconType: 'number',
     },
   ];
@@ -136,7 +146,7 @@
     document.dispatchEvent(event);
   }}
 >
-  Reset filters
+  Reset columns filters
 </button>
 
 <table>
@@ -168,8 +178,10 @@
           </a>
         </td>
         <td>{age}</td>
-        <td>{height}</td>
         <td>{weight}</td>
+        <td>{wins}</td>
+        <td>{losses}</td>
+        <td>{height}</td>
       </tr>
     {/each}
   </tbody>
