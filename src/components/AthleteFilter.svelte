@@ -137,7 +137,6 @@
   Reset filters
 </button>
 
-<p>{JSON.stringify(orderFilters)}</p>
 <table>
   <thead>
     <tr>
@@ -156,30 +155,6 @@
           {/if}
         </th>
       {/each}
-      <!-- <th>
-        <FilterButton label="Name" bind:isChecked={nameAscOrder}>
-          <AscOrderLetters slot="ascIcon" />
-          <DescOrderLetters slot="descIcon" />
-        </FilterButton>
-      </th>
-      <th>
-        <FilterButton label="Age" bind:isChecked={ageAscOrder}>
-          <AscOrderNumbers slot="ascIcon" />
-          <DescOrderNumbers slot="descIcon" />
-        </FilterButton>
-      </th>
-      <th>
-        <FilterButton label="Height" bind:isChecked={heightAscOrder}>
-          <AscOrderNumbers slot="ascIcon" />
-          <DescOrderNumbers slot="descIcon" />
-        </FilterButton></th
-      >
-      <th>
-        <FilterButton label="Weight" bind:isChecked={weightAscOrder}>
-          <AscOrderNumbers slot="ascIcon" />
-          <DescOrderNumbers slot="descIcon" />
-        </FilterButton></th
-      > -->
     </tr>
   </thead>
   <tbody>
