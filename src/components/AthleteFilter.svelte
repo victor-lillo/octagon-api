@@ -178,7 +178,7 @@
   }
 
   button {
-    padding: 0.4rem 1rem;
+    padding: 0.6rem 1.2rem;
     border-radius: var(--border-radius);
     border: none;
     background-color: var(--color-table-head);
