@@ -8,6 +8,7 @@
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
   import FilterButton from './FilterButton.svelte';
 
+  import { removeArrayElementByKey } from '@utils/arrayModifiers';
   import { ascCompare, descCompare } from '@utils/compare';
 
   type Filter = {
@@ -85,23 +86,6 @@
       }
       filteredData = fighterDataCopy;
     }
-  }
-
-  function removeArrayElementByKey({
-    array,
-    keyToRemove,
-    keyValue,
-  }: {
-    array: Array<{ [key: string]: string }>;
-    keyToRemove: string;
-    keyValue: string;
-  }) {
-    const index = array.findIndex((x) => x[keyToRemove] === keyValue);
-    const copy = array;
-    if (index !== -1) {
-      copy.splice(index, 1);
-    }
-    return copy;
   }
 
   const onChange: FormEventHandler<HTMLInputElement> = (e) => {
