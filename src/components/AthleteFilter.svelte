@@ -159,7 +159,6 @@
       {/each}
     </tr>
   </thead>
-  <p>{filteredData.length}</p>
   <tbody>
     {#each filteredData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
       <tr>
