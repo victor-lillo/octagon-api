@@ -130,7 +130,7 @@
 <button
   on:click={() => {
     orderFilters = [];
-    const event = new Event('reset');
+    const event = new CustomEvent('reset');
     document.dispatchEvent(event);
   }}
 >
