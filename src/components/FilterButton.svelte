@@ -31,6 +31,17 @@
   }}
 >
   {label}
+
+  <p class="visually-hidden">
+    {#if triState === null}
+      Set column to ascending order
+    {:else if triState === true}
+      Set column to descending order
+    {:else}
+      Disable filter
+    {/if}
+  </p>
+
   {#if triState === null || triState === true}
     <slot name="ascIcon" />
   {:else}
