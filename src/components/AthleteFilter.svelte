@@ -187,7 +187,7 @@
 
   @media (hover: hover) {
     button:hover {
-      background-color: var(--color-primary-dark-3);
+      background-color: var(--color-accent-2);
     }
   }
 
