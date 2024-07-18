@@ -37,6 +37,8 @@
   --color-primary-light-7: #b3cfd5;
   --color-primary-light-8: #ccdfe3;
   --color-primary-light-9: #e6eff1;
+
+  --bg-transparent: #00000020;
 }
 
 /* Theme */
@@ -50,7 +52,6 @@
   --color-subtitle: var(--color-primary-dark-5);
 
   --bg-color-menu-mobile: var(--color-primary-light-5);
-  --bg-transparent: #00000020;
 
   --color-table-border: var(--color-primary-dark-7);
   --color-table-code: var(--color-primary-light-6);
@@ -78,7 +79,6 @@
   --color-subtitle: var(--color-primary-light-6);
 
   --bg-color-menu-mobile: var(--color-primary-dark-5);
-  --bg-transparent: #ffffff20;
 
   --color-table-border: var(--color-primary-light-7);
   --color-table-code: var(--color-primary-dark-6);
