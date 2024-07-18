@@ -202,7 +202,7 @@
 
   th,
   td {
-    border: 1px solid black;
+    border: 1px solid var(--color-table-border);
     padding: 0.4rem 0.8rem;
     text-align: center;
   }
