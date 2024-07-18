@@ -64,8 +64,8 @@
   --color-primary-inverse-3: var(--color-dark-3);
   --color-primary-inverse-4: var(--color-dark-4);
 
-  --color-title: var(--color-primary-inverse-4);
-  --color-subtitle: var(--color-primary-inverse-3);
+  --color-title: var(--color-dark-1);
+  --color-subtitle: var(--color-dark-2);
 
   --bg-color-menu-mobile: var(--color-primary-3);
 
@@ -101,8 +101,8 @@
   --color-primary-inverse-3: var(--color-light-3);
   --color-primary-inverse-4: var(--color-light-4);
 
-  --color-title: var(--color-primary-light-8);
-  --color-subtitle: var(--color-primary-light-6);
+  --color-title: var(--color-light-1);
+  --color-subtitle: var(--color-light-2);
 
   --bg-color-menu-mobile: var(--color-primary-dark-5);
 
