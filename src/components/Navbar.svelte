@@ -54,7 +54,7 @@
 
 <style>
   .navbar {
-    padding: 1rem 0;
+    height: var(--navbar-height);
     display: flex;
     justify-content: center;
     position: sticky;
