@@ -149,8 +149,9 @@
   div {
     contain: paint;
     overflow-x: auto;
-    white-space: nowrap;
     max-width: 100%;
+    width: 100%;
+    white-space: nowrap;
   }
 
   table {
