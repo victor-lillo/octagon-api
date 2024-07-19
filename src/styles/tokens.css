@@ -18,17 +18,18 @@
 
 /* Color palette */
 :root {
-  --color-blue-50: #d6f8ff;
-  --color-blue-100: #b3f2ff;
-  --color-blue-200: #61e5ff;
-  --color-blue-300: #14d8ff;
-  --color-blue-400: #00a2c2;
+  /* https://www.tints.dev/blue/005F73 */
+  --color-blue-50: #e0faff;
+  --color-blue-100: #b8f3ff;
+  --color-blue-200: #57e3ff;
+  --color-blue-300: #00c4eb;
+  --color-blue-400: #009dbd;
   --color-blue-500: #005f73;
-  --color-blue-600: #004d5c;
-  --color-blue-700: #003c47;
-  --color-blue-800: #00262e;
-  --color-blue-900: #001519;
-  --color-blue-950: #00090a;
+  --color-blue-600: #00596b;
+  --color-blue-700: #004d5c;
+  --color-blue-800: #00404d;
+  --color-blue-900: #002b33;
+  --color-blue-950: #001e24;
 
   --color-light-1: #f7f7f7;
   --color-light-2: #dcdcdc;
