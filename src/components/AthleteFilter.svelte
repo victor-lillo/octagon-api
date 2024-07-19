@@ -43,13 +43,33 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
+    flex-direction: column;
+    gap: 0.5rem;
     width: 100%;
+  }
+
+  @media (width < 48rem) {
+    section {
+      position: sticky;
+      top: var(--navbar-height);
+      backdrop-filter: blur(10px);
+      z-index: 1;
+    }
+  }
+  @media (width > 48rem) {
+    section {
+      flex-direction: row;
+    }
   }
 
   label {
     display: flex;
     align-items: center;
     gap: 0.6rem;
+  }
+
+  input {
+    margin-block: 3px;
   }
 
   button {
