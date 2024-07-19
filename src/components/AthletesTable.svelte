@@ -13,6 +13,12 @@
     order: 'asc' | 'desc';
   };
 
+  type TableHeadCell = {
+    key: string;
+    label: string;
+    iconType: 'letter' | 'number';
+  };
+
   export let fightersData: Array<{ [key: string]: string }> = [];
   let orderedData: Array<{ [key: string]: string }> = [];
   let orderFilters: Array<Filter> = [];
@@ -28,7 +34,7 @@
     },
   };
 
-  const tableHeadCells = [
+  const tableHeadCells: TableHeadCell[] = [
     {
       key: 'name', // same key as fighterData[x]
       label: 'Name',
