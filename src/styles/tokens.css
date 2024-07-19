@@ -2,11 +2,13 @@
 :root {
   --border-radius: 5px;
   --section-width: 90%;
+  --navbar-height: calc(40px + 24px);
 }
 
 @media only screen and (min-width: 48rem) {
   :root {
     --section-width: 75%;
+    --navbar-height: calc(64px + 24px);
   }
 }
 
