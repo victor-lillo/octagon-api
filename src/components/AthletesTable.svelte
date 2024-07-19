@@ -105,45 +105,54 @@
   });
 </script>
 
-<table>
-  <thead>
-    <tr>
-      {#each tableHeadCells as { iconType, key, label }}
-        <th>
-          {#if iconType === 'number'}
-            <FilterButton name={key} label={label} handleChange={onChange}>
-              <AscOrderNumbers slot="ascIcon" />
-              <DescOrderNumbers slot="descIcon" />
-            </FilterButton>
-          {:else if iconType === 'letter'}
-            <FilterButton name={key} label={label} handleChange={onChange}>
-              <AscOrderLetters slot="ascIcon" />
-              <DescOrderLetters slot="descIcon" />
-            </FilterButton>
-          {/if}
-        </th>
-      {/each}
-    </tr>
-  </thead>
-  <tbody>
-    {#each orderedData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
+<div>
+  <table>
+    <thead>
       <tr>
-        <td>
-          <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
-            {name}
-          </a>
-        </td>
-        <td>{age}</td>
-        <td>{weight}</td>
-        <td>{wins}</td>
-        <td>{losses}</td>
-        <td>{height}</td>
+        {#each tableHeadCells as { iconType, key, label }}
+          <th>
+            {#if iconType === 'number'}
+              <FilterButton name={key} label={label} handleChange={onChange}>
+                <AscOrderNumbers slot="ascIcon" />
+                <DescOrderNumbers slot="descIcon" />
+              </FilterButton>
+            {:else if iconType === 'letter'}
+              <FilterButton name={key} label={label} handleChange={onChange}>
+                <AscOrderLetters slot="ascIcon" />
+                <DescOrderLetters slot="descIcon" />
+              </FilterButton>
+            {/if}
+          </th>
+        {/each}
       </tr>
-    {/each}
-  </tbody>
-</table>
+    </thead>
+    <tbody>
+      {#each orderedData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
+        <tr>
+          <td>
+            <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
+              {name}
+            </a>
+          </td>
+          <td>{age}</td>
+          <td>{weight}</td>
+          <td>{wins}</td>
+          <td>{losses}</td>
+          <td>{height}</td>
+        </tr>
+      {/each}
+    </tbody>
+  </table>
+</div>
 
 <style>
+  div {
+    contain: paint;
+    overflow-x: auto;
+    white-space: nowrap;
+    max-width: 100%;
+  }
+
   table {
     border-collapse: collapse;
     width: 100%;
