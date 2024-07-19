@@ -63,12 +63,12 @@
 
   @media (hover: hover) {
     button:hover {
-      color: green;
+      color: seagreen;
       transition: color 0.3s ease;
     }
 
     button.asc:hover {
-      color: red;
+      color: crimson;
     }
 
     button.desc:hover {
@@ -77,10 +77,10 @@
   }
 
   .asc {
-    color: green;
+    color: seagreen;
   }
 
   .desc {
-    color: red;
+    color: crimson;
   }
 </style>
