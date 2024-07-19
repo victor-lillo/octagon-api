@@ -19,6 +19,7 @@ body {
   background: var(--bg-gradient-1);
   line-height: 1.5;
   font-weight: var(--font-weight-regular);
+  margin: 0;
 }
 
 /* Fix bg gradient in mobile browsers. Fixed bg doesn't work well */
