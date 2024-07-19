@@ -93,6 +93,10 @@
     overflow: hidden;
   }
 
+  .navbar--open .navbar__container {
+    height: var(--navbar-height);
+  }
+
   .navbar--open .navbar__anchor {
     display: block;
   }
