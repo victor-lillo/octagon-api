@@ -151,6 +151,7 @@
 
   th {
     background-color: var(--color-table-head);
+    font-weight: var(--font-weight-bold);
   }
 
   th,
