@@ -22,7 +22,7 @@
 
 <section>
   <label>
-    Filter athletes
+    Filter
     <input bind:value={filterName} type="text" />
   </label>
 
@@ -32,7 +32,7 @@
       document.dispatchEvent(event);
     }}
   >
-    Reset columns filters
+    Reset columns
   </button>
 </section>
 
@@ -43,7 +43,6 @@
     display: flex;
     align-items: center;
     justify-content: space-between;
-    flex-direction: column;
     gap: 0.5rem;
     width: 100%;
   }
@@ -51,14 +50,10 @@
   @media (width < 48rem) {
     section {
       position: sticky;
-      top: var(--navbar-height);
+      top: calc(var(--navbar-height) - 2px);
       backdrop-filter: blur(10px);
       z-index: 1;
-    }
-  }
-  @media (width > 48rem) {
-    section {
-      flex-direction: row;
+      padding: 1rem;
     }
   }
 
@@ -70,6 +65,7 @@
 
   input {
     margin-block: 3px;
+    width: 100%;
   }
 
   button {
@@ -78,6 +74,7 @@
     border: none;
     background-color: var(--color-table-head);
     transition: background-color 0.3s ease;
+    white-space: nowrap;
   }
 
   @media (hover: hover) {
