@@ -146,6 +146,12 @@
 </div>
 
 <style>
+  @media (width < 48rem) {
+    div {
+      padding-inline: 1rem;
+    }
+  }
+
   div {
     contain: paint;
     overflow-x: auto;
