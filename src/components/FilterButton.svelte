@@ -58,6 +58,22 @@
     border: none;
     background-color: transparent;
     width: 100%;
+    font: inherit;
+  }
+
+  @media (hover: hover) {
+    button:hover {
+      color: green;
+      transition: color 0.3s ease;
+    }
+
+    button.asc:hover {
+      color: red;
+    }
+
+    button.desc:hover {
+      color: inherit;
+    }
   }
 
   .asc {
