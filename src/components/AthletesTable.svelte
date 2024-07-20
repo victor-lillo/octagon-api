@@ -148,8 +148,6 @@
 <style>
   @media (width < 48rem) {
     div {
-      /* TODO stick table to viewport height */
-      /* max-height: 300px; */
       padding-inline: 1rem;
     }
   }
