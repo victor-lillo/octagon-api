@@ -54,7 +54,7 @@
 
 <style>
   .navbar {
-    padding: 1rem 0;
+    height: var(--navbar-height);
     display: flex;
     justify-content: center;
     position: sticky;
@@ -91,6 +91,10 @@
     background-color: var(--bg-color-menu-mobile);
     align-items: flex-start;
     overflow: hidden;
+  }
+
+  .navbar--open .navbar__container {
+    height: var(--navbar-height);
   }
 
   .navbar--open .navbar__anchor {

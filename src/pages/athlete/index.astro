@@ -1,6 +1,6 @@
 ---
 import Layout from '@layouts/Layout.astro'
-import AthleteFilter from '@components/AthleteFilter'
+import AthleteFilter from '@components/AthleteFilter.svelte'
 
 interface Props {
   athlete: string
@@ -13,12 +13,25 @@ interface Props {
 >
   <main>
     <h1>Athlete list</h1>
-    <AthleteFilter client:visible />
+    <AthleteFilter client:only='svelte' />
   </main>
 </Layout>
 
 <style>
   h1 {
     font-size: 3rem;
+    margin-bottom: 1rem;
+    padding-inline: 1rem;
+  }
+
+  main {
+    align-items: flex-start;
+    gap: 1rem;
+  }
+
+  @media (width < 48rem) {
+    main {
+      --section-width: 100%;
+    }
   }
 </style>
