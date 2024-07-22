@@ -13,19 +13,19 @@ const divisionData = data.map((cat) => {
   {
     divisionData.map(({ route, championImg, categoryName }, index) => (
       <li>
-        <div class='image-wrapper'>
-          <img
-            src={`/fighters/${championImg}`}
-            alt={`${categoryName} image`}
-            fetchpriority={index <= 2 ? 'high' : undefined}
-            loading={index >= 5 ? 'lazy' : undefined}
-          />
-        </div>
         <a
           aria-label={`Go to ${categoryName} page`}
           href={route}
         >
-          {categoryName}
+          <div class='image-wrapper'>
+            <img
+              src={`/fighters/${championImg}`}
+              alt={`${categoryName} image`}
+              fetchpriority={index <= 2 ? 'high' : undefined}
+              loading={index >= 5 ? 'lazy' : undefined}
+            />
+          </div>
+          <p>{categoryName}</p>
         </a>
       </li>
     ))
@@ -44,22 +44,15 @@ const divisionData = data.map((cat) => {
   }
 
   li {
-    display: flex;
-    flex-direction: column;
     border-radius: var(--border-radius);
-    transition: transform 0.3s;
-    background: var(--bg-gradient-2);
-    height: 13rem;
+    contain: paint;
   }
 
   a {
-    background: var(--color-accent-2);
-    color: var(--color-light-1);
-    text-align: center;
-    font-size: 1rem;
-    font-weight: var(--font-weight-bold);
-    margin-inline: 1rem;
-    padding-block: 0.4rem;
+    display: flex;
+    flex-direction: column;
+    background: var(--bg-gradient-2);
+    height: 13rem;
   }
 
   .image-wrapper {
@@ -69,9 +62,21 @@ const divisionData = data.map((cat) => {
     overflow: hidden;
     /* TODO fix height for CLS */
   }
+
   img {
     /* height: 10.2rem; */
     object-fit: scale-down;
+  }
+
+  p {
+    transition: transform 0.3s;
+    background: var(--color-accent-2);
+    color: var(--color-light-1);
+    text-align: center;
+    font-size: 1rem;
+    font-weight: var(--font-weight-bold);
+    margin-inline: 1rem;
+    padding-block: 0.4rem;
   }
 
   @media (hover: hover) {
