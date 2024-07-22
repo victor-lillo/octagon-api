@@ -1,5 +1,5 @@
 import getLighthouseReport from './getLighthouseReport.js'
-import config from './lighthouse.config.json' assert { type: 'json' }
+import config from './lighthouse.config.json'
 
 const DEFAULTS = {
   badgeStyle: 'flat',
