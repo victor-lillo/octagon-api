@@ -11,7 +11,8 @@ export default [
   ...eslintPluginAstro.configs.recommended,
   jsxA11y.flatConfigs.recommended,
   ...eslintPluginSvelte.configs['flat/recommended'],
-  ...tseslint.configs.recommended,
+  ...tseslint.configs.strict,
+  ...tseslint.configs.stylistic,
   {
     languageOptions: {
       globals: {
