@@ -51,6 +51,7 @@
   color-scheme: light;
 
   --font-weight-regular: 350;
+  --font-weight-medium: 500;
   --font-weight-bold: 600;
 
   --color-accent-1: var(--color-blue-800);
