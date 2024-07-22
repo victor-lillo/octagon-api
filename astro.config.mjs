@@ -1,11 +1,8 @@
 import { defineConfig } from 'astro/config'
 
-import expressiveCode, { ExpressiveCodeTheme } from 'astro-expressive-code'
+import expressiveCode from 'astro-expressive-code'
 // https://astro.build/config
 import svelte from '@astrojs/svelte'
-
-// https://astro.build/config
-import react from '@astrojs/react'
 
 // https://astro.build/config
 import sitemap from '@astrojs/sitemap'
@@ -18,7 +15,6 @@ export default defineConfig({
   site: 'https://octagon-api.com/',
   integrations: [
     svelte(),
-    react(),
     sitemap(),
     expressiveCode({
       themes: ['slack-dark'],
