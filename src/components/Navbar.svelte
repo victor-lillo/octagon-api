@@ -44,11 +44,13 @@
     <div class="navbar__theme">
       <ThemeSwitcher />
     </div>
-    <button type="button" class="hamburger" on:click={handleChange} aria-label="Menu">
+    <button type="button" class="hamburger" on:click={handleChange}>
       <div />
       <div />
       <div />
-      <p></p>
+      <p class="visually-hidden">
+        {isOpen ? 'Close navigation menu' : 'Open navigation menu'}
+      </p>
     </button>
   </nav>
 </header>
