@@ -58,7 +58,7 @@ For more extensive documentation, go to the [API documentation](https://www.octa
 
 ## 👩‍💻 Technologies
 
-- **Front End**: Astro, Svelte, React
+- **Front End**: Astro, Svelte
 - **PostCSS**: autoprefixer
 - **Scraper**: NodeJS and node-html-parser
 - **API**: hono
