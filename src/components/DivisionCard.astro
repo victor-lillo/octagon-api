@@ -1,9 +1,8 @@
 ---
 import data from '@db/rankings.json'
 
-const divisionData = data.map((cat) => {
-  const { id, categoryName, champion } = cat
-  console.log(cat)
+const divisionData = data.map((division) => {
+  const { id, categoryName, champion } = division
   const championImg = champion.id ? champion.id + '.webp' : 'fighter-placeholder.svg'
   return { route: `division/${id}`, categoryName, championImg }
 })
