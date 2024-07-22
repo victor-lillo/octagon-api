@@ -5,19 +5,19 @@
   let navigationLinks = [
     {
       label: 'Divisions',
-      route: '/division',
+      href: '/division',
     },
     {
       label: 'Athletes',
-      route: '/athlete',
+      href: '/athlete',
     },
     {
       label: 'API',
-      route: '/api-documentation',
+      href: '/api-documentation',
     },
     {
       label: 'About',
-      route: '/about',
+      href: '/about',
     },
   ];
 
@@ -35,8 +35,8 @@
       <Logo />
     </a>
     <div class="navbar__anchor-container">
-      {#each navigationLinks as { label, route }}
-        <a class="navbar__anchor" aria-label={`Go to ${label} page`} href={route}>
+      {#each navigationLinks as { label, href }}
+        <a class="navbar__anchor" aria-label={`Go to ${label} page`} href={href}>
           {label}
         </a>
       {/each}
@@ -48,6 +48,7 @@
       <div />
       <div />
       <div />
+      <p></p>
     </button>
   </nav>
 </header>
