@@ -15,7 +15,11 @@
     "scrape:fighter": "node scraping/updateOneFighterEntrypoint.js",
     "scrape:fighters": "node scraping/fightersEntrypoint.js",
     "scrape:rankings": "node scraping/rankingsEntrypoint.js",
-    "lighthouse": "node lighthouse"
+    "lighthouse": "node lighthouse",
+    "lint": "eslint .",
+    "lint:fix": "eslint . --fix",
+    "prettier": "prettier --check .",
+    "prettier:fix": "prettier --write ."
   },
   "dependencies": {
     "@astrojs/mdx": "3.1.2",
