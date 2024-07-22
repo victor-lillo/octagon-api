@@ -34,6 +34,8 @@ const divisionData = data.map((cat) => {
 
 <style>
   ul {
+    --size-padding: 0.4rem;
+
     width: 100%;
     display: grid;
     gap: 1rem;
@@ -54,13 +56,12 @@ const divisionData = data.map((cat) => {
     display: flex;
     flex-direction: column;
     height: 13rem;
-    padding-top: 0.4rem;
+    padding-top: var(--size-padding);
   }
 
   .image-wrapper {
     display: flex;
     justify-content: center;
-    padding: 0 3rem;
     overflow: hidden;
     /* TODO fix height for CLS */
   }
@@ -76,12 +77,15 @@ const divisionData = data.map((cat) => {
     text-align: center;
     font-size: 1rem;
     font-weight: var(--font-weight-bold);
-    padding: 0.4rem;
+    padding: var(--size-padding);
+    border: 1px solid var(--color-accent-1);
+    border-bottom-left-radius: var(--border-radius);
+    border-bottom-right-radius: var(--border-radius);
   }
 
   @media (hover: hover) {
     li:hover {
-      transform: scale(1.05);
+      transform: scale(1.06);
     }
   }
 </style>
