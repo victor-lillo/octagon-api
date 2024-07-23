@@ -1,5 +1,6 @@
 {
   "jsxSingleQuote": true,
+  "plugins": ["prettier-plugin-astro"],
   "printWidth": 100,
   "semi": false,
   "singleAttributePerLine": true,

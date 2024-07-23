@@ -124,6 +124,7 @@
     background: none;
     border: none;
   }
+
   .hamburger div {
     display: block;
     background-color: var(--color-title);

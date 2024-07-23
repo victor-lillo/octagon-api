@@ -127,6 +127,7 @@
       </tr>
     </thead>
     <tbody>
+      <!-- eslint-disable-next-line @typescript-eslint/no-unused-vars -->
       {#each orderedData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
         <tr>
           <td>

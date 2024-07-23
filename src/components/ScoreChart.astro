@@ -55,41 +55,49 @@ const draws_bar_height = unit_value * ndraws
     padding: 1rem;
     margin-bottom: 1rem;
   }
+
   .stat-container {
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
     height: 100%;
   }
+
   .number {
     text-align: center;
     font-weight: 600;
     color: white;
   }
+
   .bar {
     width: 30px;
     border-radius: 5px 5px 0 0;
   }
+
   .bar--wins {
     height: var(--bar-height);
     background: #0a9396;
     background: linear-gradient(59deg, #0a9396 0%, #54b3b6 100%);
   }
+
   .bar--losses {
     height: var(--bar-height);
     background: #ae2012;
     background: linear-gradient(59deg, #ae2012 0%, #c66359 100%);
   }
+
   .bar--draws {
     height: var(--bar-height);
     background: #d7d7d7;
     background: linear-gradient(59deg, #d7d7d7 0%, #e9e9e9 100%);
   }
+
   @media only screen and (min-width: 48rem) {
     .chart {
       gap: 0.8rem;
       padding: 1rem 2rem;
     }
+
     .bar {
       width: 35px;
     }

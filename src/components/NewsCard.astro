@@ -10,8 +10,12 @@ export interface Props {
 const { fighter, fighterName, categoryName, currentPosition, previousPosition, index } = Astro.props
 
 const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
+
+const isNumber = typeof previousPosition === 'number'
 const pathClass =
-  currentPosition < previousPosition || previousPosition === 'unranked' ? 'up' : 'down'
+  (isNumber && currentPosition < previousPosition) || previousPosition === 'unranked'
+    ? 'up'
+    : 'down'
 ---
 
 <a
@@ -28,7 +32,7 @@ const pathClass =
     </header>
     <img
       src={`/fighters/${imgPath}`}
-      alt='Peleador'
+      alt={fighterName}
       fetchpriority={index <= 1 ? 'high' : undefined}
       loading={index >= 5 ? 'lazy' : undefined}
     />
@@ -41,10 +45,12 @@ const pathClass =
   h3 {
     width: 100%;
   }
+
   a {
     border-radius: var(--border-radius);
     overflow: hidden;
   }
+
   article {
     display: flex;
     flex-direction: column;
@@ -52,6 +58,7 @@ const pathClass =
     justify-content: space-between;
     gap: 2rem;
   }
+
   header {
     --text-padding: 0.5rem 0;
     display: flex;
@@ -89,17 +96,21 @@ const pathClass =
   .up .text {
     color: #008f79;
   }
+
   .down .text {
     color: #931c1c;
   }
+
   .up {
     background-image: url(/bg/waves-up.svg);
     background-size: cover;
   }
+
   .down {
     background-image: url(/bg/waves-down.svg);
     background-size: cover;
   }
+
   img {
     height: 305px;
     transform-origin: bottom;

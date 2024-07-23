@@ -27,6 +27,7 @@
   </label>
 
   <button
+    type="button"
     on:click={() => {
       const event = new CustomEvent('reset');
       document.dispatchEvent(event);

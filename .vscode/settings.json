@@ -1,3 +1,10 @@
 {
-  "cSpell.words": ["picocolors"]
+  "cSpell.words": ["picocolors"],
+  "eslint.validate": [
+    "javascript",
+    "astro", // Enable .astro
+    "svelte", // Enable .svelte
+    "typescript" // Enable .ts
+  ],
+  "stylelint.validate": ["astro", "css", "html", "svelte"]
 }
