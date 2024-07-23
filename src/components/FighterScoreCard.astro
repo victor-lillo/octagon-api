@@ -7,7 +7,7 @@ const { athlete, losses, draws, wins } = Astro.props
 <section>
   <img
     src={`/fighters/${athlete}.webp`}
-    alt='Peleador'
+    alt={athlete}
     fetchpriority='high'
   />
   <ScoreChart
@@ -23,11 +23,9 @@ const { athlete, losses, draws, wins } = Astro.props
     justify-content: space-between;
     gap: 0.7rem;
     flex-direction: row;
-
     padding: 1rem;
     padding-bottom: 0;
     border-radius: var(--border-radius);
-    background: #001219;
     background: var(--bg-gradient-2);
   }
 
