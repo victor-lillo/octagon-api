@@ -3,8 +3,17 @@ import Layout from '@layouts/Layout.astro'
 import data from '@db/rankings.json'
 import DivisionFighterCard from '@components/DivisionFighterCard.astro'
 
+type Fighter = {
+  id: string
+  name: string
+}
+
 interface Props {
   division: string
+  categoryName: string
+  championId: string
+  championName: string
+  fighters: Fighter[]
 }
 
 export function getStaticPaths() {
@@ -21,7 +30,7 @@ export function getStaticPaths() {
 }
 
 const { division } = Astro.params
-const { categoryName, championId, championName, fighters } = Astro.props
+const { categoryName, fighters } = Astro.props
 
 const fighterName = fighters.map(({ name }) => name)
 const formatter = new Intl.ListFormat('en', { style: 'short', type: 'conjunction' })
@@ -40,6 +49,7 @@ const seoDescription = `MMA ${seoCategoryName}, stats and information. Current a
 >
   <main>
     <header>
+      {division}
       <h1>Division</h1>
       <h2>{categoryName}</h2>
     </header>
