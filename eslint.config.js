@@ -1,27 +1,19 @@
 import globals from 'globals'
 import astroParser from 'astro-eslint-parser'
 import svelteParser from 'svelte-eslint-parser'
+import eslintPluginSvelte from 'eslint-plugin-svelte'
+import tseslint from 'typescript-eslint'
 import tsParser from '@typescript-eslint/parser'
-import path from 'node:path'
-import { fileURLToPath } from 'node:url'
-import js from '@eslint/js'
-import { FlatCompat } from '@eslint/eslintrc'
 import eslintPluginAstro from 'eslint-plugin-astro'
 import jsxA11y from 'eslint-plugin-jsx-a11y'
-
-const __filename = fileURLToPath(import.meta.url)
-const __dirname = path.dirname(__filename)
-const compat = new FlatCompat({
-  baseDirectory: __dirname,
-  recommendedConfig: js.configs.recommended,
-  allConfig: js.configs.all,
-})
 
 export default [
   {
     ignores: ['**/*.d.ts', 'dist/*'],
   },
   ...eslintPluginAstro.configs.recommended,
+  ...eslintPluginSvelte.configs['flat/recommended'],
+  ...tseslint.configs.recommended,
   jsxA11y.flatConfigs.recommended,
   {
     languageOptions: {
@@ -52,12 +44,6 @@ export default [
       'astro/prefer-object-class-list': 'error',
     },
   },
-  ...compat
-    .extends('plugin:@typescript-eslint/recommended', 'plugin:svelte/recommended')
-    .map((config) => ({
-      ...config,
-      files: ['**/*.svelte'],
-    })),
   {
     files: ['**/*.svelte'],
 
@@ -89,10 +75,6 @@ export default [
       ],
     },
   },
-  ...compat.extends('plugin:@typescript-eslint/recommended').map((config) => ({
-    ...config,
-    files: ['**/*.ts'],
-  })),
   {
     files: ['**/*.ts'],
 
