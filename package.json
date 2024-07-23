@@ -19,7 +19,9 @@
     "lint": "eslint .",
     "lint:fix": "eslint . --fix",
     "prettier": "prettier --check .",
-    "prettier:fix": "prettier --write ."
+    "prettier:fix": "prettier --write .",
+    "stylelint": "stylelint \"**/*.{css,astro,svelte}\"",
+    "stylelint:fix": "stylelint \"**/*.{css,astro,svelte}\" --fix"
   },
   "dependencies": {
     "@astrojs/mdx": "3.1.2",
