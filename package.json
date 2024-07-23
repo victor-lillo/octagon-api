@@ -51,6 +51,8 @@
     "globals": "15.8.0",
     "lighthouse": "12.1.0",
     "prettier-plugin-astro": "0.14.1",
+    "stylelint": "16.7.0",
+    "stylelint-config-html": "1.1.0",
     "svelte-eslint-parser": "0.41.0",
     "typescript": "5.5.3",
     "typescript-eslint": "7.16.1",
