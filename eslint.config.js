@@ -28,7 +28,7 @@ export default [
 
     languageOptions: {
       parser: astroParser,
-      ecmaVersion: 5,
+      ecmaVersion: 'latest',
       sourceType: 'script',
 
       parserOptions: {
@@ -47,7 +47,7 @@ export default [
 
     languageOptions: {
       parser: svelteParser,
-      ecmaVersion: 5,
+      ecmaVersion: 'latest',
       sourceType: 'script',
 
       parserOptions: {
