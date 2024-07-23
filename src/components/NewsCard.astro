@@ -11,7 +11,7 @@ const { fighter, fighterName, categoryName, currentPosition, previousPosition, i
 
 const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
 const pathClass =
-  currentPosition < previousPosition || previousPosition === 'unranked' ? 'up' : 'down'
+  previousPosition === 'unranked' ? 'up' : 'down' || currentPosition < previousPosition
 ---
 
 <a
@@ -28,7 +28,7 @@ const pathClass =
     </header>
     <img
       src={`/fighters/${imgPath}`}
-      alt='Peleador'
+      alt={fighterName}
       fetchpriority={index <= 1 ? 'high' : undefined}
       loading={index >= 5 ? 'lazy' : undefined}
     />
