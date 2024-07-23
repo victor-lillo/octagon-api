@@ -1,16 +1,13 @@
-import globals from 'globals'
 import astroParser from 'astro-eslint-parser'
-import svelteParser from 'svelte-eslint-parser'
+import eslintPluginAstro from 'eslint-plugin-astro'
 import eslintPluginSvelte from 'eslint-plugin-svelte'
+import globals from 'globals'
+import jsxA11y from 'eslint-plugin-jsx-a11y'
+import svelteParser from 'svelte-eslint-parser'
 import tseslint from 'typescript-eslint'
 import tsParser from '@typescript-eslint/parser'
-import eslintPluginAstro from 'eslint-plugin-astro'
-import jsxA11y from 'eslint-plugin-jsx-a11y'
 
 export default [
-  {
-    ignores: ['**/*.d.ts', 'dist/*'],
-  },
   ...eslintPluginAstro.configs.recommended,
   ...eslintPluginSvelte.configs['flat/recommended'],
   ...tseslint.configs.recommended,
@@ -93,5 +90,8 @@ export default [
     languageOptions: {
       parser: tsParser,
     },
+  },
+  {
+    ignores: ['**/*.d.ts', 'dist/*'],
   },
 ]
