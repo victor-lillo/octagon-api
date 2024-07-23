@@ -21,6 +21,7 @@
 </script>
 
 <button
+  type="button"
   class:asc={triState === true}
   class:desc={triState === false}
   data-tristate={`${triState}`}
