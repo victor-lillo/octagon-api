@@ -1,37 +1,23 @@
 ---
+import data from '@db/fighters.json'
 import Layout from '@layouts/Layout.astro'
 import FighterScoreCard from '@components/FighterScoreCard.astro'
-import data from '@db/fighters.json'
+import type { Fighter } from 'types/fighters'
+import type { InferGetStaticParamsType } from 'astro'
 
-interface Props {
-  age: string
-  athleteId: string
-  category: string
-  draws: string
-  fightingStyle: string
-  height: string
-  legReach: string
-  losses: string
-  name: string
-  nickname: string
-  octagonDebut: string
-  placeOfBirth: string
-  reach: string
-  trainsAt: string
-  weight: string
-  wins: string
-}
+type Props = Fighter
+type Params = InferGetStaticParamsType<typeof getStaticPaths>
 
 export function getStaticPaths() {
   const params = Object.keys(data).map((fighterId) => {
-    const athleteInfo = data[fighterId]
+    const athleteInfo = data[fighterId as keyof typeof data]
     return { params: { athleteId: fighterId }, props: { ...athleteInfo } }
   })
 
   return params
 }
 
-const { athleteId } = Astro.params
+const { athleteId } = Astro.params as Params
 const {
   age,
   category,
