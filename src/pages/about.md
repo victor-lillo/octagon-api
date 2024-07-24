@@ -1,16 +1,18 @@
 ---
 title: About
-description: Octagon API documentation. Access detailed fighter information, including divisions, records, personal details, and physical attributes. Get started with our API today.
+description: Octagon API is an open-source project created by Víctor Lillo. It provides a free, fast, and reliable API for accessing comprehensive MMA information. Add detailed fighter and weight divisions data into your projects with Octagon API.
 layout: ../layouts/MdLayout.astro
 variant: 'post'
 ---
 
-## About
+# About
 
-This is an open source project, created by a group of developers who love MMA. It is not monetized.
+**Octagon API** is an open source project, created by a passionate MMA fan and developer..
 
-Our purpose is to provide a free and fast API from this popular sport. There were lots of APIs for everything you can imagine, except MMA. That's the reason we created **Octagon API**.
+The purpose of this project is to provide a free, fast and reliable API for accessing comprehensive information about the popular sport of MMA.
 
-Now, MMA fan developers can create their own projects with their favorite fighters information, bringing a breath of fresh air to the common API based projects.
+While there are numerous APIs available for a variety of purposes, there were none dedicated to MMA enthusiasts. Recognizing this gap inspired the creation of **Octagon API**.
 
-If you want to collaborate <a href="https://github.com/victor-lillo/octagon-api" target="_blank" rel="noreferrer">visit the repository here</a>.
+Now, MMA fan developers can easily add detailed and updated fighter information into their own project, bringing a breath of fresh air to the typical API based projects and applications.
+
+If you’re interested in collaborating, feel free to visit our <a href="https://github.com/victor-lillo/octagon-api" target="_blank" rel="noreferrer">repository</a> and get involved.
