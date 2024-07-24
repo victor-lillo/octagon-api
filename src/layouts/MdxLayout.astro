@@ -1,4 +1,5 @@
 ---
+import type { MarkdownLayoutProps } from 'astro'
 import '@/styles/normalize.css'
 import '@/styles/reset.local.css'
 import '@/styles/tokens.css'
@@ -7,9 +8,16 @@ import '@/styles/markdown.css'
 import Navbar from '@/components/Navbar.svelte'
 import SEO from '@/components/SEO.astro'
 
+type Props = MarkdownLayoutProps<{
+  title: string
+  description: string
+  variant?: 'post'
+}>
+
 const { frontmatter } = Astro.props
 
-const { title, description } = frontmatter
+const { title, description, variant } = frontmatter
+
 const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
 ---
 
@@ -33,7 +41,7 @@ const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
   </head>
   <body>
     <Navbar client:visible />
-    <main class='md'>
+    <main class:list={['md', { [`${variant}`]: variant }]}>
       <slot />
     </main>
     <script is:inline>
@@ -55,6 +63,10 @@ const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
     <style>
       main {
         width: var(--section-width);
+      }
+
+      .post {
+        max-width: 70ch;
       }
     </style>
   </body>
