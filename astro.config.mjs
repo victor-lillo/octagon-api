@@ -71,4 +71,7 @@ export default defineConfig({
     }),
     mdx(),
   ],
+  server: {
+    port: 3000,
+  },
 })
