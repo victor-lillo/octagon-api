@@ -3,14 +3,14 @@ export type Champion = {
   championName: string
 }
 
-export type RankingFighter = {
+export type DivisionFighter = {
   id: string
   name: string
 }
 
-export type Category = {
+export type Division = {
   categoryName: string
   champion: Champion
-  fighters: RankingFighter[]
+  fighters: DivisionFighter[]
   id: string
 }
