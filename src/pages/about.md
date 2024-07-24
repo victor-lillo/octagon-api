@@ -1,7 +1,7 @@
 ---
 title: About
 description: Octagon API documentation. Access detailed fighter information, including divisions, records, personal details, and physical attributes. Get started with our API today.
-layout: ../layouts/MdxLayout.astro
+layout: ../layouts/MdLayout.astro
 variant: 'post'
 ---
 
