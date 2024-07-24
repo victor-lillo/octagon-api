@@ -1,7 +1,7 @@
 <script lang="ts">
   import type { FormEventHandler } from 'svelte/elements';
-  import { ascCompare, descCompare } from '@utils/compare';
-  import { removeArrayElementByKey } from '@utils/arrayModifiers';
+  import { ascCompare, descCompare } from '@/utils/compare';
+  import { removeArrayElementByKey } from '@/utils/arrayModifiers';
   import AscOrderLetters from './icons/AscOrderLetters.svelte';
   import AscOrderNumbers from './icons/AscOrderNumbers.svelte';
   import DescOrderLetters from './icons/DescOrderLetters.svelte';

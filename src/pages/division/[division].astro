@@ -1,9 +1,9 @@
 ---
-import Layout from '@layouts/Layout.astro'
+import Layout from '@/layouts/Layout.astro'
 import data from '@db/rankings.json'
-import DivisionFighterCard from '@components/DivisionFighterCard.astro'
+import DivisionFighterCard from '@/components/DivisionFighterCard.astro'
 
-import type { Division } from 'types/rankings'
+import type { Division } from '@/types/rankings'
 import type { InferGetStaticParamsType } from 'astro'
 
 type Props = Division
