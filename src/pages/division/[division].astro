@@ -3,18 +3,11 @@ import Layout from '@layouts/Layout.astro'
 import data from '@db/rankings.json'
 import DivisionFighterCard from '@components/DivisionFighterCard.astro'
 
-type Fighter = {
-  id: string
-  name: string
-}
+import type { Division } from 'types/rankings'
+import type { InferGetStaticParamsType } from 'astro'
 
-interface Props {
-  division: string
-  categoryName: string
-  championId: string
-  championName: string
-  fighters: Fighter[]
-}
+type Props = Division
+type Params = InferGetStaticParamsType<typeof getStaticPaths>
 
 export function getStaticPaths() {
   const params = data.map((division) => {
@@ -29,7 +22,7 @@ export function getStaticPaths() {
   return params
 }
 
-const { division } = Astro.params
+const { division } = Astro.params as Params
 const { categoryName, fighters } = Astro.props
 
 const fighterName = fighters.map(({ name }) => name)
