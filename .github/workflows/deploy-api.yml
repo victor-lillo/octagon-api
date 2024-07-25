@@ -8,8 +8,7 @@ on:
     paths: ['db/**']
   workflow_run:
     workflows: ['Octagon Scraper']
-    types:
-      - completed
+    types: [completed]
 
 jobs:
   deploy:
