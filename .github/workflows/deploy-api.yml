@@ -25,7 +25,7 @@ jobs:
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
-          workingDirectory: api
+          workingDirectory: ./api
           packageManager: pnpm
 
       - run: echo "🎉 API successfully finished!"
