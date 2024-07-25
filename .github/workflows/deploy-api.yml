@@ -17,10 +17,12 @@ jobs:
     timeout-minutes: 60
     steps:
       - uses: actions/checkout@v4
+
       - name: Build & Deploy Worker
-        uses: cloudflare/wrangler-action@v3.64.0
+        uses: cloudflare/wrangler-action@v3.6.0
         with:
           apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
           accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
           workingDirectory: api
+
       - run: echo "🎉 API successfully finished!"
