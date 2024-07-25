@@ -1,90 +1,90 @@
 [
   {
+    "fighter": "amanda-lemos",
+    "fighterName": "Amanda Lemos",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 4,
+    "previousPosition": 2,
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "virna-jandiroba",
+    "fighterName": "Virna Jandiroba",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 2,
+    "previousPosition": 4,
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "amanda-lemos",
+    "fighterName": "Amanda Lemos",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 14,
+    "previousPosition": 11,
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "virna-jandiroba",
+    "fighterName": "Virna Jandiroba",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 12,
+    "previousPosition": "unranked",
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "kayla-harrison",
+    "fighterName": "Kayla Harrison",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "michael-page",
+    "fighterName": "Michael Page",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "vicente-luque",
+    "fighterName": "Vicente Luque",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "montel-jackson",
+    "fighterName": "Montel Jackson",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
+    "fighter": "bruno-silva",
+    "fighterName": "Bruno Silva",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2024-07-25T04:17:51.855Z"
+  },
+  {
     "fighter": "casey-oneill",
     "fighterName": "Casey O'Neill",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "jasmine-jasudavicius",
-    "fighterName": "Jasmine Jasudavicius",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "tracy-cortez",
-    "fighterName": "Tracy Cortez",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "karine-silva",
-    "fighterName": "Karine Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "jessica-andrade",
-    "fighterName": "Jéssica Andrade",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "rose-namajunas",
-    "fighterName": "Rose Namajunas",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "karolina-kowalkiewicz",
-    "fighterName": "Karolina Kowalkiewicz",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "sergei-pavlovich",
-    "fighterName": "Sergei Pavlovich",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 4,
-    "previousPosition": 2,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "alexander-volkov",
-    "fighterName": "Alexander Volkov",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 2,
-    "previousPosition": 4,
-    "date": "2024-07-18T04:17:38.635Z"
-  },
-  {
-    "fighter": "alonzo-menifield",
-    "fighterName": "Alonzo Menifield",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
     "currentPosition": 14,
     "previousPosition": 13,
     "date": "2024-07-18T04:17:38.635Z"
