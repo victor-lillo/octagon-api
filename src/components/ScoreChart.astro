@@ -50,7 +50,7 @@ const draws_bar_height = unit_value * ndraws
   .chart {
     display: flex;
     gap: 0.3rem;
-    background-color: #ffffff4c;
+    background-color: var(--bg-athlete-data);
     border-radius: var(--border-radius);
     padding: 1rem;
     margin-bottom: 1rem;
@@ -65,8 +65,8 @@ const draws_bar_height = unit_value * ndraws
 
   .number {
     text-align: center;
-    font-weight: 600;
-    color: white;
+    font-weight: var(--font-weight-medium);
+    color: var(--color-primary-inverse-1);
   }
 
   .bar {
@@ -77,7 +77,7 @@ const draws_bar_height = unit_value * ndraws
   .bar--wins {
     height: var(--bar-height);
     background: #0a4f52;
-    background: linear-gradient(59deg, #0a9396 0%, #0a4f52 100%);
+    background: var(--bg-color-athlete-win-bar);
   }
 
   .bar--losses {
