@@ -4,7 +4,7 @@ import ScoreChart from './ScoreChart.astro'
 const { athlete, losses, draws, wins } = Astro.props
 ---
 
-<section>
+<article>
   <img
     src={`/fighters/${athlete}.webp`}
     alt={athlete}
@@ -15,10 +15,10 @@ const { athlete, losses, draws, wins } = Astro.props
     losses={losses}
     draws={draws}
   />
-</section>
+</article>
 
 <style>
-  section {
+  article {
     display: flex;
     justify-content: space-between;
     gap: 0.7rem;
