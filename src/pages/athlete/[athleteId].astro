@@ -59,27 +59,53 @@ const seoDescription =
     />
 
     <section>
-      <div class='data-item'><span>Age</span> {age}</div>
-      <div class='data-item'><span>Category</span> {category}</div>
-      <div class='data-item'><span>Weight</span> {weight}</div>
-      <div class='data-item'><span>Height</span> {height}</div>
+      <article class='data-item'>
+        <h3>Age</h3>
+        <p>{age}</p>
+      </article>
+      <article class='data-item'>
+        <h3>Category</h3>
+        <p>{category}</p>
+      </article>
+      <article class='data-item'>
+        <h3>Weight</h3>
+        <p>{weight}</p>
+      </article>
+      <article class='data-item'>
+        <h3>Height</h3>
+        <p>{height}</p>
+      </article>
       {
         fightingStyle ? (
-          <div class='data-item'>
-            <span>Fighting style</span> {fightingStyle}
-          </div>
+          <article class='data-item'>
+            <h3>Fighting style</h3>
+            <p>{fightingStyle}</p>
+          </article>
         ) : null
       }
-      <div class='data-item'><span>Place of birth</span> {placeOfBirth}</div>
-      <div class='data-item'><span>Debut</span> {octagonDebut}</div>
-      <div class='data-item'><span>Reach</span> {reach}</div>
-      <div class='data-item'><span>Leg reach</span> {legReach}</div>
+      <article class='data-item'>
+        <h3>Place of birth</h3>
+        <p>{placeOfBirth}</p>
+      </article>
+      <article class='data-item'>
+        <h3>Debut</h3>
+        <p>{octagonDebut}</p>
+      </article>
+      <article class='data-item'>
+        <h3>Reach</h3>
+        <p>{reach}</p>
+      </article>
+      <article class='data-item'>
+        <h3>Leg reach</h3>
+        <p>{legReach}</p>
+      </article>
       {
-        trainsAt ? (
-          <div class='data-item'>
-            <span>Gym</span> {trainsAt}
-          </div>
-        ) : null
+        trainsAt && (
+          <article class='data-item'>
+            <h3>Gym</h3>
+            <p>{trainsAt}</p>
+          </article>
+        )
       }
     </section>
   </main>
@@ -124,10 +150,10 @@ const seoDescription =
     gap: 0.4rem;
     padding: 0.7rem 1rem;
     border-radius: var(--border-radius);
-    background-color: var(--bg-transparent);
+    background-color: var(--bg-color-athlete-data);
   }
 
-  .data-item span {
+  .data-item h3 {
     color: var(--color-subtitle);
   }
 </style>
