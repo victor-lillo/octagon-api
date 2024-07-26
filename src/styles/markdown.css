@@ -23,12 +23,6 @@
 }
 
 .md :is(h1, h2, h3, h4, h5) {
-  position: relative;
-  color: var(--color-title);
-}
-
-.md h1 {
-  font-size: 3rem;
   color: var(--color-title);
 }
 
