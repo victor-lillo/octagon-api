@@ -1,12 +1,7 @@
 ---
 import type { MarkdownLayoutProps } from 'astro'
-import '@/styles/normalize.css'
-import '@/styles/reset.local.css'
-import '@/styles/tokens.css'
-import '@/styles/classes.css'
 import '@/styles/markdown.css'
-import Navbar from '@/components/Navbar.svelte'
-import SEO from '@/components/SEO.astro'
+import Layout from '@/layouts/Layout.astro'
 
 type Props = MarkdownLayoutProps<{
   title: string
@@ -17,57 +12,23 @@ type Props = MarkdownLayoutProps<{
 const { frontmatter } = Astro.props
 
 const { title, description, variant } = frontmatter
-
-const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
 ---
 
-<!doctype html>
-<html lang='en'>
-  <head>
-    <SEO
-      description={description}
-      title={title ?? 'Octagon API'}
-    />
-    <link
-      rel='icon'
-      type='image/svg+xml'
-      href='/favicon.svg'
-    />
-    <link
-      rel='sitemap'
-      href='/sitemap-index.xml'
-    />
-    <title>{displayTitle}</title>
-  </head>
-  <body>
-    <Navbar client:visible />
-    <main class:list={['md', { [`${variant}`]: variant }]}>
-      <slot />
-    </main>
-    <script is:inline>
-      // Inline: not bundled, so will execute the first
-      // We need to load theme asap, so we are handling it in the layout.
-      const STORAGE_THEME_KEY = 'theme'
-      const getLocalStorageTheme = (localStorageKey) => {
-        if (localStorage && localStorage.getItem(localStorageKey))
-          return localStorage.getItem(localStorageKey)
-        if (window.matchMedia('(prefers-color-scheme: dark)').matches) return 'dark'
-        return 'light'
-      }
+<Layout
+  title={title}
+  description={description}
+>
+  <main class:list={['md', { [`${variant}`]: variant }]}>
+    <slot />
+  </main>
+</Layout>
 
-      const theme = getLocalStorageTheme(STORAGE_THEME_KEY)
-      const isDark = theme === 'dark'
-      document.documentElement.classList.toggle('theme-dark', isDark)
-    </script>
+<style>
+  main {
+    width: var(--section-width);
+  }
 
-    <style>
-      main {
-        width: var(--section-width);
-      }
-
-      .post {
-        max-width: 70ch;
-      }
-    </style>
-  </body>
-</html>
+  .post {
+    max-width: 70ch;
+  }
+</style>
