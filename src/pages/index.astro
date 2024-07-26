@@ -2,20 +2,12 @@
 import Layout from '@/layouts/Layout.astro'
 import newsData from '@db/news.json'
 import NewsCard from '@/components/NewsCard.astro'
-
-interface NewsData {
-  fighter: string
-  fighterName: string
-  categoryName: string
-  currentPosition: number
-  previousPosition: number
-  date: string
-}
+import type { News } from '@/types/news'
 
 // Ordered by current position
 const orderedData = newsData.sort((a, b) => {
   return a.currentPosition - b.currentPosition
-}) as Array<NewsData>
+}) as unknown as News[]
 ---
 
 <Layout
