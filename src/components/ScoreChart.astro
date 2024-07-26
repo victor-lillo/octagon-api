@@ -19,14 +19,14 @@ const losses_bar_height = unit_value * nlosses
 const draws_bar_height = unit_value * ndraws
 ---
 
-<section class='chart'>
+<article class='chart'>
   <div class='stat-container'>
     <div
       class='bar bar--wins'
       style={{ '--bar-height': wins_bar_height + '%' }}
     >
     </div>
-    <div class='number'>{wins}</div>
+    <p class='number'>{wins}</p>
   </div>
   <div class='stat-container'>
     <div
@@ -34,7 +34,7 @@ const draws_bar_height = unit_value * ndraws
       style={{ '--bar-height': losses_bar_height + '%' }}
     >
     </div>
-    <div class='number'>{losses}</div>
+    <p class='number'>{losses}</p>
   </div>
   <div class='stat-container'>
     <div
@@ -44,7 +44,7 @@ const draws_bar_height = unit_value * ndraws
     </div>
     <div class='number'>{draws}</div>
   </div>
-</section>
+</article>
 
 <style>
   .chart {
@@ -76,8 +76,8 @@ const draws_bar_height = unit_value * ndraws
 
   .bar--wins {
     height: var(--bar-height);
-    background: #0a9396;
-    background: linear-gradient(59deg, #0a9396 0%, #54b3b6 100%);
+    background: #0a4f52;
+    background: linear-gradient(59deg, #0a9396 0%, #0a4f52 100%);
   }
 
   .bar--losses {
