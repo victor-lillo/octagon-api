@@ -27,6 +27,11 @@
   color: var(--color-title);
 }
 
+.md h1 {
+  font-size: 3rem;
+  color: var(--color-title);
+}
+
 .md h2 {
   margin-top: 3rem;
 }
