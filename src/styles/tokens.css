@@ -72,6 +72,7 @@
   --color-subtitle: var(--color-dark-2);
 
   --bg-color-menu-mobile: var(--color-accent-4);
+  --bg-color-athlete-data: var(--color-accent-3);
 
   --color-table-border: var(--color-accent-2);
   --color-table-code: var(--color-accent-3);
@@ -107,11 +108,12 @@
   --color-subtitle: var(--color-light-2);
 
   --bg-color-menu-mobile: var(--color-accent-3);
+  --bg-color-athlete-data: var(--color-accent-2);
 
   --color-table-border: var(--color-accent-1);
   --color-table-code: var(--color-accent-3);
   --color-table-head: var(--color-accent-4);
 
   --bg-gradient-1: linear-gradient(0deg, var(--color-blue-700) 0%, var(--color-blue-900) 100%);
-  --bg-gradient-2: linear-gradient(45deg, var(--color-blue-600) 0%, var(--color-blue-400) 100%);
+  --bg-gradient-2: linear-gradient(45deg, var(--color-blue-600) 0%, red 100%);
 }
