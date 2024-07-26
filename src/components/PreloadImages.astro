@@ -1,0 +1,16 @@
+---
+export interface Props {
+  links: string[]
+}
+const { links } = Astro.props
+---
+
+{
+  links.map((link) => (
+    <link
+      rel='preload'
+      as='image'
+      href={link}
+    />
+  ))
+}

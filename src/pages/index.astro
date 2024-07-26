@@ -2,17 +2,26 @@
 import Layout from '@/layouts/Layout.astro'
 import newsData from '@db/news.json'
 import NewsCard from '@/components/NewsCard.astro'
+import PreloadImage from '@/components/PreloadImages.astro'
 import type { News } from '@/types/news'
 
 // Ordered by current position
 const orderedData = newsData.sort((a, b) => {
   return a.currentPosition - b.currentPosition
 }) as unknown as News[]
+
+const imgsToPreload = ['/bg/waves-up.svg', '/bg/waves-down.svg']
 ---
 
 <Layout
   description='Octagon API, the ultimate web for checking the latest MMA news, athletes, divisions and stats'
 >
+  <!-- NewsCard images used in CSS -->
+  <PreloadImage
+    links={imgsToPreload}
+    slot='head'
+  />
+
   <main>
     <h1>Welcome to <span class='text-gradient'>Octagon API</span></h1>
     <h2 class='subtitle'>News</h2>

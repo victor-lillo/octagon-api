@@ -32,6 +32,7 @@ const displayTitle = title ? `${title} | Octagon API` : 'Octagon API'
       href='/sitemap-index.xml'
     />
     <title>{displayTitle}</title>
+    <slot name='head' />
   </head>
   <body>
     <Navbar client:visible />
