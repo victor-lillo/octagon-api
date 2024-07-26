@@ -1,5 +1,5 @@
 <script>
-  import Logo from './Logo.svelte';
+  import Logo from './icons/Logo.svelte';
   import ThemeSwitcher from './ThemeSwitcher.svelte';
 
   let navigationLinks = [
