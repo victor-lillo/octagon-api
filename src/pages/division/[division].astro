@@ -2,6 +2,7 @@
 import Layout from '@/layouts/Layout.astro'
 import data from '@db/rankings.json'
 import DivisionFighterCard from '@/components/DivisionFighterCard.astro'
+import PreloadImage from '@/components/PreloadImages.astro'
 
 import type { Division } from '@/types/rankings'
 import type { InferGetStaticParamsType } from 'astro'
@@ -35,12 +36,22 @@ const seoCategoryName = categoryName.toLowerCase().includes('division')
   : `${categoryName} division`
 
 const seoDescription = `MMA ${seoCategoryName}, stats and information. Current athletes fighting in it: ${formattedFighterList}.`
+
+const imgsToPreload = [
+  '/bg/platinum.webp',
+  '/bg/gold.webp',
+  '/bg/silver.webp',
+  '/bg/bronze.webp',
+  '/bg/default.webp',
+]
 ---
 
 <Layout
   title={categoryName}
   description={seoDescription}
 >
+  <!-- DivisionFighterCard images used in CSS -->
+  <PreloadImage links={imgsToPreload} />
   <main>
     <header>
       <h1>Division</h1>
