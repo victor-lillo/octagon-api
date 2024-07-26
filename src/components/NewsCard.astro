@@ -1,12 +1,9 @@
 ---
-export interface Props {
-  fighter: string
-  fighterName: string
-  categoryName: string
-  currentPosition: number
+import type { News } from '@/types/news'
+interface Props extends News {
   index: number
-  previousPosition: number | 'unranked'
 }
+
 const { fighter, fighterName, categoryName, currentPosition, previousPosition, index } = Astro.props
 
 const imgPath = fighter ? `${fighter}.webp` : 'fighter-placeholder.svg'
