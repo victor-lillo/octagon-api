@@ -17,7 +17,10 @@ const imgsToPreload = ['/bg/waves-up.svg', '/bg/waves-down.svg']
   description='Octagon API, the ultimate web for checking the latest MMA news, athletes, divisions and stats'
 >
   <!-- NewsCard images used in CSS -->
-  <PreloadImage links={imgsToPreload} />
+  <PreloadImage
+    links={imgsToPreload}
+    slot='head'
+  />
 
   <main>
     <h1>Welcome to <span class='text-gradient'>Octagon API</span></h1>
