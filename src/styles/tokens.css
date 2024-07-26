@@ -80,6 +80,7 @@
 
   --bg-gradient-1: linear-gradient(0deg, var(--color-blue-50) 0%, var(--color-blue-100) 100%);
   --bg-division-card: linear-gradient(45deg, var(--color-blue-200) 0%, var(--color-blue-600) 100%);
+  --bg-athlete-data: var(--color-blue-200);
 
   --outline-focus-visible: 3px solid var(--color-accent-2);
 }
@@ -116,4 +117,5 @@
 
   --bg-gradient-1: linear-gradient(0deg, var(--color-blue-700) 0%, var(--color-blue-900) 100%);
   --bg-division-card: linear-gradient(45deg, var(--color-blue-600) 0%, var(--color-blue-400) 100%);
+  --bg-athlete-data: var(--color-blue-600);
 }
