@@ -5,5 +5,5 @@ export type News = {
   date: Date
   fighter: string
   fighterName: string
-  previousPosition: number
+  previousPosition: number | 'unranked'
 }
