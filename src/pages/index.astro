@@ -13,6 +13,19 @@ const orderedData = newsData.sort((a, b) => {
 <Layout
   description='Octagon API, the ultimate web for checking the latest MMA news, athletes, divisions and stats'
 >
+  <!-- NewsCard images used in CSS -->
+  <link
+    rel='preload'
+    as='image'
+    href='/bg/waves-up.svg'
+    slot='head'
+  />
+  <link
+    rel='preload'
+    as='image'
+    href='/bg/waves-down.svg'
+    slot='head'
+  />
   <main>
     <h1>Welcome to <span class='text-gradient'>Octagon API</span></h1>
     <h2 class='subtitle'>News</h2>
