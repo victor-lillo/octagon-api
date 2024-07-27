@@ -51,11 +51,8 @@ export default [
       sourceType: 'script',
 
       parserOptions: {
-        parser: {
-          ts: '@typescript-eslint/parser',
-          js: 'espree',
-          typescript: '@typescript-eslint/parser',
-        },
+        parser: tsParser,
+        extraFileExtensions: ['.svelte'],
       },
     },
 
