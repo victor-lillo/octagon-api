@@ -1,4 +1,4 @@
-export type Fighter = {
+export interface Fighter {
   age: string
   category: string
   draws: string
@@ -18,6 +18,4 @@ export type Fighter = {
   wins: string
 }
 
-export type Fighters = {
-  [key: string]: Fighter
-}
+export type Fighters = Record<string, Fighter>;

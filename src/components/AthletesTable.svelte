@@ -8,20 +8,20 @@
   import DescOrderNumbers from './icons/DescOrderNumbers.svelte';
   import FilterButton from './FilterButton.svelte';
 
-  type Filter = {
+  interface Filter {
     filteredKey: string;
     order: 'asc' | 'desc';
-  };
+  }
 
-  type TableHeadCell = {
+  interface TableHeadCell {
     key: string;
     label: string;
     iconType: 'letter' | 'number';
-  };
+  }
 
-  export let fightersData: Array<{ [key: string]: string }> = [];
-  let orderedData: Array<{ [key: string]: string }> = [];
-  let orderFilters: Array<Filter> = [];
+  export let fightersData: Record<string, string>[] = [];
+  let orderedData: Record<string, string>[] = [];
+  let orderFilters: Filter[] = [];
 
   const FILTER_DICT = {
     asc: {
@@ -76,7 +76,7 @@
       array: orderFilters,
       keyToRemove: 'filteredKey',
       keyValue: name,
-    }) as Array<Filter>;
+    }) as Filter[];
 
     // Tristate: init in 'null', on click 'true', then 'false'
     if (triState === 'null') {

@@ -7,7 +7,7 @@
     return { id: key, ...value };
   });
 
-  let filteredData: Array<{ [key: string]: string }> = [];
+  let filteredData: Record<string, string>[] = [];
   let filterName = '';
 
   $: {

@@ -3,7 +3,7 @@ export function removeArrayElementByKey({
   keyToRemove,
   keyValue,
 }: {
-  array: Array<{ [key: string]: string }>
+  array: Record<string, string>[]
   keyToRemove: string
   keyValue: string
 }) {

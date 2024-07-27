@@ -1,4 +1,4 @@
-export type News = {
+export interface News {
   categoryId: string
   categoryName: string
   currentPosition: number
