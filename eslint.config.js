@@ -33,7 +33,7 @@ export default [
       sourceType: 'script',
 
       parserOptions: {
-        parser: '@typescript-eslint/parser',
+        parser: tsParser,
         extraFileExtensions: ['.astro'],
       },
     },
