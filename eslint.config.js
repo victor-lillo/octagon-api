@@ -10,7 +10,8 @@ import tsParser from '@typescript-eslint/parser'
 export default [
   ...eslintPluginAstro.configs.recommended,
   ...eslintPluginSvelte.configs['flat/recommended'],
-  ...tseslint.configs.recommended,
+  ...tseslint.configs.strict,
+  ...tseslint.configs.stylistic,
   jsxA11y.flatConfigs.recommended,
   {
     languageOptions: {
