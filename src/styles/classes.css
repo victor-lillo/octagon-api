@@ -18,3 +18,11 @@
   /* Prevent the screen reader to skip spaces between words */
   white-space: nowrap;
 }
+
+.scrollable {
+  contain: paint;
+  overflow-x: auto;
+  max-width: 100%;
+  width: 100%;
+  white-space: nowrap;
+}
