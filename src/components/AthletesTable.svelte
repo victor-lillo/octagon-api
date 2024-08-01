@@ -105,7 +105,7 @@
   });
 </script>
 
-<div>
+<div class="scrollable">
   <table>
     <thead>
       <tr>
@@ -151,14 +151,6 @@
     div {
       padding-inline: 1rem;
     }
-  }
-
-  div {
-    contain: paint;
-    overflow-x: auto;
-    max-width: 100%;
-    width: 100%;
-    white-space: nowrap;
   }
 
   table {
