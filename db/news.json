@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "amanda-lemos",
-    "fighterName": "Amanda Lemos",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
+    "fighter": "curtis-blaydes",
+    "fighterName": "Curtis Blaydes",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 4,
-    "previousPosition": 2,
-    "date": "2024-07-25T04:17:51.855Z"
+    "previousPosition": 3,
+    "date": "2024-08-01T04:17:33.881Z"
   },
   {
-    "fighter": "virna-jandiroba",
-    "fighterName": "Virna Jandiroba",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 2,
+    "fighter": "sergei-pavlovich",
+    "fighterName": "Sergei Pavlovich",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 3,
     "previousPosition": 4,
-    "date": "2024-07-25T04:17:51.855Z"
+    "date": "2024-08-01T04:17:33.881Z"
   },
   {
-    "fighter": "amanda-lemos",
-    "fighterName": "Amanda Lemos",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 14,
-    "previousPosition": 11,
-    "date": "2024-07-25T04:17:51.855Z"
-  },
-  {
-    "fighter": "virna-jandiroba",
-    "fighterName": "Virna Jandiroba",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2024-07-25T04:17:51.855Z"
-  },
-  {
-    "fighter": "kayla-harrison",
-    "fighterName": "Kayla Harrison",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2024-07-25T04:17:51.855Z"
-  },
-  {
-    "fighter": "michael-page",
-    "fighterName": "Michael Page",
+    "fighter": "kamaru-usman",
+    "fighterName": "Kamaru Usman",
     "categoryId": "welterweight",
     "categoryName": "Welterweight",
+    "currentPosition": 1,
+    "previousPosition": 0,
+    "date": "2024-08-01T04:17:33.881Z"
+  },
+  {
+    "fighter": "leon-edwards",
+    "fighterName": "Leon Edwards",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 0,
+    "previousPosition": "unranked",
+    "date": "2024-08-01T04:17:33.881Z"
+  },
+  {
+    "fighter": "paddy-pimblett",
+    "fighterName": "Paddy Pimblett",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-08-01T04:17:33.881Z"
+  },
+  {
+    "fighter": "cody-durden",
+    "fighterName": "Cody Durden",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-08-01T04:17:33.881Z"
+  },
+  {
+    "fighter": "assu-almabayev",
+    "fighterName": "Asu Almabayev",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
     "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2024-07-25T04:17:51.855Z"
-  },
-  {
-    "fighter": "vicente-luque",
-    "fighterName": "Vicente Luque",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2024-07-25T04:17:51.855Z"
-  },
-  {
-    "fighter": "montel-jackson",
-    "fighterName": "Montel Jackson",
-    "categoryId": "bantamweight",
-    "categoryName": "Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-07-25T04:17:51.855Z"
+    "previousPosition": 14,
+    "date": "2024-08-01T04:17:33.881Z"
   },
   {
     "fighter": "bruno-silva",
     "fighterName": "Bruno Silva",
     "categoryId": "flyweight",
     "categoryName": "Flyweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2024-07-25T04:17:51.855Z"
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-08-01T04:17:33.881Z"
   },
   {
-    "fighter": "casey-oneill",
-    "fighterName": "Casey O'Neill",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-07-18T04:17:38.635Z"
+    "fighter": "tagir-ulanbekov",
+    "fighterName": "Tagir Ulanbekov",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-08-01T04:17:33.881Z"
+  },
+  {
+    "fighter": "matt-schnell",
+    "fighterName": "Matt Schnell",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2024-08-01T04:17:33.881Z"
   }
 ]
