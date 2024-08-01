@@ -14,6 +14,8 @@ If you have any questions, encounter issues, or need further assistance, feel fr
 
 In this table, you will find a summary of the endpoints.
 
+<div class='scrollable'>
+
 | Endpoint                                               | Response                      |
 | ------------------------------------------------------ | ----------------------------- |
 | [GET `/rankings`](#get-rankings)                       | Returns whole rankings info.  |
@@ -21,11 +23,15 @@ In this table, you will find a summary of the endpoints.
 | [GET `/fighter/:fighterId`](#get-fighterfighterid)     | Returns single fighter info.  |
 | [GET `/division/:divisionId`](#get-divisiondivisionid) | Returns single division info. |
 
+</div>
+
 ## GET `/rankings`
 
 This <a href="https://api.octagon-api.com/rankings" target="_blank" rel="noreferrer">endpoint</a> returns the whole rankings data.
 
 The JSON data is an **array**, where each entry is an object with the properties listed in the table.
+
+<div class='scrollable'>
 
 | Field                   | Type     | Description                                                                       |
 | ----------------------- | -------- | --------------------------------------------------------------------------------- |
@@ -37,6 +43,8 @@ The JSON data is an **array**, where each entry is an object with the properties
 | `fighters`              | `array`  | List of fighters in the category. Includes `id` and `name`.                       |
 | `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
 | `fighters[].name`       | `string` | Name of the fighter.                                                              |
+
+</div>
 
 ```json title="https://api.octagon-api.com/rankings" wrap
 [
@@ -90,6 +98,8 @@ The JSON data is an **Object**, where each `key` is the unique identifier of a f
 
 The `value` is an object containing various details about the fighter. The properties of each fighter object are listed in the table, providing information such as the fighter's division, record, personal details, and physical attributes.
 
+<div class='scrollable'>
+
 | Field           | Type     | Description                                            |
 | --------------- | -------- | ------------------------------------------------------ |
 | `category`      | `string` | Division or category of the fighter.                   |
@@ -109,6 +119,8 @@ The `value` is an object containing various details about the fighter. The prope
 | `octagonDebut`  | `string` | Date of the fighter's debut in the octagon.            |
 | `reach`         | `string` | Reach of the fighter (in inches).                      |
 | `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
+
+</div>
 
 ```json title="https://api.octagon-api.com/fighters" wrap
 {
@@ -141,6 +153,8 @@ This <a href="https://api.octagon-api.com/fighter/jon-jones" target="_blank" rel
 
 The JSON data is an **Object** containing various details about the fighter. These properties are listed in the table, providing information such as the fighter's division, record, personal details, and physical attributes.
 
+<div class='scrollable'>
+
 | Field           | Type     | Description                                            |
 | --------------- | -------- | ------------------------------------------------------ |
 | `category`      | `string` | Division or category of the fighter.                   |
@@ -160,6 +174,8 @@ The JSON data is an **Object** containing various details about the fighter. The
 | `octagonDebut`  | `string` | Date of the fighter's debut in the octagon.            |
 | `reach`         | `string` | Reach of the fighter (in inches).                      |
 | `legReach`      | `string` | Leg reach of the fighter (in inches).                  |
+
+</div>
 
 ```json title="https://api.octagon-api.com/fighter/jon-jones" wrap
 {
@@ -187,6 +203,8 @@ This <a href="https://api.octagon-api.com/division/flyweight" target="_blank" re
 
 The JSON data is an **Object** that represents a division of fighters, containing properties such as the category ID, category name, champion details, and an array of fighters with their respective IDs and names, as outlined in the table.
 
+<div class='scrollable'>
+
 | Field                   | Type     | Description                                                                       |
 | ----------------------- | -------- | --------------------------------------------------------------------------------- |
 | `id`                    | `string` | Unique identifier for the category.                                               |
@@ -197,6 +215,8 @@ The JSON data is an **Object** that represents a division of fighters, containin
 | `fighters`              | `array`  | List of fighters in the category. Includes `id` and `name`.                       |
 | `fighters[].id`         | `string` | Unique identifier of the fighter.                                                 |
 | `fighters[].name`       | `string` | Name of the fighter.                                                              |
+
+</div>
 
 ```json title="https://api.octagon-api.com/division/flyweight" wrap
 {
