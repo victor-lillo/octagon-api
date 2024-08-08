@@ -239,3 +239,117 @@ The JSON data is an **Object** that represents a division of fighters, containin
   ]
 }
 ```
+## GraphQL API
+
+In addition to our REST endpoints, we offer a GraphQL API for more flexible and efficient data querying. GraphQL allows you to request exactly the data you need in a single query, reducing over-fetching and under-fetching of data.
+
+### GraphQL Endpoint
+
+```
+POST https://api.octagon-api.com/graphql
+```
+
+### Schema Overview
+
+Our GraphQL schema includes the following main types:
+
+- `Query`: The entry point for all GraphQL queries
+- `Division`: Represents a weight division
+- `Fighter`: Represents a fighter
+- `Champion`: Represents a champion of a division
+
+### Example Queries
+
+1. Get all rankings with champions and fighters:
+
+```graphql
+query {
+  rankings {
+    id
+    categoryName
+    champion {
+      id
+      championName
+    }
+    fighters {
+      id
+      name
+    }
+  }
+}
+```
+
+2. Get detailed information about a specific fighter:
+
+```graphql
+query {
+  fighter(id: "jon-jones") {
+    name
+    nickname
+    category
+    wins
+    losses
+    draws
+    status
+    age
+    height
+    weight
+    reach
+    legReach
+  }
+}
+```
+
+3. Get information about a specific division:
+
+```graphql
+query {
+  division(id: "flyweight") {
+    categoryName
+    champion {
+      championName
+    }
+    fighters {
+      name
+      wins
+      losses
+    }
+  }
+}
+```
+
+### Using GraphQL in Your Application
+
+To use our GraphQL API:
+
+1. Send a POST request to `https://api.octagon-api.com/graphql`
+2. Set the `Content-Type` header to `application/json`
+3. In the request body, include a JSON object with a `query` key containing your GraphQL query
+
+Example using curl:
+
+```bash
+curl -X POST \
+  -H "Content-Type: application/json" \
+  -d '{"query": "{ fighter(id: \"jon-jones\") { name category wins losses } }"}' \
+  https://api.octagon-api.com/graphql
+```
+
+### Benefits of Using GraphQL
+
+- **Flexible Queries**: Request multiple resources in a single query
+- **Precise Data Fetching**: Get only the data you need, nothing more, nothing less
+- **Strongly Typed**: The schema provides clear expectations about the structure of the data
+- **Introspection**: Explore the available data and schema using GraphQL introspection
+
+### GraphQL Playground
+
+For interactive exploration of our GraphQL API, you can use the GraphQL Playground available at:
+
+```
+https://api.octagon-api.com/graphql
+```
+
+This web-based tool allows you to write and execute queries, explore the schema, and view documentation.
+
+For more information on how to use GraphQL, please refer to the [official GraphQL documentation](https://graphql.org/learn/).
