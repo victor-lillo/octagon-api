@@ -20,10 +20,6 @@
         "name": "Jon Jones"
       },
       {
-        "id": "leon-edwards",
-        "name": "Leon Edwards"
-      },
-      {
         "id": "ilia-topuria",
         "name": "Ilia Topuria"
       },
@@ -32,8 +28,20 @@
         "name": "Sean O'Malley"
       },
       {
+        "id": "belal-muhammad",
+        "name": "Belal Muhammad"
+      },
+      {
+        "id": "leon-edwards",
+        "name": "Leon Edwards"
+      },
+      {
         "id": "alexander-volkanovski",
         "name": "Alexander Volkanovski"
+      },
+      {
+        "id": "tom-aspinall",
+        "name": "Tom Aspinall"
       },
       {
         "id": "max-holloway",
@@ -48,24 +56,16 @@
         "name": "Alexandre Pantoja"
       },
       {
-        "id": "tom-aspinall",
-        "name": "Tom Aspinall"
-      },
-      {
         "id": "israel-adesanya",
         "name": "Israel Adesanya"
-      },
-      {
-        "id": "charles-oliveira",
-        "name": "Charles Oliveira"
       },
       {
         "id": "sean-strickland",
         "name": "Sean Strickland"
       },
       {
-        "id": "aljamain-sterling",
-        "name": "Aljamain Sterling"
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira"
       }
     ]
   },
@@ -98,16 +98,8 @@
         "name": "Tatsuro Taira"
       },
       {
-        "id": "muhammad-mokaev",
-        "name": "Muhammad Mokaev"
-      },
-      {
         "id": "alex-perez",
         "name": "Alex Perez"
-      },
-      {
-        "id": "manel-kape",
-        "name": "Manel Kape"
       },
       {
         "id": "steve-erceg",
@@ -116,6 +108,10 @@
       {
         "id": "matheus-nicolau",
         "name": "Matheus Nicolau"
+      },
+      {
+        "id": "manel-kape",
+        "name": "Manel Kape"
       },
       {
         "id": "tim-elliott",
@@ -136,6 +132,10 @@
       {
         "id": "assu-almabayev",
         "name": "Asu Almabayev"
+      },
+      {
+        "id": "cody-durden",
+        "name": "Cody Durden"
       }
     ]
   },
@@ -344,8 +344,8 @@
         "name": "Rafael Dos Anjos"
       },
       {
-        "id": "bobby-green",
-        "name": "King Green"
+        "id": "paddy-pimblett",
+        "name": "Paddy Pimblett"
       }
     ]
   },
@@ -353,17 +353,17 @@
     "id": "welterweight",
     "categoryName": "Welterweight",
     "champion": {
-      "id": "leon-edwards",
-      "championName": "Leon Edwards"
+      "id": "belal-muhammad",
+      "championName": "Belal Muhammad"
     },
     "fighters": [
       {
-        "id": "kamaru-usman",
-        "name": "Kamaru Usman"
+        "id": "leon-edwards",
+        "name": "Leon Edwards"
       },
       {
-        "id": "belal-muhammad",
-        "name": "Belal Muhammad"
+        "id": "kamaru-usman",
+        "name": "Kamaru Usman"
       },
       {
         "id": "shavkat-rakhmonov",
@@ -580,12 +580,12 @@
         "name": "Alexander Volkov"
       },
       {
-        "id": "curtis-blaydes",
-        "name": "Curtis Blaydes"
-      },
-      {
         "id": "sergei-pavlovich",
         "name": "Sergei Pavlovich"
+      },
+      {
+        "id": "curtis-blaydes",
+        "name": "Curtis Blaydes"
       },
       {
         "id": "stipe-miocic",
