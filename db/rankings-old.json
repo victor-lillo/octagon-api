@@ -24,12 +24,12 @@
         "name": "Ilia Topuria"
       },
       {
-        "id": "sean-omalley",
-        "name": "Sean O'Malley"
-      },
-      {
         "id": "belal-muhammad",
         "name": "Belal Muhammad"
+      },
+      {
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
       },
       {
         "id": "leon-edwards",
@@ -152,24 +152,28 @@
         "name": "Merab Dvalishvili"
       },
       {
-        "id": "cory-sandhagen",
-        "name": "Cory Sandhagen"
+        "id": "umar-nurmagomedov",
+        "name": "Umar Nurmagomedov"
       },
       {
         "id": "petr-yan",
         "name": "Petr Yan"
       },
       {
-        "id": "marlon-vera",
-        "name": "Marlon Vera"
+        "id": "cory-sandhagen",
+        "name": "Cory Sandhagen"
+      },
+      {
+        "id": "deiveson-figueiredo",
+        "name": "Deiveson Figueiredo"
       },
       {
         "id": "henry-cejudo",
         "name": "Henry Cejudo"
       },
       {
-        "id": "deiveson-figueiredo",
-        "name": "Deiveson Figueiredo"
+        "id": "marlon-vera",
+        "name": "Marlon Vera"
       },
       {
         "id": "yadong-song",
@@ -184,16 +188,12 @@
         "name": "Rob Font"
       },
       {
-        "id": "umar-nurmagomedov",
-        "name": "Umar Nurmagomedov"
+        "id": "mario-bautista",
+        "name": "Mario Bautista"
       },
       {
         "id": "kyler-phillips",
         "name": "Kyler Phillips"
-      },
-      {
-        "id": "mario-bautista",
-        "name": "Mario Bautista"
       },
       {
         "id": "dominick-cruz",
@@ -234,12 +234,12 @@
         "name": "Yair Rodriguez"
       },
       {
-        "id": "movsar-evloev",
-        "name": "Movsar Evloev"
-      },
-      {
         "id": "arnold-allen",
         "name": "Arnold Allen"
+      },
+      {
+        "id": "movsar-evloev",
+        "name": "Movsar Evloev"
       },
       {
         "id": "josh-emmett",
@@ -336,12 +336,12 @@
         "name": "Benoît Saint Denis"
       },
       {
-        "id": "jalin-turner",
-        "name": "Jalin Turner"
-      },
-      {
         "id": "rafael-dos-anjos",
         "name": "Rafael Dos Anjos"
+      },
+      {
+        "id": "jalin-turner",
+        "name": "Jalin Turner"
       },
       {
         "id": "paddy-pimblett",
@@ -518,12 +518,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
-      },
-      {
         "id": "volkan-oezdemir",
         "name": "Volkan Oezdemir"
+      },
+      {
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
       },
       {
         "id": "khalil-rountree-jr",
@@ -538,6 +538,10 @@
         "name": "Carlos Ulberg"
       },
       {
+        "id": "azamat-murzakanov",
+        "name": "Azamat Murzakanov"
+      },
+      {
         "id": "anthony-smith",
         "name": "Anthony Smith"
       },
@@ -550,12 +554,8 @@
         "name": "Dominick Reyes"
       },
       {
-        "id": "azamat-murzakanov",
-        "name": "Azamat Murzakanov"
-      },
-      {
-        "id": "alonzo-menifield",
-        "name": "Alonzo Menifield"
+        "id": "roman-dolidze",
+        "name": "Roman Dolidze"
       }
     ]
   },
@@ -732,12 +732,12 @@
         "name": "Marina Rodriguez"
       },
       {
-        "id": "mackenzie-dern",
-        "name": "Mackenzie Dern"
-      },
-      {
         "id": "amanda-ribas",
         "name": "Amanda Ribas"
+      },
+      {
+        "id": "mackenzie-dern",
+        "name": "Mackenzie Dern"
       },
       {
         "id": "angela-hill",
@@ -810,12 +810,12 @@
         "name": "Natalia Silva"
       },
       {
-        "id": "amanda-ribas",
-        "name": "Amanda Ribas"
-      },
-      {
         "id": "viviane-araujo",
         "name": "Viviane Araújo"
+      },
+      {
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
       },
       {
         "id": "karine-silva",
@@ -876,16 +876,16 @@
         "name": "Holly Holm"
       },
       {
-        "id": "karol-rosa",
-        "name": "Karol Rosa"
-      },
-      {
         "id": "miesha-tate",
         "name": "Miesha Tate"
       },
       {
         "id": "norma-dumont",
         "name": "Norma Dumont"
+      },
+      {
+        "id": "karol-rosa",
+        "name": "Karol Rosa"
       },
       {
         "id": "pannie-kianzad",

@@ -60,12 +60,12 @@
         "name": "Israel Adesanya"
       },
       {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
-      },
-      {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
+      },
+      {
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
       }
     ]
   },
@@ -188,12 +188,12 @@
         "name": "Rob Font"
       },
       {
-        "id": "mario-bautista",
-        "name": "Mario Bautista"
-      },
-      {
         "id": "kyler-phillips",
         "name": "Kyler Phillips"
+      },
+      {
+        "id": "mario-bautista",
+        "name": "Mario Bautista"
       },
       {
         "id": "dominick-cruz",
@@ -262,12 +262,12 @@
         "name": "Lerone Murphy"
       },
       {
-        "id": "diego-lopes",
-        "name": "Diego Lopes"
-      },
-      {
         "id": "bryce-mitchell",
         "name": "Bryce Mitchell"
+      },
+      {
+        "id": "diego-lopes",
+        "name": "Diego Lopes"
       },
       {
         "id": "dan-ige",
@@ -518,12 +518,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "volkan-oezdemir",
-        "name": "Volkan Oezdemir"
-      },
-      {
         "id": "nikita-krylov",
         "name": "Nikita Krylov"
+      },
+      {
+        "id": "volkan-oezdemir",
+        "name": "Volkan Oezdemir"
       },
       {
         "id": "khalil-rountree-jr",
@@ -546,16 +546,16 @@
         "name": "Anthony Smith"
       },
       {
-        "id": "bogdan-guskov",
-        "name": "Bogdan Guskov"
-      },
-      {
         "id": "dominick-reyes",
         "name": "Dominick Reyes"
       },
       {
-        "id": "roman-dolidze",
-        "name": "Roman Dolidze"
+        "id": "bogdan-guskov",
+        "name": "Bogdan Guskov"
+      },
+      {
+        "id": "alonzo-menifield",
+        "name": "Alonzo Menifield"
       }
     ]
   },
@@ -588,20 +588,20 @@
         "name": "Curtis Blaydes"
       },
       {
-        "id": "stipe-miocic",
-        "name": "Stipe Miocic"
-      },
-      {
         "id": "jailton-almeida",
         "name": "Jailton Almeida"
       },
       {
-        "id": "marcin-tybura",
-        "name": "Marcin Tybura"
+        "id": "stipe-miocic",
+        "name": "Stipe Miocic"
       },
       {
         "id": "serghei-spivac",
         "name": "Serghei Spivac"
+      },
+      {
+        "id": "marcin-tybura",
+        "name": "Marcin Tybura"
       },
       {
         "id": "tai-tuivasa",
@@ -860,12 +860,12 @@
         "name": "Kayla Harrison"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "mayra-bueno-silva",
@@ -876,10 +876,6 @@
         "name": "Holly Holm"
       },
       {
-        "id": "miesha-tate",
-        "name": "Miesha Tate"
-      },
-      {
         "id": "norma-dumont",
         "name": "Norma Dumont"
       },
@@ -888,24 +884,28 @@
         "name": "Karol Rosa"
       },
       {
-        "id": "pannie-kianzad",
-        "name": "Pannie Kianzad"
-      },
-      {
         "id": "yana-santos",
         "name": "Yana Santos"
+      },
+      {
+        "id": "miesha-tate",
+        "name": "Miesha Tate"
+      },
+      {
+        "id": "pannie-kianzad",
+        "name": "Pannie Kianzad"
       },
       {
         "id": "julia-avila",
         "name": "Julia Avila"
       },
       {
-        "id": "chelsea-chandler",
-        "name": "Chelsea Chandler"
-      },
-      {
         "id": "germaine-de-randamie",
         "name": "Germaine de Randamie"
+      },
+      {
+        "id": "chelsea-chandler",
+        "name": "Chelsea Chandler"
       }
     ]
   }
