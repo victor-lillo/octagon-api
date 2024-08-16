@@ -42,6 +42,81 @@ https://api.octagon-api.com/
 
 For more extensive documentation, go to the [API documentation](https://www.octagon-api.com/api-documentation)
 
+## 🔗 GraphQL API
+
+In addition to our REST endpoints, we now offer a GraphQL API for more flexible data querying.
+
+### GraphQL Endpoint
+
+```txt
+https://api.octagon-api.com/graphql
+```
+
+### Example Queries
+
+1. Get all rankings with champions and fighters:
+
+```graphql
+{
+  rankings {
+    id
+    categoryName
+    champion {
+      id
+      championName
+    }
+    fighters {
+      id
+      name
+    }
+  }
+}
+```
+
+2. Get information about a specific fighter:
+
+```graphql
+{
+  fighter(id: "jon-jones") {
+    name
+    category
+    wins
+    losses
+    draws
+  }
+}
+```
+
+3. Get all fighters:
+
+```graphql
+{
+  fighters {
+    id
+    name
+    category
+  }
+}
+```
+
+4. Get information about a specific division:
+
+```graphql
+{
+  division(id: "flyweight") {
+    categoryName
+    champion {
+      championName
+    }
+    fighters {
+      name
+    }
+  }
+}
+```
+
+For more detailed information on how to use our GraphQL API, please refer to our [API documentation](https://www.octagon-api.com/api-documentation).
+
 ## 🤖 Scripts
 
 |      Script       |     Params      | Function                                                                                           |
@@ -61,7 +136,7 @@ For more extensive documentation, go to the [API documentation](https://www.octa
 - **Front End**: Astro, Svelte
 - **PostCSS**: autoprefixer
 - **Scraper**: NodeJS and node-html-parser
-- **API**: hono
+- **API**: hono, GraphQL
 - **Image processing**: sharp
 
 ## 🦾 Providers
