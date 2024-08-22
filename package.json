@@ -38,7 +38,7 @@
     "@typescript-eslint/parser": "7.17.0",
     "astro-eslint-parser": "1.0.2",
     "autoprefixer": "10.4.19",
-    "axios": "1.7.2",
+    "axios": "1.7.4",
     "badge-maker": "4.0.0",
     "chrome-launcher": "1.1.2",
     "eslint": "9.7.0",
