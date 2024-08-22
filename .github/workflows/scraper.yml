@@ -22,6 +22,7 @@ jobs:
       - run: |
           pnpm run scrape
           git config user.name octagon-api
+          git config user.email weeklydeploy@octagon-api.com
           git add -A 
           git commit -am "[BOT] Update Octagon API database"
           git push origin ${{ github.ref_name }}
