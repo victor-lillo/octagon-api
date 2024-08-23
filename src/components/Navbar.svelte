@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   import Logo from './icons/Logo.svelte';
   import ThemeSwitcher from './ThemeSwitcher.svelte';
 

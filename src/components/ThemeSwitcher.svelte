@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   const STORAGE_THEME_KEY = 'theme';
   const DARK_THEME_CLASS = 'theme-dark';
 
