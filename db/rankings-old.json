@@ -28,6 +28,10 @@
         "name": "Belal Muhammad"
       },
       {
+        "id": "dricus-du-plessis",
+        "name": "Dricus Du Plessis"
+      },
+      {
         "id": "sean-omalley",
         "name": "Sean O'Malley"
       },
@@ -48,24 +52,20 @@
         "name": "Max Holloway"
       },
       {
-        "id": "dricus-du-plessis",
-        "name": "Dricus Du Plessis"
-      },
-      {
         "id": "alexandre-pantoja",
         "name": "Alexandre Pantoja"
       },
       {
-        "id": "israel-adesanya",
-        "name": "Israel Adesanya"
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
       },
       {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
       },
       {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya"
       }
     ]
   },
@@ -102,12 +102,12 @@
         "name": "Alex Perez"
       },
       {
-        "id": "steve-erceg",
-        "name": "Steve Erceg"
-      },
-      {
         "id": "matheus-nicolau",
         "name": "Matheus Nicolau"
+      },
+      {
+        "id": "steve-erceg",
+        "name": "Steve Erceg"
       },
       {
         "id": "manel-kape",
@@ -262,12 +262,12 @@
         "name": "Lerone Murphy"
       },
       {
-        "id": "bryce-mitchell",
-        "name": "Bryce Mitchell"
-      },
-      {
         "id": "diego-lopes",
         "name": "Diego Lopes"
+      },
+      {
+        "id": "bryce-mitchell",
+        "name": "Bryce Mitchell"
       },
       {
         "id": "dan-ige",
@@ -304,8 +304,8 @@
         "name": "Dustin Poirier"
       },
       {
-        "id": "mateusz-gamrot",
-        "name": "Mateusz Gamrot"
+        "id": "dan-hooker",
+        "name": "Dan Hooker"
       },
       {
         "id": "michael-chandler",
@@ -316,20 +316,20 @@
         "name": "Beneil Dariush"
       },
       {
-        "id": "rafael-fiziev",
-        "name": "Rafael Fiziev"
+        "id": "mateusz-gamrot",
+        "name": "Mateusz Gamrot"
       },
       {
         "id": "max-holloway",
         "name": "Max Holloway"
       },
       {
-        "id": "renato-moicano",
-        "name": "Renato Moicano"
+        "id": "rafael-fiziev",
+        "name": "Rafael Fiziev"
       },
       {
-        "id": "dan-hooker",
-        "name": "Dan Hooker"
+        "id": "renato-moicano",
+        "name": "Renato Moicano"
       },
       {
         "id": "benoit-saint-denis",
@@ -592,32 +592,32 @@
         "name": "Jailton Almeida"
       },
       {
-        "id": "stipe-miocic",
-        "name": "Stipe Miocic"
-      },
-      {
         "id": "serghei-spivac",
         "name": "Serghei Spivac"
+      },
+      {
+        "id": "stipe-miocic",
+        "name": "Stipe Miocic"
       },
       {
         "id": "marcin-tybura",
         "name": "Marcin Tybura"
       },
       {
-        "id": "tai-tuivasa",
-        "name": "Tai Tuivasa"
+        "id": "jairzinho-rozenstruik",
+        "name": "Jairzinho Rozenstruik"
       },
       {
         "id": "derrick-lewis",
         "name": "Derrick Lewis"
       },
       {
-        "id": "jairzinho-rozenstruik",
-        "name": "Jairzinho Rozenstruik"
-      },
-      {
         "id": "alexandr-romanov",
         "name": "Alexandr Romanov"
+      },
+      {
+        "id": "tai-tuivasa",
+        "name": "Tai Tuivasa"
       },
       {
         "id": "marcos-rogerio-de-lima",
@@ -658,16 +658,16 @@
         "name": "Julianna Peña"
       },
       {
-        "id": "raquel-pennington",
-        "name": "Raquel Pennington"
-      },
-      {
         "id": "rose-namajunas",
         "name": "Rose Namajunas"
       },
       {
         "id": "erin-blanchfield",
         "name": "Erin Blanchfield"
+      },
+      {
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
       },
       {
         "id": "tatiana-suarez",
@@ -810,16 +810,16 @@
         "name": "Natalia Silva"
       },
       {
-        "id": "viviane-araujo",
-        "name": "Viviane Araújo"
-      },
-      {
         "id": "amanda-ribas",
         "name": "Amanda Ribas"
       },
       {
         "id": "karine-silva",
         "name": "Karine Silva"
+      },
+      {
+        "id": "viviane-araujo",
+        "name": "Viviane Araújo"
       },
       {
         "id": "tracy-cortez",
