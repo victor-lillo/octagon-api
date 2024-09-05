@@ -183,7 +183,7 @@
     "legReach": "36.00"
   },
   "max-holloway": {
-    "category": "Lightweight Division",
+    "category": "Featherweight Division",
     "draws": "0",
     "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-04/HOLLOWAY_MAX_L_04-13.png?itok=U9IB8OUQ",
     "losses": "7",
@@ -471,11 +471,11 @@
     "nickname": "Danger",
     "wins": "16",
     "status": "Active",
-    "placeOfBirth": "United States",
-    "fightingStyle": "Boxing",
+    "placeOfBirth": "Amory, United States",
+    "fightingStyle": "Brazilian Jiu-Jitsu",
     "age": "34",
     "height": "68.00",
-    "weight": "126.00",
+    "weight": "125.00",
     "octagonDebut": "Dec. 4, 2016",
     "reach": "70.00",
     "legReach": "38.00"
@@ -548,7 +548,7 @@
     "fightingStyle": "Striker",
     "age": "33",
     "height": "67.00",
-    "weight": "125.50",
+    "weight": "125.00",
     "octagonDebut": "Aug. 1, 2020",
     "reach": "67.00",
     "legReach": "37.50"
@@ -1408,11 +1408,11 @@
     "wins": "22",
     "status": "Active",
     "placeOfBirth": "Niterói, Brazil",
-    "trainsAt": "Jaco Hybrid Training Center",
+    "trainsAt": "Kill Cliff FC",
     "fightingStyle": "Brazilian Jiu-Jitsu",
     "age": "38",
     "height": "70.00",
-    "weight": "171.00",
+    "weight": "170.00",
     "octagonDebut": "Jul. 26, 2014",
     "reach": "71.00",
     "legReach": "40.00"
@@ -2562,7 +2562,7 @@
     "fightingStyle": "Muay Thai",
     "age": "32",
     "height": "61.50",
-    "weight": "116.00",
+    "weight": "125.00",
     "octagonDebut": "Jul. 27, 2013",
     "reach": "62.00",
     "legReach": "35.00"
@@ -2869,10 +2869,11 @@
     "wins": "17",
     "status": "Active",
     "placeOfBirth": "Timóteo, Brazil",
+    "trainsAt": "Team Borracha",
     "fightingStyle": "Taekwondo",
     "age": "27",
     "height": "64.00",
-    "weight": "125.50",
+    "weight": "125.00",
     "octagonDebut": "Jun. 18, 2022",
     "reach": "65.00",
     "legReach": "36.00"
