@@ -64,8 +64,8 @@
         "name": "Charles Oliveira"
       },
       {
-        "id": "israel-adesanya",
-        "name": "Israel Adesanya"
+        "id": "aljamain-sterling",
+        "name": "Aljamain Sterling"
       }
     ]
   },
@@ -118,10 +118,6 @@
         "name": "Tim Elliott"
       },
       {
-        "id": "matt-schnell",
-        "name": "Matt Schnell"
-      },
-      {
         "id": "tagir-ulanbekov",
         "name": "Tagir Ulanbekov"
       },
@@ -130,12 +126,16 @@
         "name": "Bruno Silva"
       },
       {
-        "id": "assu-almabayev",
-        "name": "Asu Almabayev"
-      },
-      {
         "id": "cody-durden",
         "name": "Cody Durden"
+      },
+      {
+        "id": "matt-schnell",
+        "name": "Matt Schnell"
+      },
+      {
+        "id": "assu-almabayev",
+        "name": "Asu Almabayev"
       }
     ]
   },
@@ -262,12 +262,12 @@
         "name": "Lerone Murphy"
       },
       {
-        "id": "diego-lopes",
-        "name": "Diego Lopes"
-      },
-      {
         "id": "bryce-mitchell",
         "name": "Bryce Mitchell"
+      },
+      {
+        "id": "diego-lopes",
+        "name": "Diego Lopes"
       },
       {
         "id": "dan-ige",
@@ -378,16 +378,16 @@
         "name": "Colby Covington"
       },
       {
-        "id": "gilbert-burns",
-        "name": "Gilbert Burns"
+        "id": "sean-brady",
+        "name": "Sean Brady"
       },
       {
         "id": "ian-garry",
         "name": "Ian Machado Garry"
       },
       {
-        "id": "sean-brady",
-        "name": "Sean Brady"
+        "id": "gilbert-burns",
+        "name": "Gilbert Burns"
       },
       {
         "id": "stephen-thompson",
@@ -416,6 +416,10 @@
       {
         "id": "neil-magny",
         "name": "Neil Magny"
+      },
+      {
+        "id": "kevin-holland",
+        "name": "Kevin Holland"
       }
     ]
   },
@@ -678,10 +682,6 @@
         "name": "Yan Xiaonan"
       },
       {
-        "id": "jessica-andrade",
-        "name": "Jéssica Andrade"
-      },
-      {
         "id": "kayla-harrison",
         "name": "Kayla Harrison"
       },
@@ -690,12 +690,16 @@
         "name": "Virna Jandiroba"
       },
       {
-        "id": "amanda-lemos",
-        "name": "Amanda Lemos"
+        "id": "jessica-andrade",
+        "name": "Jéssica Andrade"
       },
       {
-        "id": "ketlen-vieira",
-        "name": "Ketlen Vieira"
+        "id": "natalia-silva",
+        "name": "Natalia Silva"
+      },
+      {
+        "id": "amanda-lemos",
+        "name": "Amanda Lemos"
       }
     ]
   },
@@ -798,16 +802,16 @@
         "name": "Rose Namajunas"
       },
       {
-        "id": "jessica-andrade",
-        "name": "Jéssica Andrade"
+        "id": "natalia-silva",
+        "name": "Natalia Silva"
       },
       {
         "id": "katlyn-cerminara",
         "name": "Katlyn Cerminara"
       },
       {
-        "id": "natalia-silva",
-        "name": "Natalia Silva"
+        "id": "jessica-andrade",
+        "name": "Jéssica Andrade"
       },
       {
         "id": "viviane-araujo",
@@ -876,12 +880,12 @@
         "name": "Holly Holm"
       },
       {
-        "id": "karol-rosa",
-        "name": "Karol Rosa"
-      },
-      {
         "id": "norma-dumont",
         "name": "Norma Dumont"
+      },
+      {
+        "id": "karol-rosa",
+        "name": "Karol Rosa"
       },
       {
         "id": "yana-santos",
@@ -890,10 +894,6 @@
       {
         "id": "miesha-tate",
         "name": "Miesha Tate"
-      },
-      {
-        "id": "pannie-kianzad",
-        "name": "Pannie Kianzad"
       },
       {
         "id": "julia-avila",
@@ -906,6 +906,10 @@
       {
         "id": "chelsea-chandler",
         "name": "Chelsea Chandler"
+      },
+      {
+        "id": "ailin-perez",
+        "name": "Ailin Perez"
       }
     ]
   }
