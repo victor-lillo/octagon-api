@@ -24,16 +24,16 @@
         "name": "Ilia Topuria"
       },
       {
+        "id": "belal-muhammad",
+        "name": "Belal Muhammad"
+      },
+      {
         "id": "dricus-du-plessis",
         "name": "Dricus Du Plessis"
       },
       {
-        "id": "sean-omalley",
-        "name": "Sean O'Malley"
-      },
-      {
-        "id": "belal-muhammad",
-        "name": "Belal Muhammad"
+        "id": "merab-dvalishvili",
+        "name": "Merab Dvalishvili"
       },
       {
         "id": "tom-aspinall",
@@ -56,16 +56,16 @@
         "name": "Alexandre Pantoja"
       },
       {
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
+      },
+      {
         "id": "sean-strickland",
         "name": "Sean Strickland"
       },
       {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
-      },
-      {
-        "id": "aljamain-sterling",
-        "name": "Aljamain Sterling"
       }
     ]
   },
@@ -143,13 +143,13 @@
     "id": "bantamweight",
     "categoryName": "Bantamweight",
     "champion": {
-      "id": "sean-omalley",
-      "championName": "Sean O'Malley"
+      "id": "merab-dvalishvili",
+      "championName": "Merab Dvalishvili"
     },
     "fighters": [
       {
-        "id": "merab-dvalishvili",
-        "name": "Merab Dvalishvili"
+        "id": "sean-omalley",
+        "name": "Sean O'Malley"
       },
       {
         "id": "umar-nurmagomedov",
@@ -226,20 +226,24 @@
         "name": "Max Holloway"
       },
       {
-        "id": "brian-ortega",
-        "name": "Brian Ortega"
+        "id": "diego-lopes",
+        "name": "Diego Lopes"
       },
       {
         "id": "yair-rodriguez",
         "name": "Yair Rodriguez"
       },
       {
-        "id": "arnold-allen",
-        "name": "Arnold Allen"
+        "id": "brian-ortega",
+        "name": "Brian Ortega"
       },
       {
         "id": "movsar-evloev",
         "name": "Movsar Evloev"
+      },
+      {
+        "id": "arnold-allen",
+        "name": "Arnold Allen"
       },
       {
         "id": "josh-emmett",
@@ -264,10 +268,6 @@
       {
         "id": "bryce-mitchell",
         "name": "Bryce Mitchell"
-      },
-      {
-        "id": "diego-lopes",
-        "name": "Diego Lopes"
       },
       {
         "id": "dan-ige",
@@ -320,12 +320,12 @@
         "name": "Mateusz Gamrot"
       },
       {
-        "id": "max-holloway",
-        "name": "Max Holloway"
-      },
-      {
         "id": "rafael-fiziev",
         "name": "Rafael Fiziev"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
       },
       {
         "id": "renato-moicano",
@@ -637,21 +637,21 @@
     "id": "womens-pound-for-pound-top-rank",
     "categoryName": "Women's Pound-for-Pound Top Rank",
     "champion": {
-      "id": "alexa-grasso",
-      "championName": "Alexa Grasso"
+      "id": "valentina-shevchenko",
+      "championName": "Valentina Shevchenko"
     },
     "fighters": [
       {
-        "id": "alexa-grasso",
-        "name": "Alexa Grasso"
+        "id": "valentina-shevchenko",
+        "name": "Valentina Shevchenko"
       },
       {
         "id": "weili-zhang",
         "name": "Zhang Weili"
       },
       {
-        "id": "valentina-shevchenko",
-        "name": "Valentina Shevchenko"
+        "id": "alexa-grasso",
+        "name": "Alexa Grasso"
       },
       {
         "id": "manon-fiorot",
@@ -777,13 +777,13 @@
     "id": "womens-flyweight",
     "categoryName": "Women's Flyweight",
     "champion": {
-      "id": "alexa-grasso",
-      "championName": "Alexa Grasso"
+      "id": "valentina-shevchenko",
+      "championName": "Valentina Shevchenko"
     },
     "fighters": [
       {
-        "id": "valentina-shevchenko",
-        "name": "Valentina Shevchenko"
+        "id": "alexa-grasso",
+        "name": "Alexa Grasso"
       },
       {
         "id": "manon-fiorot",
@@ -868,6 +868,10 @@
         "name": "Macy Chiasson"
       },
       {
+        "id": "norma-dumont",
+        "name": "Norma Dumont"
+      },
+      {
         "id": "irene-aldana",
         "name": "Irene Aldana"
       },
@@ -878,10 +882,6 @@
       {
         "id": "holly-holm",
         "name": "Holly Holm"
-      },
-      {
-        "id": "norma-dumont",
-        "name": "Norma Dumont"
       },
       {
         "id": "karol-rosa",
