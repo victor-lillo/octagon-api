@@ -1,5 +1,59 @@
 [
   {
+    "fighter": "jessica-andrade",
+    "fighterName": "Jéssica Andrade",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2024-09-27T05:54:02.099Z"
+  },
+  {
+    "fighter": "natalia-silva",
+    "fighterName": "Natalia Silva",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-09-27T05:54:02.099Z"
+  },
+  {
+    "fighter": "neil-magny",
+    "fighterName": "Neil Magny",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 15,
+    "previousPosition": 14,
+    "date": "2024-09-27T05:54:02.099Z"
+  },
+  {
+    "fighter": "kevin-holland",
+    "fighterName": "Kevin Holland",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 14,
+    "previousPosition": 15,
+    "date": "2024-09-27T05:54:02.099Z"
+  },
+  {
+    "fighter": "matt-schnell",
+    "fighterName": "Matt Schnell",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2024-09-27T05:54:02.099Z"
+  },
+  {
+    "fighter": "assu-almabayev",
+    "fighterName": "Asu Almabayev",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2024-09-27T05:54:02.099Z"
+  },
+  {
     "fighter": "holly-holm",
     "fighterName": "Holly Holm",
     "categoryId": "womens-bantamweight",
@@ -33,60 +87,6 @@
     "categoryName": "Women's Bantamweight",
     "currentPosition": 4,
     "previousPosition": 7,
-    "date": "2024-09-19T04:19:10.657Z"
-  },
-  {
-    "fighter": "alexa-grasso",
-    "fighterName": "Alexa Grasso",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 0,
-    "previousPosition": "unranked",
-    "date": "2024-09-19T04:19:10.657Z"
-  },
-  {
-    "fighter": "alexa-grasso",
-    "fighterName": "Alexa Grasso",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 2,
-    "previousPosition": 0,
-    "date": "2024-09-19T04:19:10.657Z"
-  },
-  {
-    "fighter": "valentina-shevchenko",
-    "fighterName": "Valentina Shevchenko",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 0,
-    "previousPosition": 2,
-    "date": "2024-09-19T04:19:10.657Z"
-  },
-  {
-    "fighter": "max-holloway",
-    "fighterName": "Max Holloway",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2024-09-19T04:19:10.657Z"
-  },
-  {
-    "fighter": "rafael-fiziev",
-    "fighterName": "Rafael Fiziev",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 8,
-    "previousPosition": 9,
-    "date": "2024-09-19T04:19:10.657Z"
-  },
-  {
-    "fighter": "bryce-mitchell",
-    "fighterName": "Bryce Mitchell",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
     "date": "2024-09-19T04:19:10.657Z"
   }
 ]
