@@ -234,12 +234,12 @@
         "name": "Yair Rodriguez"
       },
       {
-        "id": "brian-ortega",
-        "name": "Brian Ortega"
-      },
-      {
         "id": "movsar-evloev",
         "name": "Movsar Evloev"
+      },
+      {
+        "id": "brian-ortega",
+        "name": "Brian Ortega"
       },
       {
         "id": "arnold-allen",
@@ -904,12 +904,12 @@
         "name": "Germaine de Randamie"
       },
       {
-        "id": "chelsea-chandler",
-        "name": "Chelsea Chandler"
-      },
-      {
         "id": "ailin-perez",
         "name": "Ailin Perez"
+      },
+      {
+        "id": "chelsea-chandler",
+        "name": "Chelsea Chandler"
       }
     ]
   }

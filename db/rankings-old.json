@@ -130,12 +130,12 @@
         "name": "Cody Durden"
       },
       {
-        "id": "matt-schnell",
-        "name": "Matt Schnell"
-      },
-      {
         "id": "assu-almabayev",
         "name": "Asu Almabayev"
+      },
+      {
+        "id": "matt-schnell",
+        "name": "Matt Schnell"
       }
     ]
   },
@@ -414,12 +414,12 @@
         "name": "Vicente Luque"
       },
       {
-        "id": "neil-magny",
-        "name": "Neil Magny"
-      },
-      {
         "id": "kevin-holland",
         "name": "Kevin Holland"
+      },
+      {
+        "id": "neil-magny",
+        "name": "Neil Magny"
       }
     ]
   },
@@ -690,12 +690,12 @@
         "name": "Virna Jandiroba"
       },
       {
-        "id": "jessica-andrade",
-        "name": "Jéssica Andrade"
-      },
-      {
         "id": "natalia-silva",
         "name": "Natalia Silva"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jéssica Andrade"
       },
       {
         "id": "amanda-lemos",
