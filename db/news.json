@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "chelsea-chandler",
-    "fighterName": "Chelsea Chandler",
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-10-03T04:19:59.827Z"
-  },
-  {
-    "fighter": "ailin-perez",
-    "fighterName": "Ailin Perez",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-10-03T04:19:59.827Z"
-  },
-  {
-    "fighter": "brian-ortega",
-    "fighterName": "Brian Ortega",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2024-10-03T04:19:59.827Z"
-  },
-  {
-    "fighter": "movsar-evloev",
-    "fighterName": "Movsar Evloev",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 4,
+    "currentPosition": 6,
     "previousPosition": 5,
-    "date": "2024-10-03T04:19:59.827Z"
+    "date": "2024-10-10T04:19:03.188Z"
   },
   {
-    "fighter": "jessica-andrade",
-    "fighterName": "Jéssica Andrade",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2024-10-10T04:19:03.188Z"
+  },
+  {
+    "fighter": "ketlen-vieira",
+    "fighterName": "Ketlen Vieira",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 2,
+    "previousPosition": 1,
+    "date": "2024-10-10T04:19:03.188Z"
+  },
+  {
+    "fighter": "kayla-harrison",
+    "fighterName": "Kayla Harrison",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 1,
+    "previousPosition": 2,
+    "date": "2024-10-10T04:19:03.188Z"
+  },
+  {
+    "fighter": "raquel-pennington",
+    "fighterName": "Raquel Pennington",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 0,
+    "previousPosition": "unranked",
+    "date": "2024-10-10T04:19:03.188Z"
+  },
+  {
+    "fighter": "tecia-pennington",
+    "fighterName": "Tecia Pennington",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-10-10T04:19:03.188Z"
+  },
+  {
+    "fighter": "gillian-robertson",
+    "fighterName": "Gillian Robertson",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 13,
     "previousPosition": 12,
-    "date": "2024-09-27T05:54:02.099Z"
+    "date": "2024-10-10T04:19:03.188Z"
   },
   {
-    "fighter": "natalia-silva",
-    "fighterName": "Natalia Silva",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "fighter": "luana-pinheiro",
+    "fighterName": "Luana Pinheiro",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2024-09-27T05:54:02.099Z"
+    "previousPosition": 11,
+    "date": "2024-10-10T04:19:03.188Z"
   },
   {
-    "fighter": "neil-magny",
-    "fighterName": "Neil Magny",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 15,
-    "previousPosition": 14,
-    "date": "2024-09-27T05:54:02.099Z"
+    "fighter": "angela-hill",
+    "fighterName": "Angela Hill",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2024-10-10T04:19:03.188Z"
   },
   {
-    "fighter": "kevin-holland",
-    "fighterName": "Kevin Holland",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 14,
-    "previousPosition": 15,
-    "date": "2024-09-27T05:54:02.099Z"
-  },
-  {
-    "fighter": "matt-schnell",
-    "fighterName": "Matt Schnell",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-09-27T05:54:02.099Z"
-  },
-  {
-    "fighter": "assu-almabayev",
-    "fighterName": "Asu Almabayev",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-09-27T05:54:02.099Z"
+    "fighter": "loopy-godinez",
+    "fighterName": "Loopy Godinez",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2024-10-10T04:19:03.188Z"
   }
 ]

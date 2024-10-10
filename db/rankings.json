@@ -168,16 +168,20 @@
         "name": "Deiveson Figueiredo"
       },
       {
-        "id": "henry-cejudo",
-        "name": "Henry Cejudo"
-      },
-      {
         "id": "marlon-vera",
         "name": "Marlon Vera"
       },
       {
+        "id": "henry-cejudo",
+        "name": "Henry Cejudo"
+      },
+      {
         "id": "yadong-song",
         "name": "Song Yadong"
+      },
+      {
+        "id": "mario-bautista",
+        "name": "Mario Bautista"
       },
       {
         "id": "rob-font",
@@ -186,10 +190,6 @@
       {
         "id": "jose-aldo",
         "name": "José Aldo"
-      },
-      {
-        "id": "mario-bautista",
-        "name": "Mario Bautista"
       },
       {
         "id": "kyler-phillips",
@@ -316,16 +316,16 @@
         "name": "Beneil Dariush"
       },
       {
+        "id": "max-holloway",
+        "name": "Max Holloway"
+      },
+      {
         "id": "mateusz-gamrot",
         "name": "Mateusz Gamrot"
       },
       {
         "id": "rafael-fiziev",
         "name": "Rafael Fiziev"
-      },
-      {
-        "id": "max-holloway",
-        "name": "Max Holloway"
       },
       {
         "id": "renato-moicano",
@@ -374,12 +374,12 @@
         "name": "Jack Della Maddalena"
       },
       {
-        "id": "colby-covington",
-        "name": "Colby Covington"
-      },
-      {
         "id": "sean-brady",
         "name": "Sean Brady"
+      },
+      {
+        "id": "colby-covington",
+        "name": "Colby Covington"
       },
       {
         "id": "ian-garry",
@@ -390,16 +390,16 @@
         "name": "Gilbert Burns"
       },
       {
-        "id": "stephen-thompson",
-        "name": "Stephen Thompson"
+        "id": "joaquin-buckley",
+        "name": "Joaquin Buckley"
       },
       {
         "id": "geoff-neal",
         "name": "Geoff Neal"
       },
       {
-        "id": "joaquin-buckley",
-        "name": "Joaquin Buckley"
+        "id": "stephen-thompson",
+        "name": "Stephen Thompson"
       },
       {
         "id": "michael-morales",
@@ -412,10 +412,6 @@
       {
         "id": "vicente-luque",
         "name": "Vicente Luque"
-      },
-      {
-        "id": "kevin-holland",
-        "name": "Kevin Holland"
       },
       {
         "id": "neil-magny",
@@ -464,12 +460,12 @@
         "name": "Brendan Allen"
       },
       {
-        "id": "paulo-costa",
-        "name": "Paulo Costa"
-      },
-      {
         "id": "roman-dolidze",
         "name": "Roman Dolidze"
+      },
+      {
+        "id": "paulo-costa",
+        "name": "Paulo Costa"
       },
       {
         "id": "jack-hermansson",
@@ -654,12 +650,12 @@
         "name": "Alexa Grasso"
       },
       {
-        "id": "manon-fiorot",
-        "name": "Manon Fiorot"
-      },
-      {
         "id": "julianna-pena",
         "name": "Julianna Peña"
+      },
+      {
+        "id": "manon-fiorot",
+        "name": "Manon Fiorot"
       },
       {
         "id": "rose-namajunas",
@@ -674,16 +670,16 @@
         "name": "Raquel Pennington"
       },
       {
+        "id": "kayla-harrison",
+        "name": "Kayla Harrison"
+      },
+      {
         "id": "tatiana-suarez",
         "name": "Tatiana Suarez"
       },
       {
         "id": "xiaonan-yan",
         "name": "Yan Xiaonan"
-      },
-      {
-        "id": "kayla-harrison",
-        "name": "Kayla Harrison"
       },
       {
         "id": "virna-jandiroba",
@@ -732,16 +728,20 @@
         "name": "Amanda Lemos"
       },
       {
-        "id": "marina-rodriguez",
-        "name": "Marina Rodriguez"
-      },
-      {
         "id": "mackenzie-dern",
         "name": "Mackenzie Dern"
       },
       {
         "id": "amanda-ribas",
         "name": "Amanda Ribas"
+      },
+      {
+        "id": "iasmin-lucindo",
+        "name": "Iasmin Lucindo"
+      },
+      {
+        "id": "marina-rodriguez",
+        "name": "Marina Rodriguez"
       },
       {
         "id": "tabatha-ricci",
@@ -764,12 +764,8 @@
         "name": "Gillian Robertson"
       },
       {
-        "id": "iasmin-lucindo",
-        "name": "Iasmin Lucindo"
-      },
-      {
-        "id": "karolina-kowalkiewicz",
-        "name": "Karolina Kowalkiewicz"
+        "id": "tecia-pennington",
+        "name": "Tecia Pennington"
       }
     ]
   },
@@ -847,21 +843,21 @@
     "id": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
     "champion": {
-      "id": "raquel-pennington",
-      "championName": "Raquel Pennington"
+      "id": "julianna-pena",
+      "championName": "Julianna Peña"
     },
     "fighters": [
       {
-        "id": "julianna-pena",
-        "name": "Julianna Peña"
-      },
-      {
-        "id": "ketlen-vieira",
-        "name": "Ketlen Vieira"
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
       },
       {
         "id": "kayla-harrison",
         "name": "Kayla Harrison"
+      },
+      {
+        "id": "ketlen-vieira",
+        "name": "Ketlen Vieira"
       },
       {
         "id": "macy-chiasson",
@@ -872,12 +868,12 @@
         "name": "Norma Dumont"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "mayra-bueno-silva",
         "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "holly-holm",
