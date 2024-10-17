@@ -1,5 +1,32 @@
 [
   {
+    "fighter": "rafael-dos-anjos",
+    "fighterName": "Rafael Dos Anjos",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 14,
+    "previousPosition": 12,
+    "date": "2024-10-17T04:19:11.222Z"
+  },
+  {
+    "fighter": "paddy-pimblett",
+    "fighterName": "Paddy Pimblett",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2024-10-17T04:19:11.222Z"
+  },
+  {
+    "fighter": "jalin-turner",
+    "fighterName": "Jalin Turner",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-10-17T04:19:11.222Z"
+  },
+  {
     "fighter": "irene-aldana",
     "fighterName": "Irene Aldana",
     "categoryId": "womens-bantamweight",
@@ -60,33 +87,6 @@
     "categoryName": "Women's Strawweight",
     "currentPosition": 13,
     "previousPosition": 12,
-    "date": "2024-10-10T04:19:03.188Z"
-  },
-  {
-    "fighter": "luana-pinheiro",
-    "fighterName": "Luana Pinheiro",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-10-10T04:19:03.188Z"
-  },
-  {
-    "fighter": "angela-hill",
-    "fighterName": "Angela Hill",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2024-10-10T04:19:03.188Z"
-  },
-  {
-    "fighter": "loopy-godinez",
-    "fighterName": "Loopy Godinez",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
     "date": "2024-10-10T04:19:03.188Z"
   }
 ]
