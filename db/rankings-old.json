@@ -336,16 +336,16 @@
         "name": "Benoît Saint Denis"
       },
       {
-        "id": "rafael-dos-anjos",
-        "name": "Rafael Dos Anjos"
-      },
-      {
         "id": "jalin-turner",
         "name": "Jalin Turner"
       },
       {
         "id": "paddy-pimblett",
         "name": "Paddy Pimblett"
+      },
+      {
+        "id": "rafael-dos-anjos",
+        "name": "Rafael Dos Anjos"
       }
     ]
   },

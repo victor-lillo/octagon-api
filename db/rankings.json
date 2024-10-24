@@ -102,16 +102,20 @@
         "name": "Alex Perez"
       },
       {
-        "id": "matheus-nicolau",
-        "name": "Matheus Nicolau"
+        "id": "assu-almabayev",
+        "name": "Asu Almabayev"
+      },
+      {
+        "id": "manel-kape",
+        "name": "Manel Kape"
       },
       {
         "id": "steve-erceg",
         "name": "Steve Erceg"
       },
       {
-        "id": "manel-kape",
-        "name": "Manel Kape"
+        "id": "matheus-nicolau",
+        "name": "Matheus Nicolau"
       },
       {
         "id": "tim-elliott",
@@ -130,12 +134,8 @@
         "name": "Cody Durden"
       },
       {
-        "id": "assu-almabayev",
-        "name": "Asu Almabayev"
-      },
-      {
-        "id": "matt-schnell",
-        "name": "Matt Schnell"
+        "id": "charles-johnson",
+        "name": "Charles Johnson"
       }
     ]
   },
@@ -180,12 +180,12 @@
         "name": "Song Yadong"
       },
       {
-        "id": "mario-bautista",
-        "name": "Mario Bautista"
-      },
-      {
         "id": "rob-font",
         "name": "Rob Font"
+      },
+      {
+        "id": "mario-bautista",
+        "name": "Mario Bautista"
       },
       {
         "id": "jose-aldo",
@@ -304,6 +304,10 @@
         "name": "Dustin Poirier"
       },
       {
+        "id": "max-holloway",
+        "name": "Max Holloway"
+      },
+      {
         "id": "dan-hooker",
         "name": "Dan Hooker"
       },
@@ -314,10 +318,6 @@
       {
         "id": "beneil-dariush",
         "name": "Beneil Dariush"
-      },
-      {
-        "id": "max-holloway",
-        "name": "Max Holloway"
       },
       {
         "id": "mateusz-gamrot",
@@ -472,12 +472,12 @@
         "name": "Jack Hermansson"
       },
       {
-        "id": "khamzat-chimaev",
-        "name": "Khamzat Chimaev"
-      },
-      {
         "id": "anthony-hernandez",
         "name": "Anthony Hernandez"
+      },
+      {
+        "id": "khamzat-chimaev",
+        "name": "Khamzat Chimaev"
       },
       {
         "id": "michel-pereira",
@@ -518,16 +518,16 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "volkan-oezdemir",
-        "name": "Volkan Oezdemir"
-      },
-      {
         "id": "nikita-krylov",
         "name": "Nikita Krylov"
       },
       {
         "id": "khalil-rountree-jr",
         "name": "Khalil Rountree Jr."
+      },
+      {
+        "id": "volkan-oezdemir",
+        "name": "Volkan Oezdemir"
       },
       {
         "id": "johnny-walker",
@@ -666,12 +666,12 @@
         "name": "Erin Blanchfield"
       },
       {
-        "id": "raquel-pennington",
-        "name": "Raquel Pennington"
-      },
-      {
         "id": "kayla-harrison",
         "name": "Kayla Harrison"
+      },
+      {
+        "id": "raquel-pennington",
+        "name": "Raquel Pennington"
       },
       {
         "id": "tatiana-suarez",
@@ -694,8 +694,8 @@
         "name": "Jéssica Andrade"
       },
       {
-        "id": "amanda-lemos",
-        "name": "Amanda Lemos"
+        "id": "maycee-barber",
+        "name": "Maycee Barber"
       }
     ]
   },
@@ -732,12 +732,12 @@
         "name": "Mackenzie Dern"
       },
       {
-        "id": "amanda-ribas",
-        "name": "Amanda Ribas"
-      },
-      {
         "id": "iasmin-lucindo",
         "name": "Iasmin Lucindo"
+      },
+      {
+        "id": "amanda-ribas",
+        "name": "Amanda Ribas"
       },
       {
         "id": "marina-rodriguez",

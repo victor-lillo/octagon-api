@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "rafael-dos-anjos",
-    "fighterName": "Rafael Dos Anjos",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 14,
-    "previousPosition": 12,
-    "date": "2024-10-17T04:19:11.222Z"
-  },
-  {
-    "fighter": "paddy-pimblett",
-    "fighterName": "Paddy Pimblett",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-10-17T04:19:11.222Z"
-  },
-  {
-    "fighter": "jalin-turner",
-    "fighterName": "Jalin Turner",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2024-10-17T04:19:11.222Z"
-  },
-  {
-    "fighter": "irene-aldana",
-    "fighterName": "Irene Aldana",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2024-10-10T04:19:03.188Z"
-  },
-  {
-    "fighter": "mayra-bueno-silva",
-    "fighterName": "Mayra Bueno Silva",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 5,
+    "fighter": "amanda-ribas",
+    "fighterName": "Amanda Ribas",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 7,
     "previousPosition": 6,
-    "date": "2024-10-10T04:19:03.188Z"
+    "date": "2024-10-24T04:19:33.629Z"
   },
   {
-    "fighter": "ketlen-vieira",
-    "fighterName": "Ketlen Vieira",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 2,
-    "previousPosition": 1,
-    "date": "2024-10-10T04:19:03.188Z"
+    "fighter": "iasmin-lucindo",
+    "fighterName": "Iasmin Lucindo",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2024-10-24T04:19:33.629Z"
   },
   {
-    "fighter": "kayla-harrison",
-    "fighterName": "Kayla Harrison",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 1,
-    "previousPosition": 2,
-    "date": "2024-10-10T04:19:03.188Z"
+    "fighter": "maycee-barber",
+    "fighterName": "Maycee Barber",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-10-24T04:19:33.629Z"
   },
   {
     "fighter": "raquel-pennington",
     "fighterName": "Raquel Pennington",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 0,
-    "previousPosition": "unranked",
-    "date": "2024-10-10T04:19:03.188Z"
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2024-10-24T04:19:33.629Z"
   },
   {
-    "fighter": "tecia-pennington",
-    "fighterName": "Tecia Pennington",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-10-10T04:19:03.188Z"
+    "fighter": "kayla-harrison",
+    "fighterName": "Kayla Harrison",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2024-10-24T04:19:33.629Z"
   },
   {
-    "fighter": "gillian-robertson",
-    "fighterName": "Gillian Robertson",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
+    "fighter": "volkan-oezdemir",
+    "fighterName": "Volkan Oezdemir",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": 5,
+    "date": "2024-10-24T04:19:33.629Z"
+  },
+  {
+    "fighter": "khalil-rountree-jr",
+    "fighterName": "Khalil Rountree Jr.",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2024-10-24T04:19:33.629Z"
+  },
+  {
+    "fighter": "nikita-krylov",
+    "fighterName": "Nikita Krylov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2024-10-24T04:19:33.629Z"
+  },
+  {
+    "fighter": "khamzat-chimaev",
+    "fighterName": "Khamzat Chimaev",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-10-24T04:19:33.629Z"
+  },
+  {
+    "fighter": "anthony-hernandez",
+    "fighterName": "Anthony Hernandez",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 11,
     "previousPosition": 12,
-    "date": "2024-10-10T04:19:03.188Z"
+    "date": "2024-10-24T04:19:33.629Z"
   }
 ]
