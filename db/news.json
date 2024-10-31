@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "amanda-ribas",
-    "fighterName": "Amanda Ribas",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2024-10-24T04:19:33.629Z"
-  },
-  {
-    "fighter": "iasmin-lucindo",
-    "fighterName": "Iasmin Lucindo",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 6,
-    "previousPosition": 7,
-    "date": "2024-10-24T04:19:33.629Z"
-  },
-  {
-    "fighter": "maycee-barber",
-    "fighterName": "Maycee Barber",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-10-24T04:19:33.629Z"
-  },
-  {
-    "fighter": "raquel-pennington",
-    "fighterName": "Raquel Pennington",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 8,
-    "previousPosition": 7,
-    "date": "2024-10-24T04:19:33.629Z"
-  },
-  {
-    "fighter": "kayla-harrison",
-    "fighterName": "Kayla Harrison",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 7,
-    "previousPosition": 8,
-    "date": "2024-10-24T04:19:33.629Z"
-  },
-  {
-    "fighter": "volkan-oezdemir",
-    "fighterName": "Volkan Oezdemir",
+    "fighter": "anthony-smith",
+    "fighterName": "Anthony Smith",
     "categoryId": "light-heavyweight",
     "categoryName": "Light Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": 5,
-    "date": "2024-10-24T04:19:33.629Z"
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-10-31T04:20:25.611Z"
   },
   {
-    "fighter": "khalil-rountree-jr",
-    "fighterName": "Khalil Rountree Jr.",
+    "fighter": "dominick-reyes",
+    "fighterName": "Dominick Reyes",
     "categoryId": "light-heavyweight",
     "categoryName": "Light Heavyweight",
-    "currentPosition": 6,
-    "previousPosition": 7,
-    "date": "2024-10-24T04:19:33.629Z"
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-10-31T04:20:25.611Z"
   },
   {
     "fighter": "nikita-krylov",
     "fighterName": "Nikita Krylov",
     "categoryId": "light-heavyweight",
     "categoryName": "Light Heavyweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2024-10-24T04:19:33.629Z"
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2024-10-31T04:20:25.611Z"
   },
   {
-    "fighter": "khamzat-chimaev",
-    "fighterName": "Khamzat Chimaev",
+    "fighter": "khalil-rountree-jr",
+    "fighterName": "Khalil Rountree Jr.",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 5,
+    "previousPosition": 6,
+    "date": "2024-10-31T04:20:25.611Z"
+  },
+  {
+    "fighter": "jiri-prochazka",
+    "fighterName": "Jiří Procházka",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 1,
+    "previousPosition": 0,
+    "date": "2024-10-31T04:20:25.611Z"
+  },
+  {
+    "fighter": "magomed-ankalaev",
+    "fighterName": "Magomed Ankalaev",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 0,
+    "previousPosition": 1,
+    "date": "2024-10-31T04:20:25.611Z"
+  },
+  {
+    "fighter": "michel-pereira",
+    "fighterName": "Michel Pereira",
     "categoryId": "middleweight",
     "categoryName": "Middleweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-10-24T04:19:33.629Z"
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2024-10-31T04:20:25.611Z"
+  },
+  {
+    "fighter": "shara-magomedov",
+    "fighterName": "Shara Magomedov",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2024-10-31T04:20:25.611Z"
   },
   {
     "fighter": "anthony-hernandez",
     "fighterName": "Anthony Hernandez",
     "categoryId": "middleweight",
     "categoryName": "Middleweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-10-31T04:20:25.611Z"
+  },
+  {
+    "fighter": "jack-hermansson",
+    "fighterName": "Jack Hermansson",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
     "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2024-10-24T04:19:33.629Z"
+    "previousPosition": 10,
+    "date": "2024-10-31T04:20:25.611Z"
   }
 ]

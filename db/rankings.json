@@ -48,12 +48,12 @@
         "name": "Alexander Volkanovski"
       },
       {
-        "id": "max-holloway",
-        "name": "Max Holloway"
-      },
-      {
         "id": "alexandre-pantoja",
         "name": "Alexandre Pantoja"
+      },
+      {
+        "id": "max-holloway",
+        "name": "Max Holloway"
       },
       {
         "id": "sean-omalley",
@@ -64,8 +64,8 @@
         "name": "Sean Strickland"
       },
       {
-        "id": "charles-oliveira",
-        "name": "Charles Oliveira"
+        "id": "israel-adesanya",
+        "name": "Israel Adesanya"
       }
     ]
   },
@@ -258,12 +258,12 @@
         "name": "Calvin Kattar"
       },
       {
-        "id": "giga-chikadze",
-        "name": "Giga Chikadze"
-      },
-      {
         "id": "lerone-murphy",
         "name": "Lerone Murphy"
+      },
+      {
+        "id": "giga-chikadze",
+        "name": "Giga Chikadze"
       },
       {
         "id": "bryce-mitchell",
@@ -324,12 +324,12 @@
         "name": "Mateusz Gamrot"
       },
       {
-        "id": "rafael-fiziev",
-        "name": "Rafael Fiziev"
-      },
-      {
         "id": "renato-moicano",
         "name": "Renato Moicano"
+      },
+      {
+        "id": "rafael-fiziev",
+        "name": "Rafael Fiziev"
       },
       {
         "id": "benoit-saint-denis",
@@ -436,6 +436,10 @@
         "name": "Israel Adesanya"
       },
       {
+        "id": "khamzat-chimaev",
+        "name": "Khamzat Chimaev"
+      },
+      {
         "id": "robert-whittaker",
         "name": "Robert Whittaker"
       },
@@ -476,16 +480,12 @@
         "name": "Anthony Hernandez"
       },
       {
-        "id": "khamzat-chimaev",
-        "name": "Khamzat Chimaev"
+        "id": "shara-magomedov",
+        "name": "Shara Magomedov"
       },
       {
         "id": "michel-pereira",
         "name": "Michel Pereira"
-      },
-      {
-        "id": "chris-curtis",
-        "name": "Chris Curtis"
       }
     ]
   },
@@ -498,12 +498,12 @@
     },
     "fighters": [
       {
-        "id": "jiri-prochazka",
-        "name": "Jiří Procházka"
-      },
-      {
         "id": "magomed-ankalaev",
         "name": "Magomed Ankalaev"
+      },
+      {
+        "id": "jiri-prochazka",
+        "name": "Jiří Procházka"
       },
       {
         "id": "jamahal-hill",
@@ -518,12 +518,12 @@
         "name": "Aleksandar Rakić"
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
-      },
-      {
         "id": "khalil-rountree-jr",
         "name": "Khalil Rountree Jr."
+      },
+      {
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
       },
       {
         "id": "volkan-oezdemir",
@@ -542,12 +542,12 @@
         "name": "Azamat Murzakanov"
       },
       {
-        "id": "anthony-smith",
-        "name": "Anthony Smith"
-      },
-      {
         "id": "dominick-reyes",
         "name": "Dominick Reyes"
+      },
+      {
+        "id": "anthony-smith",
+        "name": "Anthony Smith"
       },
       {
         "id": "bogdan-guskov",
