@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "anthony-smith",
-    "fighterName": "Anthony Smith",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "jacqueline-cavalcanti",
+    "fighterName": "Jacqueline Cavalcanti",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-11-07T04:19:20.731Z"
+  },
+  {
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2024-11-07T04:19:20.731Z"
+  },
+  {
+    "fighter": "ailin-perez",
+    "fighterName": "Ailin Perez",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-10-31T04:20:25.611Z"
+    "previousPosition": 13,
+    "date": "2024-11-07T04:19:20.731Z"
   },
   {
-    "fighter": "dominick-reyes",
-    "fighterName": "Dominick Reyes",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2024-10-31T04:20:25.611Z"
-  },
-  {
-    "fighter": "nikita-krylov",
-    "fighterName": "Nikita Krylov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 6,
     "previousPosition": 5,
-    "date": "2024-10-31T04:20:25.611Z"
+    "date": "2024-11-07T04:19:20.731Z"
   },
   {
-    "fighter": "khalil-rountree-jr",
-    "fighterName": "Khalil Rountree Jr.",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-10-31T04:20:25.611Z"
+    "date": "2024-11-07T04:19:20.731Z"
   },
   {
-    "fighter": "jiri-prochazka",
-    "fighterName": "Jiří Procházka",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 1,
-    "previousPosition": 0,
-    "date": "2024-10-31T04:20:25.611Z"
-  },
-  {
-    "fighter": "magomed-ankalaev",
-    "fighterName": "Magomed Ankalaev",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 0,
-    "previousPosition": 1,
-    "date": "2024-10-31T04:20:25.611Z"
-  },
-  {
-    "fighter": "michel-pereira",
-    "fighterName": "Michel Pereira",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-10-31T04:20:25.611Z"
-  },
-  {
-    "fighter": "shara-magomedov",
-    "fighterName": "Shara Magomedov",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "ariane-lipski",
+    "fighterName": "Ariane da Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2024-10-31T04:20:25.611Z"
+    "previousPosition": 12,
+    "date": "2024-11-07T04:19:20.731Z"
   },
   {
-    "fighter": "anthony-hernandez",
-    "fighterName": "Anthony Hernandez",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "jasmine-jasudavicius",
+    "fighterName": "Jasmine Jasudavicius",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-10-31T04:20:25.611Z"
+    "previousPosition": 13,
+    "date": "2024-11-07T04:19:20.731Z"
   },
   {
-    "fighter": "jack-hermansson",
-    "fighterName": "Jack Hermansson",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2024-10-31T04:20:25.611Z"
+    "fighter": "rose-namajunas",
+    "fighterName": "Rose Namajunas",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2024-11-07T04:19:20.731Z"
+  },
+  {
+    "fighter": "natalia-silva",
+    "fighterName": "Natalia Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2024-11-07T04:19:20.731Z"
+  },
+  {
+    "fighter": "natalia-silva",
+    "fighterName": "Natalia Silva",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2024-11-07T04:19:20.731Z"
   }
 ]
