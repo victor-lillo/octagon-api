@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "jacqueline-cavalcanti",
-    "fighterName": "Jacqueline Cavalcanti",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2024-11-07T04:19:20.731Z"
-  },
-  {
     "fighter": "chelsea-chandler",
     "fighterName": "Chelsea Chandler",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2024-11-14T04:19:44.354Z"
+  },
+  {
+    "fighter": "jacqueline-cavalcanti",
+    "fighterName": "Jacqueline Cavalcanti",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 13,
     "previousPosition": 14,
-    "date": "2024-11-07T04:19:20.731Z"
-  },
-  {
-    "fighter": "ailin-perez",
-    "fighterName": "Ailin Perez",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2024-11-07T04:19:20.731Z"
-  },
-  {
-    "fighter": "mayra-bueno-silva",
-    "fighterName": "Mayra Bueno Silva",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2024-11-07T04:19:20.731Z"
+    "date": "2024-11-14T04:19:44.354Z"
   },
   {
     "fighter": "irene-aldana",
     "fighterName": "Irene Aldana",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2024-11-14T04:19:44.354Z"
+  },
+  {
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-11-07T04:19:20.731Z"
+    "date": "2024-11-14T04:19:44.354Z"
   },
   {
-    "fighter": "ariane-lipski",
-    "fighterName": "Ariane da Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "luana-pinheiro",
+    "fighterName": "Luana Pinheiro",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 13,
     "previousPosition": 12,
-    "date": "2024-11-07T04:19:20.731Z"
+    "date": "2024-11-14T04:19:44.354Z"
   },
   {
-    "fighter": "jasmine-jasudavicius",
-    "fighterName": "Jasmine Jasudavicius",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "angela-hill",
+    "fighterName": "Angela Hill",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
     "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-11-14T04:19:44.354Z"
+  },
+  {
+    "fighter": "gillian-robertson",
+    "fighterName": "Gillian Robertson",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 11,
     "previousPosition": 13,
-    "date": "2024-11-07T04:19:20.731Z"
+    "date": "2024-11-14T04:19:44.354Z"
   },
   {
-    "fighter": "rose-namajunas",
-    "fighterName": "Rose Namajunas",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
-    "date": "2024-11-07T04:19:20.731Z"
-  },
-  {
-    "fighter": "natalia-silva",
-    "fighterName": "Natalia Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 4,
-    "previousPosition": 5,
-    "date": "2024-11-07T04:19:20.731Z"
-  },
-  {
-    "fighter": "natalia-silva",
-    "fighterName": "Natalia Silva",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 13,
+    "fighter": "michael-page",
+    "fighterName": "Michael Page",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 14,
     "previousPosition": 12,
-    "date": "2024-11-07T04:19:20.731Z"
+    "date": "2024-11-14T04:19:44.354Z"
+  },
+  {
+    "fighter": "carlos-prates",
+    "fighterName": "Carlos Prates",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 12,
+    "previousPosition": "unranked",
+    "date": "2024-11-14T04:19:44.354Z"
+  },
+  {
+    "fighter": "geoff-neal",
+    "fighterName": "Geoff Neal",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2024-11-14T04:19:44.354Z"
   }
 ]
