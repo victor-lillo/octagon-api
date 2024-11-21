@@ -394,28 +394,28 @@
         "name": "Joaquin Buckley"
       },
       {
-        "id": "geoff-neal",
-        "name": "Geoff Neal"
-      },
-      {
         "id": "stephen-thompson",
         "name": "Stephen Thompson"
+      },
+      {
+        "id": "geoff-neal",
+        "name": "Geoff Neal"
       },
       {
         "id": "michael-morales",
         "name": "Michael Morales"
       },
       {
-        "id": "michael-page",
-        "name": "Michael Page"
+        "id": "carlos-prates",
+        "name": "Carlos Prates"
       },
       {
         "id": "vicente-luque",
         "name": "Vicente Luque"
       },
       {
-        "id": "neil-magny",
-        "name": "Neil Magny"
+        "id": "michael-page",
+        "name": "Michael Page"
       }
     ]
   },
@@ -752,16 +752,16 @@
         "name": "Loopy Godinez"
       },
       {
+        "id": "gillian-robertson",
+        "name": "Gillian Robertson"
+      },
+      {
         "id": "angela-hill",
         "name": "Angela Hill"
       },
       {
         "id": "luana-pinheiro",
         "name": "Luana Pinheiro"
-      },
-      {
-        "id": "gillian-robertson",
-        "name": "Gillian Robertson"
       },
       {
         "id": "tecia-pennington",
@@ -868,12 +868,12 @@
         "name": "Norma Dumont"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "mayra-bueno-silva",
         "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "holly-holm",
@@ -900,12 +900,12 @@
         "name": "Ailin Perez"
       },
       {
-        "id": "chelsea-chandler",
-        "name": "Chelsea Chandler"
-      },
-      {
         "id": "jacqueline-cavalcanti",
         "name": "Jacqueline Cavalcanti"
+      },
+      {
+        "id": "chelsea-chandler",
+        "name": "Chelsea Chandler"
       }
     ]
   }

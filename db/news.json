@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "chelsea-chandler",
-    "fighterName": "Chelsea Chandler",
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-11-14T04:19:44.354Z"
-  },
-  {
-    "fighter": "jacqueline-cavalcanti",
-    "fighterName": "Jacqueline Cavalcanti",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-11-14T04:19:44.354Z"
+    "currentPosition": 6,
+    "previousPosition": 5,
+    "date": "2024-11-21T04:20:39.701Z"
   },
   {
     "fighter": "irene-aldana",
     "fighterName": "Irene Aldana",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2024-11-14T04:19:44.354Z"
-  },
-  {
-    "fighter": "mayra-bueno-silva",
-    "fighterName": "Mayra Bueno Silva",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-11-14T04:19:44.354Z"
+    "date": "2024-11-21T04:20:39.701Z"
   },
   {
-    "fighter": "luana-pinheiro",
-    "fighterName": "Luana Pinheiro",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2024-11-14T04:19:44.354Z"
-  },
-  {
-    "fighter": "angela-hill",
-    "fighterName": "Angela Hill",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 12,
-    "previousPosition": 11,
-    "date": "2024-11-14T04:19:44.354Z"
-  },
-  {
-    "fighter": "gillian-robertson",
-    "fighterName": "Gillian Robertson",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
+    "fighter": "karine-silva",
+    "fighterName": "Karine Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "currentPosition": 11,
-    "previousPosition": 13,
-    "date": "2024-11-14T04:19:44.354Z"
+    "previousPosition": 10,
+    "date": "2024-11-21T04:20:39.701Z"
   },
   {
-    "fighter": "michael-page",
-    "fighterName": "Michael Page",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 14,
-    "previousPosition": 12,
-    "date": "2024-11-14T04:19:44.354Z"
-  },
-  {
-    "fighter": "carlos-prates",
-    "fighterName": "Carlos Prates",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 12,
-    "previousPosition": "unranked",
-    "date": "2024-11-14T04:19:44.354Z"
-  },
-  {
-    "fighter": "geoff-neal",
-    "fighterName": "Geoff Neal",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
+    "fighter": "tracy-cortez",
+    "fighterName": "Tracy Cortez",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
     "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2024-11-14T04:19:44.354Z"
+    "previousPosition": 11,
+    "date": "2024-11-21T04:20:39.701Z"
+  },
+  {
+    "fighter": "shamil-gaziev",
+    "fighterName": "Shamil Gaziev",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-11-21T04:20:39.701Z"
+  },
+  {
+    "fighter": "mick-parkin",
+    "fighterName": "Mick Parkin",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2024-11-21T04:20:39.701Z"
+  },
+  {
+    "fighter": "waldo-cortes-acosta",
+    "fighterName": "Waldo Cortes Acosta",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2024-11-21T04:20:39.701Z"
+  },
+  {
+    "fighter": "marcos-rogerio-de-lima",
+    "fighterName": "Marcos Rogerio de Lima",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-11-21T04:20:39.701Z"
+  },
+  {
+    "fighter": "tai-tuivasa",
+    "fighterName": "Tai Tuivasa",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2024-11-21T04:20:39.701Z"
+  },
+  {
+    "fighter": "derrick-lewis",
+    "fighterName": "Derrick Lewis",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 9,
+    "previousPosition": 10,
+    "date": "2024-11-21T04:20:39.701Z"
   }
 ]
