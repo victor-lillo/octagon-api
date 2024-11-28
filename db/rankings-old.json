@@ -12,12 +12,12 @@
         "name": "Islam Makhachev"
       },
       {
-        "id": "alex-pereira",
-        "name": "Alex Pereira"
-      },
-      {
         "id": "jon-jones",
         "name": "Jon Jones"
+      },
+      {
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
       },
       {
         "id": "ilia-topuria",
@@ -64,8 +64,8 @@
         "name": "Sean Strickland"
       },
       {
-        "id": "israel-adesanya",
-        "name": "Israel Adesanya"
+        "id": "charles-oliveira",
+        "name": "Charles Oliveira"
       }
     ]
   },
@@ -196,12 +196,12 @@
         "name": "Kyler Phillips"
       },
       {
-        "id": "jonathan-martinez",
-        "name": "Jonathan Martinez"
-      },
-      {
         "id": "aiemann-zahabi",
         "name": "Aiemann Zahabi"
+      },
+      {
+        "id": "marcus-mcghee",
+        "name": "Marcus McGhee"
       },
       {
         "id": "montel-jackson",
@@ -316,12 +316,12 @@
         "name": "Michael Chandler"
       },
       {
-        "id": "beneil-dariush",
-        "name": "Beneil Dariush"
-      },
-      {
         "id": "mateusz-gamrot",
         "name": "Mateusz Gamrot"
+      },
+      {
+        "id": "beneil-dariush",
+        "name": "Beneil Dariush"
       },
       {
         "id": "renato-moicano",
@@ -336,16 +336,16 @@
         "name": "Benoît Saint Denis"
       },
       {
-        "id": "jalin-turner",
-        "name": "Jalin Turner"
-      },
-      {
         "id": "paddy-pimblett",
         "name": "Paddy Pimblett"
       },
       {
-        "id": "rafael-dos-anjos",
-        "name": "Rafael Dos Anjos"
+        "id": "jalin-turner",
+        "name": "Jalin Turner"
+      },
+      {
+        "id": "grant-dawson",
+        "name": "Grant Dawson"
       }
     ]
   },
@@ -542,12 +542,12 @@
         "name": "Azamat Murzakanov"
       },
       {
-        "id": "anthony-smith",
-        "name": "Anthony Smith"
-      },
-      {
         "id": "dominick-reyes",
         "name": "Dominick Reyes"
+      },
+      {
+        "id": "anthony-smith",
+        "name": "Anthony Smith"
       },
       {
         "id": "bogdan-guskov",
@@ -596,10 +596,6 @@
         "name": "Serghei Spivac"
       },
       {
-        "id": "stipe-miocic",
-        "name": "Stipe Miocic"
-      },
-      {
         "id": "marcin-tybura",
         "name": "Marcin Tybura"
       },
@@ -626,6 +622,10 @@
       {
         "id": "mick-parkin",
         "name": "Mick Parkin"
+      },
+      {
+        "id": "shamil-gaziev",
+        "name": "Shamil Gaziev"
       }
     ]
   },
@@ -818,12 +818,12 @@
         "name": "Amanda Ribas"
       },
       {
-        "id": "karine-silva",
-        "name": "Karine Silva"
-      },
-      {
         "id": "tracy-cortez",
         "name": "Tracy Cortez"
+      },
+      {
+        "id": "karine-silva",
+        "name": "Karine Silva"
       },
       {
         "id": "jasmine-jasudavicius",
@@ -868,12 +868,12 @@
         "name": "Norma Dumont"
       },
       {
-        "id": "mayra-bueno-silva",
-        "name": "Mayra Bueno Silva"
-      },
-      {
         "id": "irene-aldana",
         "name": "Irene Aldana"
+      },
+      {
+        "id": "mayra-bueno-silva",
+        "name": "Mayra Bueno Silva"
       },
       {
         "id": "holly-holm",

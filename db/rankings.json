@@ -522,6 +522,10 @@
         "name": "Khalil Rountree Jr."
       },
       {
+        "id": "carlos-ulberg",
+        "name": "Carlos Ulberg"
+      },
+      {
         "id": "nikita-krylov",
         "name": "Nikita Krylov"
       },
@@ -532,10 +536,6 @@
       {
         "id": "johnny-walker",
         "name": "Johnny Walker"
-      },
-      {
-        "id": "carlos-ulberg",
-        "name": "Carlos Ulberg"
       },
       {
         "id": "azamat-murzakanov",
@@ -868,12 +868,12 @@
         "name": "Norma Dumont"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
-      },
-      {
         "id": "mayra-bueno-silva",
         "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "holly-holm",
