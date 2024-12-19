@@ -2,7 +2,7 @@
   "islam-makhachev": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MAKHACHEV_ISLAM_L_BELT_06-01.png?itok=Fys0K4gs",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MAKHACHEV_ISLAM_L_BELT_06-01.png?itok=Fys0K4gs",
     "losses": "1",
     "name": "Islam Makhachev",
     "nickname": "",
@@ -21,7 +21,7 @@
   "jon-jones": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/JONES_JON_L_BELT_11-16.png?itok=jsP28R4T",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/JONES_JON_L_BELT_11-16.png?itok=jsP28R4T",
     "losses": "1",
     "name": "Jon Jones",
     "nickname": "Bones",
@@ -39,7 +39,7 @@
   "alex-pereira": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/PEREIRA_ALEX_L_BELT_10-05.png?itok=5O93_Ug3",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/PEREIRA_ALEX_L_BELT_10-05.png?itok=5O93_Ug3",
     "losses": "2",
     "name": "Alex Pereira",
     "nickname": "Poatan",
@@ -58,7 +58,7 @@
   "ilia-topuria": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TOPURIA_ILIA_L_BELT_10-26.png?itok=MvI4bGIl",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/TOPURIA_ILIA_L_BELT_10-26.png?itok=MvI4bGIl",
     "losses": "0",
     "name": "Ilia Topuria",
     "nickname": "El  Matador",
@@ -76,7 +76,7 @@
   "belal-muhammad": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MUHAMMAD_BELAL_L_BELTMOCK.png?itok=IkrG1_UR",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MUHAMMAD_BELAL_L_BELTMOCK.png?itok=IkrG1_UR",
     "losses": "3",
     "name": "Belal Muhammad",
     "nickname": "Remember The Name",
@@ -94,7 +94,7 @@
   "dricus-du-plessis": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/DU_PLESSIS_DRICUS_L_BELT.png?itok=ThYbFDzu",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DU_PLESSIS_DRICUS_L_BELT.png?itok=ThYbFDzu",
     "losses": "2",
     "name": "Dricus Du Plessis",
     "nickname": "Stillknocks",
@@ -112,7 +112,7 @@
   "merab-dvalishvili": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/DVALISHVILI_MERAB_L_BELTMOCK.png?itok=e4x0bnbZ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DVALISHVILI_MERAB_L_BELTMOCK.png?itok=e4x0bnbZ",
     "losses": "4",
     "name": "Merab Dvalishvili",
     "nickname": "The Machine",
@@ -131,7 +131,7 @@
   "tom-aspinall": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ASPINALL_TOM_BELT_L_07-27.png?itok=U2Fuugd3",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ASPINALL_TOM_BELT_L_07-27.png?itok=U2Fuugd3",
     "losses": "3",
     "name": "Tom Aspinall",
     "nickname": "",
@@ -147,29 +147,10 @@
     "reach": "78.00",
     "legReach": "44.00"
   },
-  "leon-edwards": {
-    "category": "Welterweight Division",
-    "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/EDWARDS_LEON_L_08-20.png?itok=2yVMaRNC",
-    "losses": "4",
-    "name": "Leon Edwards",
-    "nickname": "Rocky",
-    "wins": "22",
-    "status": "Active",
-    "placeOfBirth": "Kingston, Jamaica",
-    "trainsAt": "UTC Ultimate Training Centre Birmingham",
-    "fightingStyle": "MMA",
-    "age": "33",
-    "height": "72.00",
-    "weight": "170.00",
-    "octagonDebut": "Nov. 9, 2014",
-    "reach": "74.00",
-    "legReach": "43.00"
-  },
   "alexandre-pantoja": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/PANTOJA_ALEXANDRE_L_BELT_12-07.png?itok=sW0jquaZ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/PANTOJA_ALEXANDRE_L_BELT_12-07.png?itok=sW0jquaZ",
     "losses": "5",
     "name": "Alexandre Pantoja",
     "nickname": "The Cannibal",
@@ -185,10 +166,29 @@
     "reach": "67.00",
     "legReach": "36.50"
   },
+  "leon-edwards": {
+    "category": "Welterweight Division",
+    "draws": "0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/EDWARDS_LEON_L_08-20.png?itok=2yVMaRNC",
+    "losses": "4",
+    "name": "Leon Edwards",
+    "nickname": "Rocky",
+    "wins": "22",
+    "status": "Active",
+    "placeOfBirth": "Kingston, Jamaica",
+    "trainsAt": "UTC Ultimate Training Centre Birmingham",
+    "fightingStyle": "MMA",
+    "age": "33",
+    "height": "72.00",
+    "weight": "170.00",
+    "octagonDebut": "Nov. 9, 2014",
+    "reach": "74.00",
+    "legReach": "43.00"
+  },
   "alexander-volkanovski": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/VOLKANOVSKI_ALEXANDER_L_02-17.png?itok=BY1S_z57",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/VOLKANOVSKI_ALEXANDER_L_02-17.png?itok=BY1S_z57",
     "losses": "4",
     "name": "Alexander Volkanovski",
     "nickname": "The Great",
@@ -206,7 +206,7 @@
   "max-holloway": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-04/HOLLOWAY_MAX_L_04-13.png?itok=U9IB8OUQ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-04/HOLLOWAY_MAX_L_04-13.png?itok=U9IB8OUQ",
     "losses": "8",
     "name": "Max Holloway",
     "nickname": "Blessed",
@@ -225,7 +225,7 @@
   "sean-omalley": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/OMALLEY_SEAN_L_08-19.png?itok=mopy1nWo",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/OMALLEY_SEAN_L_08-19.png?itok=mopy1nWo",
     "losses": "2",
     "name": "Sean O'Malley",
     "nickname": "Suga",
@@ -243,7 +243,7 @@
   "sean-strickland": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/STRICKLAND_SEAN_L_06-01.png?itok=S49M7Ck-",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/STRICKLAND_SEAN_L_06-01.png?itok=S49M7Ck-",
     "losses": "6",
     "name": "Sean Strickland",
     "nickname": "",
@@ -262,7 +262,7 @@
   "charles-oliveira": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/OLIVEIRA_CHARLES_L_11-16.png?itok=FDRAtjYt",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/OLIVEIRA_CHARLES_L_11-16.png?itok=FDRAtjYt",
     "losses": "10",
     "name": "Charles Oliveira",
     "nickname": "Do Bronxs",
@@ -281,7 +281,7 @@
   "brandon-royval": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/ROYVAL_BRANDON_L_10-12.png?itok=Sq8ZkR4_",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/ROYVAL_BRANDON_L_10-12.png?itok=Sq8ZkR4_",
     "losses": "7",
     "name": "Brandon Royval",
     "nickname": "Raw Dawg",
@@ -300,7 +300,7 @@
   "brandon-moreno": {
     "category": "Flyweight Division",
     "draws": "2",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-07/MORENO_BRANDON_L_06-12.png?itok=-Gi9L7O0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-07/MORENO_BRANDON_L_06-12.png?itok=-Gi9L7O0",
     "losses": "8",
     "name": "Brandon Moreno",
     "nickname": "The Assassin Baby",
@@ -319,7 +319,7 @@
   "amir-albazi": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ALBAZI_AMIR_L_06-03.png?itok=M8BtK40U",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ALBAZI_AMIR_L_06-03.png?itok=M8BtK40U",
     "losses": "2",
     "name": "Amir Albazi",
     "nickname": "The Prince",
@@ -338,7 +338,7 @@
   "kai-kara-france": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/KARA-FRANCE_KAI_L_08-17.png?itok=AlmGskEL",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/KARA-FRANCE_KAI_L_08-17.png?itok=AlmGskEL",
     "losses": "11",
     "name": "Kai Kara-France",
     "nickname": "Don't Blink",
@@ -357,7 +357,7 @@
   "tatsuro-taira": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TAIRA_TATSURO_L_12-09.png?itok=T1FaNxuW",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/TAIRA_TATSURO_L_12-09.png?itok=T1FaNxuW",
     "losses": "1",
     "name": "Tatsuro Taira",
     "nickname": "",
@@ -371,10 +371,29 @@
     "reach": "70.00",
     "legReach": "38.00"
   },
+  "manel-kape": {
+    "category": "Flyweight Division",
+    "draws": "0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/KAPE_MANEL_L_12-14.png?itok=f-fpuZLW",
+    "losses": "7",
+    "name": "Manel Kape",
+    "nickname": "StarBoy",
+    "wins": "20",
+    "status": "Active",
+    "placeOfBirth": "Angola",
+    "trainsAt": "Xtreme Couture - Las Vegas, NV",
+    "fightingStyle": "MMA",
+    "age": "31",
+    "height": "65.00",
+    "weight": "125.00",
+    "octagonDebut": "Feb. 6, 2021",
+    "reach": "68.00",
+    "legReach": "39.00"
+  },
   "alex-perez": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/PEREZ_ALEX_L_06-15.png?itok=S1saewnh",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/PEREZ_ALEX_L_06-15.png?itok=S1saewnh",
     "losses": "9",
     "name": "Alex Perez",
     "nickname": "",
@@ -393,7 +412,7 @@
   "assu-almabayev": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/9/ALMABAYEV_ASU_L_06-15.png?itok=djHSf7_n",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/9/ALMABAYEV_ASU_L_06-15.png?itok=djHSf7_n",
     "losses": "2",
     "name": "Asu Almabayev ",
     "nickname": "Zulfikar",
@@ -411,7 +430,7 @@
   "steve-erceg": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ERCEG_STEVEN_L_08-17.png?itok=rB4rHIEz",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ERCEG_STEVEN_L_08-17.png?itok=rB4rHIEz",
     "losses": "3",
     "name": "Steve Erceg",
     "nickname": "Astroboy",
@@ -426,29 +445,10 @@
     "reach": "68.00",
     "legReach": "38.00"
   },
-  "manel-kape": {
-    "category": "Flyweight Division",
-    "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/KAPE_MANEL_L_07-27.png?itok=hAHqG5m0",
-    "losses": "7",
-    "name": "Manel Kape",
-    "nickname": "StarBoy",
-    "wins": "19",
-    "status": "Active",
-    "placeOfBirth": "Angola",
-    "trainsAt": "Xtreme Couture - Las Vegas, NV",
-    "fightingStyle": "MMA",
-    "age": "31",
-    "height": "65.00",
-    "weight": "137.80",
-    "octagonDebut": "Feb. 6, 2021",
-    "reach": "68.00",
-    "legReach": "39.00"
-  },
   "tim-elliott": {
     "category": "Bantamweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ELLIOTT_TIM_L_12-09.png?itok=xyWONkqQ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ELLIOTT_TIM_L_12-09.png?itok=xyWONkqQ",
     "losses": "13",
     "name": "Tim Elliott",
     "nickname": "",
@@ -466,7 +466,7 @@
   "tagir-ulanbekov": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ULANBEKOV_TAGIR_L_06-15.png?itok=3QWS0K6G",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ULANBEKOV_TAGIR_L_06-15.png?itok=3QWS0K6G",
     "losses": "2",
     "name": "Tagir Ulanbekov",
     "nickname": "",
@@ -482,29 +482,10 @@
     "reach": "70.00",
     "legReach": "39.00"
   },
-  "bruno-silva": {
-    "category": "Flyweight Division",
-    "draws": "2",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SILVA_BRUNO_L_03-11.png?itok=WY26ww0a",
-    "losses": "5",
-    "name": "Bruno Silva",
-    "nickname": "Bulldog",
-    "wins": "14",
-    "status": "Active",
-    "placeOfBirth": "Piracicaba, Brazil",
-    "trainsAt": "American Top Team",
-    "fightingStyle": "Grappler",
-    "age": "34",
-    "height": "64.00",
-    "weight": "135.50",
-    "octagonDebut": "Sep. 7, 2019",
-    "reach": "65.00",
-    "legReach": "35.00"
-  },
   "charles-johnson": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/7/JOHNSON_CHARLES_L_10-19.png?itok=Zb0fg1j0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/7/JOHNSON_CHARLES_L_10-19.png?itok=Zb0fg1j0",
     "losses": "6",
     "name": "Charles Johnson",
     "nickname": "Inner G",
@@ -519,10 +500,29 @@
     "reach": "70.00",
     "legReach": "40.00"
   },
+  "bruno-silva": {
+    "category": "Flyweight Division",
+    "draws": "2",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SILVA_BRUNO_L_03-11.png?itok=WY26ww0a",
+    "losses": "6",
+    "name": "Bruno Silva",
+    "nickname": "Bulldog",
+    "wins": "14",
+    "status": "Active",
+    "placeOfBirth": "Piracicaba, Brazil",
+    "trainsAt": "American Top Team",
+    "fightingStyle": "Grappler",
+    "age": "34",
+    "height": "64.00",
+    "weight": "126.00",
+    "octagonDebut": "Sep. 7, 2019",
+    "reach": "65.00",
+    "legReach": "35.00"
+  },
   "kai-asakura": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/ASAKURA_KAI_L.png?itok=2JSPSgE8",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/ASAKURA_KAI_L.png?itok=2JSPSgE8",
     "losses": "5",
     "name": "Kai Asakura",
     "nickname": "",
@@ -540,7 +540,7 @@
   "joshua-van": {
     "category": "Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-07/VAN_JOSHUA_L_07-13.png?itok=wUGXNhIq",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-07/VAN_JOSHUA_L_07-13.png?itok=wUGXNhIq",
     "losses": "2",
     "name": "Joshua Van",
     "nickname": "The Fearless",
@@ -558,7 +558,7 @@
   "umar-nurmagomedov": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/NURMAGOMEDOV_UMAR_L_03-02.png?itok=CiMvswvP",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/NURMAGOMEDOV_UMAR_L_03-02.png?itok=CiMvswvP",
     "losses": "0",
     "name": "Umar Nurmagomedov",
     "nickname": "",
@@ -576,7 +576,7 @@
   "petr-yan": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/YAN_PETR_L_11-23.png?itok=Y6NMGeOB",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/YAN_PETR_L_11-23.png?itok=Y6NMGeOB",
     "losses": "5",
     "name": "Petr Yan",
     "nickname": "No Mercy",
@@ -595,7 +595,7 @@
   "cory-sandhagen": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SANDHAGEN_CORY_L_08-03.png?itok=1USp7-Ot",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SANDHAGEN_CORY_L_08-03.png?itok=1USp7-Ot",
     "losses": "5",
     "name": "Cory Sandhagen",
     "nickname": "",
@@ -613,7 +613,7 @@
   "deiveson-figueiredo": {
     "category": "Bantamweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/FIGUEIREDO_DEIVESON_L_04-13.png?itok=19uAz6gK",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/FIGUEIREDO_DEIVESON_L_04-13.png?itok=19uAz6gK",
     "losses": "4",
     "name": "Deiveson Figueiredo",
     "nickname": "Deus da Guerra",
@@ -622,7 +622,7 @@
     "placeOfBirth": "Soure, Brazil",
     "trainsAt": "Team Figueiredo",
     "fightingStyle": "Boxing",
-    "age": "36",
+    "age": "37",
     "height": "65.00",
     "weight": "135.00",
     "octagonDebut": "Jun. 3, 2017",
@@ -632,7 +632,7 @@
   "marlon-vera": {
     "category": "Bantamweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/VERA_MARLON_L_08-03.png?itok=R1Qh-dwJ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/VERA_MARLON_L_08-03.png?itok=R1Qh-dwJ",
     "losses": "10",
     "name": "Marlon Vera",
     "nickname": "Chito",
@@ -651,7 +651,7 @@
   "henry-cejudo": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CEJUDO_HENRY_L_05-06.png?itok=oLYQEiZV",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CEJUDO_HENRY_L_05-06.png?itok=oLYQEiZV",
     "losses": "4",
     "name": "Henry Cejudo",
     "nickname": "Triple C",
@@ -670,7 +670,7 @@
   "yadong-song": {
     "category": "Bantamweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/YADONG_SONG_L_03-09.png?itok=spyjRjxE",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/YADONG_SONG_L_03-09.png?itok=spyjRjxE",
     "losses": "8",
     "name": "Song Yadong",
     "nickname": "Kung Fu Kid",
@@ -689,7 +689,7 @@
   "rob-font": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/15/FONT_ROB_L_10-19.png?itok=2mzqwB_E",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/15/FONT_ROB_L_10-19.png?itok=2mzqwB_E",
     "losses": "8",
     "name": "Rob Font",
     "nickname": "",
@@ -708,7 +708,7 @@
   "mario-bautista": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BAUTISTA_MARIO_L_01-13.png?itok=eUI85jN4",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BAUTISTA_MARIO_L_01-13.png?itok=eUI85jN4",
     "losses": "2",
     "name": "Mario Bautista",
     "nickname": "",
@@ -727,7 +727,7 @@
   "jose-aldo": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/ALDO_JOSE_L_10-05.png?itok=IeUrfg16",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/1/ALDO_JOSE_L_10-05.png?itok=Ra-GU2zW",
     "losses": "9",
     "name": "José Aldo",
     "nickname": "",
@@ -746,7 +746,7 @@
   "kyler-phillips": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/PHILLIPS_KYLER_L_10-19.png?itok=fzVFXf59",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/PHILLIPS_KYLER_L_10-19.png?itok=fzVFXf59",
     "losses": "3",
     "name": "Kyler Phillips",
     "nickname": "The Matrix",
@@ -763,7 +763,7 @@
   "aiemann-zahabi": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/ZAHABI_AIEMANN_L_11-02.png?itok=uSc51NH5",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/ZAHABI_AIEMANN_L_11-02.png?itok=uSc51NH5",
     "losses": "2",
     "name": "Aiemann Zahabi",
     "nickname": "",
@@ -781,7 +781,7 @@
   "marcus-mcghee": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-01/MCGHEE_MARCUS_L_01-13.png?itok=eA2hN1Ca",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-01/MCGHEE_MARCUS_L_01-13.png?itok=eA2hN1Ca",
     "losses": "1",
     "name": "Marcus McGhee",
     "nickname": "The Maniac",
@@ -800,7 +800,7 @@
   "montel-jackson": {
     "category": "Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/JACKSON_MONTEL_L_07-13.png?itok=MW-5kpvn",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/JACKSON_MONTEL_L_07-13.png?itok=MW-5kpvn",
     "losses": "2",
     "name": "Montel Jackson",
     "nickname": "Quik",
@@ -819,7 +819,7 @@
   "diego-lopes": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/LOPES_DIEGO_L_09-14.png?itok=yurK3Uw3",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/LOPES_DIEGO_L_09-14.png?itok=yurK3Uw3",
     "losses": "6",
     "name": "Diego Lopes",
     "nickname": "",
@@ -837,7 +837,7 @@
   "movsar-evloev": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/EVLOEV_MOVSAR_L_12-07.png?itok=zfrSO013",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/EVLOEV_MOVSAR_L_12-07.png?itok=zfrSO013",
     "losses": "0",
     "name": "Movsar Evloev",
     "nickname": "",
@@ -856,7 +856,7 @@
   "yair-rodriguez": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/RODRIGUEZ_YAIR_L_02-24.png?itok=o7zRvgQY",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/RODRIGUEZ_YAIR_L_02-24.png?itok=o7zRvgQY",
     "losses": "5",
     "name": "Yair Rodriguez",
     "nickname": "El Pantera",
@@ -875,7 +875,7 @@
   "brian-ortega": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ORTEGA_BRIAN_L_09-14.png?itok=nrOhvjjj",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ORTEGA_BRIAN_L_09-14.png?itok=nrOhvjjj",
     "losses": "4",
     "name": "Brian Ortega",
     "nickname": "T-City",
@@ -894,7 +894,7 @@
   "arnold-allen": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ALLEN_ARNOLD_L_07-27.png?itok=NQVXeF56",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ALLEN_ARNOLD_L_07-27.png?itok=NQVXeF56",
     "losses": "3",
     "name": "Arnold Allen",
     "nickname": "Almighty",
@@ -913,7 +913,7 @@
   "josh-emmett": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2023-12/EMMETT_JOSH_L_12-16.png?itok=ePjhvWzY",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2023-12/EMMETT_JOSH_L_12-16.png?itok=ePjhvWzY",
     "losses": "4",
     "name": "Josh Emmett",
     "nickname": "CC0 (C-C-OH)",
@@ -932,7 +932,7 @@
   "aljamain-sterling": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/STERLING_ALJAMAIN_L_04-13.png?itok=tr2LxNy5",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/STERLING_ALJAMAIN_L_04-13.png?itok=tr2LxNy5",
     "losses": "5",
     "name": "Aljamain Sterling",
     "nickname": "Funk Master",
@@ -951,7 +951,7 @@
   "calvin-kattar": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/KATTAR_CALVIN_L_04-13.png?itok=V43gAdsr",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/KATTAR_CALVIN_L_04-13.png?itok=V43gAdsr",
     "losses": "8",
     "name": "Calvin Kattar",
     "nickname": "",
@@ -970,7 +970,7 @@
   "lerone-murphy": {
     "category": "Featherweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MURPHY_LERONE_L_10-26.png?itok=2H5Fop9_",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MURPHY_LERONE_L_10-26.png?itok=2H5Fop9_",
     "losses": "0",
     "name": "Lerone Murphy",
     "nickname": "The Miracle",
@@ -988,7 +988,7 @@
   "giga-chikadze": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CHIKADZE_GIGA_L_08_26.png?itok=7T9CSlRW",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CHIKADZE_GIGA_L_08_26.png?itok=7T9CSlRW",
     "losses": "4",
     "name": "Giga Chikadze",
     "nickname": "Ninja",
@@ -1007,7 +1007,7 @@
   "bryce-mitchell": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/MITCHELL_BRYCE_L_12-07.png?itok=KEstPdnE",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/MITCHELL_BRYCE_L_12-07.png?itok=KEstPdnE",
     "losses": "3",
     "name": "Bryce Mitchell",
     "nickname": "Thug Nasty",
@@ -1025,7 +1025,7 @@
   "dan-ige": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/IGE_DAN_L_10-26.png?itok=Zu8rUz4F",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/IGE_DAN_L_10-26.png?itok=Zu8rUz4F",
     "losses": "9",
     "name": "Dan Ige",
     "nickname": "50K",
@@ -1043,7 +1043,7 @@
   "edson-barboza": {
     "category": "Featherweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BARBOZA_EDSON_L_05-18.png?itok=YI29uL4s",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BARBOZA_EDSON_L_05-18.png?itok=YI29uL4s",
     "losses": "12",
     "name": "Edson Barboza",
     "nickname": "Junior",
@@ -1062,7 +1062,7 @@
   "arman-tsarukyan": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TSARUKYAN_ARMAN_L_04-13.png?itok=CFqxqgA9",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/TSARUKYAN_ARMAN_L_04-13.png?itok=CFqxqgA9",
     "losses": "3",
     "name": "Arman Tsarukyan",
     "nickname": "Ahalkalakets",
@@ -1081,7 +1081,7 @@
   "justin-gaethje": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/GAETHJE_JUSTIN_L_03-18.png?itok=N9O07LPQ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/GAETHJE_JUSTIN_L_03-18.png?itok=N9O07LPQ",
     "losses": "5",
     "name": "Justin Gaethje",
     "nickname": "The Highlight",
@@ -1100,7 +1100,7 @@
   "dustin-poirier": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/POIRIER_DUSTIN_L_06-01.png?itok=qZy9uS2h",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/POIRIER_DUSTIN_L_06-01.png?itok=qZy9uS2h",
     "losses": "9",
     "name": "Dustin Poirier",
     "nickname": "The Diamond",
@@ -1119,7 +1119,7 @@
   "dan-hooker": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/HOOKER_DAN_L_08-17.png?itok=szc8kBx1",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/HOOKER_DAN_L_08-17.png?itok=szc8kBx1",
     "losses": "12",
     "name": "Dan Hooker",
     "nickname": "The Hangman",
@@ -1138,7 +1138,7 @@
   "michael-chandler": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CHANDLER_MICHAEL_L_05-07.png?itok=6GY6gbNF",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CHANDLER_MICHAEL_L_05-07.png?itok=6GY6gbNF",
     "losses": "9",
     "name": "Michael Chandler",
     "nickname": "Iron",
@@ -1157,7 +1157,7 @@
   "mateusz-gamrot": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/GAMROT_MATEUSZ_L_08-17.png?itok=t7Powkmc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/GAMROT_MATEUSZ_L_08-17.png?itok=t7Powkmc",
     "losses": "3",
     "name": "Mateusz Gamrot",
     "nickname": "Gamer",
@@ -1176,7 +1176,7 @@
   "beneil-dariush": {
     "category": "Lightweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/DARIUSH_BENEIL_L_12-02.png?itok=4pa33qwe",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DARIUSH_BENEIL_L_12-02.png?itok=4pa33qwe",
     "losses": "6",
     "name": "Beneil Dariush",
     "nickname": "",
@@ -1195,7 +1195,7 @@
   "renato-moicano": {
     "category": "Lightweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MOICANO_RENATO_L_09-28.png?itok=pycfUkbx",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MOICANO_RENATO_L_09-28.png?itok=pycfUkbx",
     "losses": "5",
     "name": "Renato Moicano",
     "nickname": "",
@@ -1214,7 +1214,7 @@
   "rafael-fiziev": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/FIZIEV_RAFAEL_L_09-23.png?itok=1YumpCpy",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/FIZIEV_RAFAEL_L_09-23.png?itok=1YumpCpy",
     "losses": "3",
     "name": "Rafael Fiziev",
     "nickname": "Ataman",
@@ -1233,7 +1233,7 @@
   "benoit-saint-denis": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SAINT_DENIS_BENOIT_L_03-09.png?itok=aUHOevFI",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SAINT_DENIS_BENOIT_L_03-09.png?itok=aUHOevFI",
     "losses": "3",
     "name": "Benoît Saint Denis ",
     "nickname": "God of War",
@@ -1242,7 +1242,7 @@
     "placeOfBirth": "Nîmes, France",
     "trainsAt": "Venum Training Camp Paris",
     "fightingStyle": "MMA",
-    "age": "28",
+    "age": "29",
     "height": "71.00",
     "weight": "156.00",
     "octagonDebut": "Oct. 30, 2021",
@@ -1252,7 +1252,7 @@
   "paddy-pimblett": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/PIMBLETT_PADDY_L_07-27.png?itok=d7LKSjFS",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/PIMBLETT_PADDY_L_07-27.png?itok=d7LKSjFS",
     "losses": "3",
     "name": "Paddy Pimblett",
     "nickname": "The Baddy",
@@ -1270,7 +1270,7 @@
   "jalin-turner": {
     "category": "Lightweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TURNER_JALIN_L_04-13.png?itok=JVrlJnfc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/TURNER_JALIN_L_04-13.png?itok=JVrlJnfc",
     "losses": "8",
     "name": "Jalin Turner",
     "nickname": "The Tarantula",
@@ -1285,28 +1285,28 @@
     "reach": "77.00",
     "legReach": "46.00"
   },
-  "grant-dawson": {
+  "joel-alvarez": {
     "category": "Lightweight Division",
-    "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/DAWSON_GRANT_L_10-12.png?itok=XuvrTUSR",
-    "losses": "2",
-    "name": "Grant Dawson",
-    "nickname": "KGD",
+    "draws": "0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/ALVAREZ_JOEL_L_12-14.png?itok=lSbPpTKp",
+    "losses": "3",
+    "name": "Joel Álvarez",
+    "nickname": "El Fenomeno",
     "wins": "22",
     "status": "Active",
-    "placeOfBirth": "Cambria, United States",
-    "trainsAt": "American Top Team",
-    "age": "30",
-    "height": "70.00",
+    "placeOfBirth": "Gijón, Spain",
+    "fightingStyle": "Striker",
+    "age": "31",
+    "height": "74.00",
     "weight": "156.00",
-    "octagonDebut": "Aug. 15, 2017",
-    "reach": "72.00",
-    "legReach": "40.00"
+    "octagonDebut": "Feb. 23, 2019",
+    "reach": "77.00",
+    "legReach": "42.00"
   },
   "shavkat-rakhmonov": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/RAKHMONOV_SHAVKAT_L_12-07.png?itok=qz1e60A2",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/RAKHMONOV_SHAVKAT_L_12-07.png?itok=qz1e60A2",
     "losses": "0",
     "name": "Shavkat Rakhmonov",
     "nickname": "Nomad",
@@ -1325,7 +1325,7 @@
   "kamaru-usman": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/USMAN_KAMARU_L_10-21.png?itok=j3zLaBzD",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/USMAN_KAMARU_L_10-21.png?itok=j3zLaBzD",
     "losses": "4",
     "name": "Kamaru Usman",
     "nickname": "Nigerian Nightmare",
@@ -1344,7 +1344,7 @@
   "jack-della-maddalena": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/DELLA_MADDALENA_JACK_L_09-16.png?itok=OzIloqcX",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DELLA_MADDALENA_JACK_L_09-16.png?itok=OzIloqcX",
     "losses": "2",
     "name": "Jack Della Maddalena",
     "nickname": "",
@@ -1362,7 +1362,7 @@
   "sean-brady": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/BRADY_SEAN_L_09-07.png?itok=ZF3cuKRc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/BRADY_SEAN_L_09-07.png?itok=ZF3cuKRc",
     "losses": "1",
     "name": "Sean Brady",
     "nickname": "",
@@ -1377,29 +1377,28 @@
     "reach": "72.00",
     "legReach": "40.00"
   },
-  "colby-covington": {
+  "joaquin-buckley": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/COVINGTON_COLBY_L_12-16.png?itok=MwZp5aGE",
-    "losses": "4",
-    "name": "Colby Covington",
-    "nickname": "Chaos",
-    "wins": "17",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BUCKLEY_JOAQUIN_L_05-11.png?itok=QqDSYA0D",
+    "losses": "6",
+    "name": "Joaquin Buckley",
+    "nickname": "New Mansa",
+    "wins": "21",
     "status": "Active",
     "placeOfBirth": "United States",
-    "trainsAt": "MMA Masters - Miami, FL",
-    "fightingStyle": "Wrestling",
-    "age": "36",
-    "height": "71.00",
-    "weight": "181.00",
-    "octagonDebut": "Aug. 23, 2014",
-    "reach": "72.00",
-    "legReach": "41.00"
+    "fightingStyle": "Freestyle",
+    "age": "30",
+    "height": "70.00",
+    "weight": "171.00",
+    "octagonDebut": "Aug. 8, 2020",
+    "reach": "76.00",
+    "legReach": "40.00"
   },
   "ian-garry": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/GARRY_IAN_L_06-29.png?itok=FLNIt1Ky",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/GARRY_IAN_L_06-29.png?itok=FLNIt1Ky",
     "losses": "1",
     "name": "Ian Machado Garry",
     "nickname": "The Future",
@@ -1417,7 +1416,7 @@
   "gilbert-burns": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BURNS_GILBERT_L_09-07.png?itok=H-k1HDy6",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BURNS_GILBERT_L_09-07.png?itok=H-k1HDy6",
     "losses": "8",
     "name": "Gilbert Burns",
     "nickname": "Durinho",
@@ -1433,28 +1432,29 @@
     "reach": "71.00",
     "legReach": "40.00"
   },
-  "joaquin-buckley": {
+  "colby-covington": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BUCKLEY_JOAQUIN_L_05-11.png?itok=QqDSYA0D",
-    "losses": "6",
-    "name": "Joaquin Buckley",
-    "nickname": "New Mansa",
-    "wins": "20",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/COVINGTON_COLBY_L_12-14.png?itok=8QZ58sz9",
+    "losses": "5",
+    "name": "Colby Covington",
+    "nickname": "Chaos",
+    "wins": "17",
     "status": "Active",
     "placeOfBirth": "United States",
-    "fightingStyle": "Freestyle",
-    "age": "30",
-    "height": "70.00",
-    "weight": "180.00",
-    "octagonDebut": "Aug. 8, 2020",
-    "reach": "76.00",
-    "legReach": "40.00"
+    "trainsAt": "MMA Masters - Miami, FL",
+    "fightingStyle": "Wrestling",
+    "age": "36",
+    "height": "71.00",
+    "weight": "171.00",
+    "octagonDebut": "Aug. 23, 2014",
+    "reach": "72.00",
+    "legReach": "41.00"
   },
   "geoff-neal": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/NEAL_GEOFF_L_10-26.png?itok=ArU3ewqF",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/NEAL_GEOFF_L_10-26.png?itok=ArU3ewqF",
     "losses": "6",
     "name": "Geoff Neal",
     "nickname": "Handz of Steel",
@@ -1473,7 +1473,7 @@
   "stephen-thompson": {
     "category": "Welterweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/THOMPSON_STEPHEN_L_10-05.png?itok=ch3XR-Wj",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/THOMPSON_STEPHEN_L_10-05.png?itok=ch3XR-Wj",
     "losses": "8",
     "name": "Stephen Thompson",
     "nickname": "Wonderboy",
@@ -1492,7 +1492,7 @@
   "michael-morales": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MORALES_MICHAEL_L_08-24.png?itok=P9QYViyg",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MORALES_MICHAEL_L_08-24.png?itok=P9QYViyg",
     "losses": "0",
     "name": "Michael Morales",
     "nickname": "",
@@ -1510,7 +1510,7 @@
   "carlos-prates": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-08/PRATES_CARLOS_L_08-17.png?itok=nS-EfWwt",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/PRATES_CARLOS_L_08-17.png?itok=nS-EfWwt",
     "losses": "6",
     "name": "Carlos Prates",
     "nickname": "The Nightmare",
@@ -1529,7 +1529,7 @@
   "vicente-luque": {
     "category": "Welterweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/LUQUE_VICENTE_L_12-07.png?itok=-bWco3lh",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/LUQUE_VICENTE_L_12-07.png?itok=-bWco3lh",
     "losses": "10",
     "name": "Vicente Luque",
     "nickname": "The Silent Assassin",
@@ -1548,7 +1548,7 @@
   "michael-page": {
     "category": "Welterweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-03/PAGE_MICHAEL_L_03-09.png?itok=XqoQbGfO",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-03/PAGE_MICHAEL_L_03-09.png?itok=XqoQbGfO",
     "losses": "3",
     "name": "Michael Page",
     "nickname": "Venom",
@@ -1564,7 +1564,7 @@
   "israel-adesanya": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ADESANYA_ISRAEL_L_04-08.png?itok=lRDDtxci",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ADESANYA_ISRAEL_L_04-08.png?itok=lRDDtxci",
     "losses": "4",
     "name": "Israel Adesanya",
     "nickname": "The Last Stylebender",
@@ -1583,7 +1583,7 @@
   "khamzat-chimaev": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2021-11/71660%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIMAEV_KHAMZAT_L_10-30.png?itok=V9OsChbC",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2021-11/71660%252Fprofile-galery%252Ffullbodyleft-picture%252FCHIMAEV_KHAMZAT_L_10-30.png?itok=V9OsChbC",
     "losses": "0",
     "name": "Khamzat Chimaev",
     "nickname": "Borz",
@@ -1599,7 +1599,7 @@
   "robert-whittaker": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/WHITTAKER_ROBERT_L_10-26.png?itok=DaJBUSMN",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/WHITTAKER_ROBERT_L_10-26.png?itok=DaJBUSMN",
     "losses": "8",
     "name": "Robert Whittaker",
     "nickname": "The Reaper",
@@ -1618,7 +1618,7 @@
   "nassourdine-imavov": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/IMAVOV_NASSOURDINE_L_09-28.png?itok=tNMJ_VJc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/IMAVOV_NASSOURDINE_L_09-28.png?itok=tNMJ_VJc",
     "losses": "4",
     "name": "Nassourdine Imavov",
     "nickname": "The Sniper",
@@ -1637,7 +1637,7 @@
   "caio-borralho": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BORRALHO_CAIO_L_08-24.png?itok=9yu6t7Pb",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BORRALHO_CAIO_L_08-24.png?itok=9yu6t7Pb",
     "losses": "1",
     "name": "Caio Borralho",
     "nickname": "The Natural",
@@ -1656,7 +1656,7 @@
   "marvin-vettori": {
     "category": "Middleweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/VETTORI_MARVIN_L_06-17.png?itok=CoQM2Zp8",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/VETTORI_MARVIN_L_06-17.png?itok=CoQM2Zp8",
     "losses": "7",
     "name": "Marvin Vettori",
     "nickname": "The Italian Dream",
@@ -1675,7 +1675,7 @@
   "jared-cannonier": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CANNONIER_JARED_L_08-24.png?itok=tAhdQnXG",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CANNONIER_JARED_L_08-24.png?itok=tAhdQnXG",
     "losses": "8",
     "name": "Jared Cannonier",
     "nickname": "Tha Killa Gorilla",
@@ -1694,7 +1694,7 @@
   "brendan-allen": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ALLEN_BRENDAN_L_04-06.png?itok=7BIhOU1_",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ALLEN_BRENDAN_L_04-06.png?itok=7BIhOU1_",
     "losses": "6",
     "name": "Brendan Allen",
     "nickname": "All In",
@@ -1713,7 +1713,7 @@
   "roman-dolidze": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/DOLIDZE_ROMAN_L_10-05.png?itok=uEbykLBF",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/DOLIDZE_ROMAN_L_10-05.png?itok=uEbykLBF",
     "losses": "3",
     "name": "Roman Dolidze",
     "nickname": "",
@@ -1732,7 +1732,7 @@
   "paulo-costa": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/COSTA_PAULO_L_06-01.png?itok=scZ9iIbf",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/COSTA_PAULO_L_06-01.png?itok=scZ9iIbf",
     "losses": "4",
     "name": "Paulo Costa",
     "nickname": "The Eraser",
@@ -1751,7 +1751,7 @@
   "jack-hermansson": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/HERMANSSON_JACK_L_02-10.png?itok=7XgG9pfA",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/HERMANSSON_JACK_L_02-10.png?itok=7XgG9pfA",
     "losses": "8",
     "name": "Jack Hermansson",
     "nickname": "The Joker",
@@ -1770,7 +1770,7 @@
   "anthony-hernandez": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/15/HERNANDEZ_ANTHONY_L_10-19.png?itok=biwsciNP",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/15/HERNANDEZ_ANTHONY_L_10-19.png?itok=biwsciNP",
     "losses": "2",
     "name": "Anthony Hernandez",
     "nickname": "Fluffy",
@@ -1789,7 +1789,7 @@
   "shara-magomedov": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MAGOMEDOV_SHARA_L_10-26.png?itok=g5Uu5DJo",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MAGOMEDOV_SHARA_L_10-26.png?itok=g5Uu5DJo",
     "losses": "0",
     "name": "Shara Magomedov",
     "nickname": "Bullet",
@@ -1806,7 +1806,7 @@
   "michel-pereira": {
     "category": "Middleweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/PEREIRA_MICHEL_L_10-19.png?itok=IgzP-YkC",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/PEREIRA_MICHEL_L_10-19.png?itok=IgzP-YkC",
     "losses": "12",
     "name": "Michel Pereira",
     "nickname": "Demolidor",
@@ -1825,7 +1825,7 @@
   "magomed-ankalaev": {
     "category": "Light Heavyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ANKALAEV_MAGOMED_L_10-26.png?itok=J9RN-0Fc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ANKALAEV_MAGOMED_L_10-26.png?itok=J9RN-0Fc",
     "losses": "1",
     "name": "Magomed Ankalaev",
     "nickname": "",
@@ -1843,7 +1843,7 @@
   "jiri-prochazka": {
     "category": "Light Heavyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/PROCHAZKA_JIRI_L_06-29-1.png?itok=zO8sRib_",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/PROCHAZKA_JIRI_L_06-29-1.png?itok=zO8sRib_",
     "losses": "5",
     "name": "Jiří Procházka ",
     "nickname": "",
@@ -1862,7 +1862,7 @@
   "jamahal-hill": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/HILL_JAMAHAL_L_04-13.png?itok=eU7rvHCL",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/HILL_JAMAHAL_L_04-13.png?itok=eU7rvHCL",
     "losses": "2",
     "name": "Jamahal Hill",
     "nickname": "Sweet Dreams",
@@ -1880,7 +1880,7 @@
   "jan-blachowicz": {
     "category": "Light Heavyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BLACHOWICZ_JAN_L_05-14.png?itok=PhWU7qEh",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BLACHOWICZ_JAN_L_05-14.png?itok=PhWU7qEh",
     "losses": "10",
     "name": "Jan Błachowicz",
     "nickname": "",
@@ -1899,7 +1899,7 @@
   "aleksandar-rakic": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/RAKIC_ALEKSANDAR_L_10-26.png?itok=A23XTWwc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/RAKIC_ALEKSANDAR_L_10-26.png?itok=A23XTWwc",
     "losses": "5",
     "name": "Aleksandar Rakić",
     "nickname": "Rocket",
@@ -1918,7 +1918,7 @@
   "carlos-ulberg": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ULBERG_CARLOS_L_05-11.png?itok=M6KPVJ9U",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ULBERG_CARLOS_L_05-11.png?itok=M6KPVJ9U",
     "losses": "1",
     "name": "Carlos Ulberg",
     "nickname": "Black Jag",
@@ -1937,7 +1937,7 @@
   "khalil-rountree-jr": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ROUNTREE_KHALIL_L_12-09.png?itok=aL9VJ_vl",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ROUNTREE_KHALIL_L_12-09.png?itok=aL9VJ_vl",
     "losses": "6",
     "name": "Khalil Rountree Jr.",
     "nickname": "",
@@ -1956,7 +1956,7 @@
   "nikita-krylov": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/KRYLOV_NIKITA_L_03-11.png?itok=OVFPb78j",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/KRYLOV_NIKITA_L_03-11.png?itok=OVFPb78j",
     "losses": "9",
     "name": "Nikita Krylov",
     "nickname": "The Miner",
@@ -1974,7 +1974,7 @@
   "volkan-oezdemir": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/OEZDEMIR_VOLKAN_L_11-23.png?itok=bmzflmIW",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/OEZDEMIR_VOLKAN_L_11-23.png?itok=bmzflmIW",
     "losses": "8",
     "name": "Volkan Oezdemir",
     "nickname": "No Time",
@@ -1993,7 +1993,7 @@
   "johnny-walker": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/WALKER_JOHNNY_L_06-22.png?itok=OW30XM29",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/WALKER_JOHNNY_L_06-22.png?itok=OW30XM29",
     "losses": "9",
     "name": "Johnny Walker",
     "nickname": "",
@@ -2012,7 +2012,7 @@
   "dominick-reyes": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/REYES_DOMINICK_L_12-07.png?itok=VNk7-Pa4",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/REYES_DOMINICK_L_12-07.png?itok=VNk7-Pa4",
     "losses": "4",
     "name": "Dominick Reyes",
     "nickname": "The Devastator",
@@ -2031,7 +2031,7 @@
   "azamat-murzakanov": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MURZAKANOV_AZAMAT_L_08-03.png?itok=HvI9si7N",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MURZAKANOV_AZAMAT_L_08-03.png?itok=HvI9si7N",
     "losses": "0",
     "name": "Azamat Murzakanov",
     "nickname": "Professional",
@@ -2049,7 +2049,7 @@
   "bogdan-guskov": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/GUSKOV_BOGDAN_R_04-27.png?itok=v67JBB7r",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/GUSKOV_BOGDAN_R_04-27.png?itok=v67JBB7r",
     "losses": "3",
     "name": "Bogdan Guskov",
     "nickname": "Czarevitch",
@@ -2067,7 +2067,7 @@
   "anthony-smith": {
     "category": "Light Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SMITH_ANTHONY_L_06-29.png?itok=tg2DnjCp",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SMITH_ANTHONY_L_06-29.png?itok=tg2DnjCp",
     "losses": "21",
     "name": "Anthony Smith",
     "nickname": "Lionheart",
@@ -2086,7 +2086,7 @@
   "alonzo-menifield": {
     "category": "Light Heavyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/MENIFIELD_ALONZO_L_05-11.png?itok=UsPe2l_t",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/MENIFIELD_ALONZO_L_05-11.png?itok=UsPe2l_t",
     "losses": "5",
     "name": "Alonzo Menifield",
     "nickname": "Atomic",
@@ -2104,7 +2104,7 @@
   "ciryl-gane": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-12/GANE_CIRYL_L_12-07.png?itok=z5HtrXc3",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/GANE_CIRYL_L_12-07.png?itok=z5HtrXc3",
     "losses": "2",
     "name": "Ciryl Gane",
     "nickname": "Bon Gamin",
@@ -2123,7 +2123,7 @@
   "alexander-volkov": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/VOLKOV_ALEXANDER_L_06-22.png?itok=xYC2DPgd",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/VOLKOV_ALEXANDER_L_06-22.png?itok=xYC2DPgd",
     "losses": "11",
     "name": "Alexander Volkov",
     "nickname": "Drago",
@@ -2142,7 +2142,7 @@
   "sergei-pavlovich": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/PAVLOVICH_SERGEI_L_06-22.png?itok=WUO8LH-v",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/PAVLOVICH_SERGEI_L_06-22.png?itok=WUO8LH-v",
     "losses": "3",
     "name": "Sergei Pavlovich",
     "nickname": "",
@@ -2160,7 +2160,7 @@
   "curtis-blaydes": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BLAYDES_CURTIS_L_07-27.png?itok=mUOpMJM_",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BLAYDES_CURTIS_L_07-27.png?itok=mUOpMJM_",
     "losses": "5",
     "name": "Curtis Blaydes",
     "nickname": "Razor",
@@ -2179,7 +2179,7 @@
   "jailton-almeida": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ALMEIDA_JAILTON_L_06-01.png?itok=ZitrJRe1",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ALMEIDA_JAILTON_L_06-01.png?itok=ZitrJRe1",
     "losses": "3",
     "name": "Jailton Almeida",
     "nickname": "Malhadinho",
@@ -2197,7 +2197,7 @@
   "serghei-spivac": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2022-03/7976d658-43f8-4c33-9ae0-4ec3b8a2403d%252FSPIVAC_SERGHEI_L_03-05.png?itok=EsTn-tdo",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2022-03/7976d658-43f8-4c33-9ae0-4ec3b8a2403d%252FSPIVAC_SERGHEI_L_03-05.png?itok=EsTn-tdo",
     "losses": "4",
     "name": "Serghei Spivac",
     "nickname": "Polar Bear",
@@ -2216,7 +2216,7 @@
   "marcin-tybura": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/TYBURA_MARCIN_L_11-16.png?itok=ZtXPvX7-",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/TYBURA_MARCIN_L_11-16.png?itok=ZtXPvX7-",
     "losses": "9",
     "name": "Marcin Tybura",
     "nickname": "Tybur",
@@ -2235,7 +2235,7 @@
   "jairzinho-rozenstruik": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ROZENSTRUIK_JAIRZINHO_L_08-17.png?itok=kbdYYsjy",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ROZENSTRUIK_JAIRZINHO_L_08-17.png?itok=kbdYYsjy",
     "losses": "5",
     "name": "Jairzinho Rozenstruik",
     "nickname": "Bigi Boy",
@@ -2254,7 +2254,7 @@
   "derrick-lewis": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/LEWIS_DERRICK_L_11-02.png?itok=js-OQrbX",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/LEWIS_DERRICK_L_11-02.png?itok=js-OQrbX",
     "losses": "12",
     "name": "Derrick Lewis",
     "nickname": "The Black Beast",
@@ -2273,7 +2273,7 @@
   "tai-tuivasa": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TUIVASA_TAI_L_08-17.png?itok=8yb7GtKy",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/TUIVASA_TAI_L_08-17.png?itok=8yb7GtKy",
     "losses": "8",
     "name": "Tai Tuivasa",
     "nickname": "Bam Bam",
@@ -2291,7 +2291,7 @@
   "marcos-rogerio-de-lima": {
     "category": "Heavyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ROGERIO%20DE%20LIMA_MARCOS_L_02-17.png?itok=SSbacfe6",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ROGERIO%20DE%20LIMA_MARCOS_L_02-17.png?itok=SSbacfe6",
     "losses": "10",
     "name": "Marcos Rogerio de Lima",
     "nickname": "Pezao",
@@ -2310,7 +2310,7 @@
   "waldo-cortes-acosta": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/CORTES-ACOSTA_WALDO_L_05-11.png?itok=0X76ZfdF",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/CORTES-ACOSTA_WALDO_L_05-11.png?itok=0X76ZfdF",
     "losses": "1",
     "name": "Waldo Cortes Acosta",
     "nickname": "Salsa Boy",
@@ -2328,7 +2328,7 @@
   "shamil-gaziev": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-08/GAZIEV_SHAMIL_L_08-03.png?itok=YSewT41m",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/GAZIEV_SHAMIL_L_08-03.png?itok=YSewT41m",
     "losses": "1",
     "name": "Shamil Gaziev",
     "nickname": "",
@@ -2346,7 +2346,7 @@
   "mick-parkin": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-07/PARKIN_MICK_L_07-27.png?itok=SgbXMGda",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-07/PARKIN_MICK_L_07-27.png?itok=SgbXMGda",
     "losses": "0",
     "name": "Mick Parkin",
     "nickname": "",
@@ -2365,7 +2365,7 @@
   "valentina-shevchenko": {
     "category": "Women's Flyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SHEVCHENKO_VALENTINA_L_BELT_03-05.png?itok=Q1hdmXPZ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SHEVCHENKO_VALENTINA_L_BELT_03-05.png?itok=Q1hdmXPZ",
     "losses": "4",
     "name": "Valentina Shevchenko",
     "nickname": "Bullet",
@@ -2384,7 +2384,7 @@
   "weili-zhang": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/WEILI_ZHANG_L_BELT_04-13.png?itok=jkwmRfwy",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/WEILI_ZHANG_L_BELT_04-13.png?itok=jkwmRfwy",
     "losses": "3",
     "name": "Zhang Weili",
     "nickname": "Magnum",
@@ -2402,7 +2402,7 @@
   "alexa-grasso": {
     "category": "Women's Flyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/GRASSO_ALEXA_L_03-05.png?itok=gOlVUX6N",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/GRASSO_ALEXA_L_03-05.png?itok=gOlVUX6N",
     "losses": "4",
     "name": "Alexa Grasso",
     "nickname": "",
@@ -2421,7 +2421,7 @@
   "julianna-pena": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/PENA_JULIANNA_L_BELT_07-30.png?itok=scwJAL44",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/PENA_JULIANNA_L_BELT_07-30.png?itok=scwJAL44",
     "losses": "5",
     "name": "Julianna Peña",
     "nickname": "The Venezuelan Vixen",
@@ -2439,7 +2439,7 @@
   "manon-fiorot": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/FIOROT_MANON_L_3-30.png?itok=wIblg6Wz",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/FIOROT_MANON_L_3-30.png?itok=wIblg6Wz",
     "losses": "1",
     "name": "Manon Fiorot",
     "nickname": "The Beast",
@@ -2457,7 +2457,7 @@
   "erin-blanchfield": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/BLANCHFIELD_ERIN_L_11-02.png?itok=nGxWeo_5",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/BLANCHFIELD_ERIN_L_11-02.png?itok=nGxWeo_5",
     "losses": "2",
     "name": "Erin Blanchfield",
     "nickname": "Cold Blooded",
@@ -2475,7 +2475,7 @@
   "kayla-harrison": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/HARRISON_KAYLA_L_04-13.png?itok=GReSSv7D",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/HARRISON_KAYLA_L_04-13.png?itok=GReSSv7D",
     "losses": "1",
     "name": "Kayla Harrison",
     "nickname": "",
@@ -2493,7 +2493,7 @@
   "rose-namajunas": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/NAMAJUNAS_ROSE_L_07-13.png?itok=fEY7XpDC",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/NAMAJUNAS_ROSE_L_07-13.png?itok=fEY7XpDC",
     "losses": "7",
     "name": "Rose Namajunas",
     "nickname": "Thug",
@@ -2512,7 +2512,7 @@
   "raquel-pennington": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/PENNINGTON_RAQUEL_L_01-20.png?itok=d8KSkx9r",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/PENNINGTON_RAQUEL_L_01-20.png?itok=d8KSkx9r",
     "losses": "10",
     "name": "Raquel Pennington",
     "nickname": "Rocky",
@@ -2531,7 +2531,7 @@
   "tatiana-suarez": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SAUREZ_TATIANA_L_02-25.png?itok=cVm9MSbZ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SAUREZ_TATIANA_L_02-25.png?itok=cVm9MSbZ",
     "losses": "0",
     "name": "Tatiana Suarez",
     "nickname": "",
@@ -2550,7 +2550,7 @@
   "xiaonan-yan": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/XIAONAN_YAN_L_11-23.png?itok=zUIX8hAu",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/XIAONAN_YAN_L_11-23.png?itok=zUIX8hAu",
     "losses": "4",
     "name": "Yan Xiaonan",
     "nickname": "",
@@ -2569,7 +2569,7 @@
   "virna-jandiroba": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/JANDIROBA_VIRNA_L_03-30.png?itok=8pUVqGcD",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/JANDIROBA_VIRNA_L_03-30.png?itok=8pUVqGcD",
     "losses": "3",
     "name": "Virna Jandiroba",
     "nickname": "Carcara",
@@ -2587,7 +2587,7 @@
   "jessica-andrade": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ANDRADE_JESSICA_L_09-07.png?itok=UOZgOimn",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ANDRADE_JESSICA_L_09-07.png?itok=UOZgOimn",
     "losses": "13",
     "name": "Jéssica Andrade ",
     "nickname": "Bate Estaca",
@@ -2606,7 +2606,7 @@
   "natalia-silva": {
     "category": "Women's Flyweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/SILVA_NATALIA_L_09-07.png?itok=rhGJUI-n",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/SILVA_NATALIA_L_09-07.png?itok=rhGJUI-n",
     "losses": "5",
     "name": "Natalia Silva",
     "nickname": "",
@@ -2625,7 +2625,7 @@
   "maycee-barber": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BARBER_MAYCEE_L_03-09.png?itok=uV26-yng",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BARBER_MAYCEE_L_03-09.png?itok=uV26-yng",
     "losses": "2",
     "name": "Maycee Barber",
     "nickname": "The Future",
@@ -2644,7 +2644,7 @@
   "amanda-lemos": {
     "category": "Women's Strawweight Division",
     "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/LEMOS_AMANDA_L_07-20.png?itok=XeTIAT_V",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/LEMOS_AMANDA_L_07-20.png?itok=XeTIAT_V",
     "losses": "4",
     "name": "Amanda Lemos",
     "nickname": "",
@@ -2663,7 +2663,7 @@
   "mackenzie-dern": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/DERN_MACKENZIE_L_08-03.png?itok=7MptkMFK",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DERN_MACKENZIE_L_08-03.png?itok=7MptkMFK",
     "losses": "5",
     "name": "Mackenzie Dern",
     "nickname": "",
@@ -2682,7 +2682,7 @@
   "iasmin-lucindo": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/LUCINDO_IASMIN_L_04-22.png?itok=TgVbxs3h",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/LUCINDO_IASMIN_L_04-22.png?itok=TgVbxs3h",
     "losses": "5",
     "name": "Iasmin Lucindo",
     "nickname": "",
@@ -2700,7 +2700,7 @@
   "amanda-ribas": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/RIBAS_AMANDA_L_03-2.png?itok=ngNq-djF",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/RIBAS_AMANDA_L_03-2.png?itok=ngNq-djF",
     "losses": "5",
     "name": "Amanda Ribas",
     "nickname": "",
@@ -2718,7 +2718,7 @@
   "marina-rodriguez": {
     "category": "Women's Strawweight Division",
     "draws": "2",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/RODRIGUEZ_MARINA_L_10-05.png?itok=MYCZpmSE",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/RODRIGUEZ_MARINA_L_10-05.png?itok=MYCZpmSE",
     "losses": "5",
     "name": "Marina Rodriguez",
     "nickname": "",
@@ -2736,7 +2736,7 @@
   "tabatha-ricci": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/RICCI_TABATHA_L_08-24.png?itok=s2e50QgV",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/RICCI_TABATHA_L_08-24.png?itok=s2e50QgV",
     "losses": "3",
     "name": "Tabatha Ricci",
     "nickname": "Baby Shark",
@@ -2754,7 +2754,7 @@
   "loopy-godinez": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/GODINEZ_LOOPY_L_09-16.png?itok=tc1tQVp1",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/GODINEZ_LOOPY_L_09-16.png?itok=tc1tQVp1",
     "losses": "5",
     "name": "Loopy Godinez",
     "nickname": "",
@@ -2771,7 +2771,7 @@
   "gillian-robertson": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ROBERTSON_GILLIAN_L_01-20.png?itok=MLrNgbCv",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ROBERTSON_GILLIAN_L_01-20.png?itok=MLrNgbCv",
     "losses": "8",
     "name": "Gillian Robertson",
     "nickname": "The Savage",
@@ -2789,7 +2789,7 @@
   "angela-hill": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/HILL_ANGELA_L_08-24.png?itok=z5T-O8jT",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/HILL_ANGELA_L_08-24.png?itok=z5T-O8jT",
     "losses": "14",
     "name": "Angela Hill",
     "nickname": "Overkill",
@@ -2807,7 +2807,7 @@
   "luana-pinheiro": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/PINHEIRO_LUANA_L_11-09.png?itok=Qc_t-EzV",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/PINHEIRO_LUANA_L_11-09.png?itok=Qc_t-EzV",
     "losses": "4",
     "name": "Luana Pinheiro",
     "nickname": "",
@@ -2825,7 +2825,7 @@
   "tecia-pennington": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/PENNINGTON_TECIA_L_05-11.png?itok=XhE-8n-p",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/PENNINGTON_TECIA_L_05-11.png?itok=XhE-8n-p",
     "losses": "7",
     "name": "Tecia Pennington",
     "nickname": "Tiny Tornado",
@@ -2844,7 +2844,7 @@
   "katlyn-cerminara": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CERMINARA_KATLYN_L_03-09.png?itok=bx0zZk_k",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CERMINARA_KATLYN_L_03-09.png?itok=bx0zZk_k",
     "losses": "6",
     "name": "Katlyn Cerminara",
     "nickname": "Blonde Fighter",
@@ -2863,7 +2863,7 @@
   "viviane-araujo": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-11/ARAUJO_VIVIANE_L_11-16.png?itok=JRfN4rUc",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-11/ARAUJO_VIVIANE_L_11-16.png?itok=JRfN4rUc",
     "losses": "6",
     "name": "Viviane Araújo",
     "nickname": "Vivi",
@@ -2881,7 +2881,7 @@
   "tracy-cortez": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CORTEZ_TRACY_L_07-13.png?itok=MXHKPYdI",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CORTEZ_TRACY_L_07-13.png?itok=MXHKPYdI",
     "losses": "2",
     "name": "Tracy Cortez",
     "nickname": "",
@@ -2896,29 +2896,10 @@
     "reach": "65.50",
     "legReach": "38.50"
   },
-  "karine-silva": {
-    "category": "Women's Flyweight Division",
-    "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SILVA_KARINE_L_08-19.png?itok=kcbVHJ8r",
-    "losses": "5",
-    "name": "Karine Silva",
-    "nickname": "Killer",
-    "wins": "18",
-    "status": "Active",
-    "placeOfBirth": "Dourados, Brazil",
-    "trainsAt": "Gile Ribeiro - Curitiba, Brazil",
-    "fightingStyle": "Brazilian Jiu-Jitsu",
-    "age": "31",
-    "height": "65.00",
-    "weight": "125.80",
-    "octagonDebut": "Jun. 4, 2022",
-    "reach": "67.00",
-    "legReach": "37.00"
-  },
   "jasmine-jasudavicius": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/JASUDAVICIUS_JASMINE_L_07-13.png?itok=TfV-azRC",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/JASUDAVICIUS_JASMINE_L_07-13.png?itok=TfV-azRC",
     "losses": "3",
     "name": "Jasmine Jasudavicius",
     "nickname": "",
@@ -2934,10 +2915,29 @@
     "reach": "68.00",
     "legReach": "38.00"
   },
+  "karine-silva": {
+    "category": "Women's Flyweight Division",
+    "draws": "0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SILVA_KARINE_L_08-19.png?itok=kcbVHJ8r",
+    "losses": "5",
+    "name": "Karine Silva",
+    "nickname": "Killer",
+    "wins": "18",
+    "status": "Active",
+    "placeOfBirth": "Dourados, Brazil",
+    "trainsAt": "Gile Ribeiro - Curitiba, Brazil",
+    "fightingStyle": "Brazilian Jiu-Jitsu",
+    "age": "31",
+    "height": "65.00",
+    "weight": "125.80",
+    "octagonDebut": "Jun. 4, 2022",
+    "reach": "67.00",
+    "legReach": "37.00"
+  },
   "ariane-lipski": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/DA_SILVA_ARIANE_L_11-02.png?itok=-oiLnOn5",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/DA_SILVA_ARIANE_L_11-02.png?itok=-oiLnOn5",
     "losses": "10",
     "name": "Ariane da Silva ",
     "nickname": "The Queen",
@@ -2952,28 +2952,29 @@
     "reach": "67.00",
     "legReach": "38.50"
   },
-  "casey-oneill": {
+  "miranda-maverick": {
     "category": "Women's Flyweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ONEILL_CASEY_L_08-17.png?itok=G3lQIzld",
-    "losses": "2",
-    "name": "Casey O'Neill",
-    "nickname": "King",
-    "wins": "10",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-12/MAVERICK_MIRANDA_L_12-14.png?itok=LjwZliXJ",
+    "losses": "5",
+    "name": "Miranda Maverick",
+    "nickname": "Fear The",
+    "wins": "17",
     "status": "Active",
-    "placeOfBirth": "Irvine, Scotland",
-    "fightingStyle": "MMA",
+    "placeOfBirth": "Jefferson City, United States",
+    "trainsAt": "Pound 4 Pound Muay Thai & Easton Training Center Denver",
+    "fightingStyle": "Jiu-Jitsu",
     "age": "27",
-    "height": "66.00",
-    "weight": "125.50",
-    "octagonDebut": "Feb. 20, 2021",
-    "reach": "69.00",
-    "legReach": "37.00"
+    "height": "63.50",
+    "weight": "126.00",
+    "octagonDebut": "Jun. 27, 2020",
+    "reach": "65.50",
+    "legReach": "38.00"
   },
   "ketlen-vieira": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/3/VIEIRA_KETLEN_L_10-05.png?itok=z-Hw7nY8",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/3/VIEIRA_KETLEN_L_10-05.png?itok=z-Hw7nY8",
     "losses": "4",
     "name": "Ketlen Vieira",
     "nickname": "Fenomeno",
@@ -2988,10 +2989,27 @@
     "reach": "68.00",
     "legReach": "39.50"
   },
+  "norma-dumont": {
+    "category": "Women's Bantamweight Division",
+    "draws": "0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DUMONT_NORMA_L_04-06.png?itok=tJe5uQXj",
+    "losses": "2",
+    "name": "Norma Dumont",
+    "nickname": "The Immortal",
+    "wins": "12",
+    "status": "Active",
+    "placeOfBirth": "Belo Horizonte, Brazil",
+    "age": "34",
+    "height": "67.00",
+    "weight": "136.00",
+    "octagonDebut": "Feb. 29, 2020",
+    "reach": "67.00",
+    "legReach": "38.50"
+  },
   "macy-chiasson": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CHIASSON_MACY_L_06-29.png?itok=uyKtLgbV",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CHIASSON_MACY_L_06-29.png?itok=uyKtLgbV",
     "losses": "3",
     "name": "Macy Chiasson",
     "nickname": "",
@@ -3007,45 +3025,10 @@
     "reach": "72.00",
     "legReach": "42.00"
   },
-  "norma-dumont": {
-    "category": "Women's Bantamweight Division",
-    "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/DUMONT_NORMA_L_04-06.png?itok=tJe5uQXj",
-    "losses": "2",
-    "name": "Norma Dumont",
-    "nickname": "The Immortal",
-    "wins": "12",
-    "status": "Active",
-    "placeOfBirth": "Belo Horizonte, Brazil",
-    "age": "34",
-    "height": "67.00",
-    "weight": "136.00",
-    "octagonDebut": "Feb. 29, 2020",
-    "reach": "67.00",
-    "legReach": "38.50"
-  },
-  "mayra-bueno-silva": {
-    "category": "Women's Flyweight Division",
-    "draws": "1",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/BUENO_SILVA_MAYRA_L_06-29.png?itok=MFw_cCCE",
-    "losses": "4",
-    "name": "Mayra Bueno Silva",
-    "nickname": "Sheetara",
-    "wins": "10",
-    "status": "Active",
-    "placeOfBirth": "Uberlândia, Brazil",
-    "fightingStyle": "Striker",
-    "age": "33",
-    "height": "66.00",
-    "weight": "136.00",
-    "octagonDebut": "Sep. 23, 2018",
-    "reach": "66.50",
-    "legReach": "39.00"
-  },
   "irene-aldana": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ALDANA_IRENE_L_09-14.png?itok=Ski5zwxY",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ALDANA_IRENE_L_09-14.png?itok=Ski5zwxY",
     "losses": "8",
     "name": "Irene Aldana",
     "nickname": "",
@@ -3060,10 +3043,28 @@
     "reach": "68.50",
     "legReach": "38.50"
   },
+  "mayra-bueno-silva": {
+    "category": "Women's Flyweight Division",
+    "draws": "1",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BUENO_SILVA_MAYRA_L_06-29.png?itok=MFw_cCCE",
+    "losses": "4",
+    "name": "Mayra Bueno Silva",
+    "nickname": "Sheetara",
+    "wins": "10",
+    "status": "Active",
+    "placeOfBirth": "Uberlândia, Brazil",
+    "fightingStyle": "Striker",
+    "age": "33",
+    "height": "66.00",
+    "weight": "136.00",
+    "octagonDebut": "Sep. 23, 2018",
+    "reach": "66.50",
+    "legReach": "39.00"
+  },
   "holly-holm": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/HOLM_HOLLY_L_04-13.png?itok=bfoJgNbf",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/HOLM_HOLLY_L_04-13.png?itok=bfoJgNbf",
     "losses": "7",
     "name": "Holly Holm",
     "nickname": "The Preacher's Daughter",
@@ -3082,7 +3083,7 @@
   "karol-rosa": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/ROSA_KAROL_L_08-10.png?itok=jsFnKmsZ",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/ROSA_KAROL_L_08-10.png?itok=jsFnKmsZ",
     "losses": "6",
     "name": "Karol Rosa",
     "nickname": "",
@@ -3100,7 +3101,7 @@
   "yana-santos": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/SANTOS_YANA_L_08-10.png?itok=B4Id_M4h",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/SANTOS_YANA_L_08-10.png?itok=B4Id_M4h",
     "losses": "8",
     "name": "Yana Santos",
     "nickname": "",
@@ -3119,7 +3120,7 @@
   "miesha-tate": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/TATE_MIESHA_L_12-02.png?itok=x7xFWUYG",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/TATE_MIESHA_L_12-02.png?itok=x7xFWUYG",
     "losses": "9",
     "name": "Miesha Tate",
     "nickname": "Cupcake",
@@ -3138,7 +3139,7 @@
   "julia-avila": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/AVILA_JULIA_L_12-02.png?itok=_4cpzSAq",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/AVILA_JULIA_L_12-02.png?itok=_4cpzSAq",
     "losses": "3",
     "name": "Julia Avila",
     "nickname": "Raging Panda",
@@ -3155,7 +3156,7 @@
   "ailin-perez": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/PEREZ_AILIN_L_09-28.png?itok=vrxVIH9G",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/PEREZ_AILIN_L_09-28.png?itok=vrxVIH9G",
     "losses": "2",
     "name": "Ailin Perez",
     "nickname": "Fiona",
@@ -3174,7 +3175,7 @@
   "jacqueline-cavalcanti": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-08/CAVALCANTI_JACQUELINE_L_08-24.png?itok=T6Zw3ukp",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-08/CAVALCANTI_JACQUELINE_L_08-24.png?itok=T6Zw3ukp",
     "losses": "1",
     "name": "Jacqueline Cavalcanti",
     "nickname": "",
@@ -3193,7 +3194,7 @@
   "chelsea-chandler": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
-    "imgUrl": "https://dmxg5wxfqgb4u.cloudfront.net/styles/athlete_bio_full_body/s3/2024-10/2/CHANDLER_CHELSEA_L_03-16.png?itok=u-1V4l3v",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/CHANDLER_CHELSEA_L_03-16.png?itok=u-1V4l3v",
     "losses": "3",
     "name": "Chelsea Chandler",
     "nickname": "",

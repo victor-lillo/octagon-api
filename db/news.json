@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "mick-parkin",
-    "fighterName": "Mick Parkin",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2024-12-12T04:20:50.556Z"
-  },
-  {
-    "fighter": "shamil-gaziev",
-    "fighterName": "Shamil Gaziev",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2024-12-12T04:20:50.556Z"
-  },
-  {
-    "fighter": "anthony-smith",
-    "fighterName": "Anthony Smith",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2024-12-12T04:20:50.556Z"
-  },
-  {
-    "fighter": "bogdan-guskov",
-    "fighterName": "Bogdan Guskov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2024-12-12T04:20:50.556Z"
-  },
-  {
-    "fighter": "azamat-murzakanov",
-    "fighterName": "Azamat Murzakanov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2024-12-12T04:20:50.556Z"
-  },
-  {
-    "fighter": "dominick-reyes",
-    "fighterName": "Dominick Reyes",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2024-12-12T04:20:50.556Z"
-  },
-  {
-    "fighter": "khalil-rountree-jr",
-    "fighterName": "Khalil Rountree Jr.",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "mayra-bueno-silva",
+    "fighterName": "Mayra Bueno Silva",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 6,
     "previousPosition": 5,
-    "date": "2024-12-12T04:20:50.556Z"
+    "date": "2024-12-19T04:20:12.133Z"
   },
   {
-    "fighter": "carlos-ulberg",
-    "fighterName": "Carlos Ulberg",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-12-12T04:20:50.556Z"
+    "date": "2024-12-19T04:20:12.133Z"
   },
   {
-    "fighter": "stephen-thompson",
-    "fighterName": "Stephen Thompson",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2024-12-12T04:20:50.556Z"
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 4,
+    "previousPosition": 3,
+    "date": "2024-12-19T04:20:12.133Z"
   },
   {
-    "fighter": "geoff-neal",
-    "fighterName": "Geoff Neal",
+    "fighter": "norma-dumont",
+    "fighterName": "Norma Dumont",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 3,
+    "previousPosition": 4,
+    "date": "2024-12-19T04:20:12.133Z"
+  },
+  {
+    "fighter": "miranda-maverick",
+    "fighterName": "Miranda Maverick",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-12-19T04:20:12.133Z"
+  },
+  {
+    "fighter": "karine-silva",
+    "fighterName": "Karine Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2024-12-19T04:20:12.133Z"
+  },
+  {
+    "fighter": "jasmine-jasudavicius",
+    "fighterName": "Jasmine Jasudavicius",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2024-12-19T04:20:12.133Z"
+  },
+  {
+    "fighter": "colby-covington",
+    "fighterName": "Colby Covington",
     "categoryId": "welterweight",
     "categoryName": "Welterweight",
-    "currentPosition": 9,
-    "previousPosition": 10,
-    "date": "2024-12-12T04:20:50.556Z"
+    "currentPosition": 8,
+    "previousPosition": 5,
+    "date": "2024-12-19T04:20:12.133Z"
+  },
+  {
+    "fighter": "joaquin-buckley",
+    "fighterName": "Joaquin Buckley",
+    "categoryId": "welterweight",
+    "categoryName": "Welterweight",
+    "currentPosition": 5,
+    "previousPosition": 8,
+    "date": "2024-12-19T04:20:12.133Z"
+  },
+  {
+    "fighter": "joel-alvarez",
+    "fighterName": "Joel Álvarez",
+    "categoryId": "lightweight",
+    "categoryName": "Lightweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2024-12-19T04:20:12.133Z"
   }
 ]
