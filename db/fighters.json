@@ -147,25 +147,6 @@
     "reach": "78.00",
     "legReach": "44.00"
   },
-  "leon-edwards": {
-    "category": "Welterweight Division",
-    "draws": "0",
-    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/EDWARDS_LEON_L_08-20.png?itok=2yVMaRNC",
-    "losses": "4",
-    "name": "Leon Edwards",
-    "nickname": "Rocky",
-    "wins": "22",
-    "status": "Active",
-    "placeOfBirth": "Kingston, Jamaica",
-    "trainsAt": "UTC Ultimate Training Centre Birmingham",
-    "fightingStyle": "MMA",
-    "age": "33",
-    "height": "72.00",
-    "weight": "170.00",
-    "octagonDebut": "Nov. 9, 2014",
-    "reach": "74.00",
-    "legReach": "43.00"
-  },
   "alexandre-pantoja": {
     "category": "Flyweight Division",
     "draws": "0",
@@ -184,6 +165,25 @@
     "octagonDebut": "Jan. 29, 2017",
     "reach": "67.00",
     "legReach": "36.50"
+  },
+  "leon-edwards": {
+    "category": "Welterweight Division",
+    "draws": "0",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/EDWARDS_LEON_L_08-20.png?itok=2yVMaRNC",
+    "losses": "4",
+    "name": "Leon Edwards",
+    "nickname": "Rocky",
+    "wins": "22",
+    "status": "Active",
+    "placeOfBirth": "Kingston, Jamaica",
+    "trainsAt": "UTC Ultimate Training Centre Birmingham",
+    "fightingStyle": "MMA",
+    "age": "33",
+    "height": "72.00",
+    "weight": "170.00",
+    "octagonDebut": "Nov. 9, 2014",
+    "reach": "74.00",
+    "legReach": "43.00"
   },
   "alexander-volkanovski": {
     "category": "Featherweight Division",

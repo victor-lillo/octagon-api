@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "leon-edwards",
+    "fighterName": "Leon Edwards",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2025-01-02T04:19:21.111Z"
+  },
+  {
+    "fighter": "alexandre-pantoja",
+    "fighterName": "Alexandre Pantoja",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2025-01-02T04:19:21.111Z"
+  },
+  {
     "fighter": "irene-aldana",
     "fighterName": "Irene Aldana",
     "categoryId": "womens-bantamweight",
@@ -69,24 +87,6 @@
     "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-12-19T04:20:12.133Z"
-  },
-  {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 4,
-    "previousPosition": 3,
-    "date": "2024-12-19T04:20:12.133Z"
-  },
-  {
-    "fighter": "norma-dumont",
-    "fighterName": "Norma Dumont",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 3,
-    "previousPosition": 4,
     "date": "2024-12-19T04:20:12.133Z"
   }
 ]

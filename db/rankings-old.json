@@ -40,12 +40,12 @@
         "name": "Tom Aspinall"
       },
       {
-        "id": "alexandre-pantoja",
-        "name": "Alexandre Pantoja"
-      },
-      {
         "id": "leon-edwards",
         "name": "Leon Edwards"
+      },
+      {
+        "id": "alexandre-pantoja",
+        "name": "Alexandre Pantoja"
       },
       {
         "id": "alexander-volkanovski",
@@ -860,20 +860,20 @@
         "name": "Ketlen Vieira"
       },
       {
-        "id": "norma-dumont",
-        "name": "Norma Dumont"
-      },
-      {
         "id": "macy-chiasson",
         "name": "Macy Chiasson"
       },
       {
-        "id": "irene-aldana",
-        "name": "Irene Aldana"
+        "id": "norma-dumont",
+        "name": "Norma Dumont"
       },
       {
         "id": "mayra-bueno-silva",
         "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "irene-aldana",
+        "name": "Irene Aldana"
       },
       {
         "id": "holly-holm",
