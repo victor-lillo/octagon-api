@@ -2663,7 +2663,7 @@
   "mackenzie-dern": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/DERN_MACKENZIE_L_08-03.png?itok=7MptkMFK",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/DERN_MACKENZIE_L_08-03.png?itok=kYWtNh_L",
     "losses": "5",
     "name": "Mackenzie Dern",
     "nickname": "",
@@ -2674,7 +2674,7 @@
     "fightingStyle": "Brazilian Jiu-Jitsu",
     "age": "31",
     "height": "64.00",
-    "weight": "115.50",
+    "weight": "127.00",
     "octagonDebut": "Mar. 3, 2018",
     "reach": "63.00",
     "legReach": "37.50"
@@ -2700,7 +2700,7 @@
   "amanda-ribas": {
     "category": "Women's Strawweight Division",
     "draws": "0",
-    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/RIBAS_AMANDA_L_03-2.png?itok=ngNq-djF",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-01/RIBAS_AMANDA_L_03-2.png?itok=_NyS04Nb",
     "losses": "5",
     "name": "Amanda Ribas",
     "nickname": "",
@@ -2710,7 +2710,7 @@
     "fightingStyle": "Judo",
     "age": "31",
     "height": "64.00",
-    "weight": "125.50",
+    "weight": "125.00",
     "octagonDebut": "Jun. 29, 2019",
     "reach": "66.00",
     "legReach": "37.00"
@@ -3025,24 +3025,6 @@
     "reach": "67.00",
     "legReach": "38.50"
   },
-  "mayra-bueno-silva": {
-    "category": "Women's Flyweight Division",
-    "draws": "1",
-    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BUENO_SILVA_MAYRA_L_06-29.png?itok=MFw_cCCE",
-    "losses": "4",
-    "name": "Mayra Bueno Silva",
-    "nickname": "Sheetara",
-    "wins": "10",
-    "status": "Active",
-    "placeOfBirth": "Uberlândia, Brazil",
-    "fightingStyle": "Striker",
-    "age": "33",
-    "height": "66.00",
-    "weight": "136.00",
-    "octagonDebut": "Sep. 23, 2018",
-    "reach": "66.50",
-    "legReach": "39.00"
-  },
   "irene-aldana": {
     "category": "Women's Bantamweight Division",
     "draws": "0",
@@ -3060,6 +3042,24 @@
     "octagonDebut": "Dec. 18, 2016",
     "reach": "68.50",
     "legReach": "38.50"
+  },
+  "mayra-bueno-silva": {
+    "category": "Women's Flyweight Division",
+    "draws": "1",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/2/BUENO_SILVA_MAYRA_L_06-29.png?itok=MFw_cCCE",
+    "losses": "4",
+    "name": "Mayra Bueno Silva",
+    "nickname": "Sheetara",
+    "wins": "10",
+    "status": "Active",
+    "placeOfBirth": "Uberlândia, Brazil",
+    "fightingStyle": "Striker",
+    "age": "33",
+    "height": "66.00",
+    "weight": "136.00",
+    "octagonDebut": "Sep. 23, 2018",
+    "reach": "66.50",
+    "legReach": "39.00"
   },
   "holly-holm": {
     "category": "Women's Bantamweight Division",
