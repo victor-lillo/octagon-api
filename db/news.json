@@ -1,74 +1,83 @@
 [
   {
-    "fighter": "leon-edwards",
-    "fighterName": "Leon Edwards",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2025-01-02T04:19:21.111Z"
-  },
-  {
-    "fighter": "alexandre-pantoja",
-    "fighterName": "Alexandre Pantoja",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 8,
-    "previousPosition": 9,
-    "date": "2025-01-02T04:19:21.111Z"
-  },
-  {
-    "fighter": "irene-aldana",
-    "fighterName": "Irene Aldana",
+    "fighter": "macy-chiasson",
+    "fighterName": "Macy Chiasson",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2024-12-26T04:19:25.959Z"
-  },
-  {
-    "fighter": "mayra-bueno-silva",
-    "fighterName": "Mayra Bueno Silva",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 5,
-    "previousPosition": 6,
-    "date": "2024-12-26T04:19:25.959Z"
+    "currentPosition": 4,
+    "previousPosition": 3,
+    "date": "2025-01-16T04:18:23.538Z"
   },
   {
     "fighter": "norma-dumont",
     "fighterName": "Norma Dumont",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 4,
-    "previousPosition": 3,
-    "date": "2024-12-26T04:19:25.959Z"
-  },
-  {
-    "fighter": "macy-chiasson",
-    "fighterName": "Macy Chiasson",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
     "currentPosition": 3,
     "previousPosition": 4,
-    "date": "2024-12-26T04:19:25.959Z"
+    "date": "2025-01-16T04:18:23.538Z"
   },
   {
-    "fighter": "alexandre-pantoja",
-    "fighterName": "Alexandre Pantoja",
-    "categoryId": "mens-pound-for-pound-top-rank",
-    "categoryName": "Men's Pound-for-Pound Top Rank",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2024-12-26T04:19:25.959Z"
+    "fighter": "katlyn-cerminara",
+    "fighterName": "Katlyn Cerminara",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2025-01-16T04:18:23.538Z"
+  },
+  {
+    "fighter": "jessica-andrade",
+    "fighterName": "Jéssica Andrade",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2025-01-16T04:18:23.538Z"
+  },
+  {
+    "fighter": "jack-hermansson",
+    "fighterName": "Jack Hermansson",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 12,
+    "previousPosition": 11,
+    "date": "2025-01-16T04:18:23.538Z"
+  },
+  {
+    "fighter": "anthony-hernandez",
+    "fighterName": "Anthony Hernandez",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2025-01-16T04:18:23.538Z"
   },
   {
     "fighter": "leon-edwards",
     "fighterName": "Leon Edwards",
     "categoryId": "mens-pound-for-pound-top-rank",
     "categoryName": "Men's Pound-for-Pound Top Rank",
+    "currentPosition": 9,
+    "previousPosition": 8,
+    "date": "2025-01-02T04:19:21.111Z"
+  },
+  {
+    "fighter": "alexandre-pantoja",
+    "fighterName": "Alexandre Pantoja",
+    "categoryId": "mens-pound-for-pound-top-rank",
+    "categoryName": "Men's Pound-for-Pound Top Rank",
     "currentPosition": 8,
     "previousPosition": 9,
+    "date": "2025-01-02T04:19:21.111Z"
+  },
+  {
+    "fighter": "irene-aldana",
+    "fighterName": "Irene Aldana",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 6,
+    "previousPosition": 5,
     "date": "2024-12-26T04:19:25.959Z"
   },
   {
@@ -76,17 +85,8 @@
     "fighterName": "Mayra Bueno Silva",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 6,
-    "previousPosition": 5,
-    "date": "2024-12-19T04:20:12.133Z"
-  },
-  {
-    "fighter": "irene-aldana",
-    "fighterName": "Irene Aldana",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
     "currentPosition": 5,
     "previousPosition": 6,
-    "date": "2024-12-19T04:20:12.133Z"
+    "date": "2024-12-26T04:19:25.959Z"
   }
 ]
