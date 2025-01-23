@@ -24,16 +24,16 @@
         "name": "Ilia Topuria"
       },
       {
+        "id": "merab-dvalishvili",
+        "name": "Merab Dvalishvili"
+      },
+      {
         "id": "belal-muhammad",
         "name": "Belal Muhammad"
       },
       {
         "id": "dricus-du-plessis",
         "name": "Dricus Du Plessis"
-      },
-      {
-        "id": "merab-dvalishvili",
-        "name": "Merab Dvalishvili"
       },
       {
         "id": "tom-aspinall",
@@ -152,12 +152,12 @@
         "name": "Sean O'Malley"
       },
       {
-        "id": "umar-nurmagomedov",
-        "name": "Umar Nurmagomedov"
-      },
-      {
         "id": "petr-yan",
         "name": "Petr Yan"
+      },
+      {
+        "id": "umar-nurmagomedov",
+        "name": "Umar Nurmagomedov"
       },
       {
         "id": "cory-sandhagen",
@@ -332,10 +332,6 @@
         "name": "Rafael Fiziev"
       },
       {
-        "id": "benoit-saint-denis",
-        "name": "Benoît Saint Denis"
-      },
-      {
         "id": "paddy-pimblett",
         "name": "Paddy Pimblett"
       },
@@ -344,8 +340,12 @@
         "name": "Jalin Turner"
       },
       {
-        "id": "joel-alvarez",
-        "name": "Joel Álvarez"
+        "id": "benoit-saint-denis",
+        "name": "Benoît Saint Denis"
+      },
+      {
+        "id": "grant-dawson",
+        "name": "Grant Dawson"
       }
     ]
   },
@@ -506,12 +506,12 @@
         "name": "Jiří Procházka"
       },
       {
-        "id": "jamahal-hill",
-        "name": "Jamahal Hill"
-      },
-      {
         "id": "jan-blachowicz",
         "name": "Jan Błachowicz"
+      },
+      {
+        "id": "jamahal-hill",
+        "name": "Jamahal Hill"
       },
       {
         "id": "aleksandar-rakic",
@@ -876,10 +876,6 @@
         "name": "Mayra Bueno Silva"
       },
       {
-        "id": "holly-holm",
-        "name": "Holly Holm"
-      },
-      {
         "id": "karol-rosa",
         "name": "Karol Rosa"
       },
@@ -892,12 +888,12 @@
         "name": "Miesha Tate"
       },
       {
-        "id": "julia-avila",
-        "name": "Julia Avila"
-      },
-      {
         "id": "ailin-perez",
         "name": "Ailin Perez"
+      },
+      {
+        "id": "julia-avila",
+        "name": "Julia Avila"
       },
       {
         "id": "jacqueline-cavalcanti",
@@ -906,6 +902,10 @@
       {
         "id": "chelsea-chandler",
         "name": "Chelsea Chandler"
+      },
+      {
+        "id": "nora-cornolle",
+        "name": "Nora Cornolle"
       }
     ]
   }
