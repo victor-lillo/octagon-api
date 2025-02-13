@@ -28,12 +28,12 @@
         "name": "Merab Dvalishvili"
       },
       {
-        "id": "belal-muhammad",
-        "name": "Belal Muhammad"
-      },
-      {
         "id": "dricus-du-plessis",
         "name": "Dricus Du Plessis"
+      },
+      {
+        "id": "belal-muhammad",
+        "name": "Belal Muhammad"
       },
       {
         "id": "tom-aspinall",
@@ -60,12 +60,12 @@
         "name": "Sean O'Malley"
       },
       {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
-      },
-      {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
+      },
+      {
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
       }
     ]
   },
@@ -428,12 +428,12 @@
     },
     "fighters": [
       {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
-      },
-      {
         "id": "nassourdine-imavov",
         "name": "Nassourdine Imavov"
+      },
+      {
+        "id": "sean-strickland",
+        "name": "Sean Strickland"
       },
       {
         "id": "khamzat-chimaev",
@@ -620,12 +620,12 @@
         "name": "Mick Parkin"
       },
       {
-        "id": "dontale-mayes",
-        "name": "Don'Tale Mayes"
+        "id": "kennedy-nzechukwu",
+        "name": "Kennedy Nzechukwu"
       },
       {
-        "id": "jhonata-diniz",
-        "name": "Jhonata Diniz"
+        "id": "dontale-mayes",
+        "name": "Don'Tale Mayes"
       }
     ]
   },
@@ -666,32 +666,32 @@
         "name": "Kayla Harrison"
       },
       {
-        "id": "rose-namajunas",
-        "name": "Rose Namajunas"
-      },
-      {
         "id": "raquel-pennington",
         "name": "Raquel Pennington"
       },
       {
-        "id": "tatiana-suarez",
-        "name": "Tatiana Suarez"
+        "id": "rose-namajunas",
+        "name": "Rose Namajunas"
       },
       {
         "id": "xiaonan-yan",
         "name": "Yan Xiaonan"
       },
       {
+        "id": "tatiana-suarez",
+        "name": "Tatiana Suarez"
+      },
+      {
         "id": "virna-jandiroba",
         "name": "Virna Jandiroba"
       },
       {
-        "id": "jessica-andrade",
-        "name": "Jéssica Andrade"
-      },
-      {
         "id": "natalia-silva",
         "name": "Natalia Silva"
+      },
+      {
+        "id": "jessica-andrade",
+        "name": "Jéssica Andrade"
       },
       {
         "id": "maycee-barber",
@@ -708,12 +708,12 @@
     },
     "fighters": [
       {
-        "id": "tatiana-suarez",
-        "name": "Tatiana Suarez"
-      },
-      {
         "id": "xiaonan-yan",
         "name": "Yan Xiaonan"
+      },
+      {
+        "id": "tatiana-suarez",
+        "name": "Tatiana Suarez"
       },
       {
         "id": "virna-jandiroba",
