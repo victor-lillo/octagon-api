@@ -196,12 +196,12 @@
         "name": "Kyler Phillips"
       },
       {
-        "id": "aiemann-zahabi",
-        "name": "Aiemann Zahabi"
-      },
-      {
         "id": "marcus-mcghee",
         "name": "Marcus McGhee"
+      },
+      {
+        "id": "aiemann-zahabi",
+        "name": "Aiemann Zahabi"
       },
       {
         "id": "montel-jackson",
@@ -254,10 +254,6 @@
         "name": "Aljamain Sterling"
       },
       {
-        "id": "calvin-kattar",
-        "name": "Calvin Kattar"
-      },
-      {
         "id": "lerone-murphy",
         "name": "Lerone Murphy"
       },
@@ -266,16 +262,20 @@
         "name": "Giga Chikadze"
       },
       {
+        "id": "youssef-zalal",
+        "name": "Youssef Zalal"
+      },
+      {
         "id": "bryce-mitchell",
         "name": "Bryce Mitchell"
       },
       {
-        "id": "dan-ige",
-        "name": "Dan Ige"
+        "id": "calvin-kattar",
+        "name": "Calvin Kattar"
       },
       {
-        "id": "edson-barboza",
-        "name": "Edson Barboza"
+        "id": "dan-ige",
+        "name": "Dan Ige"
       }
     ]
   },
@@ -340,12 +340,12 @@
         "name": "Jalin Turner"
       },
       {
-        "id": "benoit-saint-denis",
-        "name": "Benoît Saint Denis"
-      },
-      {
         "id": "grant-dawson",
         "name": "Grant Dawson"
+      },
+      {
+        "id": "benoit-saint-denis",
+        "name": "Benoît Saint Denis"
       }
     ]
   },
@@ -624,8 +624,8 @@
         "name": "Kennedy Nzechukwu"
       },
       {
-        "id": "dontale-mayes",
-        "name": "Don'Tale Mayes"
+        "id": "tallison-teixeira",
+        "name": "Tallison Teixeira"
       }
     ]
   },
@@ -822,7 +822,7 @@
         "name": "Karine Silva"
       },
       {
-        "id": "ariane-lipski",
+        "id": "ariane-da-silva",
         "name": "Ariane da Silva"
       },
       {
@@ -872,12 +872,12 @@
         "name": "Irene Aldana"
       },
       {
-        "id": "ailin-perez",
-        "name": "Ailin Perez"
-      },
-      {
         "id": "mayra-bueno-silva",
         "name": "Mayra Bueno Silva"
+      },
+      {
+        "id": "ailin-perez",
+        "name": "Ailin Perez"
       },
       {
         "id": "karol-rosa",
@@ -888,24 +888,24 @@
         "name": "Yana Santos"
       },
       {
+        "id": "jacqueline-cavalcanti",
+        "name": "Jacqueline Cavalcanti"
+      },
+      {
         "id": "miesha-tate",
         "name": "Miesha Tate"
       },
       {
-        "id": "julia-avila",
-        "name": "Julia Avila"
-      },
-      {
-        "id": "jacqueline-cavalcanti",
-        "name": "Jacqueline Cavalcanti"
+        "id": "nora-cornolle",
+        "name": "Nora Cornolle"
       },
       {
         "id": "chelsea-chandler",
         "name": "Chelsea Chandler"
       },
       {
-        "id": "nora-cornolle",
-        "name": "Nora Cornolle"
+        "id": "julia-avila",
+        "name": "Julia Avila"
       }
     ]
   }

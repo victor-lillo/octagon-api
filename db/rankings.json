@@ -168,20 +168,20 @@
         "name": "Deiveson Figueiredo"
       },
       {
-        "id": "marlon-vera",
-        "name": "Marlon Vera"
-      },
-      {
-        "id": "henry-cejudo",
-        "name": "Henry Cejudo"
-      },
-      {
         "id": "yadong-song",
         "name": "Song Yadong"
       },
       {
+        "id": "marlon-vera",
+        "name": "Marlon Vera"
+      },
+      {
         "id": "rob-font",
         "name": "Rob Font"
+      },
+      {
+        "id": "henry-cejudo",
+        "name": "Henry Cejudo"
       },
       {
         "id": "mario-bautista",
@@ -196,12 +196,12 @@
         "name": "Kyler Phillips"
       },
       {
-        "id": "marcus-mcghee",
-        "name": "Marcus McGhee"
-      },
-      {
         "id": "aiemann-zahabi",
         "name": "Aiemann Zahabi"
+      },
+      {
+        "id": "marcus-mcghee",
+        "name": "Marcus McGhee"
       },
       {
         "id": "montel-jackson",
@@ -460,6 +460,10 @@
         "name": "Marvin Vettori"
       },
       {
+        "id": "anthony-hernandez",
+        "name": "Anthony Hernandez"
+      },
+      {
         "id": "brendan-allen",
         "name": "Brendan Allen"
       },
@@ -472,10 +476,6 @@
         "name": "Paulo Costa"
       },
       {
-        "id": "anthony-hernandez",
-        "name": "Anthony Hernandez"
-      },
-      {
         "id": "michel-pereira",
         "name": "Michel Pereira"
       },
@@ -484,8 +484,8 @@
         "name": "Roman Kopylov"
       },
       {
-        "id": "bo-nickal",
-        "name": "Bo Nickal"
+        "id": "reinier-de-ridder",
+        "name": "Reinier de Ridder"
       }
     ]
   },
@@ -550,12 +550,12 @@
         "name": "Bogdan Guskov"
       },
       {
-        "id": "anthony-smith",
-        "name": "Anthony Smith"
-      },
-      {
         "id": "alonzo-menifield",
         "name": "Alonzo Menifield"
+      },
+      {
+        "id": "anthony-smith",
+        "name": "Anthony Smith"
       }
     ]
   },
@@ -904,8 +904,8 @@
         "name": "Chelsea Chandler"
       },
       {
-        "id": "julia-avila",
-        "name": "Julia Avila"
+        "id": "joselyne-edwards",
+        "name": "Joselyne Edwards"
       }
     ]
   }
