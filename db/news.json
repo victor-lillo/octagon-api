@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "joselyne-edwards",
-    "fighterName": "Joselyne Edwards",
+    "fighter": "jacqueline-cavalcanti",
+    "fighterName": "Jacqueline Cavalcanti",
     "categoryId": "womens-bantamweight",
     "categoryName": "Women's Bantamweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "anthony-smith",
-    "fighterName": "Anthony Smith",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "alonzo-menifield",
-    "fighterName": "Alonzo Menifield",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "reinier-de-ridder",
-    "fighterName": "Reinier de Ridder",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "paulo-costa",
-    "fighterName": "Paulo Costa",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
     "currentPosition": 11,
     "previousPosition": 10,
-    "date": "2025-02-27T04:19:51.904Z"
+    "date": "2025-03-06T04:20:24.776Z"
   },
   {
-    "fighter": "roman-dolidze",
-    "fighterName": "Roman Dolidze",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "brendan-allen",
-    "fighterName": "Brendan Allen",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "anthony-hernandez",
-    "fighterName": "Anthony Hernandez",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 8,
     "previousPosition": 11,
-    "date": "2025-02-27T04:19:51.904Z"
-  },
-  {
-    "fighter": "marcus-mcghee",
-    "fighterName": "Marcus McGhee",
-    "categoryId": "bantamweight",
-    "categoryName": "Bantamweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2025-02-27T04:19:51.904Z"
+    "date": "2025-03-06T04:20:24.776Z"
   },
   {
     "fighter": "aiemann-zahabi",
     "fighterName": "Aiemann Zahabi",
     "categoryId": "bantamweight",
     "categoryName": "Bantamweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "marcus-mcghee",
+    "fighterName": "Marcus McGhee",
+    "categoryId": "bantamweight",
+    "categoryName": "Bantamweight",
     "currentPosition": 12,
     "previousPosition": 13,
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "charles-johnson",
+    "fighterName": "Charles Johnson",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 14,
+    "previousPosition": 11,
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "ramazan-temirov",
+    "fighterName": "Ramazan Temirov",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 12,
+    "previousPosition": "unranked",
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "bruno-silva",
+    "fighterName": "Bruno Silva",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "assu-almabayev",
+    "fighterName": "Asu Almabayev",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "steve-erceg",
+    "fighterName": "Steve Erceg",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2025-03-06T04:20:24.776Z"
+  },
+  {
+    "fighter": "joselyne-edwards",
+    "fighterName": "Joselyne Edwards",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
     "date": "2025-02-27T04:19:51.904Z"
   }
 ]
