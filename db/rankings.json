@@ -16,10 +16,6 @@
         "name": "Jon Jones"
       },
       {
-        "id": "alex-pereira",
-        "name": "Alex Pereira"
-      },
-      {
         "id": "ilia-topuria",
         "name": "Ilia Topuria"
       },
@@ -32,24 +28,32 @@
         "name": "Dricus Du Plessis"
       },
       {
+        "id": "magomed-ankalaev",
+        "name": "Magomed Ankalaev"
+      },
+      {
         "id": "belal-muhammad",
         "name": "Belal Muhammad"
       },
       {
-        "id": "tom-aspinall",
-        "name": "Tom Aspinall"
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
       },
       {
         "id": "alexandre-pantoja",
         "name": "Alexandre Pantoja"
       },
       {
-        "id": "leon-edwards",
-        "name": "Leon Edwards"
+        "id": "tom-aspinall",
+        "name": "Tom Aspinall"
       },
       {
         "id": "alexander-volkanovski",
         "name": "Alexander Volkanovski"
+      },
+      {
+        "id": "leon-edwards",
+        "name": "Leon Edwards"
       },
       {
         "id": "max-holloway",
@@ -62,10 +66,6 @@
       {
         "id": "charles-oliveira",
         "name": "Charles Oliveira"
-      },
-      {
-        "id": "sean-strickland",
-        "name": "Sean Strickland"
       }
     ]
   },
@@ -336,16 +336,16 @@
         "name": "Paddy Pimblett"
       },
       {
-        "id": "jalin-turner",
-        "name": "Jalin Turner"
+        "id": "benoit-saint-denis",
+        "name": "Benoît Saint Denis"
       },
       {
         "id": "grant-dawson",
         "name": "Grant Dawson"
       },
       {
-        "id": "benoit-saint-denis",
-        "name": "Benoît Saint Denis"
+        "id": "ignacio-bahamondes",
+        "name": "Ignacio Bahamondes"
       }
     ]
   },
@@ -468,12 +468,16 @@
         "name": "Brendan Allen"
       },
       {
+        "id": "paulo-costa",
+        "name": "Paulo Costa"
+      },
+      {
         "id": "roman-dolidze",
         "name": "Roman Dolidze"
       },
       {
-        "id": "paulo-costa",
-        "name": "Paulo Costa"
+        "id": "reinier-de-ridder",
+        "name": "Reinier de Ridder"
       },
       {
         "id": "michel-pereira",
@@ -482,10 +486,6 @@
       {
         "id": "roman-kopylov",
         "name": "Roman Kopylov"
-      },
-      {
-        "id": "reinier-de-ridder",
-        "name": "Reinier de Ridder"
       }
     ]
   },
@@ -493,13 +493,13 @@
     "id": "light-heavyweight",
     "categoryName": "Light Heavyweight",
     "champion": {
-      "id": "alex-pereira",
-      "championName": "Alex Pereira"
+      "id": "magomed-ankalaev",
+      "championName": "Magomed Ankalaev"
     },
     "fighters": [
       {
-        "id": "magomed-ankalaev",
-        "name": "Magomed Ankalaev"
+        "id": "alex-pereira",
+        "name": "Alex Pereira"
       },
       {
         "id": "jiri-prochazka",
@@ -620,12 +620,12 @@
         "name": "Mick Parkin"
       },
       {
-        "id": "kennedy-nzechukwu",
-        "name": "Kennedy Nzechukwu"
-      },
-      {
         "id": "tallison-teixeira",
         "name": "Tallison Teixeira"
+      },
+      {
+        "id": "kennedy-nzechukwu",
+        "name": "Kennedy Nzechukwu"
       }
     ]
   },
@@ -732,12 +732,12 @@
         "name": "Mackenzie Dern"
       },
       {
-        "id": "iasmin-lucindo",
-        "name": "Iasmin Lucindo"
-      },
-      {
         "id": "amanda-ribas",
         "name": "Amanda Ribas"
+      },
+      {
+        "id": "iasmin-lucindo",
+        "name": "Iasmin Lucindo"
       },
       {
         "id": "marina-rodriguez",
@@ -822,12 +822,12 @@
         "name": "Karine Silva"
       },
       {
-        "id": "ariane-da-silva",
-        "name": "Ariane da Silva"
-      },
-      {
         "id": "miranda-maverick",
         "name": "Miranda Maverick"
+      },
+      {
+        "id": "ariane-da-silva",
+        "name": "Ariane da Silva"
       },
       {
         "id": "casey-oneill",
