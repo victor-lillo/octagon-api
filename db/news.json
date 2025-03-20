@@ -1,92 +1,92 @@
 [
   {
+    "fighter": "shamil-gaziev",
+    "fighterName": "Shamil Gaziev",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "waldo-cortes-acosta",
+    "fighterName": "Waldo Cortes Acosta",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "paulo-costa",
+    "fighterName": "Paulo Costa",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "brendan-allen",
+    "fighterName": "Brendan Allen",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "marvin-vettori",
+    "fighterName": "Marvin Vettori",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 9,
+    "previousPosition": 7,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "roman-dolidze",
+    "fighterName": "Roman Dolidze",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 8,
+    "previousPosition": 11,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "anthony-hernandez",
+    "fighterName": "Anthony Hernandez",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "joshua-van",
+    "fighterName": "Joshua Van",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
+    "fighter": "charles-johnson",
+    "fighterName": "Charles Johnson",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2025-03-20T04:20:24.782Z"
+  },
+  {
     "fighter": "ariane-da-silva",
     "fighterName": "Ariane da Silva",
     "categoryId": "womens-flyweight",
     "categoryName": "Women's Flyweight",
     "currentPosition": 12,
     "previousPosition": 11,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "miranda-maverick",
-    "fighterName": "Miranda Maverick",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 11,
-    "previousPosition": 12,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "iasmin-lucindo",
-    "fighterName": "Iasmin Lucindo",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "amanda-ribas",
-    "fighterName": "Amanda Ribas",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 6,
-    "previousPosition": 7,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "kennedy-nzechukwu",
-    "fighterName": "Kennedy Nzechukwu",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "tallison-teixeira",
-    "fighterName": "Tallison Teixeira",
-    "categoryId": "heavyweight",
-    "categoryName": "Heavyweight",
-    "currentPosition": 13,
-    "previousPosition": 14,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "alex-pereira",
-    "fighterName": "Alex Pereira",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 0,
-    "previousPosition": "unranked",
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "roman-kopylov",
-    "fighterName": "Roman Kopylov",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 14,
-    "previousPosition": 13,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "michel-pereira",
-    "fighterName": "Michel Pereira",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2025-03-13T04:20:53.604Z"
-  },
-  {
-    "fighter": "reinier-de-ridder",
-    "fighterName": "Reinier de Ridder",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 12,
-    "previousPosition": 14,
     "date": "2025-03-13T04:20:53.604Z"
   }
 ]
