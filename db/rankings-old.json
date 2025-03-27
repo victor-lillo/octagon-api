@@ -130,12 +130,12 @@
         "name": "Ramazan Temirov"
       },
       {
-        "id": "kai-asakura",
-        "name": "Kai Asakura"
-      },
-      {
         "id": "charles-johnson",
         "name": "Charles Johnson"
+      },
+      {
+        "id": "joshua-van",
+        "name": "Joshua Van"
       }
     ]
   },
@@ -456,12 +456,16 @@
         "name": "Jared Cannonier"
       },
       {
-        "id": "marvin-vettori",
-        "name": "Marvin Vettori"
-      },
-      {
         "id": "anthony-hernandez",
         "name": "Anthony Hernandez"
+      },
+      {
+        "id": "roman-dolidze",
+        "name": "Roman Dolidze"
+      },
+      {
+        "id": "marvin-vettori",
+        "name": "Marvin Vettori"
       },
       {
         "id": "brendan-allen",
@@ -470,10 +474,6 @@
       {
         "id": "paulo-costa",
         "name": "Paulo Costa"
-      },
-      {
-        "id": "roman-dolidze",
-        "name": "Roman Dolidze"
       },
       {
         "id": "reinier-de-ridder",
@@ -608,12 +608,12 @@
         "name": "Tai Tuivasa"
       },
       {
-        "id": "shamil-gaziev",
-        "name": "Shamil Gaziev"
-      },
-      {
         "id": "waldo-cortes-acosta",
         "name": "Waldo Cortes Acosta"
+      },
+      {
+        "id": "shamil-gaziev",
+        "name": "Shamil Gaziev"
       },
       {
         "id": "mick-parkin",
