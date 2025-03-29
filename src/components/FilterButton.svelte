@@ -1,9 +1,14 @@
 <script lang="ts">
-  export let handleChange;
-  export let label: string;
-  export let name: string;
+  import type { MouseEventHandler } from 'svelte/elements';
+  interface Props {
+    label: string;
+    name: string;
+    handleChange: MouseEventHandler<HTMLButtonElement>;
+  }
 
-  let triState: boolean | null = null;
+  let { handleChange, label, name }: Props = $props();
+
+  let triState: boolean | null = $state(null);
 
   function handleTristate() {
     if (triState === null) {
@@ -26,7 +31,7 @@
   class:desc={triState === false}
   data-tristate={`${triState}`}
   name={name}
-  on:click={(e) => {
+  onclick={(e) => {
     handleTristate();
     handleChange(e);
   }}
@@ -44,9 +49,9 @@
   </p>
 
   {#if triState === null || triState === true}
-    <slot name="ascIcon" />
+    <slot name="ascIcon"></slot>
   {:else}
-    <slot name="descIcon" />
+    <slot name="descIcon"></slot>
   {/if}
 </button>
 
