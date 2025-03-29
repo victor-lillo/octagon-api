@@ -7,17 +7,15 @@
     return { id: key, ...value };
   });
 
-  let filteredData: Record<string, string>[] = [];
-  let filterName = '';
+  let filterName = $state('');
 
-  $: {
-    // Filter by filterName
-    filteredData = rawFightersData.filter(({ name }) => {
+  let filteredData = $derived.by(() => {
+    return rawFightersData.filter(({ name }) => {
       const lowerFilterName = filterName.toLocaleLowerCase();
       const lowerName = name.toLocaleLowerCase();
       return lowerName.includes(lowerFilterName);
     });
-  }
+  });
 </script>
 
 <section>
@@ -28,7 +26,7 @@
 
   <button
     type="button"
-    on:click={() => {
+    onclick={() => {
       const event = new CustomEvent('reset');
       document.dispatchEvent(event);
     }}
