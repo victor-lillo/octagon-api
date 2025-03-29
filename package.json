@@ -27,10 +27,10 @@
   "dependencies": {
     "@astrojs/mdx": "4.2.2",
     "@astrojs/sitemap": "3.3.0",
-    "@astrojs/svelte": "5.7.0",
+    "@astrojs/svelte": "7.0.8",
     "astro": "5.5.5",
     "astro-expressive-code": "0.40.2",
-    "svelte": "4.2.18"
+    "svelte": "5.25.3"
   },
   "devDependencies": {
     "@cloudflare/workers-types": "4.20250327.0",
