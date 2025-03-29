@@ -21,7 +21,8 @@
     "prettier": "prettier --check .",
     "prettier:fix": "prettier --write .",
     "stylelint": "stylelint \"**/*.{css,astro,svelte}\"",
-    "stylelint:fix": "stylelint \"**/*.{css,astro,svelte}\" --fix"
+    "stylelint:fix": "stylelint \"**/*.{css,astro,svelte}\" --fix",
+    "test": "vitest"
   },
   "dependencies": {
     "@astrojs/mdx": "4.2.2",
@@ -59,7 +60,7 @@
     "svelte-eslint-parser": "1.1.1",
     "typescript": "5.8.2",
     "typescript-eslint": "8.28.0",
-    "vitest": "2.0.5",
+    "vitest": "3.0.9",
     "wrangler": "3.72.2"
   },
   "packageManager": "pnpm@10.7.0"
