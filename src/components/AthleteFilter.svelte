@@ -64,7 +64,9 @@
 
   input {
     margin-block: 3px;
+    padding: 0.2rem;
     width: 100%;
+    line-height: 1.5;
   }
 
   button {
