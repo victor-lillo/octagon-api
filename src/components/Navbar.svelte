@@ -21,7 +21,7 @@
     },
   ];
 
-  let isOpen = false;
+  let isOpen = $state(false);
 
   const handleChange = () => {
     isOpen = !isOpen;
@@ -35,7 +35,7 @@
       <Logo />
     </a>
     <div class="navbar__anchor-container">
-      {#each navigationLinks as { label, href }}
+      {#each navigationLinks as { label, href } (label)}
         <a class="navbar__anchor" aria-label={`Go to ${label} page`} href={href}>
           {label}
         </a>
@@ -44,10 +44,10 @@
     <div class="navbar__theme">
       <ThemeSwitcher />
     </div>
-    <button type="button" class="hamburger" on:click={handleChange}>
-      <div />
-      <div />
-      <div />
+    <button type="button" class="hamburger" onclick={handleChange}>
+      <div></div>
+      <div></div>
+      <div></div>
       <p class="visually-hidden">
         {isOpen ? 'Close navigation menu' : 'Open navigation menu'}
       </p>
