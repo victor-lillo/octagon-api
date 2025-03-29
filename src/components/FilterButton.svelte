@@ -1,12 +1,15 @@
 <script lang="ts">
   import type { MouseEventHandler } from 'svelte/elements';
+  import type { Snippet } from 'svelte';
   interface Props {
     label: string;
+    ascIcon: Snippet;
+    descIcon: Snippet;
     name: string;
     handleChange: MouseEventHandler<HTMLButtonElement>;
   }
 
-  let { handleChange, label, name }: Props = $props();
+  let { ascIcon, descIcon, handleChange, label, name }: Props = $props();
 
   let triState: boolean | null = $state(null);
 
@@ -49,9 +52,9 @@
   </p>
 
   {#if triState === null || triState === true}
-    <slot name="ascIcon"></slot>
+    {@render ascIcon?.()}
   {:else}
-    <slot name="descIcon"></slot>
+    {@render descIcon?.()}
   {/if}
 </button>
 
