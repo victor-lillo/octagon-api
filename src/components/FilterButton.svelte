@@ -1,12 +1,12 @@
 <script lang="ts">
-  import type { MouseEventHandler } from 'svelte/elements';
+  import type { FormEventHandler } from 'svelte/elements';
   import type { Snippet } from 'svelte';
   interface Props {
     label: string;
     ascIcon: Snippet;
     descIcon: Snippet;
     name: string;
-    handleChange: MouseEventHandler<HTMLButtonElement>;
+    handleChange: FormEventHandler<HTMLButtonElement>;
   }
 
   let { ascIcon, descIcon, handleChange, label, name }: Props = $props();
