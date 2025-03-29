@@ -19,9 +19,25 @@
     iconType: 'letter' | 'number';
   }
 
-  export let fightersData: Record<string, string>[] = [];
-  let orderedData: Record<string, string>[] = [];
-  let orderFilters: Filter[] = [];
+  interface Props {
+    fightersData?: Record<string, string>[];
+  }
+
+  let { fightersData = [] }: Props = $props();
+  let orderFilters: Filter[] = $state([]);
+
+  let orderedData = $derived.by(() => {
+    if (orderFilters.length > 0) {
+      const fighterDataCopy = [...fightersData];
+      for (const { filteredKey, order } of orderFilters) {
+        const filterFunction = FILTER_DICT[order].function;
+        fighterDataCopy.sort(filterFunction(filteredKey));
+      }
+      return fighterDataCopy;
+    } else {
+      return fightersData;
+    }
+  });
 
   const FILTER_DICT = {
     asc: {
@@ -67,16 +83,16 @@
     },
   ];
 
-  const onChange: FormEventHandler<HTMLInputElement> = (e) => {
+  const onChange: FormEventHandler<HTMLButtonElement> = (e) => {
     const { name, dataset } = e.currentTarget;
 
     const triState = dataset.tristate;
 
     orderFilters = removeArrayElementByKey({
-      array: orderFilters,
+      array: orderFilters as unknown as Record<string, string>[],
       keyToRemove: 'filteredKey',
       keyValue: name,
-    }) as Filter[];
+    }) as unknown as Filter[];
 
     // Tristate: init in 'null', on click 'true', then 'false'
     if (triState === 'null') {
@@ -85,20 +101,6 @@
       orderFilters = [...orderFilters, { filteredKey: name, order: FILTER_DICT.desc.key }];
     }
   };
-
-  $: {
-    // Filter by order
-    if (orderFilters.length > 0) {
-      const fighterDataCopy = [...fightersData];
-      for (const { filteredKey, order } of orderFilters) {
-        const filterFunction = FILTER_DICT[order].function;
-        fighterDataCopy.sort(filterFunction(filteredKey));
-      }
-      orderedData = fighterDataCopy;
-    } else {
-      orderedData = fightersData;
-    }
-  }
 
   document.addEventListener('reset', () => {
     orderFilters = [];
@@ -109,17 +111,25 @@
   <table>
     <thead>
       <tr>
-        {#each tableHeadCells as { iconType, key, label }}
+        {#each tableHeadCells as { iconType, key, label } (key)}
           <th>
             {#if iconType === 'number'}
               <FilterButton name={key} label={label} handleChange={onChange}>
-                <AscOrderNumbers slot="ascIcon" />
-                <DescOrderNumbers slot="descIcon" />
+                {#snippet ascIcon()}
+                  <AscOrderNumbers />
+                {/snippet}
+                {#snippet descIcon()}
+                  <DescOrderNumbers />
+                {/snippet}
               </FilterButton>
             {:else if iconType === 'letter'}
               <FilterButton name={key} label={label} handleChange={onChange}>
-                <AscOrderLetters slot="ascIcon" />
-                <DescOrderLetters slot="descIcon" />
+                {#snippet ascIcon()}
+                  <AscOrderLetters />
+                {/snippet}
+                {#snippet descIcon()}
+                  <DescOrderLetters />
+                {/snippet}
               </FilterButton>
             {/if}
           </th>
@@ -128,7 +138,7 @@
     </thead>
     <tbody>
       <!-- eslint-disable-next-line @typescript-eslint/no-unused-vars -->
-      {#each orderedData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index}
+      {#each orderedData as { age, category, draws, height, id, losses, name, reach, weight, wins }, index (id)}
         <tr>
           <td>
             <a aria-label={`Go to ${name} page`} href={`athlete/${id}`}>
