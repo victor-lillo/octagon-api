@@ -1,25 +1,12 @@
-import { unstable_dev } from 'wrangler'
-import type { UnstableDevWorker } from 'wrangler'
-import { describe, expect, it, beforeAll, afterAll } from 'vitest'
+import app from '.'
+import { describe, test, expect } from 'vitest'
 
-describe('Worker', () => {
-  let worker: UnstableDevWorker
-
-  beforeAll(async () => {
-    worker = await unstable_dev('src/index.ts', {
-      experimental: { disableExperimentalWarning: true },
-    })
-  })
-
-  afterAll(async () => {
-    await worker.stop()
-  })
-
-  it('should return Hello World', async () => {
-    const resp = await worker.fetch()
-    if (resp) {
-      const text = await resp.text()
-      expect(text).toMatchInlineSnapshot(`"Hello World!"`)
-    }
+describe('Octagon API', () => {
+  test('/', async () => {
+    const res = await app.request('/')
+    const text = await res.text()
+    console.log(text)
+    expect(res.status).toBe(200)
+    expect(text).toBe('Welcome to Octagon API')
   })
 })
