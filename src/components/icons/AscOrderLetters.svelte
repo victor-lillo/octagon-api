@@ -1,6 +1,5 @@
-<script>
-  export let size = '24';
-  export let strokeWidth = '1.5';
+<script lang="ts">
+  let { size = '24', strokeWidth = '1.5' } = $props();
 </script>
 
 <svg
