@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "steve-erceg",
+    "fighterName": "Steve Erceg",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 8,
+    "previousPosition": 7,
+    "date": "2025-04-03T04:21:33.684Z"
+  },
+  {
+    "fighter": "assu-almabayev",
+    "fighterName": "Asu Almabayev",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 7,
+    "previousPosition": 8,
+    "date": "2025-04-03T04:21:33.684Z"
+  },
+  {
     "fighter": "melissa-mullins",
     "fighterName": "Melissa Mullins",
     "categoryId": "womens-bantamweight",
@@ -69,24 +87,6 @@
     "categoryName": "Middleweight",
     "currentPosition": 8,
     "previousPosition": 7,
-    "date": "2025-03-27T04:20:12.486Z"
-  },
-  {
-    "fighter": "roman-dolidze",
-    "fighterName": "Roman Dolidze",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 7,
-    "previousPosition": 8,
-    "date": "2025-03-27T04:20:12.486Z"
-  },
-  {
-    "fighter": "jack-della-maddalena",
-    "fighterName": "Jack Della Maddalena",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 4,
-    "previousPosition": 3,
     "date": "2025-03-27T04:20:12.486Z"
   }
 ]
