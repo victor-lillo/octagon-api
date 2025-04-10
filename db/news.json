@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "josh-emmett",
+    "fighterName": "Josh Emmett",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 9,
+    "previousPosition": 7,
+    "date": "2025-04-10T04:21:04.858Z"
+  },
+  {
+    "fighter": "lerone-murphy",
+    "fighterName": "Lerone Murphy",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 7,
+    "previousPosition": 9,
+    "date": "2025-04-10T04:21:04.858Z"
+  },
+  {
     "fighter": "steve-erceg",
     "fighterName": "Steve Erceg",
     "categoryId": "flyweight",
@@ -69,24 +87,6 @@
     "categoryName": "Light Heavyweight",
     "currentPosition": 4,
     "previousPosition": 2,
-    "date": "2025-03-27T04:20:12.486Z"
-  },
-  {
-    "fighter": "carlos-ulberg",
-    "fighterName": "Carlos Ulberg",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 2,
-    "previousPosition": 5,
-    "date": "2025-03-27T04:20:12.486Z"
-  },
-  {
-    "fighter": "anthony-hernandez",
-    "fighterName": "Anthony Hernandez",
-    "categoryId": "middleweight",
-    "categoryName": "Middleweight",
-    "currentPosition": 8,
-    "previousPosition": 7,
     "date": "2025-03-27T04:20:12.486Z"
   }
 ]
