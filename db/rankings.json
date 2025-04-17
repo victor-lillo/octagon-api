@@ -40,16 +40,16 @@
         "name": "Alex Pereira"
       },
       {
+        "id": "alexander-volkanovski",
+        "name": "Alexander Volkanovski"
+      },
+      {
         "id": "alexandre-pantoja",
         "name": "Alexandre Pantoja"
       },
       {
         "id": "tom-aspinall",
         "name": "Tom Aspinall"
-      },
-      {
-        "id": "alexander-volkanovski",
-        "name": "Alexander Volkanovski"
       },
       {
         "id": "max-holloway",
@@ -213,14 +213,10 @@
     "id": "featherweight",
     "categoryName": "Featherweight",
     "champion": {
-      "id": "ilia-topuria",
-      "championName": "Ilia Topuria"
+      "id": "alexander-volkanovski",
+      "championName": "Alexander Volkanovski"
     },
     "fighters": [
-      {
-        "id": "alexander-volkanovski",
-        "name": "Alexander Volkanovski"
-      },
       {
         "id": "max-holloway",
         "name": "Max Holloway"
@@ -230,20 +226,24 @@
         "name": "Diego Lopes"
       },
       {
-        "id": "movsar-evloev",
-        "name": "Movsar Evloev"
+        "id": "ilia-topuria",
+        "name": "Ilia Topuria"
       },
       {
         "id": "yair-rodriguez",
         "name": "Yair Rodriguez"
       },
       {
-        "id": "brian-ortega",
-        "name": "Brian Ortega"
+        "id": "movsar-evloev",
+        "name": "Movsar Evloev"
       },
       {
         "id": "arnold-allen",
         "name": "Arnold Allen"
+      },
+      {
+        "id": "brian-ortega",
+        "name": "Brian Ortega"
       },
       {
         "id": "lerone-murphy",
@@ -258,6 +258,10 @@
         "name": "Josh Emmett"
       },
       {
+        "id": "jean-silva-lord",
+        "name": "Jean Silva"
+      },
+      {
         "id": "giga-chikadze",
         "name": "Giga Chikadze"
       },
@@ -266,16 +270,12 @@
         "name": "Youssef Zalal"
       },
       {
-        "id": "bryce-mitchell",
-        "name": "Bryce Mitchell"
+        "id": "dan-ige",
+        "name": "Dan Ige"
       },
       {
         "id": "calvin-kattar",
         "name": "Calvin Kattar"
-      },
-      {
-        "id": "dan-ige",
-        "name": "Dan Ige"
       }
     ]
   },
@@ -312,12 +312,12 @@
         "name": "Dan Hooker"
       },
       {
-        "id": "michael-chandler",
-        "name": "Michael Chandler"
-      },
-      {
         "id": "mateusz-gamrot",
         "name": "Mateusz Gamrot"
+      },
+      {
+        "id": "paddy-pimblett",
+        "name": "Paddy Pimblett"
       },
       {
         "id": "beneil-dariush",
@@ -332,8 +332,8 @@
         "name": "Rafael Fiziev"
       },
       {
-        "id": "paddy-pimblett",
-        "name": "Paddy Pimblett"
+        "id": "michael-chandler",
+        "name": "Michael Chandler"
       },
       {
         "id": "benoit-saint-denis",
@@ -344,8 +344,8 @@
         "name": "Grant Dawson"
       },
       {
-        "id": "ignacio-bahamondes",
-        "name": "Ignacio Bahamondes"
+        "id": "joel-alvarez",
+        "name": "Joel Álvarez"
       }
     ]
   },
@@ -526,20 +526,20 @@
         "name": "Khalil Rountree Jr."
       },
       {
-        "id": "nikita-krylov",
-        "name": "Nikita Krylov"
+        "id": "dominick-reyes",
+        "name": "Dominick Reyes"
       },
       {
         "id": "volkan-oezdemir",
         "name": "Volkan Oezdemir"
       },
       {
-        "id": "johnny-walker",
-        "name": "Johnny Walker"
+        "id": "nikita-krylov",
+        "name": "Nikita Krylov"
       },
       {
-        "id": "dominick-reyes",
-        "name": "Dominick Reyes"
+        "id": "johnny-walker",
+        "name": "Johnny Walker"
       },
       {
         "id": "azamat-murzakanov",
@@ -666,6 +666,10 @@
         "name": "Kayla Harrison"
       },
       {
+        "id": "virna-jandiroba",
+        "name": "Virna Jandiroba"
+      },
+      {
         "id": "raquel-pennington",
         "name": "Raquel Pennington"
       },
@@ -674,16 +678,12 @@
         "name": "Rose Namajunas"
       },
       {
-        "id": "xiaonan-yan",
-        "name": "Yan Xiaonan"
-      },
-      {
         "id": "tatiana-suarez",
         "name": "Tatiana Suarez"
       },
       {
-        "id": "virna-jandiroba",
-        "name": "Virna Jandiroba"
+        "id": "xiaonan-yan",
+        "name": "Yan Xiaonan"
       },
       {
         "id": "natalia-silva",
@@ -708,16 +708,16 @@
     },
     "fighters": [
       {
-        "id": "xiaonan-yan",
-        "name": "Yan Xiaonan"
+        "id": "virna-jandiroba",
+        "name": "Virna Jandiroba"
       },
       {
         "id": "tatiana-suarez",
         "name": "Tatiana Suarez"
       },
       {
-        "id": "virna-jandiroba",
-        "name": "Virna Jandiroba"
+        "id": "xiaonan-yan",
+        "name": "Yan Xiaonan"
       },
       {
         "id": "jessica-andrade",
