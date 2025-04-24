@@ -999,11 +999,10 @@
     "wins": "15",
     "status": "Active",
     "placeOfBirth": "Tbilisi, Georgia",
-    "trainsAt": "Kings MMA",
     "fightingStyle": "Karate",
     "age": "36",
     "height": "72.00",
-    "weight": "146.00",
+    "weight": "160.40",
     "octagonDebut": "Sep. 28, 2019",
     "reach": "74.00",
     "legReach": "40.50"
@@ -1413,7 +1412,7 @@
     "trainsAt": "Team Garry",
     "age": "27",
     "height": "75.00",
-    "weight": "171.00",
+    "weight": "183.70",
     "octagonDebut": "Nov. 6, 2021",
     "reach": "74.50",
     "legReach": "42.00"
@@ -1526,7 +1525,7 @@
     "fightingStyle": "Striker",
     "age": "31",
     "height": "73.00",
-    "weight": "170.50",
+    "weight": "180.10",
     "octagonDebut": "Feb. 10, 2024",
     "reach": "78.00",
     "legReach": "43.50"
@@ -1824,7 +1823,7 @@
     "fightingStyle": "Striker",
     "age": "31",
     "height": "73.00",
-    "weight": "185.50",
+    "weight": "202.20",
     "octagonDebut": "May. 18, 2019",
     "reach": "73.00",
     "legReach": "42.00"
@@ -2103,7 +2102,7 @@
     "fightingStyle": "Freestyle",
     "age": "36",
     "height": "76.00",
-    "weight": "205.50",
+    "weight": "221.80",
     "octagonDebut": "Aug. 19, 2012",
     "reach": "76.00",
     "legReach": "44.00"
@@ -3214,7 +3213,7 @@
     "fightingStyle": "MMA",
     "age": "34",
     "height": "68.50",
-    "weight": "141.00",
+    "weight": "136.60",
     "octagonDebut": "Oct. 1, 2022",
     "reach": "68.00",
     "legReach": "40.00"

@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "jessica-andrade",
+    "fighterName": "Jéssica Andrade",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 4,
+    "previousPosition": 3,
+    "date": "2025-04-24T04:20:48.633Z"
+  },
+  {
+    "fighter": "amanda-lemos",
+    "fighterName": "Amanda Lemos",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 3,
+    "previousPosition": 4,
+    "date": "2025-04-24T04:20:48.633Z"
+  },
+  {
     "fighter": "xiaonan-yan",
     "fighterName": "Yan Xiaonan",
     "categoryId": "womens-strawweight",
@@ -69,24 +87,6 @@
     "categoryName": "Light Heavyweight",
     "currentPosition": 9,
     "previousPosition": 7,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "dominick-reyes",
-    "fighterName": "Dominick Reyes",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": 10,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "joel-alvarez",
-    "fighterName": "Joel Álvarez",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
     "date": "2025-04-17T04:21:03.929Z"
   }
 ]
