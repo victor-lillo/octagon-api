@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "jessica-andrade",
-    "fighterName": "Jéssica Andrade",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 4,
-    "previousPosition": 3,
-    "date": "2025-04-24T04:20:48.633Z"
+    "fighter": "chelsea-chandler",
+    "fighterName": "Chelsea Chandler",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2025-05-01T04:23:30.204Z"
   },
   {
-    "fighter": "amanda-lemos",
-    "fighterName": "Amanda Lemos",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 3,
-    "previousPosition": 4,
-    "date": "2025-04-24T04:20:48.633Z"
+    "fighter": "joselyne-edwards",
+    "fighterName": "Joselyne Edwards",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2025-05-01T04:23:30.204Z"
   },
   {
-    "fighter": "xiaonan-yan",
-    "fighterName": "Yan Xiaonan",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 2,
-    "previousPosition": 0,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "virna-jandiroba",
-    "fighterName": "Virna Jandiroba",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 0,
-    "previousPosition": 2,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "xiaonan-yan",
-    "fighterName": "Yan Xiaonan",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "fighter": "miesha-tate",
+    "fighterName": "Miesha Tate",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 11,
-    "previousPosition": 9,
-    "date": "2025-04-17T04:21:03.929Z"
+    "previousPosition": 10,
+    "date": "2025-05-01T04:23:30.204Z"
   },
   {
-    "fighter": "rose-namajunas",
-    "fighterName": "Rose Namajunas",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 9,
-    "previousPosition": 8,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "raquel-pennington",
-    "fighterName": "Raquel Pennington",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 8,
-    "previousPosition": 7,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "virna-jandiroba",
-    "fighterName": "Virna Jandiroba",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 7,
-    "previousPosition": 11,
-    "date": "2025-04-17T04:21:03.929Z"
-  },
-  {
-    "fighter": "johnny-walker",
-    "fighterName": "Johnny Walker",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "jacqueline-cavalcanti",
+    "fighterName": "Jacqueline Cavalcanti",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2025-04-17T04:21:03.929Z"
+    "previousPosition": 11,
+    "date": "2025-05-01T04:23:30.204Z"
   },
   {
-    "fighter": "nikita-krylov",
-    "fighterName": "Nikita Krylov",
+    "fighter": "luana-pinheiro",
+    "fighterName": "Luana Pinheiro",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2025-05-01T04:23:30.204Z"
+  },
+  {
+    "fighter": "tecia-pennington",
+    "fighterName": "Tecia Pennington",
+    "categoryId": "womens-strawweight",
+    "categoryName": "Women's Strawweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2025-05-01T04:23:30.204Z"
+  },
+  {
+    "fighter": "alonzo-menifield",
+    "fighterName": "Alonzo Menifield",
     "categoryId": "light-heavyweight",
     "categoryName": "Light Heavyweight",
-    "currentPosition": 9,
-    "previousPosition": 7,
-    "date": "2025-04-17T04:21:03.929Z"
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2025-05-01T04:23:30.204Z"
+  },
+  {
+    "fighter": "zhang-mingyang",
+    "fighterName": "Zhang Mingyang",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 13,
+    "previousPosition": "unranked",
+    "date": "2025-05-01T04:23:30.204Z"
+  },
+  {
+    "fighter": "abus-magomedov",
+    "fighterName": "Abus Magomedov",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2025-05-01T04:23:30.204Z"
+  },
+  {
+    "fighter": "roman-kopylov",
+    "fighterName": "Roman Kopylov",
+    "categoryId": "middleweight",
+    "categoryName": "Middleweight",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2025-05-01T04:23:30.204Z"
   }
 ]
