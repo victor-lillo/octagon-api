@@ -230,12 +230,12 @@
         "name": "Ilia Topuria"
       },
       {
-        "id": "movsar-evloev",
-        "name": "Movsar Evloev"
-      },
-      {
         "id": "yair-rodriguez",
         "name": "Yair Rodriguez"
+      },
+      {
+        "id": "movsar-evloev",
+        "name": "Movsar Evloev"
       },
       {
         "id": "arnold-allen",
@@ -386,12 +386,16 @@
         "name": "Joaquin Buckley"
       },
       {
-        "id": "gilbert-burns",
-        "name": "Gilbert Burns"
+        "id": "michael-morales",
+        "name": "Michael Morales"
       },
       {
         "id": "colby-covington",
         "name": "Colby Covington"
+      },
+      {
+        "id": "gilbert-burns",
+        "name": "Gilbert Burns"
       },
       {
         "id": "geoff-neal",
@@ -400,10 +404,6 @@
       {
         "id": "stephen-thompson",
         "name": "Stephen Thompson"
-      },
-      {
-        "id": "michael-morales",
-        "name": "Michael Morales"
       },
       {
         "id": "carlos-prates",
@@ -764,8 +764,8 @@
         "name": "Loma Lookboonmee"
       },
       {
-        "id": "luana-pinheiro",
-        "name": "Luana Pinheiro"
+        "id": "denise-gomes",
+        "name": "Denise Gomes"
       }
     ]
   },
@@ -818,20 +818,20 @@
         "name": "Tracy Cortez"
       },
       {
-        "id": "karine-silva",
-        "name": "Karine Silva"
-      },
-      {
         "id": "miranda-maverick",
         "name": "Miranda Maverick"
       },
       {
-        "id": "casey-oneill",
-        "name": "Casey O'Neill"
+        "id": "karine-silva",
+        "name": "Karine Silva"
       },
       {
         "id": "ariane-da-silva",
         "name": "Ariane da Silva"
+      },
+      {
+        "id": "casey-oneill",
+        "name": "Casey O'Neill"
       },
       {
         "id": "jj-aldrich",

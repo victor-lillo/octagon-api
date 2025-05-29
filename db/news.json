@@ -1,5 +1,41 @@
 [
   {
+    "fighter": "miranda-maverick",
+    "fighterName": "Miranda Maverick",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 11,
+    "previousPosition": 10,
+    "date": "2025-05-29T04:24:05.096Z"
+  },
+  {
+    "fighter": "karine-silva",
+    "fighterName": "Karine Silva",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 10,
+    "previousPosition": 11,
+    "date": "2025-05-29T04:24:05.096Z"
+  },
+  {
+    "fighter": "yair-rodriguez",
+    "fighterName": "Yair Rodriguez",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 4,
+    "previousPosition": 3,
+    "date": "2025-05-29T04:24:05.096Z"
+  },
+  {
+    "fighter": "movsar-evloev",
+    "fighterName": "Movsar Evloev",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 3,
+    "previousPosition": 4,
+    "date": "2025-05-29T04:24:05.096Z"
+  },
+  {
     "fighter": "casey-oneill",
     "fighterName": "Casey O'Neill",
     "categoryId": "womens-flyweight",
@@ -51,42 +87,6 @@
     "categoryName": "Welterweight",
     "currentPosition": 11,
     "previousPosition": 10,
-    "date": "2025-05-22T04:23:25.032Z"
-  },
-  {
-    "fighter": "geoff-neal",
-    "fighterName": "Geoff Neal",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2025-05-22T04:23:25.032Z"
-  },
-  {
-    "fighter": "gilbert-burns",
-    "fighterName": "Gilbert Burns",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 9,
-    "previousPosition": 7,
-    "date": "2025-05-22T04:23:25.032Z"
-  },
-  {
-    "fighter": "michael-morales",
-    "fighterName": "Michael Morales",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 7,
-    "previousPosition": 11,
-    "date": "2025-05-22T04:23:25.032Z"
-  },
-  {
-    "fighter": "movsar-evloev",
-    "fighterName": "Movsar Evloev",
-    "categoryId": "featherweight",
-    "categoryName": "Featherweight",
-    "currentPosition": 4,
-    "previousPosition": 3,
     "date": "2025-05-22T04:23:25.032Z"
   }
 ]
