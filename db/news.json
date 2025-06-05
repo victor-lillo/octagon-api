@@ -1,5 +1,23 @@
 [
   {
+    "fighter": "maycee-barber",
+    "fighterName": "Maycee Barber",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 14,
+    "previousPosition": 13,
+    "date": "2025-06-05T04:26:08.488Z"
+  },
+  {
+    "fighter": "amanda-lemos",
+    "fighterName": "Amanda Lemos",
+    "categoryId": "womens-pound-for-pound-top-rank",
+    "categoryName": "Women's Pound-for-Pound Top Rank",
+    "currentPosition": 13,
+    "previousPosition": 14,
+    "date": "2025-06-05T04:26:08.488Z"
+  },
+  {
     "fighter": "miranda-maverick",
     "fighterName": "Miranda Maverick",
     "categoryId": "womens-flyweight",
@@ -69,24 +87,6 @@
     "categoryName": "Women's Flyweight",
     "currentPosition": 10,
     "previousPosition": 11,
-    "date": "2025-05-22T04:23:25.032Z"
-  },
-  {
-    "fighter": "denise-gomes",
-    "fighterName": "Denise Gomes",
-    "categoryId": "womens-strawweight",
-    "categoryName": "Women's Strawweight",
-    "currentPosition": 14,
-    "previousPosition": "unranked",
-    "date": "2025-05-22T04:23:25.032Z"
-  },
-  {
-    "fighter": "stephen-thompson",
-    "fighterName": "Stephen Thompson",
-    "categoryId": "welterweight",
-    "categoryName": "Welterweight",
-    "currentPosition": 11,
-    "previousPosition": 10,
     "date": "2025-05-22T04:23:25.032Z"
   }
 ]
