@@ -1,5 +1,68 @@
 [
   {
+    "fighter": "jj-aldrich",
+    "fighterName": "JJ Aldrich",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
+    "fighter": "marcin-tybura",
+    "fighterName": "Marcin Tybura",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 7,
+    "previousPosition": 6,
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
+    "fighter": "waldo-cortes-acosta",
+    "fighterName": "Waldo Cortes Acosta",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 6,
+    "previousPosition": 7,
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
+    "fighter": "zhang-mingyang",
+    "fighterName": "Zhang Mingyang",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 13,
+    "previousPosition": 12,
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
+    "fighter": "bogdan-guskov",
+    "fighterName": "Bogdan Guskov",
+    "categoryId": "light-heavyweight",
+    "categoryName": "Light Heavyweight",
+    "currentPosition": 12,
+    "previousPosition": 13,
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
+    "fighter": "joshua-van",
+    "fighterName": "Joshua Van",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 10,
+    "previousPosition": 9,
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
+    "fighter": "tim-elliott",
+    "fighterName": "Tim Elliott",
+    "categoryId": "flyweight",
+    "categoryName": "Flyweight",
+    "currentPosition": 9,
+    "previousPosition": 10,
+    "date": "2025-06-19T04:26:48.361Z"
+  },
+  {
     "fighter": "raquel-pennington",
     "fighterName": "Raquel Pennington",
     "categoryId": "womens-bantamweight",
@@ -24,69 +87,6 @@
     "categoryName": "Women's Flyweight",
     "currentPosition": 14,
     "previousPosition": 12,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "wang-cong",
-    "fighterName": "Wang Cong",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 13,
-    "previousPosition": "unranked",
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "casey-oneill",
-    "fighterName": "Casey O'Neill",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 12,
-    "previousPosition": 13,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "rose-namajunas",
-    "fighterName": "Rose Namajunas",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 11,
-    "previousPosition": 10,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "tatiana-suarez",
-    "fighterName": "Tatiana Suarez",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 10,
-    "previousPosition": 11,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "erin-blanchfield",
-    "fighterName": "Erin Blanchfield",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 7,
-    "previousPosition": 5,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "alexa-grasso",
-    "fighterName": "Alexa Grasso",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 6,
-    "previousPosition": 4,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "natalia-silva",
-    "fighterName": "Natalia Silva",
-    "categoryId": "womens-pound-for-pound-top-rank",
-    "categoryName": "Women's Pound-for-Pound Top Rank",
-    "currentPosition": 5,
-    "previousPosition": 7,
     "date": "2025-06-12T04:25:25.627Z"
   }
 ]
