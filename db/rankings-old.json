@@ -114,12 +114,12 @@
         "name": "Steve Erceg"
       },
       {
-        "id": "joshua-van",
-        "name": "Joshua Van"
-      },
-      {
         "id": "tim-elliott",
         "name": "Tim Elliott"
+      },
+      {
+        "id": "joshua-van",
+        "name": "Joshua Van"
       },
       {
         "id": "tagir-ulanbekov",
@@ -546,12 +546,12 @@
         "name": "Johnny Walker"
       },
       {
-        "id": "zhang-mingyang",
-        "name": "Zhang Mingyang"
-      },
-      {
         "id": "bogdan-guskov",
         "name": "Bogdan Guskov"
+      },
+      {
+        "id": "zhang-mingyang",
+        "name": "Zhang Mingyang"
       },
       {
         "id": "alonzo-menifield",
@@ -592,12 +592,12 @@
         "name": "Jailton Almeida"
       },
       {
-        "id": "marcin-tybura",
-        "name": "Marcin Tybura"
-      },
-      {
         "id": "waldo-cortes-acosta",
         "name": "Waldo Cortes Acosta"
+      },
+      {
+        "id": "marcin-tybura",
+        "name": "Marcin Tybura"
       },
       {
         "id": "serghei-spivac",
@@ -834,8 +834,8 @@
         "name": "Wang Cong"
       },
       {
-        "id": "ariane-da-silva",
-        "name": "Ariane da Silva"
+        "id": "jj-aldrich",
+        "name": "JJ Aldrich"
       }
     ]
   },

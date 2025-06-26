@@ -1,92 +1,92 @@
 [
   {
-    "fighter": "jj-aldrich",
-    "fighterName": "JJ Aldrich",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
+    "fighter": "daria-zheleznyakova",
+    "fighterName": "Daria Zhelezniakova",
+    "categoryId": "womens-bantamweight",
+    "categoryName": "Women's Bantamweight",
     "currentPosition": 14,
     "previousPosition": "unranked",
-    "date": "2025-06-19T04:26:48.361Z"
+    "date": "2025-06-26T04:27:37.762Z"
   },
   {
-    "fighter": "marcin-tybura",
-    "fighterName": "Marcin Tybura",
+    "fighter": "maycee-barber",
+    "fighterName": "Maycee Barber",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 5,
+    "previousPosition": 4,
+    "date": "2025-06-26T04:27:37.762Z"
+  },
+  {
+    "fighter": "jasmine-jasudavicius",
+    "fighterName": "Jasmine Jasudavicius",
+    "categoryId": "womens-flyweight",
+    "categoryName": "Women's Flyweight",
+    "currentPosition": 4,
+    "previousPosition": 5,
+    "date": "2025-06-26T04:27:37.762Z"
+  },
+  {
+    "fighter": "rizvan-kuniev",
+    "fighterName": "Rizvan Kuniev",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
-    "currentPosition": 7,
-    "previousPosition": 6,
-    "date": "2025-06-19T04:26:48.361Z"
+    "currentPosition": 14,
+    "previousPosition": "unranked",
+    "date": "2025-06-26T04:27:37.762Z"
   },
   {
-    "fighter": "waldo-cortes-acosta",
-    "fighterName": "Waldo Cortes Acosta",
+    "fighter": "martin-buday",
+    "fighterName": "Martin Buday",
     "categoryId": "heavyweight",
     "categoryName": "Heavyweight",
-    "currentPosition": 6,
-    "previousPosition": 7,
-    "date": "2025-06-19T04:26:48.361Z"
-  },
-  {
-    "fighter": "zhang-mingyang",
-    "fighterName": "Zhang Mingyang",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
     "currentPosition": 13,
-    "previousPosition": 12,
-    "date": "2025-06-19T04:26:48.361Z"
+    "previousPosition": 14,
+    "date": "2025-06-26T04:27:37.762Z"
   },
   {
-    "fighter": "bogdan-guskov",
-    "fighterName": "Bogdan Guskov",
-    "categoryId": "light-heavyweight",
-    "categoryName": "Light Heavyweight",
+    "fighter": "tallison-teixeira",
+    "fighterName": "Tallison Teixeira",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 12,
     "previousPosition": 13,
-    "date": "2025-06-19T04:26:48.361Z"
+    "date": "2025-06-26T04:27:37.762Z"
   },
   {
-    "fighter": "joshua-van",
-    "fighterName": "Joshua Van",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
+    "fighter": "mick-parkin",
+    "fighterName": "Mick Parkin",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 11,
+    "previousPosition": 12,
+    "date": "2025-06-26T04:27:37.762Z"
+  },
+  {
+    "fighter": "shamil-gaziev",
+    "fighterName": "Shamil Gaziev",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 10,
-    "previousPosition": 9,
-    "date": "2025-06-19T04:26:48.361Z"
+    "previousPosition": 11,
+    "date": "2025-06-26T04:27:37.762Z"
   },
   {
-    "fighter": "tim-elliott",
-    "fighterName": "Tim Elliott",
-    "categoryId": "flyweight",
-    "categoryName": "Flyweight",
+    "fighter": "tai-tuivasa",
+    "fighterName": "Tai Tuivasa",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
     "currentPosition": 9,
     "previousPosition": 10,
-    "date": "2025-06-19T04:26:48.361Z"
+    "date": "2025-06-26T04:27:37.762Z"
   },
   {
-    "fighter": "raquel-pennington",
-    "fighterName": "Raquel Pennington",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 1,
-    "previousPosition": 0,
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "julianna-pena",
-    "fighterName": "Julianna Peña",
-    "categoryId": "womens-bantamweight",
-    "categoryName": "Women's Bantamweight",
-    "currentPosition": 0,
-    "previousPosition": "unranked",
-    "date": "2025-06-12T04:25:25.627Z"
-  },
-  {
-    "fighter": "ariane-da-silva",
-    "fighterName": "Ariane da Silva",
-    "categoryId": "womens-flyweight",
-    "categoryName": "Women's Flyweight",
-    "currentPosition": 14,
-    "previousPosition": 12,
-    "date": "2025-06-12T04:25:25.627Z"
+    "fighter": "derrick-lewis",
+    "fighterName": "Derrick Lewis",
+    "categoryId": "heavyweight",
+    "categoryName": "Heavyweight",
+    "currentPosition": 8,
+    "previousPosition": 9,
+    "date": "2025-06-26T04:27:37.762Z"
   }
 ]
