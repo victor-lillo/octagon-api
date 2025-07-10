@@ -1,5 +1,14 @@
 [
   {
+    "fighter": "jean-silva",
+    "fighterName": "Jean Silva",
+    "categoryId": "featherweight",
+    "categoryName": "Featherweight",
+    "currentPosition": 9,
+    "previousPosition": "unranked",
+    "date": "2025-07-10T04:31:33.230Z"
+  },
+  {
     "fighter": "viviane-araujo",
     "fighterName": "Viviane Araújo",
     "categoryId": "womens-flyweight",
@@ -78,15 +87,6 @@
     "categoryName": "Lightweight",
     "currentPosition": 6,
     "previousPosition": 5,
-    "date": "2025-07-03T04:31:04.630Z"
-  },
-  {
-    "fighter": "dustin-poirier",
-    "fighterName": "Dustin Poirier",
-    "categoryId": "lightweight",
-    "categoryName": "Lightweight",
-    "currentPosition": 5,
-    "previousPosition": 4,
     "date": "2025-07-03T04:31:04.630Z"
   }
 ]

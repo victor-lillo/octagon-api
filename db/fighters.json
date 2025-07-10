@@ -986,7 +986,7 @@
     "reach": "70.00",
     "legReach": "39.50"
   },
-  "jean-silva-lord": {
+  "jean-silva": {
     "category": "Featherweight Division",
     "draws": "0",
     "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/SILVA_JEAN_L_02-22.png?itok=OU8Ad-Xw",
@@ -1075,7 +1075,7 @@
     "fightingStyle": "Freestyle",
     "age": "37",
     "height": "71.00",
-    "weight": "146.00",
+    "weight": "145.00",
     "octagonDebut": "Jul. 29, 2017",
     "reach": "72.00",
     "legReach": "40.00"
@@ -1500,12 +1500,12 @@
     "nickname": "Wonderboy",
     "wins": "17",
     "status": "Active",
-    "placeOfBirth": "Greenville, United States",
+    "placeOfBirth": "Simpsonville, United States",
     "trainsAt": "Upstate Karate Family Martial Arts Center",
     "fightingStyle": "Karate",
     "age": "42",
     "height": "72.00",
-    "weight": "171.00",
+    "weight": "170.00",
     "octagonDebut": "Feb. 4, 2012",
     "reach": "75.00",
     "legReach": "42.00"
@@ -2247,11 +2247,10 @@
     "wins": "28",
     "status": "Active",
     "placeOfBirth": "New Orleans, United States",
-    "trainsAt": "4oz Fight Club",
     "fightingStyle": "Brawler",
     "age": "40",
     "height": "75.00",
-    "weight": "266.00",
+    "weight": "260.00",
     "octagonDebut": "Apr. 19, 2014",
     "reach": "79.00",
     "legReach": "43.50"
@@ -2314,7 +2313,7 @@
   "tallison-teixeira": {
     "category": "Heavyweight Division",
     "draws": "0",
-    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2024-10/TEIXEIRA_TALLISON_L.png?itok=biwF_cLL",
+    "imgUrl": "https://ufc.com/images/styles/athlete_bio_full_body/s3/2025-02/TEIXEIRA_TALLISON_R_02-08.png?itok=U8Eb3cak",
     "losses": "0",
     "name": "Tallison Teixeira",
     "nickname": "Xicao",
@@ -2324,7 +2323,7 @@
     "fightingStyle": "Striker",
     "age": "25",
     "height": "79.00",
-    "weight": "263.00",
+    "weight": "258.00",
     "octagonDebut": "Feb. 8, 2025",
     "reach": "83.00",
     "legReach": "43.00"
@@ -2893,7 +2892,7 @@
     "name": "Viviane Araújo",
     "nickname": "Vivi",
     "wins": "13",
-    "status": "Active",
+    "status": "Not Fighting",
     "placeOfBirth": "Brasília, Brazil",
     "fightingStyle": "MMA",
     "age": "38",
